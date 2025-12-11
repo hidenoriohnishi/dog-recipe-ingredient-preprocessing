@@ -156,9 +156,11 @@ async function loadExistingScores(): Promise<Map<string, ScoreResult>> {
     for (let i = 1; i < lines.length; i++) {
       const line = lines[i].trim();
       if (!line) continue;
-      const [foodNumber, scoreStr, ...reasonParts] = line.split(',');
-      const score = parseInt(scoreStr, 10);
-      const reason = reasonParts.join(',').replace(/^"|"$/g, '');
+      // 新しい順序: 食品番号, 理由, スコア
+      const [foodNumber, ...rest] = line.split(',');
+      const scoreStr = rest.pop() || '0';
+      const score = parseInt(scoreStr.replace(/"/g, ''), 10);
+      const reason = rest.join(',').replace(/^"|"$/g, '');
       scores.set(foodNumber, { foodNumber, score, reason });
     }
   } catch {
@@ -171,7 +173,7 @@ async function loadExistingScores(): Promise<Map<string, ScoreResult>> {
  * スコアをファイルに追記
  */
 async function appendScores(newScores: ScoreResult[]): Promise<void> {
-  const lines = newScores.map(s => formatCSVLine([s.foodNumber, s.score.toString(), s.reason]));
+  const lines = newScores.map(s => formatCSVLine([s.foodNumber, s.reason, s.score.toString()]));
   const content = lines.join('\n') + '\n';
   
   try {
@@ -181,7 +183,7 @@ async function appendScores(newScores: ScoreResult[]): Promise<void> {
     await writeFile(scoresFile, existing + content, 'utf-8');
   } catch {
     // ファイルが存在しない場合は新規作成（ヘッダー付き）
-    const header = formatCSVLine(['食品番号', 'スコア', '理由']);
+    const header = formatCSVLine(['食品番号', '理由', 'スコア']);
     await writeFile(scoresFile, header + '\n' + content, 'utf-8');
   }
 }
@@ -196,20 +198,35 @@ async function evaluateFoods(foods: Array<{ batchIndex: number; originalIndex: n
 
   const prompt = `あなたは犬の栄養と健康に関する専門家です。以下の食品リストについて、各食品が「犬のレシピ素材として適しているか」を10段階で評価してください。
 
+## 重要な前提
+
+この評価は「犬のレシピを自動生成するプログラム」のための素材適性判断です。以下の前提を必ず守ってください：
+
+1. **調理・加工は適切に行われる前提**: 「生だから」「加熱が必要」という理由で減点しない。レシピプログラムが適切な調理法を選択する。
+2. **栄養バランスはプログラムが管理**: ビタミン過剰、糖分過剰、塩分過剰などの栄養バランスはレシピプログラムが計算・調整するため、減点対象外。
+3. **少量使用が前提**: 高糖分・高塩分の食品でも、少量であれば問題ない。調味料的な使い方も可能。
+4. **添加物は減点対象外**: ビタミン添加など、添加物自体は悪いものではない。
+
 ## 評価基準
 
 ### スコアの定義
-- **1-2点**: 危険 - 犬に有害な成分を含む、絶対に与えてはいけない（例：玉ねぎ、ぶどう、チョコレート）
-- **3-4点**: 不適切 - 過剰な加工、高塩分、高糖分など犬の食事に適さない
-- **5-6点**: 条件付き - 加工度が高い、調理済み食品など、素材として使いにくい
+- **1-2点**: 危険 - 犬に有害な成分を含む、絶対に与えてはいけない（玉ねぎ、ぶどう、チョコレート、アルコールなど）
+- **3-4点**: 不適切 - 複合調理済み食品（惣菜、弁当、フライなど）、調味料が多く素材として分離困難
+- **5-6点**: 条件付き - 加工度が高いが素材として使える可能性あり
 - **7-8点**: 適切 - 犬のレシピ素材として使用可能
-- **9-10点**: 最適 - 犬のレシピ素材として理想的（生鮮食品、肉類、野菜など）
+- **9-10点**: 最適 - 犬のレシピ素材として理想的（生鮮食品、肉類、魚類、野菜など）
 
-### 評価軸
-1. **毒性・有害性（最重要）**: 玉ねぎ・ネギ類、ぶどう・レーズン、チョコレート、マカダミアナッツ、キシリトール、アルコールなどは自動的に1-2点
-2. **加工度・調理済み状態**: 生鮮食品は高評価、調理済み食品・惣菜は低評価
-3. **塩分・糖分**: 高塩分・高糖分の食品は低評価
-4. **素材としての実用性**: 単一素材は高評価、複合食品・料理は低評価
+### 減点対象（厳格に適用）
+1. **毒性・有害性（最重要）**: 玉ねぎ・ネギ類、ぶどう・レーズン、チョコレート・ココア、マカダミアナッツ、キシリトール、アルコール → 自動的に1-2点
+2. **複合調理済み食品**: 惣菜、弁当、フライ、揚げ物など → 3-4点
+3. **素材として分離困難**: 複数の食材が混合された料理 → 低評価
+
+### 減点対象外（これらで減点してはいけない）
+- 「生である」「加熱が必要」（適切に調理される前提）
+- 「糖分が高い」「塩分が高い」（少量使用・プログラムが調整）
+- 「ビタミン過剰の恐れ」（プログラムが栄養計算）
+- 「添加物が含まれる」（添加物自体は問題ない）
+- 「骨がある」「殻がある」（調理時に除去される前提）
 
 ## 評価対象食品
 
@@ -217,11 +234,11 @@ ${foodList}
 
 ## 出力形式
 
-各食品について、以下のJSON形式で出力してください：
+まず理由を考え、その後にスコアを決定してください。以下のJSON形式で出力：
 \`\`\`json
 [
-  {"index": 1, "score": 8, "reason": "評価理由を簡潔に"},
-  {"index": 2, "score": 2, "reason": "評価理由を簡潔に"},
+  {"index": 1, "reason": "評価理由を簡潔に", "score": 8},
+  {"index": 2, "reason": "評価理由を簡潔に", "score": 2},
   ...
 ]
 \`\`\`
@@ -256,15 +273,15 @@ ${foodList}
 
     // 評価結果をScoreResultに変換
     return {
-      scores: evaluations.map((eval: any) => {
-        const food = foods.find(f => f.batchIndex === eval.index);
+      scores: evaluations.map((evaluation: any) => {
+        const food = foods.find(f => f.batchIndex === evaluation.index);
         if (!food) {
-          throw new Error(`評価結果のindex ${eval.index}に対応する食品が見つかりません`);
+          throw new Error(`評価結果のindex ${evaluation.index}に対応する食品が見つかりません`);
         }
         return {
           foodNumber: food.foodNumber,
-          score: eval.score,
-          reason: eval.reason || '',
+          score: evaluation.score,
+          reason: evaluation.reason || '',
         };
       }),
       cost, // 料金情報も返す
