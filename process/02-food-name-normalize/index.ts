@@ -43,6 +43,16 @@ async function main() {
   for (let i = 1; i < records.length; i++) {
     const columns = records[i];
     
+    // 備考欄（最後の列）の改行を\n（文字列）に置き換え
+    if (columns.length > 0) {
+      const lastIndex = columns.length - 1;
+      // 改行文字を\nという文字列に置き換え
+      columns[lastIndex] = columns[lastIndex]
+        .replace(/\r\n/g, '\\n')
+        .replace(/\r/g, '\\n')
+        .replace(/\n/g, '\\n');
+    }
+    
     // 食品名を取得（4列目）
     const foodName = columns[foodNameIndex] || '';
     

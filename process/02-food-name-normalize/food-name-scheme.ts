@@ -62,9 +62,6 @@ export const ProductionMethodEnum = z.enum([
 // ==========================================
 
 export const StructuredFoodNameSchema = z.object({
-  /** 元の食品名（完全保持） */
-  original: z.string(),
-
   /** 基本食品名 */
   baseName: z.string(),
 
@@ -148,21 +145,21 @@ export function parseFoodName(name: string): StructuredFoodName {
   let grade: string | undefined;
 
   for (const p of parts) {
-    // ＜カテゴリ＞ - カテゴリパスは生成しないが、notesに追加
+    // ＜カテゴリ＞ - カテゴリパスは生成しないが、notesに追加（記号を外す）
     if (p.startsWith("＜") && p.endsWith("＞")) {
-      notes.push(p);
+      notes.push(p.slice(1, -1)); // 記号を外す
       continue;
     }
 
-    // ［カテゴリ］ - カテゴリパスは生成しないが、notesに追加
+    // ［カテゴリ］ - カテゴリパスは生成しないが、notesに追加（記号を外す）
     if (p.startsWith("［") && p.endsWith("］")) {
-      notes.push(p);
+      notes.push(p.slice(1, -1)); // 記号を外す
       continue;
     }
 
-    // （類）または（補足） - カテゴリパスは生成しないが、notesに追加
+    // （類）または（補足） - カテゴリパスは生成しないが、notesに追加（記号を外す）
     if (p.startsWith("（") && p.endsWith("）")) {
-      notes.push(p);
+      notes.push(p.slice(1, -1)); // 記号を外す
       continue;
     }
 
@@ -212,7 +209,6 @@ export function parseFoodName(name: string): StructuredFoodName {
 
   // 結果オブジェクト構築
   const result: StructuredFoodName = {
-    original: name,
     baseName,
   };
 
