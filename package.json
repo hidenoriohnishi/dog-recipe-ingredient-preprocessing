@@ -1,0 +1,23 @@
+{
+  "name": "pre-process",
+  "version": "1.0.0",
+  "description": "成分表データの前処理プロセス",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx",
+    "process:1": "tsx process/01-csv/index.ts",
+    "process:2": "tsx process/02-food-name-normalize/index.ts"
+  },
+  "dependencies": {
+    "ai": "^3.4.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.28.0",
+    "xlsx": "^0.18.5",
+    "zod": "^4.1.13"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.3"
+  }
+}
