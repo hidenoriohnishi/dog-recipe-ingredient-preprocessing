@@ -6,9 +6,11 @@
   "scripts": {
     "dev": "tsx",
     "process:1": "tsx process/01-csv/index.ts",
-    "process:2": "tsx process/02-food-name-normalize/index.ts"
+    "process:2": "tsx process/02-food-name-normalize/index.ts",
+    "process:3-1": "tsx process/03-1-dog-food-scoring/index.ts"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^1.0.0",
     "ai": "^3.4.0",
     "dotenv": "^16.4.5",
     "openai": "^4.28.0",
