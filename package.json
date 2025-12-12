@@ -7,7 +7,8 @@
     "dev": "tsx",
     "process:1": "tsx process/01-csv/index.ts",
     "process:2": "tsx process/02-food-name-normalize/index.ts",
-    "process:3-1": "tsx process/03-1-dog-food-scoring/index.ts"
+    "process:3-1": "tsx process/03-1-dog-food-scoring/index.ts",
+    "process:3-2": "tsx process/03-2-filter-by-score/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.0.0",
