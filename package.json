@@ -11,7 +11,9 @@
     "process:3-2": "tsx process/03-2-filter-by-score/index.ts",
     "process:4-1": "tsx process/04-1-merge-tables/index.ts",
     "process:5-1": "tsx process/05-1-search-keys/index.ts",
-    "process:5-2": "tsx process/05-2-tag-names/index.ts"
+    "process:5-2": "tsx process/05-2-tag-names/index.ts",
+    "process:5-3": "tsx process/05-3-merge-extensions/index.ts",
+    "process:6": "tsx process/06-calculate-me/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.0.0",
