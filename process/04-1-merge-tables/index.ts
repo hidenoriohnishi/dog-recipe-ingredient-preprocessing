@@ -4,10 +4,28 @@ import { fileURLToPath } from "url";
 
 const __filename = fileURLToPath(import.meta.url);
 const BASE_DIR = path.dirname(__filename);
+const PLAN_JSON = path.join(BASE_DIR, "../04-0/plan.json");
 const FILTERED_CSV = path.join(BASE_DIR, "../03-2-filter-by-score/result/filtered-by-score.csv");
 const AMINO_CSV = path.join(BASE_DIR, "../04-0/amino_acid_composition.csv");
 const FATTY_CSV = path.join(BASE_DIR, "../04-0/fatty_acid_composition.csv");
 const OUTPUT_CSV = path.join(BASE_DIR, "result/merged-nutrition.csv");
+
+// plan.jsonの型定義
+interface Plan {
+  tables: {
+    filtered_food_table: {
+      keep_codes: string[];
+      keep_names: string[];
+      keep_raw: string[];
+    };
+    amino_acid_table: {
+      keep_component_ids: string[];
+    };
+    fatty_acid_table: {
+      keep_component_ids: string[];
+    };
+  };
+}
 
 // CSVをパース（ヘッダーはJSON形式の文字列）
 function parseCSV(content: string): { headers: string[]; rows: string[][] } {
@@ -64,19 +82,12 @@ function getHeaderField(header: string, field: string): string | undefined {
   }
 }
 
-// filtered_food_tableから保持する列
-const FILTERED_KEEP_CODES = ["WATER", "PROT-", "FAT-", "FIB-", "ASH", "CA", "P", "NA", "RETOL", "VITD", "ID", "SE"];
-const FILTERED_KEEP_NAMES = ["食品番号", "食品名"];
-const FILTERED_KEEP_RAW = ["構造化食品名", "理由", "スコア"];
-
-// amino_acid_tableから保持する列（component_id）
-const AMINO_KEEP_CODES = ["ILE", "LEU", "LYS", "MET", "CYS", "AAS", "PHE", "TYR", "AAA", "THR", "TRP", "VAL", "HIS", "ARG"];
-
-// fatty_acid_tableから保持する列（component_id）
-const FATTY_KEEP_CODES = ["FACID", "FAPU", "FAPUN3", "FAPUN6", "F18D2N6", "F18D3N3", "F20D5N3", "F22D6N3", "F20D4N6"];
-
 function main() {
   console.log("=== 04-1: 成分表マージ ===\n");
+
+  // plan.jsonを読み込み
+  const plan: Plan = JSON.parse(fs.readFileSync(PLAN_JSON, "utf-8"));
+  const { filtered_food_table, amino_acid_table, fatty_acid_table } = plan.tables;
 
   // ファイル読み込み
   const filteredContent = fs.readFileSync(FILTERED_CSV, "utf-8");
@@ -112,42 +123,71 @@ function main() {
   // filteredから保持するカラムのインデックスを取得（元のJSONヘッダーも保持）
   const filteredColIndices: { idx: number; header: string }[] = [];
   
-  for (const name of FILTERED_KEEP_NAMES) {
+  // keep_names（識別子系）
+  for (const name of filtered_food_table.keep_names) {
     const idx = findColumnIndex(filtered.headers, h => getHeaderField(h, "name") === name);
-    if (idx >= 0) filteredColIndices.push({ idx, header: filtered.headers[idx] });
+    if (idx >= 0) {
+      filteredColIndices.push({ idx, header: filtered.headers[idx] });
+    } else {
+      console.warn(`警告: keep_names "${name}" が見つかりません`);
+    }
   }
   
-  for (const code of FILTERED_KEEP_CODES) {
+  // keep_codes（栄養素系）
+  for (const code of filtered_food_table.keep_codes) {
     const idx = findColumnIndex(filtered.headers, h => getHeaderField(h, "code") === code);
-    if (idx >= 0) filteredColIndices.push({ idx, header: filtered.headers[idx] });
+    if (idx >= 0) {
+      filteredColIndices.push({ idx, header: filtered.headers[idx] });
+    } else {
+      console.warn(`警告: keep_codes "${code}" が見つかりません`);
+    }
   }
   
-  for (const raw of FILTERED_KEEP_RAW) {
+  // keep_raw（生の列名）
+  for (const raw of filtered_food_table.keep_raw) {
     const idx = filtered.headers.indexOf(raw);
-    if (idx >= 0) filteredColIndices.push({ idx, header: raw });
+    if (idx >= 0) {
+      filteredColIndices.push({ idx, header: raw });
+    } else {
+      console.warn(`警告: keep_raw "${raw}" が見つかりません`);
+    }
   }
 
   // aminoから保持するカラムのインデックスを取得（元のJSONヘッダーも保持）
   const aminoColIndices: { idx: number; header: string }[] = [];
-  for (const code of AMINO_KEEP_CODES) {
+  for (const code of amino_acid_table.keep_component_ids) {
     const idx = findColumnIndex(amino.headers, h => getHeaderField(h, "component_id") === code);
-    if (idx >= 0) aminoColIndices.push({ idx, header: amino.headers[idx] });
+    if (idx >= 0) {
+      aminoColIndices.push({ idx, header: amino.headers[idx] });
+    } else {
+      console.warn(`警告: amino keep_component_ids "${code}" が見つかりません`);
+    }
   }
 
   // fattyから保持するカラムのインデックスを取得（元のJSONヘッダーも保持）
   const fattyColIndices: { idx: number; header: string }[] = [];
-  for (const code of FATTY_KEEP_CODES) {
+  for (const code of fatty_acid_table.keep_component_ids) {
     const idx = findColumnIndex(fatty.headers, h => getHeaderField(h, "component_id") === code);
-    if (idx >= 0) fattyColIndices.push({ idx, header: fatty.headers[idx] });
+    if (idx >= 0) {
+      fattyColIndices.push({ idx, header: fatty.headers[idx] });
+    } else {
+      console.warn(`警告: fatty keep_component_ids "${code}" が見つかりません`);
+    }
   }
 
   console.log(`\nfiltered列: ${filteredColIndices.length}列`);
   console.log(`amino列: ${aminoColIndices.length}列`);
   console.log(`fatty列: ${fattyColIndices.length}列`);
 
+  // データ完全性フラグのヘッダー
+  const aminoDataHeader = '{"type": "flag", "name": "has_amino_acid_data", "description": "アミノ酸成分表にデータが存在するか", "values": {"1": "あり", "0": "なし"}}';
+  const fattyDataHeader = '{"type": "flag", "name": "has_fatty_acid_data", "description": "脂肪酸成分表にデータが存在するか", "values": {"1": "あり", "0": "なし"}}';
+
   // マージ実行
   const outputHeaders = [
     ...filteredColIndices.map(c => c.header),
+    aminoDataHeader,
+    fattyDataHeader,
     ...aminoColIndices.map(c => c.header),
     ...fattyColIndices.map(c => c.header),
   ];
@@ -166,6 +206,8 @@ function main() {
 
     const outputRow = [
       ...filteredColIndices.map(c => row[c.idx] || ""),
+      aminoRow ? "1" : "0",
+      fattyRow ? "1" : "0",
       ...aminoColIndices.map(c => aminoRow?.[c.idx] || ""),
       ...fattyColIndices.map(c => fattyRow?.[c.idx] || ""),
     ];

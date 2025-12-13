@@ -1,5 +1,6 @@
 {
-  "version": "dog_recipe_keep_columns_v2",
+  "version": "dog_recipe_keep_columns_v3",
+  "description": "spec.mdのAAFCO栄養基準に対応するため、ミネラル・ビタミンを追加",
   "join": {
     "logical_key": "食品番号",
     "headers": {
@@ -11,21 +12,41 @@
   "tables": {
     "filtered_food_table": {
       "file": "filtered-by-score.csv",
-      "keep_headers": [
-        "{\"type\": \"identifier\", \"name\": \"食品番号\", \"description\": \"食品固有の識別番号（5桁）\"}",
-        "{\"type\": \"identifier\", \"name\": \"食品名\", \"description\": \"食品の名称\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"一般成分\", \"name\": \"水分\", \"unit\": \"g\", \"code\": \"WATER\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category...gory\": \"たんぱく質\", \"name\": \"たんぱく質\", \"unit\": \"g\", \"code\": \"PROT-\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\"...subcategory\": \"脂質\", \"name\": \"脂質\", \"unit\": \"g\", \"code\": \"FAT-\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\"...egory\": \"炭水化物\", \"name\": \"食物繊維総量\", \"unit\": \"g\", \"code\": \"FIB-\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"一般成分\", \"name\": \"灰分\", \"unit\": \"g\", \"code\": \"ASH\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"カルシウム\", \"unit\": \"mg\", \"code\": \"CA\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"リン\", \"unit\": \"mg\", \"code\": \"P\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"ナトリウム\", \"unit\": \"mg\", \"code\": \"NA\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category...ory\": \"ビタミンA\", \"name\": \"レチノール\", \"unit\": \"μg\", \"code\": \"RETOL\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\"...gory\": \"ビタミンD\", \"name\": \"ビタミンD\", \"unit\": \"μg\", \"code\": \"VITD\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"ヨウ素\", \"unit\": \"μg\", \"code\": \"ID\"}",
-        "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"セレン\", \"unit\": \"μg\", \"code\": \"SE\"}",
+      "keep_codes": [
+        "WATER",
+        "PROT-",
+        "FAT-",
+        "FIB-",
+        "ASH",
+        "ENERC_KCAL",
+        "CA",
+        "P",
+        "NA",
+        "K",
+        "MG",
+        "FE",
+        "ZN",
+        "CU",
+        "MN",
+        "ID",
+        "SE",
+        "RETOL",
+        "VITD",
+        "TOCPHA",
+        "THIA",
+        "RIBF",
+        "NIA",
+        "VITB6A",
+        "VITB12",
+        "FOL",
+        "PANTAC"
+      ],
+      "keep_names": [
+        "食品群",
+        "食品番号",
+        "食品名"
+      ],
+      "keep_raw": [
         "構造化食品名",
         "理由",
         "スコア"
@@ -33,41 +54,56 @@
     },
     "amino_acid_table": {
       "file": "amino_acid_composition.csv",
-      "keep_headers": [
-        "{\"column_index\": 1, \"original_name\": \"食品番号\", \"display_name\": \"食品番号\", \"category\": \"基本情報\"}",
-        "{\"column_index\": 3, \"original_name\": \"食品名\", \"display_name\": \"食品名\", \"category\": \"基本情報\"}",
-        "{\"column_index\": 7, \"original_name\": \"イソロイシン\", \"display_name...: \"アミノ酸\", \"english_name\": \"Isoleucine\", \"is_essential\": true}",
-        "{\"column_index\": 8, \"original_name\": \"ロイシン\", \"display_name\":...y\": \"アミノ酸\", \"english_name\": \"Leucine\", \"is_essential\": true}",
-        "{\"column_index\": 9, \"original_name\": \"リシン\", \"display_name\":...y\": \"アミノ酸\", \"english_name\": \"Lysine\", \"is_essential\": true}",
-        "{\"column_index\": 10, \"original_name\": \"メチオニン\", \"display_name... \"component_id\": \"MET\", \"unit\": \"mg/100 g\", \"category\": \"含硫アミノ酸\"}",
-        "{\"column_index\": 11, \"original_name\": \"シスチン\", \"display_name\"... \"component_id\": \"CYS\", \"unit\": \"mg/100 g\", \"category\": \"含硫アミノ酸\"}",
-        "{\"column_index\": 12, \"original_name\": \"含硫アミノ酸\", \"display_name\"...component_id\": \"AAS\", \"unit\": \"mg/100 g\", \"category\": \"含硫アミノ酸\"}",
-        "{\"column_index\": 13, \"original_name\": \"フェニルアラニン\", \"display_name\"... \"component_id\": \"PHE\", \"unit\": \"mg/100 g\", \"category\": \"芳香族アミノ酸\"}",
-        "{\"column_index\": 14, \"original_name\": \"チロシン\", \"display_name\"... \"component_id\": \"TYR\", \"unit\": \"mg/100 g\", \"category\": \"芳香族アミノ酸\"}",
-        "{\"column_index\": 15, \"original_name\": \"芳香族アミノ酸\", \"display_name\"...component_id\": \"AAA\", \"unit\": \"mg/100 g\", \"category\": \"芳香族アミノ酸\"}",
-        "{\"column_index\": 16, \"original_name\": \"スレオニン\", \"display_name\"... \"component_id\": \"THR\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\"}",
-        "{\"column_index\": 17, \"original_name\": \"トリプトファン\", \"display_name\"... \"component_id\": \"TRP\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\"}",
-        "{\"column_index\": 18, \"original_name\": \"バリン\", \"display_name\"... \"component_id\": \"VAL\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\"}",
-        "{\"column_index\": 20, \"original_name\": \"ヒスチジン\", \"display_name\"... \"component_id\": \"HIS\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\"}",
-        "{\"column_index\": 21, \"original_name\": \"アルギニン\", \"display_name\"... \"component_id\": \"ARG\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\"}"
+      "keep_component_ids": [
+        "ILE",
+        "LEU",
+        "LYS",
+        "MET",
+        "CYS",
+        "AAS",
+        "PHE",
+        "TYR",
+        "AAA",
+        "THR",
+        "TRP",
+        "VAL",
+        "HIS",
+        "ARG"
       ]
     },
     "fatty_acid_table": {
       "file": "fatty_acid_composition.csv",
-      "keep_headers": [
-        "{\"column_index\": 1, \"original_name\": \"食品番号\", \"display_name\": \"食品番号\", \"category\": \"基本情報\"}",
-        "{\"column_index\": 3, \"original_name\": \"食品名\", \"display_name\": \"食品名\", \"category\": \"基本情報\"}",
-        "{\"column_index\": 6, \"original_name\": \"脂質\", \"display_name\": \"... \"component_id\": \"FAT-\", \"unit\": \"g/100 g\", \"category\": \"脂質\"}",
-        "{\"column_index\": 7, \"original_name\": \"脂肪酸総量\", \"display_name\"...component_id\": \"FACID\", \"unit\": \"g/100 g\", \"category\": \"脂質\"}",
-        "{\"column_index\": 10, \"original_name\": \"多価不飽和脂肪酸\", \"display_n...ponent_id\": \"FAPU\", \"unit\": \"g/100 g\", \"category\": \"多価不飽和脂肪酸\"}",
-        "{\"column_index\": 11, \"original_name\": \"n-3系多価不飽和\\n脂肪酸\", \"di...\": \"g/100 g\", \"category\": \"n-3系多価不飽和脂肪酸\", \"omega_type\": \"n-3\", \"component_id\": \"FAPUN3\"}",
-        "{\"column_index\": 12, \"original_name\": \"n-6系多価不飽和\\n脂肪酸\", \"di...\": \"g/100 g\", \"category\": \"n-6系多価不飽和脂肪酸\", \"omega_type\": \"n-6\", \"component_id\": \"FAPUN6\"}",
-        "{\"column_index\": 30, \"original_name\": \"18:2 n-6\\nリノール酸\", \"display_name\"... \"component_id\": \"F18D2N6\", \"unit\": \"mg/100 g\", \"category\": \"多価不飽和脂肪酸\", \"omega_type\": \"n-6\"}",
-        "{\"column_index\": 31, \"original_name\": \"18:3 n-3\\nα-リノレン酸\", \"display_name\"... \"component_id\": \"F18D3N3\", \"unit\": \"mg/100 g\", \"category\": \"多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
-        "{\"column_index\": 43, \"original_name\": \"20:5 n-3\\nエイコサペンタエン酸\", \"display_name\"... \"component_id\": \"F20D5N3\", \"unit\": \"mg/100 g\", \"category\": \"多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
-        "{\"column_index\": 49, \"original_name\": \"22:6 n-3\\nドコサヘキサエン酸\", \"display_name\"... \"component_id\": \"F22D6N3\", \"unit\": \"mg/100 g\", \"category\": \"多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
-        "{\"column_index\": 42, \"original_name\": \"20:4 n-6\\nアラキドン酸\", \"display_name\"... \"component_id\": \"F20D4N6\", \"unit\": \"mg/100 g\", \"category\": \"多価不飽和脂肪酸\", \"omega_type\": \"n-6\"}"
+      "keep_component_ids": [
+        "FACID",
+        "FAPU",
+        "FAPUN3",
+        "FAPUN6",
+        "F18D2N6",
+        "F18D3N3",
+        "F20D5N3",
+        "F22D6N3",
+        "F20D4N6"
       ]
     }
+  },
+  "added_columns": {
+    "has_amino_acid_data": {
+      "type": "flag",
+      "description": "アミノ酸成分表にデータが存在するか",
+      "values": {"1": "あり", "0": "なし"}
+    },
+    "has_fatty_acid_data": {
+      "type": "flag",
+      "description": "脂肪酸成分表にデータが存在するか",
+      "values": {"1": "あり", "0": "なし"}
+    }
+  },
+  "notes": {
+    "v3_changes": [
+      "食品群カラムを追加（カテゴリ分析用）",
+      "エネルギー(kcal)を追加（ENERC_KCAL）",
+      "ミネラル6種を追加: K, MG, FE, ZN, CU, MN（SUPP制約対応）",
+      "ビタミン8種を追加: TOCPHA, THIA, RIBF, NIA, VITB6A, VITB12, FOL, PANTAC（SUPP制約対応）"
+    ]
   }
 }

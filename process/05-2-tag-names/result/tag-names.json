@@ -1,0 +1,7370 @@
+{
+  "10002": {
+    "ja": "アコウダイ",
+    "en": "Akoudai",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10004": {
+    "ja": "鯵",
+    "en": "Horse Mackerel",
+    "jaDetail": "皮つき・水煮",
+    "enDetail": "Skin-on, Boiled"
+  },
+  "10005": {
+    "ja": "鯵",
+    "en": "Horse Mackerel",
+    "jaDetail": "皮つき・焼き",
+    "enDetail": "Skin-on, Grilled"
+  },
+  "10007": {
+    "ja": "鯵",
+    "en": "Horse Mackerel",
+    "jaDetail": "開き干し・焼き",
+    "enDetail": "Hiraki (dried, split), Grilled"
+  },
+  "10009": {
+    "ja": "にしまあじ",
+    "en": "Nishimaaji",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10010": {
+    "ja": "にしまあじ",
+    "en": "Nishimaaji",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10012": {
+    "ja": "ムロアジ",
+    "en": "Muroaji",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10013": {
+    "ja": "ムロアジ",
+    "en": "Muroaji",
+    "jaDetail": "開き干し",
+    "enDetail": "Hiraki (dried)"
+  },
+  "10015": {
+    "ja": "穴子",
+    "en": "Anago (Conger eel)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10016": {
+    "ja": "穴子",
+    "en": "Anago (Conger eel)",
+    "jaDetail": "蒸し",
+    "enDetail": "Steamed"
+  },
+  "10019": {
+    "ja": "甘鯛",
+    "en": "Amadai (Tilefish)",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10020": {
+    "ja": "甘鯛",
+    "en": "Amadai (Tilefish)",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10022": {
+    "ja": "鮎",
+    "en": "Ayu (Sweetfish)",
+    "jaDetail": "天然・焼き",
+    "enDetail": "Wild, Grilled"
+  },
+  "10024": {
+    "ja": "鮎",
+    "en": "Ayu (Sweetfish)",
+    "jaDetail": "天然・内臓・焼き",
+    "enDetail": "Wild, With guts, Grilled"
+  },
+  "10026": {
+    "ja": "鮎",
+    "en": "Ayu (Sweetfish)",
+    "jaDetail": "養殖・焼き",
+    "enDetail": "Farmed, Grilled"
+  },
+  "10028": {
+    "ja": "鮎",
+    "en": "Ayu (Sweetfish)",
+    "jaDetail": "養殖・内臓・焼き",
+    "enDetail": "Farmed, With guts, Grilled"
+  },
+  "10030": {
+    "ja": "アラスカメヌケ",
+    "en": "Alaska menuke",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10034": {
+    "ja": "いかなご",
+    "en": "Ikanago",
+    "jaDetail": "煮干し",
+    "enDetail": "Dried (Niboshi)"
+  },
+  "10040": {
+    "ja": "いとよりだい",
+    "en": "Threadfin bream",
+    "jaDetail": "すり身",
+    "enDetail": "Surimi"
+  },
+  "10043": {
+    "ja": "うるめいわし",
+    "en": "Urume sardine",
+    "jaDetail": "丸干し",
+    "enDetail": "Whole-dried"
+  },
+  "10045": {
+    "ja": "かたくちいわし",
+    "en": "Japanese anchovy",
+    "jaDetail": "煮干し",
+    "enDetail": "Dried (Niboshi)"
+  },
+  "10046": {
+    "ja": "かたくちいわし",
+    "en": "Japanese anchovy",
+    "jaDetail": "田作り",
+    "enDetail": "Tazukuri (candied)"
+  },
+  "10048": {
+    "ja": "まいわし",
+    "en": "Sardine",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled (water-packed)"
+  },
+  "10049": {
+    "ja": "まいわし",
+    "en": "Sardine",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10051": {
+    "ja": "まいわし",
+    "en": "Sardine",
+    "jaDetail": "生干し",
+    "enDetail": "Semi-dried"
+  },
+  "10052": {
+    "ja": "まいわし",
+    "en": "Sardine",
+    "jaDetail": "丸干し",
+    "enDetail": "Whole-dried"
+  },
+  "10054": {
+    "ja": "めざし",
+    "en": "Mezashi",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10055": {
+    "ja": "しらす干し",
+    "en": "Dried whitebait",
+    "jaDetail": "微乾燥品",
+    "enDetail": "Lightly dried"
+  },
+  "10056": {
+    "ja": "しらす干し",
+    "en": "Dried whitebait",
+    "jaDetail": "半乾燥品",
+    "enDetail": "Partially dried"
+  },
+  "10057": {
+    "ja": "たたみいわし",
+    "en": "Tatami Iwashi"
+  },
+  "10060": {
+    "ja": "いわし缶詰",
+    "en": "Canned sardine",
+    "jaDetail": "水煮",
+    "enDetail": "Water-packed"
+  },
+  "10062": {
+    "ja": "いわし缶詰",
+    "en": "Canned sardine",
+    "jaDetail": "トマト漬",
+    "enDetail": "In tomato sauce"
+  },
+  "10063": {
+    "ja": "いわし缶詰",
+    "en": "Canned sardine",
+    "jaDetail": "油漬",
+    "enDetail": "In oil"
+  },
+  "10069": {
+    "ja": "うなぎ",
+    "en": "Unagi",
+    "jaDetail": "白焼き",
+    "enDetail": "Shirayaki (plain-grilled)"
+  },
+  "10070": {
+    "ja": "うなぎ",
+    "en": "Unagi",
+    "jaDetail": "かば焼",
+    "enDetail": "Kabayaki (soy-glazed)"
+  },
+  "10076": {
+    "ja": "おおさが",
+    "en": "Oosaga",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10079": {
+    "ja": "かさご",
+    "en": "Kasago (Rockfish)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10081": {
+    "ja": "かじか",
+    "en": "Sculpin",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled in water"
+  },
+  "10083": {
+    "ja": "くろかじき",
+    "en": "Black marlin",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10089": {
+    "ja": "なまり",
+    "en": "Namari"
+  },
+  "10090": {
+    "ja": "なまり節",
+    "en": "Namari-bushi"
+  },
+  "10091": {
+    "ja": "かつお節",
+    "en": "Katsuobushi"
+  },
+  "10092": {
+    "ja": "削り節",
+    "en": "Bonito flakes",
+    "enDetail": "Shaved"
+  },
+  "10096": {
+    "ja": "かつおフレーク",
+    "en": "Canned seasoned skipjack flakes",
+    "jaDetail": "味付け・缶詰"
+  },
+  "10097": {
+    "ja": "かつおフレーク",
+    "en": "Canned skipjack flakes in oil",
+    "jaDetail": "油漬・缶詰"
+  },
+  "10099": {
+    "ja": "かます",
+    "en": "Barracuda",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10101": {
+    "ja": "まがれい",
+    "en": "Magarei",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled in water"
+  },
+  "10102": {
+    "ja": "まがれい",
+    "en": "Magarei",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10105": {
+    "ja": "子持ちがれい",
+    "en": "Flounder with roe",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled in water"
+  },
+  "10106": {
+    "ja": "干しかれい",
+    "en": "Dried flounder"
+  },
+  "10108": {
+    "ja": "かんぱち",
+    "en": "Kanpachi",
+    "jaDetail": "三枚おろし・生",
+    "enDetail": "Three-filleted, Raw"
+  },
+  "10110": {
+    "ja": "きちじ",
+    "en": "Kichiji",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10113": {
+    "ja": "キャビア",
+    "en": "Caviar",
+    "jaDetail": "塩蔵品",
+    "enDetail": "Salt-cured"
+  },
+  "10116": {
+    "ja": "金目鯛",
+    "en": "Alfonsino",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10118": {
+    "ja": "グチ",
+    "en": "Croaker",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10120": {
+    "ja": "鯉",
+    "en": "Carp",
+    "jaDetail": "養殖・水煮",
+    "enDetail": "Farmed, Boiled"
+  },
+  "10127": {
+    "ja": "カラフトマス",
+    "en": "Karafuto masu",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10128": {
+    "ja": "カラフトマス",
+    "en": "Karafuto masu",
+    "jaDetail": "塩ます",
+    "enDetail": "Salted"
+  },
+  "10129": {
+    "ja": "カラフトマス",
+    "en": "Karafuto masu",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned (boiled)"
+  },
+  "10131": {
+    "ja": "銀鮭",
+    "en": "Coho salmon",
+    "jaDetail": "養殖・焼き",
+    "enDetail": "Farmed, Grilled"
+  },
+  "10132": {
+    "ja": "桜鱒",
+    "en": "Sakura masu",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10133": {
+    "ja": "桜鱒",
+    "en": "Sakura masu",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10134": {
+    "ja": "白鮭",
+    "en": "Salmon",
+    "jaDetail": "生",
+    "enDetail": "Shiro-sake, Raw"
+  },
+  "10135": {
+    "ja": "白鮭",
+    "en": "Salmon",
+    "jaDetail": "水煮",
+    "enDetail": "Shiro-sake, Boiled"
+  },
+  "10136": {
+    "ja": "白鮭",
+    "en": "Salmon",
+    "jaDetail": "焼き",
+    "enDetail": "Shiro-sake, Grilled"
+  },
+  "10138": {
+    "ja": "白鮭",
+    "en": "Salmon",
+    "jaDetail": "新巻き・焼き",
+    "enDetail": "Aramaki (salted), Grilled"
+  },
+  "10139": {
+    "ja": "白鮭",
+    "en": "Salmon",
+    "jaDetail": "塩ざけ",
+    "enDetail": "Salted (shiozake)"
+  },
+  "10140": {
+    "ja": "イクラ",
+    "en": "Salmon roe",
+    "jaDetail": "白鮭由来",
+    "enDetail": "From shiro-sake"
+  },
+  "10141": {
+    "ja": "筋子",
+    "en": "Sujiko",
+    "jaDetail": "白鮭由来",
+    "enDetail": "From shiro-sake"
+  },
+  "10143": {
+    "ja": "白鮭",
+    "en": "Canned salmon",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Boiled, Shiro-sake"
+  },
+  "10145": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮つき・焼き",
+    "enDetail": "Atlantic, Farmed, Skin-on, Grilled"
+  },
+  "10147": {
+    "ja": "ニジマス",
+    "en": "Rainbow trout",
+    "jaDetail": "海面養殖・皮つき・焼き",
+    "enDetail": "Sea-farmed, Skin-on, Grilled"
+  },
+  "10149": {
+    "ja": "紅鮭",
+    "en": "Sockeye salmon",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10150": {
+    "ja": "紅鮭",
+    "en": "Sockeye salmon",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10151": {
+    "ja": "紅鮭",
+    "en": "Sockeye salmon",
+    "jaDetail": "くん製",
+    "enDetail": "Smoked"
+  },
+  "10153": {
+    "ja": "マスノスケ",
+    "en": "Trout",
+    "jaDetail": "焼き",
+    "enDetail": "Masunosuke, Grilled"
+  },
+  "10155": {
+    "ja": "真鯖",
+    "en": "Mackerel",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled (in water)"
+  },
+  "10156": {
+    "ja": "真鯖",
+    "en": "Mackerel",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10157": {
+    "ja": "さば節",
+    "en": "Mackerel flakes",
+    "jaDetail": "ごまさば",
+    "enDetail": "Gomasaba"
+  },
+  "10159": {
+    "ja": "さば",
+    "en": "Mackerel",
+    "jaDetail": "大西洋・水煮",
+    "enDetail": "Atlantic, Water-packed"
+  },
+  "10160": {
+    "ja": "さば",
+    "en": "Mackerel",
+    "jaDetail": "大西洋・焼き",
+    "enDetail": "Atlantic, Grilled"
+  },
+  "10162": {
+    "ja": "開き干しさば",
+    "en": "Split-dried mackerel"
+  },
+  "10164": {
+    "ja": "さば缶",
+    "en": "Canned mackerel",
+    "jaDetail": "水煮",
+    "enDetail": "Water-packed"
+  },
+  "10169": {
+    "ja": "ふかひれ",
+    "en": "Shark fin"
+  },
+  "10172": {
+    "ja": "さわら",
+    "en": "Spanish mackerel",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10174": {
+    "ja": "さんま",
+    "en": "Pacific saury",
+    "jaDetail": "皮つき・焼き",
+    "enDetail": "Skin-on, Grilled"
+  },
+  "10175": {
+    "ja": "開き干しさんま",
+    "en": "Split-dried saury"
+  },
+  "10176": {
+    "ja": "みりん干しさんま",
+    "en": "Mirin-dried saury"
+  },
+  "10181": {
+    "ja": "ししゃも",
+    "en": "Shishamo (capelin)",
+    "jaDetail": "生干し・焼き",
+    "enDetail": "Semi-dried, Grilled"
+  },
+  "10183": {
+    "ja": "からふとししゃも",
+    "en": "Karafuto shishamo (capelin)",
+    "jaDetail": "生干し・焼き",
+    "enDetail": "Semi-dried, Grilled"
+  },
+  "10184": {
+    "ja": "したびらめ",
+    "en": "Tongue sole",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10185": {
+    "ja": "しまあじ",
+    "en": "Striped jack (Shimaaji)",
+    "jaDetail": "養殖・生",
+    "enDetail": "Farmed, Raw"
+  },
+  "10189": {
+    "ja": "きだい",
+    "en": "Yellow sea bream",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10191": {
+    "ja": "ちだい",
+    "en": "Chidai (blood sea bream)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10194": {
+    "ja": "まだい",
+    "en": "Red sea bream",
+    "jaDetail": "養殖・皮つき・水煮",
+    "enDetail": "Farmed, Skin-on, Water-packed"
+  },
+  "10195": {
+    "ja": "まだい",
+    "en": "Red sea bream",
+    "jaDetail": "養殖・皮つき・焼き",
+    "enDetail": "Farmed, Skin-on, Grilled"
+  },
+  "10200": {
+    "ja": "すけとうだら すり身",
+    "en": "Alaska pollock surimi"
+  },
+  "10201": {
+    "ja": "すけとうだら すきみだら",
+    "en": "Alaska pollock sukimi"
+  },
+  "10203": {
+    "ja": "たらこ",
+    "en": "Cod Roe",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10206": {
+    "ja": "まだら",
+    "en": "Cod",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10209": {
+    "ja": "干しだら",
+    "en": "Dried Cod"
+  },
+  "10214": {
+    "ja": "どじょう",
+    "en": "Loach",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10215": {
+    "ja": "とびうお",
+    "en": "Flying Fish",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10219": {
+    "ja": "身欠きにしん",
+    "en": "Dried Herring",
+    "enDetail": "Gutted"
+  },
+  "10220": {
+    "ja": "にしん",
+    "en": "Herring",
+    "jaDetail": "開き干し",
+    "enDetail": "Split-dried"
+  },
+  "10223": {
+    "ja": "数の子",
+    "en": "Herring Roe",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "10229": {
+    "ja": "はたはた",
+    "en": "Japanese Sandfish",
+    "jaDetail": "生干し",
+    "enDetail": "Semi-dried"
+  },
+  "10234": {
+    "ja": "ひらめ",
+    "en": "Flounder",
+    "jaDetail": "天然・生",
+    "enDetail": "Wild, Raw"
+  },
+  "10235": {
+    "ja": "ひらめ",
+    "en": "Flounder",
+    "jaDetail": "養殖・皮つき・生",
+    "enDetail": "Farmed, Skin-on, Raw"
+  },
+  "10239": {
+    "ja": "ふな",
+    "en": "Crucian Carp",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10242": {
+    "ja": "ぶり",
+    "en": "Yellowtail",
+    "jaDetail": "成魚・焼き",
+    "enDetail": "Adult, Grilled"
+  },
+  "10245": {
+    "ja": "ホキ",
+    "en": "Hoki",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10252": {
+    "ja": "きはだまぐろ",
+    "en": "Yellowfin Tuna",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10253": {
+    "ja": "くろまぐろ",
+    "en": "Bluefin Tuna",
+    "jaDetail": "天然・赤身・生",
+    "enDetail": "Wild, Lean, Raw"
+  },
+  "10254": {
+    "ja": "くろまぐろ",
+    "en": "Toro (Fatty Tuna)",
+    "jaDetail": "天然・脂身・生",
+    "enDetail": "Wild, Raw"
+  },
+  "10255": {
+    "ja": "ビンナガマグロ",
+    "en": "Albacore tuna",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10256": {
+    "ja": "ミナミマグロ",
+    "en": "Southern bluefin tuna",
+    "jaDetail": "赤身・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "10257": {
+    "ja": "ミナミマグロ",
+    "en": "Southern bluefin tuna",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "10258": {
+    "ja": "メジマグロ",
+    "en": "Meji tuna",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10260": {
+    "ja": "ツナフレーク",
+    "en": "Tuna flakes",
+    "jaDetail": "水煮・ライト",
+    "enDetail": "Water-packed, Light"
+  },
+  "10261": {
+    "ja": "ツナフレーク",
+    "en": "Tuna flakes",
+    "jaDetail": "水煮・ホワイト",
+    "enDetail": "Water-packed, White"
+  },
+  "10263": {
+    "ja": "ツナ缶",
+    "en": "Canned Tuna",
+    "jaDetail": "油漬・フレーク・ライト",
+    "enDetail": "Oil‑packed, Flaked, Light"
+  },
+  "10264": {
+    "ja": "ツナ缶",
+    "en": "Canned Tuna",
+    "jaDetail": "油漬・フレーク・ホワイト",
+    "enDetail": "Oil‑packed, Flaked, White"
+  },
+  "10266": {
+    "ja": "まながつお",
+    "en": "Managatsuo",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10269": {
+    "ja": "むつ",
+    "en": "Mutsu",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled (in water)"
+  },
+  "10270": {
+    "ja": "めじな",
+    "en": "Girella",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10272": {
+    "ja": "メルルーサ",
+    "en": "Hake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "10274": {
+    "ja": "やつめうなぎ",
+    "en": "Lamprey",
+    "jaDetail": "干しやつめ",
+    "enDetail": "Dried"
+  },
+  "10283": {
+    "ja": "あさり",
+    "en": "Clam",
+    "jaDetail": "水煮・缶詰",
+    "enDetail": "Boiled (in water), Canned"
+  },
+  "10284": {
+    "ja": "あさり",
+    "en": "Clam",
+    "jaDetail": "味付け・缶詰",
+    "enDetail": "Seasoned, Canned"
+  },
+  "10288": {
+    "ja": "あわび",
+    "en": "Abalone",
+    "jaDetail": "水煮・缶詰",
+    "enDetail": "Boiled (in water), Canned"
+  },
+  "10291": {
+    "ja": "エスカルゴ",
+    "en": "Escargot",
+    "jaDetail": "水煮・缶詰",
+    "enDetail": "Boiled (in water), Canned"
+  },
+  "10293": {
+    "ja": "かき",
+    "en": "Oyster",
+    "jaDetail": "養殖・水煮",
+    "enDetail": "Farmed, Boiled (in water)"
+  },
+  "10296": {
+    "ja": "さざえ",
+    "en": "Turban Shell",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10307": {
+    "ja": "はまぐり",
+    "en": "Hamaguri",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10308": {
+    "ja": "はまぐり",
+    "en": "Hamaguri",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10312": {
+    "ja": "ほたてがい",
+    "en": "Scallop",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled (in water)"
+  },
+  "10314": {
+    "ja": "ほたてがい",
+    "en": "Scallop",
+    "jaDetail": "貝柱・煮干し",
+    "enDetail": "Adductor muscle, Dried"
+  },
+  "10315": {
+    "ja": "ほたて貝柱",
+    "en": "Scallop",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned in water (adductor muscle)"
+  },
+  "10322": {
+    "ja": "車海老",
+    "en": "Kuruma Shrimp",
+    "jaDetail": "養殖・ゆで",
+    "enDetail": "Farmed, Boiled"
+  },
+  "10323": {
+    "ja": "車海老",
+    "en": "Kuruma Shrimp",
+    "jaDetail": "養殖・焼き",
+    "enDetail": "Farmed, Grilled"
+  },
+  "10324": {
+    "ja": "桜えび",
+    "en": "Sakura Shrimp",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10325": {
+    "ja": "桜えび",
+    "en": "Sakura Shrimp",
+    "jaDetail": "素干し",
+    "enDetail": "Dried (sun‑dried)"
+  },
+  "10326": {
+    "ja": "桜えび",
+    "en": "Sakura Shrimp",
+    "jaDetail": "煮干し",
+    "enDetail": "Boiled and dried"
+  },
+  "10334": {
+    "ja": "毛がに",
+    "en": "Hair Crab",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10336": {
+    "ja": "ずわいがに",
+    "en": "Snow Crab",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10337": {
+    "ja": "ずわいがに",
+    "en": "Snow Crab",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned in water"
+  },
+  "10339": {
+    "ja": "たらばがに",
+    "en": "King Crab",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10340": {
+    "ja": "たらばがに",
+    "en": "King Crab",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned in water"
+  },
+  "10346": {
+    "ja": "するめいか",
+    "en": "Surume Squid",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10347": {
+    "ja": "するめいか",
+    "en": "Surume Squid",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10349": {
+    "ja": "ほたるいか",
+    "en": "Firefly Squid",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10353": {
+    "ja": "するめ",
+    "en": "Dried Squid"
+  },
+  "10362": {
+    "ja": "まだこ",
+    "en": "Octopus (Madako)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10369": {
+    "ja": "おきあみ",
+    "en": "Krill",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10370": {
+    "ja": "くらげ",
+    "en": "Jellyfish",
+    "jaDetail": "塩蔵・塩抜き",
+    "enDetail": "Salted (desalted)"
+  },
+  "10371": {
+    "ja": "しゃこ",
+    "en": "Mantis shrimp",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10376": {
+    "ja": "かにかま",
+    "en": "Crab stick"
+  },
+  "10378": {
+    "ja": "す巻きかまぼこ",
+    "en": "Rolled kamaboko"
+  },
+  "10379": {
+    "ja": "蒸しかまぼこ",
+    "en": "Steamed kamaboko"
+  },
+  "10383": {
+    "ja": "つみれ",
+    "en": "Tsumire",
+    "enDetail": "Fish ball"
+  },
+  "10384": {
+    "ja": "なると",
+    "en": "Narutomaki"
+  },
+  "10394": {
+    "ja": "丸鯵",
+    "en": "Maruaji",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10398": {
+    "ja": "めかじき",
+    "en": "Swordfish",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10399": {
+    "ja": "まこがれい",
+    "en": "Mako-garei",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10401": {
+    "ja": "ぎんだら",
+    "en": "Sablefish",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled in water"
+  },
+  "10404": {
+    "ja": "ごまさば",
+    "en": "Mackerel",
+    "jaDetail": "生",
+    "enDetail": "Gomasaba, Raw"
+  },
+  "10405": {
+    "ja": "ごまさば",
+    "en": "Mackerel",
+    "jaDetail": "水煮",
+    "enDetail": "Gomasaba, Boiled (in water)"
+  },
+  "10406": {
+    "ja": "ごまさば",
+    "en": "Mackerel",
+    "jaDetail": "焼き",
+    "enDetail": "Gomasaba, Grilled"
+  },
+  "10408": {
+    "ja": "まだい",
+    "en": "Red sea bream",
+    "jaDetail": "養殖・皮なし・生",
+    "enDetail": "Farmed, Skinless, Raw"
+  },
+  "10412": {
+    "ja": "ほっけ",
+    "en": "Atka Mackerel",
+    "jaDetail": "開き干し・焼き",
+    "enDetail": "Split-dried, Grilled"
+  },
+  "10413": {
+    "ja": "しじみ",
+    "en": "Shijimi",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "10414": {
+    "ja": "ほたてがい",
+    "en": "Scallop",
+    "jaDetail": "貝柱・焼き",
+    "enDetail": "Adductor muscle, Grilled"
+  },
+  "10421": {
+    "ja": "とびうお",
+    "en": "Flying Fish",
+    "jaDetail": "煮干し",
+    "enDetail": "Dried (Niboshi)"
+  },
+  "10423": {
+    "ja": "黒はんぺん",
+    "en": "Black hanpen"
+  },
+  "10425": {
+    "ja": "メバチマグロ",
+    "en": "Bigeye tuna",
+    "jaDetail": "赤身・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "10426": {
+    "ja": "メバチマグロ",
+    "en": "Bigeye tuna",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "10433": {
+    "ja": "太平洋鮭",
+    "en": "Pacific salmon",
+    "jaDetail": "養殖・皮つき・水煮",
+    "enDetail": "Farmed, Skin-on, Boiled"
+  },
+  "10434": {
+    "ja": "太平洋鮭",
+    "en": "Pacific salmon",
+    "jaDetail": "養殖・皮つき・蒸し",
+    "enDetail": "Farmed, Skin-on, Steamed"
+  },
+  "10435": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮つき・電子レンジ調理",
+    "enDetail": "Atlantic, Farmed, Skin-on, Microwaved"
+  },
+  "10436": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮つき・ソテー",
+    "enDetail": "Atlantic, Farmed, Skin-on, Sautéed"
+  },
+  "10437": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮つき・天ぷら",
+    "enDetail": "Atlantic, Farmed, Skin-on, Tempura"
+  },
+  "10439": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮なし・水煮",
+    "enDetail": "Atlantic, Farmed, Skinless, Boiled (in water)"
+  },
+  "10440": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮なし・蒸し",
+    "enDetail": "Atlantic, Farmed, Skinless, Steamed"
+  },
+  "10441": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮なし・電子レンジ調理",
+    "enDetail": "Atlantic, Farmed, Skinless, Microwaved"
+  },
+  "10442": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮なし・焼き",
+    "enDetail": "Atlantic, Farmed, Skinless, Grilled"
+  },
+  "10443": {
+    "ja": "サーモン",
+    "en": "Salmon",
+    "jaDetail": "養殖・皮なし・ソテー",
+    "enDetail": "Atlantic, Farmed, Skinless, Sautéed"
+  },
+  "10445": {
+    "ja": "しらす",
+    "en": "Whitebait",
+    "jaDetail": "釜揚げしらす",
+    "enDetail": "Kamaage (boiled)"
+  },
+  "10446": {
+    "ja": "裸節",
+    "en": "Hadakabushi"
+  },
+  "10447": {
+    "ja": "鮭節",
+    "en": "Salmon flakes",
+    "jaDetail": "削り節",
+    "enDetail": "Shiro-sake"
+  },
+  "10450": {
+    "ja": "くろまぐろ",
+    "en": "Bluefin Tuna",
+    "jaDetail": "養殖・赤身・生",
+    "enDetail": "Farmed, Lean, Raw"
+  },
+  "10451": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "赤身・水煮",
+    "enDetail": "Red meat, Canned in water"
+  },
+  "10452": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "赤身・蒸し",
+    "enDetail": "Red meat, Steamed"
+  },
+  "10453": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "赤身・電子レンジ調理",
+    "enDetail": "Red meat, Microwaved"
+  },
+  "10454": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "赤身・焼き",
+    "enDetail": "Red meat, Grilled"
+  },
+  "10455": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "赤身・ソテー",
+    "enDetail": "Red meat, Sautéed"
+  },
+  "10456": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "赤身・天ぷら",
+    "enDetail": "Red meat, Tempura"
+  },
+  "10458": {
+    "ja": "にしまあじ",
+    "en": "Nishimaaji",
+    "jaDetail": "開き干し・焼き",
+    "enDetail": "Hiraki (dried, split), Grilled"
+  },
+  "10459": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "10460": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "脂身・水煮",
+    "enDetail": "Fatty, Canned in water"
+  },
+  "10461": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "脂身・蒸し",
+    "enDetail": "Fatty, Steamed"
+  },
+  "10462": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "脂身・電子レンジ調理",
+    "enDetail": "Fatty, Microwaved"
+  },
+  "10463": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "脂身・焼き",
+    "enDetail": "Fatty, Grilled"
+  },
+  "10464": {
+    "ja": "クロマグロ",
+    "en": "Bluefin tuna",
+    "jaDetail": "脂身・ソテー",
+    "enDetail": "Fatty, Sautéed"
+  },
+  "10466": {
+    "ja": "あさり",
+    "en": "Clam",
+    "jaDetail": "蒸し",
+    "enDetail": "Steamed"
+  },
+  "10468": {
+    "ja": "アルゼンチンあかえび",
+    "en": "Argentine Red Shrimp",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "10469": {
+    "ja": "アルゼンチンあかえび",
+    "en": "Argentine Red Shrimp",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "10470": {
+    "ja": "いかフライ",
+    "en": "Fried Squid",
+    "jaDetail": "するめいか・胴・皮なし",
+    "enDetail": "Surume squid, Body, Skinless"
+  },
+  "10472": {
+    "ja": "蒸しだこ",
+    "en": "Steamed Octopus"
+  },
+  "10473": {
+    "ja": "蒸しだこ",
+    "en": "Steamed octopus",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "10474": {
+    "ja": "蒸しだこ",
+    "en": "Steamed octopus",
+    "jaDetail": "素揚げ",
+    "enDetail": "Deep-fried"
+  },
+  "11003": {
+    "ja": "うさぎ肉",
+    "en": "Rabbit meat",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Raw"
+  },
+  "11004": {
+    "ja": "牛肩肉",
+    "en": "Wagyu beef shoulder",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11005": {
+    "ja": "牛肩肉",
+    "en": "Wagyu beef shoulder",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11006": {
+    "ja": "牛肩肉",
+    "en": "Wagyu beef shoulder",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean (red), Raw"
+  },
+  "11008": {
+    "ja": "牛肩ロース",
+    "en": "Wagyu chuck roll",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11009": {
+    "ja": "牛肩ロース",
+    "en": "Wagyu chuck roll",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11010": {
+    "ja": "牛肩ロース",
+    "en": "Wagyu chuck roll",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11011": {
+    "ja": "牛リブロース",
+    "en": "Wagyu ribeye",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11012": {
+    "ja": "和牛リブロース",
+    "en": "Wagyu Ribeye",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11013": {
+    "ja": "和牛リブロース",
+    "en": "Wagyu Ribeye",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11014": {
+    "ja": "和牛リブロース",
+    "en": "Wagyu Ribeye",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11015": {
+    "ja": "和牛サーロイン",
+    "en": "Wagyu Sirloin",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11016": {
+    "ja": "和牛サーロイン",
+    "en": "Wagyu Sirloin",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11017": {
+    "ja": "和牛サーロイン",
+    "en": "Wagyu Sirloin",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11018": {
+    "ja": "和牛ばら",
+    "en": "Wagyu Beef Belly",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11019": {
+    "ja": "和牛もも肉",
+    "en": "Wagyu Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11020": {
+    "ja": "和牛もも肉",
+    "en": "Wagyu Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11021": {
+    "ja": "和牛もも肉",
+    "en": "Wagyu Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11022": {
+    "ja": "和牛もも肉",
+    "en": "Wagyu Round",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11023": {
+    "ja": "和牛そともも",
+    "en": "Wagyu Outside Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11024": {
+    "ja": "和牛そともも",
+    "en": "Wagyu Outside Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11025": {
+    "ja": "和牛そともも",
+    "en": "Wagyu Outside Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11026": {
+    "ja": "和牛ランプ",
+    "en": "Wagyu Rump",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11027": {
+    "ja": "和牛ランプ",
+    "en": "Wagyu Rump",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11028": {
+    "ja": "和牛ランプ",
+    "en": "Wagyu Rump",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11029": {
+    "ja": "和牛ヒレ肉",
+    "en": "Wagyu Tenderloin",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11030": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11031": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11032": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11033": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11034": {
+    "ja": "牛肩ロース肉",
+    "en": "Beef Chuck Roll (Shoulder Loin)",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11035": {
+    "ja": "牛肩ロース肉",
+    "en": "Beef Chuck Roll (Shoulder Loin)",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11036": {
+    "ja": "牛肩ロース肉",
+    "en": "Beef Chuck Roll (Shoulder Loin)",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11037": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11038": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Grilled"
+  },
+  "11039": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・ゆで",
+    "enDetail": "Fat-on, Boiled"
+  },
+  "11040": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11041": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11042": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11043": {
+    "ja": "牛サーロイン肉",
+    "en": "Beef Sirloin",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11044": {
+    "ja": "牛サーロイン肉",
+    "en": "Beef Sirloin",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11045": {
+    "ja": "牛サーロイン肉",
+    "en": "Beef Sirloin",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11046": {
+    "ja": "牛バラ肉",
+    "en": "Beef Belly",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11047": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11048": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11049": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・焼き",
+    "enDetail": "No subcutaneous fat, Grilled"
+  },
+  "11050": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・ゆで",
+    "enDetail": "No subcutaneous fat, Boiled"
+  },
+  "11051": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11052": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11053": {
+    "ja": "牛外もも肉",
+    "en": "Beef Outside Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11054": {
+    "ja": "牛外もも肉",
+    "en": "Beef Outside Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11055": {
+    "ja": "牛外もも肉",
+    "en": "Beef Outside Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11056": {
+    "ja": "牛ランプ肉",
+    "en": "Beef Rump",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11057": {
+    "ja": "牛ランプ肉",
+    "en": "Beef Rump",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11058": {
+    "ja": "牛ランプ肉",
+    "en": "Beef Rump",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11059": {
+    "ja": "牛ヒレ肉",
+    "en": "Beef Tenderloin",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11060": {
+    "ja": "牛かた肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11061": {
+    "ja": "牛かた肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11062": {
+    "ja": "牛かた肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11063": {
+    "ja": "牛かた肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty portion, Raw"
+  },
+  "11064": {
+    "ja": "牛かたロース",
+    "en": "Beef Chuck Roll",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11065": {
+    "ja": "牛かたロース",
+    "en": "Beef Chuck Roll",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11066": {
+    "ja": "牛かたロース",
+    "en": "Beef Chuck Roll",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11067": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11068": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11069": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11070": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11071": {
+    "ja": "牛サーロイン",
+    "en": "Beef Sirloin",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11072": {
+    "ja": "牛サーロイン",
+    "en": "Beef Sirloin",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11073": {
+    "ja": "牛サーロイン",
+    "en": "Beef Sirloin",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11074": {
+    "ja": "牛ばら肉",
+    "en": "Beef Short Plate",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11075": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11076": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11077": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11078": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty, Raw"
+  },
+  "11079": {
+    "ja": "牛そともも",
+    "en": "Beef Outside Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11080": {
+    "ja": "牛そともも",
+    "en": "Beef Outside Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11081": {
+    "ja": "牛そともも",
+    "en": "Beef Outside Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11082": {
+    "ja": "牛ランプ",
+    "en": "Beef Rump",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11083": {
+    "ja": "牛ランプ",
+    "en": "Beef Rump",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11084": {
+    "ja": "牛ランプ",
+    "en": "Beef Rump",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Lean, Raw"
+  },
+  "11085": {
+    "ja": "牛ヒレ肉",
+    "en": "Beef Tenderloin",
+    "jaDetail": "輸入・生",
+    "enDetail": "Imported, Raw"
+  },
+  "11086": {
+    "ja": "子牛リブロース肉",
+    "en": "Veal Ribeye",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11087": {
+    "ja": "子牛バラ肉",
+    "en": "Veal Belly",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11088": {
+    "ja": "子牛もも肉",
+    "en": "Veal Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11089": {
+    "ja": "牛ひき肉",
+    "en": "Ground Beef",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11090": {
+    "ja": "牛タン",
+    "en": "Beef Tongue",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11091": {
+    "ja": "牛ハツ",
+    "en": "Beef Heart",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11092": {
+    "ja": "牛レバー",
+    "en": "Beef Liver",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11093": {
+    "ja": "牛腎臓",
+    "en": "Beef Kidney",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11094": {
+    "ja": "牛ミノ",
+    "en": "Beef Tripe (First Stomach)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11095": {
+    "ja": "牛ハチノス",
+    "en": "Beef Tripe (Second Stomach)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11096": {
+    "ja": "牛センマイ",
+    "en": "Beef Tripe (Third Stomach)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11097": {
+    "ja": "牛ギアラ",
+    "en": "Beef Tripe (Fourth Stomach)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11098": {
+    "ja": "牛小腸",
+    "en": "Beef Small Intestine",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11099": {
+    "ja": "牛大腸",
+    "en": "Beef Large Intestine",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11100": {
+    "ja": "牛直腸",
+    "en": "Beef Rectum",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11101": {
+    "ja": "牛すじ",
+    "en": "Beef Tendon",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11102": {
+    "ja": "牛子宮",
+    "en": "Beef Uterus",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11103": {
+    "ja": "牛テール",
+    "en": "Oxtail",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11104": {
+    "ja": "ローストビーフ",
+    "en": "Roast beef"
+  },
+  "11109": {
+    "ja": "馬肉",
+    "en": "Horse meat",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11110": {
+    "ja": "鯨肉",
+    "en": "Whale meat",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11111": {
+    "ja": "うねす",
+    "en": "Unesu (whale)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11112": {
+    "ja": "本皮",
+    "en": "Whale skin (honkawa)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11113": {
+    "ja": "さらしくじら",
+    "en": "Sarashi kujira"
+  },
+  "11114": {
+    "ja": "アカシカ",
+    "en": "Sika deer (Aka-shika)",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11124": {
+    "ja": "豚ロース",
+    "en": "Pork loin",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Grilled"
+  },
+  "11125": {
+    "ja": "豚ロース",
+    "en": "Pork loin",
+    "jaDetail": "脂身つき・ゆで",
+    "enDetail": "Fat-on, Boiled"
+  },
+  "11132": {
+    "ja": "豚もも",
+    "en": "Pork thigh",
+    "jaDetail": "皮下脂肪なし・焼き",
+    "enDetail": "No subcutaneous fat, Grilled"
+  },
+  "11133": {
+    "ja": "豚もも",
+    "en": "Pork thigh",
+    "jaDetail": "皮下脂肪なし・ゆで",
+    "enDetail": "No subcutaneous fat, Boiled"
+  },
+  "11168": {
+    "ja": "豚胃",
+    "en": "Pork stomach",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11169": {
+    "ja": "豚小腸",
+    "en": "Pork small intestine",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11170": {
+    "ja": "豚大腸",
+    "en": "Pork large intestine",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11172": {
+    "ja": "豚足",
+    "en": "Pork trotters",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11173": {
+    "ja": "豚軟骨",
+    "en": "Pork cartilage",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11197": {
+    "ja": "豚レバー",
+    "en": "Pork liver",
+    "jaDetail": "スモーク",
+    "enDetail": "Smoked"
+  },
+  "11198": {
+    "ja": "ゼラチン",
+    "en": "Gelatin",
+    "jaDetail": "豚由来",
+    "enDetail": "Pork-derived"
+  },
+  "11199": {
+    "ja": "マトンロース",
+    "en": "Mutton loin",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11200": {
+    "ja": "マトンもも肉",
+    "en": "Mutton leg",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11201": {
+    "ja": "ラム肩肉",
+    "en": "Lamb shoulder",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11202": {
+    "ja": "ラムロース",
+    "en": "Lamb loin",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11203": {
+    "ja": "ラムもも肉",
+    "en": "Lamb leg",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "Fat-on, Raw"
+  },
+  "11204": {
+    "ja": "山羊肉",
+    "en": "Goat Meat",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red, Raw"
+  },
+  "11222": {
+    "ja": "鶏もも肉",
+    "en": "Chicken Thigh",
+    "jaDetail": "皮つき・焼き",
+    "enDetail": "Skin-on, Grilled"
+  },
+  "11223": {
+    "ja": "鶏もも肉",
+    "en": "Chicken Thigh",
+    "jaDetail": "皮つき・ゆで",
+    "enDetail": "Skin-on, Boiled"
+  },
+  "11225": {
+    "ja": "鶏もも肉",
+    "en": "Chicken Thigh",
+    "jaDetail": "皮なし・焼き",
+    "enDetail": "Skinless, Grilled"
+  },
+  "11226": {
+    "ja": "鶏もも肉",
+    "en": "Chicken Thigh",
+    "jaDetail": "皮なし・ゆで",
+    "enDetail": "Skinless, Boiled"
+  },
+  "11228": {
+    "ja": "ささみ",
+    "en": "Chicken Tenderloin",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "11229": {
+    "ja": "ささみ",
+    "en": "Chicken Tenderloin",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11239": {
+    "ja": "フォアグラ",
+    "en": "Foie Gras",
+    "jaDetail": "がちょう・ゆで",
+    "enDetail": "Goose, Boiled"
+  },
+  "11244": {
+    "ja": "蜂の子",
+    "en": "Bee Larva",
+    "jaDetail": "缶詰",
+    "enDetail": "Canned"
+  },
+  "11245": {
+    "ja": "マトンロース",
+    "en": "Mutton loin",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11246": {
+    "ja": "ラムロース",
+    "en": "Lamb loin",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11248": {
+    "ja": "和牛リブロース",
+    "en": "Wagyu Ribeye",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Grilled"
+  },
+  "11249": {
+    "ja": "牛リブロース",
+    "en": "Wagyu ribeye",
+    "jaDetail": "脂身つき・ゆで",
+    "enDetail": "Fat-on, Boiled"
+  },
+  "11250": {
+    "ja": "和牛もも肉",
+    "en": "Wagyu Round",
+    "jaDetail": "皮下脂肪なし・焼き",
+    "enDetail": "No subcutaneous fat, Grilled"
+  },
+  "11251": {
+    "ja": "和牛もも肉",
+    "en": "Wagyu Round",
+    "jaDetail": "皮下脂肪なし・ゆで",
+    "enDetail": "No subcutaneous fat, Boiled"
+  },
+  "11252": {
+    "ja": "牛バラ肉",
+    "en": "Beef Belly",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "With fat, Grilled"
+  },
+  "11253": {
+    "ja": "牛ヒレ肉",
+    "en": "Beef Tenderloin",
+    "jaDetail": "赤肉・焼き",
+    "enDetail": "Lean, Grilled"
+  },
+  "11254": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11255": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "With fat, Grilled"
+  },
+  "11256": {
+    "ja": "牛リブロース肉",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・ゆで",
+    "enDetail": "With fat, Boiled"
+  },
+  "11257": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11258": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11259": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty portion, Raw"
+  },
+  "11260": {
+    "ja": "牛バラ肉",
+    "en": "Beef Belly",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11261": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "脂身つき・生",
+    "enDetail": "With fat, Raw"
+  },
+  "11262": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・生",
+    "enDetail": "No subcutaneous fat, Raw"
+  },
+  "11263": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・焼き",
+    "enDetail": "No subcutaneous fat, Grilled"
+  },
+  "11264": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・ゆで",
+    "enDetail": "No subcutaneous fat, Boiled"
+  },
+  "11265": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11266": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "脂身・生",
+    "enDetail": "Fatty portion, Raw"
+  },
+  "11267": {
+    "ja": "牛ヒレ肉",
+    "en": "Beef Tenderloin",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11268": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Grilled"
+  },
+  "11269": {
+    "ja": "牛リブロース",
+    "en": "Beef Ribeye",
+    "jaDetail": "脂身つき・ゆで",
+    "enDetail": "With fat, Boiled"
+  },
+  "11270": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・焼き",
+    "enDetail": "No subcutaneous fat, Grilled"
+  },
+  "11271": {
+    "ja": "牛もも肉",
+    "en": "Beef Round",
+    "jaDetail": "皮下脂肪なし・ゆで",
+    "enDetail": "No subcutaneous fat, Boiled"
+  },
+  "11272": {
+    "ja": "牛ひき肉",
+    "en": "Ground Beef",
+    "jaDetail": "焼き",
+    "enDetail": "Cooked"
+  },
+  "11273": {
+    "ja": "牛タン",
+    "en": "Beef Tongue",
+    "jaDetail": "焼き",
+    "enDetail": "Cooked"
+  },
+  "11274": {
+    "ja": "ハラミ",
+    "en": "Beef skirt (diaphragm)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "11275": {
+    "ja": "ニホンジカ",
+    "en": "Sika deer (Japanese deer)",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11277": {
+    "ja": "豚バラ",
+    "en": "Pork belly",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Grilled"
+  },
+  "11278": {
+    "ja": "豚ヒレ肉",
+    "en": "Pork tenderloin",
+    "jaDetail": "焼き",
+    "enDetail": "Cooked (roasted)"
+  },
+  "11280": {
+    "ja": "豚ひき肉",
+    "en": "Ground pork",
+    "jaDetail": "焼き",
+    "enDetail": "Cooked"
+  },
+  "11281": {
+    "ja": "マトンロース",
+    "en": "Mutton loin",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Cooked (roasted)"
+  },
+  "11282": {
+    "ja": "ラムロース",
+    "en": "Lamb loin",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Cooked (roasted)"
+  },
+  "11283": {
+    "ja": "ラムもも肉",
+    "en": "Lamb leg",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Cooked (roasted)"
+  },
+  "11287": {
+    "ja": "鶏むね肉",
+    "en": "Chicken Breast",
+    "jaDetail": "皮つき・焼き",
+    "enDetail": "Skin-on, Grilled"
+  },
+  "11288": {
+    "ja": "鶏むね肉",
+    "en": "Chicken Breast",
+    "jaDetail": "皮なし・焼き",
+    "enDetail": "Skinless, Grilled"
+  },
+  "11290": {
+    "ja": "鶏もも肉",
+    "en": "Chicken Thigh",
+    "jaDetail": "皮なし・から揚げ",
+    "enDetail": "Skinless, Karaage (Fried)"
+  },
+  "11291": {
+    "ja": "鶏ひき肉",
+    "en": "Ground Chicken",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "11294": {
+    "ja": "エゾシカ",
+    "en": "Ezo deer (Hokkaido sika)",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11295": {
+    "ja": "キュウシュウジカ",
+    "en": "Kyushu sika (deer)",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11296": {
+    "ja": "ハラミ",
+    "en": "Beef skirt (diaphragm)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "11297": {
+    "ja": "ハラミ",
+    "en": "Beef skirt (diaphragm)",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "11298": {
+    "ja": "ささみ",
+    "en": "Chicken Tenderloin",
+    "jaDetail": "ソテー",
+    "enDetail": "Sautéed"
+  },
+  "11300": {
+    "ja": "ささみ",
+    "en": "Chicken Tenderloin",
+    "jaDetail": "フライ",
+    "enDetail": "Fried"
+  },
+  "11301": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "赤肉・ゆで",
+    "enDetail": "Lean, Boiled"
+  },
+  "11302": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "赤肉・焼き",
+    "enDetail": "Lean, Grilled"
+  },
+  "11309": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "脂身つき・ゆで",
+    "enDetail": "Fat-on, Boiled"
+  },
+  "11310": {
+    "ja": "牛肩肉",
+    "en": "Beef Shoulder",
+    "jaDetail": "脂身つき・焼き",
+    "enDetail": "Fat-on, Grilled"
+  },
+  "11311": {
+    "ja": "ホンシュウジカ",
+    "en": "Honshu sika (deer)",
+    "jaDetail": "赤肉・生",
+    "enDetail": "Red meat, Raw"
+  },
+  "11313": {
+    "ja": "豚ほほ肉",
+    "en": "Pork cheek",
+    "jaDetail": "焼き",
+    "enDetail": "Cooked (roasted)"
+  },
+  "12003": {
+    "ja": "うずら卵",
+    "en": "Quail Egg",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned, Boiled"
+  },
+  "12005": {
+    "ja": "ゆで卵",
+    "en": "Boiled Egg"
+  },
+  "12006": {
+    "ja": "ポーチドエッグ",
+    "en": "Poached Egg"
+  },
+  "12007": {
+    "ja": "ゆで卵",
+    "en": "Boiled Egg",
+    "jaDetail": "缶詰",
+    "enDetail": "Canned"
+  },
+  "12009": {
+    "ja": "卵パウダー",
+    "en": "Egg Powder",
+    "jaDetail": "全卵",
+    "enDetail": "Whole"
+  },
+  "12011": {
+    "ja": "卵黄",
+    "en": "Egg Yolk",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "12012": {
+    "ja": "加糖卵黄",
+    "en": "Sweetened Egg Yolk"
+  },
+  "12013": {
+    "ja": "卵黄粉",
+    "en": "Egg Yolk Powder"
+  },
+  "12015": {
+    "ja": "卵白",
+    "en": "Egg White",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "12016": {
+    "ja": "卵白粉",
+    "en": "Egg White Powder"
+  },
+  "12017": {
+    "ja": "卵豆腐",
+    "en": "Egg Tofu"
+  },
+  "12018": {
+    "ja": "厚焼き玉子",
+    "en": "Thick Tamagoyaki"
+  },
+  "12019": {
+    "ja": "だし巻き卵",
+    "en": "Dashimaki Tamago"
+  },
+  "12021": {
+    "ja": "目玉焼き",
+    "en": "Fried Egg"
+  },
+  "12022": {
+    "ja": "炒り卵",
+    "en": "Scrambled Egg"
+  },
+  "12023": {
+    "ja": "揚げ卵",
+    "en": "Deep-fried Egg",
+    "jaDetail": "素揚げ",
+    "enDetail": "Whole"
+  },
+  "13003": {
+    "ja": "牛乳",
+    "en": "Milk",
+    "jaDetail": "普通",
+    "enDetail": "Whole"
+  },
+  "13005": {
+    "ja": "低脂肪乳",
+    "en": "Low-fat Milk"
+  },
+  "13006": {
+    "ja": "脱脂乳",
+    "en": "Skim Milk"
+  },
+  "13009": {
+    "ja": "全粉乳",
+    "en": "Whole Milk Powder"
+  },
+  "13010": {
+    "ja": "脱脂粉乳",
+    "en": "Skim Milk Powder"
+  },
+  "13011": {
+    "ja": "粉ミルク",
+    "en": "Infant Formula Powder",
+    "jaDetail": "乳児用"
+  },
+  "13014": {
+    "ja": "生クリーム",
+    "en": "Heavy Cream",
+    "jaDetail": "乳脂肪"
+  },
+  "13025": {
+    "ja": "プレーンヨーグルト",
+    "en": "Plain Yogurt",
+    "jaDetail": "全脂・無糖",
+    "enDetail": "Full-fat, Unsweetened"
+  },
+  "13026": {
+    "ja": "ヨーグルト",
+    "en": "Yogurt",
+    "jaDetail": "脱脂・加糖",
+    "enDetail": "Skimmed, Sweetened"
+  },
+  "13027": {
+    "ja": "飲むヨーグルト",
+    "en": "Yogurt Drink",
+    "jaDetail": "加糖",
+    "enDetail": "Sweetened"
+  },
+  "13028": {
+    "ja": "乳酸菌飲料",
+    "en": "Probiotic Drink",
+    "jaDetail": "乳製品",
+    "enDetail": "Dairy"
+  },
+  "13029": {
+    "ja": "乳酸菌飲料",
+    "en": "Probiotic Drink",
+    "jaDetail": "殺菌乳製品",
+    "enDetail": "Sterilized Dairy"
+  },
+  "13030": {
+    "ja": "乳酸菌飲料",
+    "en": "Probiotic Drink",
+    "jaDetail": "非乳製品",
+    "enDetail": "Non-dairy"
+  },
+  "13031": {
+    "ja": "エダムチーズ",
+    "en": "Edam Cheese"
+  },
+  "13032": {
+    "ja": "エメンタールチーズ",
+    "en": "Emmental Cheese"
+  },
+  "13033": {
+    "ja": "カッテージチーズ",
+    "en": "Cottage Cheese"
+  },
+  "13034": {
+    "ja": "カマンベールチーズ",
+    "en": "Camembert Cheese"
+  },
+  "13035": {
+    "ja": "クリームチーズ",
+    "en": "Cream Cheese"
+  },
+  "13036": {
+    "ja": "ゴーダチーズ",
+    "en": "Gouda Cheese"
+  },
+  "13037": {
+    "ja": "チェダーチーズ",
+    "en": "Cheddar Cheese"
+  },
+  "13038": {
+    "ja": "パルメザンチーズ",
+    "en": "Parmesan Cheese"
+  },
+  "13039": {
+    "ja": "ブルーチーズ",
+    "en": "Blue Cheese"
+  },
+  "13040": {
+    "ja": "プロセスチーズ",
+    "en": "Processed cheese"
+  },
+  "13041": {
+    "ja": "チーズスプレッド",
+    "en": "Cheese spread"
+  },
+  "13048": {
+    "ja": "カゼイン",
+    "en": "Casein"
+  },
+  "13050": {
+    "ja": "チーズホエーパウダー",
+    "en": "Cheese whey powder"
+  },
+  "13053": {
+    "ja": "ヨーグルト",
+    "en": "Yogurt",
+    "jaDetail": "低脂肪・無糖",
+    "enDetail": "Low-fat, Unsweetened"
+  },
+  "13054": {
+    "ja": "ヨーグルト",
+    "en": "Yogurt",
+    "jaDetail": "無脂肪・無糖",
+    "enDetail": "Nonfat, Unsweetened"
+  },
+  "13055": {
+    "ja": "マスカルポーネ",
+    "en": "Mascarpone"
+  },
+  "13056": {
+    "ja": "モッツァレラチーズ",
+    "en": "Mozzarella Cheese"
+  },
+  "13057": {
+    "ja": "ヤギチーズ",
+    "en": "Goat Cheese"
+  },
+  "13058": {
+    "ja": "リコッタチーズ",
+    "en": "Ricotta Cheese"
+  },
+  "13059": {
+    "ja": "乳児用液体ミルク",
+    "en": "Infant Liquid Formula"
+  },
+  "14001": {
+    "ja": "オリーブ油",
+    "en": "Olive oil"
+  },
+  "14002": {
+    "ja": "ごま油",
+    "en": "Sesame oil"
+  },
+  "14003": {
+    "ja": "米ぬか油",
+    "en": "Rice bran oil"
+  },
+  "14004": {
+    "ja": "サフラワー油",
+    "en": "Safflower oil",
+    "jaDetail": "ハイオレイック",
+    "enDetail": "High oleic"
+  },
+  "14005": {
+    "ja": "大豆油",
+    "en": "Soybean oil"
+  },
+  "14006": {
+    "ja": "調合油",
+    "en": "Blended oil"
+  },
+  "14007": {
+    "ja": "とうもろこし油",
+    "en": "Corn oil"
+  },
+  "14008": {
+    "ja": "なたね油",
+    "en": "Rapeseed oil"
+  },
+  "14009": {
+    "ja": "パーム油",
+    "en": "Palm oil"
+  },
+  "14011": {
+    "ja": "ひまわり油",
+    "en": "Sunflower oil",
+    "jaDetail": "ハイリノール",
+    "enDetail": "High linoleic"
+  },
+  "14012": {
+    "ja": "綿実油",
+    "en": "Cottonseed oil"
+  },
+  "14013": {
+    "ja": "ココナッツオイル",
+    "en": "Coconut oil"
+  },
+  "14014": {
+    "ja": "ピーナッツ油",
+    "en": "Peanut oil"
+  },
+  "14015": {
+    "ja": "牛脂",
+    "en": "Beef tallow"
+  },
+  "14023": {
+    "ja": "あまに油",
+    "en": "Flaxseed oil"
+  },
+  "14024": {
+    "ja": "えごま油",
+    "en": "Perilla oil"
+  },
+  "14025": {
+    "ja": "サフラワー油",
+    "en": "Safflower oil",
+    "jaDetail": "ハイリノール",
+    "enDetail": "High linoleic"
+  },
+  "14026": {
+    "ja": "ひまわり油",
+    "en": "Sunflower oil",
+    "jaDetail": "ミッドオレイック",
+    "enDetail": "Mid oleic"
+  },
+  "14027": {
+    "ja": "ひまわり油",
+    "en": "Sunflower oil",
+    "jaDetail": "ハイオレイック",
+    "enDetail": "High oleic"
+  },
+  "14028": {
+    "ja": "ぶどう油",
+    "en": "Grapeseed oil"
+  },
+  "14032": {
+    "ja": "たら油",
+    "en": "Cod oil"
+  },
+  "15018": {
+    "ja": "くし団子",
+    "en": "Dango",
+    "jaDetail": "こしあん入り",
+    "enDetail": "Koshian (smooth red bean paste)"
+  },
+  "15049": {
+    "ja": "瓦せんべい",
+    "en": "Kawara senbei"
+  },
+  "15143": {
+    "ja": "ずんだあん",
+    "en": "Zunda paste"
+  },
+  "15151": {
+    "ja": "くし団子",
+    "en": "Dango",
+    "jaDetail": "つぶあん入り",
+    "enDetail": "Tsubuan (chunky red bean paste)"
+  },
+  "16051": {
+    "ja": "昆布茶",
+    "en": "Kombu tea"
+  },
+  "16055": {
+    "ja": "麦茶",
+    "en": "Barley tea",
+    "jaDetail": "浸出液",
+    "enDetail": "Infusion"
+  },
+  "16056": {
+    "ja": "青汁",
+    "en": "Kale juice",
+    "jaDetail": "ケール"
+  },
+  "17016": {
+    "ja": "米酢",
+    "en": "Rice vinegar"
+  },
+  "17018": {
+    "ja": "りんご酢",
+    "en": "Apple cider vinegar"
+  },
+  "17019": {
+    "ja": "かつおだし",
+    "en": "Bonito stock",
+    "jaDetail": "荒節",
+    "enDetail": "Arabushi"
+  },
+  "17020": {
+    "ja": "昆布だし",
+    "en": "Kombu dashi",
+    "jaDetail": "水出し",
+    "enDetail": "Cold-steeped"
+  },
+  "17022": {
+    "ja": "しいたけだし",
+    "en": "Shiitake Dashi"
+  },
+  "17023": {
+    "ja": "煮干しだし",
+    "en": "Niboshi Dashi"
+  },
+  "17024": {
+    "ja": "鶏がらだし",
+    "en": "Chicken Stock"
+  },
+  "17034": {
+    "ja": "トマトピューレ",
+    "en": "Tomato Puree"
+  },
+  "17035": {
+    "ja": "トマトペースト",
+    "en": "Tomato Paste"
+  },
+  "17037": {
+    "ja": "トマトソース",
+    "en": "Tomato Sauce"
+  },
+  "17078": {
+    "ja": "パセリ",
+    "en": "Parsley",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "17083": {
+    "ja": "パン酵母",
+    "en": "Dry Yeast",
+    "jaDetail": "乾燥"
+  },
+  "17084": {
+    "ja": "ベーキングパウダー",
+    "en": "Baking Powder"
+  },
+  "17091": {
+    "ja": "バルサミコ酢",
+    "en": "Balsamic vinegar"
+  },
+  "17102": {
+    "ja": "すし酢",
+    "en": "Sushi Vinegar",
+    "jaDetail": "にぎり用",
+    "enDetail": "For Nigiri"
+  },
+  "17104": {
+    "ja": "中華風合わせ酢",
+    "en": "Chinese-style Vinegar Dressing"
+  },
+  "17119": {
+    "ja": "減塩みそ",
+    "en": "Reduced-sodium Miso"
+  },
+  "17132": {
+    "ja": "昆布だし",
+    "en": "Kombu dashi",
+    "jaDetail": "煮出し",
+    "enDetail": "Simmered"
+  },
+  "17139": {
+    "ja": "うすくちしょうゆ",
+    "en": "Light soy sauce",
+    "jaDetail": "低塩",
+    "enDetail": "Reduced-sodium"
+  },
+  "17148": {
+    "ja": "かつお昆布だし",
+    "en": "Bonito & kelp stock",
+    "jaDetail": "本枯れ節使用",
+    "enDetail": "Honkarebushi & kombu"
+  },
+  "18009": {
+    "ja": "えびフライ",
+    "en": "Fried Shrimp",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "18051": {
+    "ja": "チキンハンバーグ",
+    "en": "Chicken Patty"
+  },
+  "01001": {
+    "ja": "アマランサス",
+    "en": "Amaranth",
+    "jaDetail": "玄穀",
+    "enDetail": "Whole Grain"
+  },
+  "01002": {
+    "ja": "あわ",
+    "en": "Millet",
+    "jaDetail": "精白粒",
+    "enDetail": "Polished"
+  },
+  "01004": {
+    "ja": "オートミール",
+    "en": "Oatmeal"
+  },
+  "01005": {
+    "ja": "押麦",
+    "en": "Rolled Barley",
+    "jaDetail": "七分つき",
+    "enDetail": "70% polished"
+  },
+  "01006": {
+    "ja": "押麦",
+    "en": "Rolled Barley",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "01170": {
+    "ja": "押麦",
+    "en": "Rolled Barley",
+    "jaDetail": "めし",
+    "enDetail": "Cooked"
+  },
+  "01007": {
+    "ja": "米粒麦",
+    "en": "Pearled Barley"
+  },
+  "01008": {
+    "ja": "大麦めん",
+    "en": "Barley Noodles",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01009": {
+    "ja": "大麦めん",
+    "en": "Barley Noodles",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01010": {
+    "ja": "麦こがし",
+    "en": "Roasted Barley"
+  },
+  "01167": {
+    "ja": "キヌア",
+    "en": "Quinoa",
+    "jaDetail": "玄穀",
+    "enDetail": "Whole Grain"
+  },
+  "01011": {
+    "ja": "きび",
+    "en": "Millet",
+    "jaDetail": "精白粒",
+    "enDetail": "Polished"
+  },
+  "01012": {
+    "ja": "小麦",
+    "en": "Wheat",
+    "jaDetail": "玄穀・国産",
+    "enDetail": "Whole Grain, Domestic"
+  },
+  "01013": {
+    "ja": "小麦",
+    "en": "Wheat",
+    "jaDetail": "玄穀・輸入・軟質",
+    "enDetail": "Whole Grain, Imported, Soft"
+  },
+  "01015": {
+    "ja": "薄力粉",
+    "en": "Cake Flour",
+    "jaDetail": "1等",
+    "enDetail": "Grade 1"
+  },
+  "01016": {
+    "ja": "薄力粉",
+    "en": "Cake Flour",
+    "jaDetail": "2等",
+    "enDetail": "Grade 2"
+  },
+  "01018": {
+    "ja": "中力粉",
+    "en": "All-Purpose Flour",
+    "jaDetail": "1等",
+    "enDetail": "Grade 1"
+  },
+  "01019": {
+    "ja": "中力粉",
+    "en": "All-Purpose Flour",
+    "jaDetail": "2等",
+    "enDetail": "Grade 2"
+  },
+  "01020": {
+    "ja": "強力粉",
+    "en": "Bread Flour",
+    "jaDetail": "1等",
+    "enDetail": "Grade 1"
+  },
+  "01021": {
+    "ja": "強力粉",
+    "en": "Bread Flour",
+    "jaDetail": "2等",
+    "enDetail": "Grade 2"
+  },
+  "01023": {
+    "ja": "強力粉",
+    "en": "Bread Flour",
+    "jaDetail": "全粒粉",
+    "enDetail": "Whole Wheat"
+  },
+  "01025": {
+    "ja": "天ぷら粉",
+    "en": "Tempura Mix",
+    "jaDetail": "プレミックス",
+    "enDetail": "Premix"
+  },
+  "01026": {
+    "ja": "食パン",
+    "en": "Bread",
+    "jaDetail": "角形",
+    "enDetail": "Square Loaf"
+  },
+  "01174": {
+    "ja": "食パン",
+    "en": "Bread",
+    "jaDetail": "角形・焼き",
+    "enDetail": "Square Loaf, Baked"
+  },
+  "01176": {
+    "ja": "食パンの耳",
+    "en": "Bread Crusts"
+  },
+  "01206": {
+    "ja": "食パン",
+    "en": "Bread",
+    "jaDetail": "リーンタイプ",
+    "enDetail": "Lean Type"
+  },
+  "01207": {
+    "ja": "食パン",
+    "en": "Bread",
+    "jaDetail": "リッチタイプ",
+    "enDetail": "Rich Type"
+  },
+  "01205": {
+    "ja": "山形食パン",
+    "en": "Yamagata Loaf"
+  },
+  "01028": {
+    "ja": "コッペパン",
+    "en": "Koppepan"
+  },
+  "01030": {
+    "ja": "乾パン",
+    "en": "Hardtack"
+  },
+  "01031": {
+    "ja": "フランスパン",
+    "en": "Baguette"
+  },
+  "01208": {
+    "ja": "全粒粉パン",
+    "en": "Whole Wheat Bread"
+  },
+  "01034": {
+    "ja": "ロールパン",
+    "en": "Bread Roll"
+  },
+  "01037": {
+    "ja": "ナン",
+    "en": "Naan"
+  },
+  "01039": {
+    "ja": "うどん",
+    "en": "Udon",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01041": {
+    "ja": "干しうどん",
+    "en": "Udon",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01042": {
+    "ja": "干しうどん",
+    "en": "Udon",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01043": {
+    "ja": "そうめん・ひやむぎ",
+    "en": "Somen/Hiyamugi",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01044": {
+    "ja": "そうめん・ひやむぎ",
+    "en": "Somen/Hiyamugi",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01045": {
+    "ja": "手延そうめん・手延ひやむぎ",
+    "en": "Hand-stretched Somen/Hiyamugi",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01046": {
+    "ja": "そうめん",
+    "en": "Somen",
+    "jaDetail": "手延・ゆで",
+    "enDetail": "Hand-stretched, Boiled"
+  },
+  "01047": {
+    "ja": "中華めん",
+    "en": "Chinese Noodles",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "01048": {
+    "ja": "中華めん",
+    "en": "Chinese Noodles",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01187": {
+    "ja": "半生中華めん",
+    "en": "Semi-dried Chinese Noodles"
+  },
+  "01049": {
+    "ja": "蒸し中華めん",
+    "en": "Steamed Chinese Noodles"
+  },
+  "01188": {
+    "ja": "蒸し中華めん",
+    "en": "Steamed Chinese Noodles",
+    "jaDetail": "ソテー",
+    "enDetail": "Sauteed"
+  },
+  "01050": {
+    "ja": "干し中華めん",
+    "en": "Dried Chinese Noodles",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01051": {
+    "ja": "干し中華めん",
+    "en": "Dried Chinese Noodles",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01052": {
+    "ja": "沖縄そば",
+    "en": "Okinawa Soba",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "01053": {
+    "ja": "沖縄そば",
+    "en": "Okinawa Soba",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01054": {
+    "ja": "沖縄そば",
+    "en": "Okinawa Soba",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01055": {
+    "ja": "沖縄そば",
+    "en": "Okinawa Soba",
+    "jaDetail": "干し・ゆで",
+    "enDetail": "Dried-origin, Boiled"
+  },
+  "01190": {
+    "ja": "インスタントラーメン",
+    "en": "Instant Noodles (non-fried)",
+    "jaDetail": "非油揚げ・ゆで（添付調味料なし）",
+    "enDetail": "Boiled, no seasoning"
+  },
+  "01145": {
+    "ja": "インスタントラーメン",
+    "en": "Instant Noodles (non-fried)",
+    "jaDetail": "非油揚げ・乾（添付調味料なし）",
+    "enDetail": "Dried, no seasoning"
+  },
+  "01063": {
+    "ja": "マカロニ・スパゲッティ",
+    "en": "Pasta",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "01064": {
+    "ja": "マカロニ・スパゲッティ",
+    "en": "Pasta",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01173": {
+    "ja": "マカロニ・スパゲッティ",
+    "en": "Pasta",
+    "jaDetail": "ソテー",
+    "enDetail": "Sauteed"
+  },
+  "01065": {
+    "ja": "生麩",
+    "en": "Nama-fu",
+    "enDetail": "Raw"
+  },
+  "01067": {
+    "ja": "板麩",
+    "en": "Ita-fu (Flat fu)"
+  },
+  "01068": {
+    "ja": "車麩",
+    "en": "Kuruma-fu (Wheel fu)"
+  },
+  "01177": {
+    "ja": "油麩",
+    "en": "Abura-fu"
+  },
+  "01071": {
+    "ja": "小麦たんぱく",
+    "en": "Wheat protein",
+    "jaDetail": "粉末状",
+    "enDetail": "Powder"
+  },
+  "01072": {
+    "ja": "小麦たんぱく",
+    "en": "Wheat protein",
+    "jaDetail": "粒状",
+    "enDetail": "Granules"
+  },
+  "01073": {
+    "ja": "小麦たんぱく",
+    "en": "Wheat protein",
+    "jaDetail": "ペースト状",
+    "enDetail": "Paste"
+  },
+  "01074": {
+    "ja": "餃子の皮",
+    "en": "Gyoza wrappers",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "01075": {
+    "ja": "焼売の皮",
+    "en": "Shumai wrappers",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "01077": {
+    "ja": "パン粉",
+    "en": "Panko",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "01078": {
+    "ja": "パン粉",
+    "en": "Panko",
+    "jaDetail": "半生",
+    "enDetail": "Semi-dried"
+  },
+  "01079": {
+    "ja": "パン粉",
+    "en": "Panko",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "01150": {
+    "ja": "冷麺",
+    "en": "Cold noodles",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "01080": {
+    "ja": "玄米",
+    "en": "Brown rice"
+  },
+  "01081": {
+    "ja": "半つき米",
+    "en": "Semi-milled rice"
+  },
+  "01082": {
+    "ja": "七分つき米",
+    "en": "Partially polished rice",
+    "enDetail": "70%"
+  },
+  "01083": {
+    "ja": "白米",
+    "en": "White rice",
+    "jaDetail": "うるち米",
+    "enDetail": "Non-glutinous"
+  },
+  "01151": {
+    "ja": "もち米",
+    "en": "Glutinous rice",
+    "jaDetail": "精白米",
+    "enDetail": "Polished"
+  },
+  "01152": {
+    "ja": "インディカ米",
+    "en": "Indica rice",
+    "jaDetail": "精白米",
+    "enDetail": "Polished"
+  },
+  "01084": {
+    "ja": "胚芽精米",
+    "en": "Germ-polished rice"
+  },
+  "01153": {
+    "ja": "発芽玄米",
+    "en": "Germinated brown rice"
+  },
+  "01181": {
+    "ja": "赤米",
+    "en": "Red rice"
+  },
+  "01182": {
+    "ja": "黒米",
+    "en": "Black rice"
+  },
+  "01085": {
+    "ja": "玄米",
+    "en": "Brown Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01086": {
+    "ja": "半つき米",
+    "en": "Half-polished Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01087": {
+    "ja": "七分つき米",
+    "en": "70% Polished Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01168": {
+    "ja": "インディカ米",
+    "en": "Indica Rice",
+    "jaDetail": "白米・ご飯",
+    "enDetail": "Polished, Cooked"
+  },
+  "01088": {
+    "ja": "白米",
+    "en": "White Rice",
+    "jaDetail": "うるち米・ご飯",
+    "enDetail": "Non-glutinous, Cooked"
+  },
+  "01154": {
+    "ja": "もち米",
+    "en": "Glutinous Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01089": {
+    "ja": "胚芽精米",
+    "en": "Germ-polished Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01155": {
+    "ja": "発芽玄米",
+    "en": "Sprouted Brown Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01183": {
+    "ja": "赤米",
+    "en": "Red Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01184": {
+    "ja": "黒米",
+    "en": "Black Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01185": {
+    "ja": "白米",
+    "en": "White Rice",
+    "jaDetail": "軟めし",
+    "enDetail": "Soft-cooked"
+  },
+  "01090": {
+    "ja": "玄米",
+    "en": "Brown Rice",
+    "jaDetail": "全がゆ",
+    "enDetail": "Whole Porridge"
+  },
+  "01091": {
+    "ja": "半つき米",
+    "en": "Half-polished Rice",
+    "jaDetail": "全がゆ",
+    "enDetail": "Whole Porridge"
+  },
+  "01092": {
+    "ja": "七分つき米",
+    "en": "70% Polished Rice",
+    "jaDetail": "全がゆ",
+    "enDetail": "Whole Porridge"
+  },
+  "01093": {
+    "ja": "白米",
+    "en": "White Rice",
+    "jaDetail": "全がゆ",
+    "enDetail": "Whole Porridge"
+  },
+  "01094": {
+    "ja": "玄米",
+    "en": "Brown Rice",
+    "jaDetail": "五分がゆ",
+    "enDetail": "50% Porridge"
+  },
+  "01095": {
+    "ja": "半つき米",
+    "en": "Half-polished Rice",
+    "jaDetail": "五分がゆ",
+    "enDetail": "50% Porridge"
+  },
+  "01096": {
+    "ja": "七分つき米",
+    "en": "70% Polished Rice",
+    "jaDetail": "五分がゆ",
+    "enDetail": "50% Porridge"
+  },
+  "01097": {
+    "ja": "白米",
+    "en": "White Rice",
+    "jaDetail": "五分がゆ",
+    "enDetail": "50% Porridge"
+  },
+  "01098": {
+    "ja": "玄米",
+    "en": "Brown Rice",
+    "jaDetail": "おもゆ",
+    "enDetail": "Thin Porridge"
+  },
+  "01099": {
+    "ja": "おかゆ",
+    "en": "Rice Porridge",
+    "jaDetail": "半つき米",
+    "enDetail": "Semi‑polished Rice"
+  },
+  "01100": {
+    "ja": "おかゆ",
+    "en": "Rice Porridge",
+    "jaDetail": "七分つき米",
+    "enDetail": "70% polished"
+  },
+  "01101": {
+    "ja": "おかゆ",
+    "en": "Rice Porridge",
+    "jaDetail": "精白米",
+    "enDetail": "White (polished) Rice"
+  },
+  "01102": {
+    "ja": "玄米",
+    "en": "Brown Rice",
+    "jaDetail": "穀粒",
+    "enDetail": "Uncooked"
+  },
+  "01103": {
+    "ja": "半つき米",
+    "en": "Semi‑polished Rice",
+    "jaDetail": "穀粒",
+    "enDetail": "Uncooked"
+  },
+  "01104": {
+    "ja": "七分つき米",
+    "en": "70% Polished Rice",
+    "jaDetail": "穀粒",
+    "enDetail": "Uncooked"
+  },
+  "01105": {
+    "ja": "白米",
+    "en": "White Rice",
+    "jaDetail": "穀粒",
+    "enDetail": "Uncooked"
+  },
+  "01106": {
+    "ja": "玄米",
+    "en": "Brown Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01107": {
+    "ja": "半つき米",
+    "en": "Semi‑polished Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01108": {
+    "ja": "七分つき米",
+    "en": "70% Polished Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01109": {
+    "ja": "白米",
+    "en": "White Rice",
+    "jaDetail": "ご飯",
+    "enDetail": "Cooked"
+  },
+  "01110": {
+    "ja": "アルファ米",
+    "en": "Alpha Rice",
+    "jaDetail": "一般用",
+    "enDetail": "General‑purpose"
+  },
+  "01156": {
+    "ja": "アルファ米",
+    "en": "Alpha Rice",
+    "jaDetail": "学校給食用強化品",
+    "enDetail": "Fortified for school lunch"
+  },
+  "01214": {
+    "ja": "レトルトおかゆ",
+    "en": "Retort Rice Porridge",
+    "jaDetail": "玄米",
+    "enDetail": "Brown Rice"
+  },
+  "01215": {
+    "ja": "レトルトおかゆ",
+    "en": "Retort Rice Porridge",
+    "jaDetail": "精白米",
+    "enDetail": "White Rice"
+  },
+  "01111": {
+    "ja": "おにぎり",
+    "en": "Rice Ball"
+  },
+  "01113": {
+    "ja": "きりたんぽ",
+    "en": "Kiritanpo"
+  },
+  "01114": {
+    "ja": "上新粉",
+    "en": "Joshinko",
+    "enDetail": "Rice flour"
+  },
+  "01157": {
+    "ja": "玄米粉",
+    "en": "Brown Rice Flour"
+  },
+  "01158": {
+    "ja": "米粉",
+    "en": "Rice Flour"
+  },
+  "01212": {
+    "ja": "ロールパン",
+    "en": "Bread Roll",
+    "jaDetail": "米粉",
+    "enDetail": "Rice Flour"
+  },
+  "01159": {
+    "ja": "ロールパン",
+    "en": "Bread Roll",
+    "jaDetail": "米粉・小麦グルテン不使用",
+    "enDetail": "Rice Flour, Gluten-free"
+  },
+  "01160": {
+    "ja": "米粉麺",
+    "en": "Rice Noodles"
+  },
+  "01115": {
+    "ja": "ビーフン",
+    "en": "Rice Vermicelli"
+  },
+  "01169": {
+    "ja": "ライスペーパー",
+    "en": "Rice Paper"
+  },
+  "01116": {
+    "ja": "米麹",
+    "en": "Rice Koji"
+  },
+  "01118": {
+    "ja": "赤飯",
+    "en": "Sekihan"
+  },
+  "01120": {
+    "ja": "白玉粉",
+    "en": "Glutinous Rice Flour",
+    "enDetail": "Shiratamako"
+  },
+  "01121": {
+    "ja": "道明寺粉",
+    "en": "Domyoji Flour"
+  },
+  "01161": {
+    "ja": "米ぬか",
+    "en": "Rice Bran"
+  },
+  "01122": {
+    "ja": "そば粉",
+    "en": "Buckwheat Flour",
+    "jaDetail": "全層粉",
+    "enDetail": "Whole-layer"
+  },
+  "01123": {
+    "ja": "そば粉",
+    "en": "Buckwheat Flour",
+    "jaDetail": "内層粉",
+    "enDetail": "Inner-layer"
+  },
+  "01124": {
+    "ja": "そば粉",
+    "en": "Buckwheat Flour",
+    "jaDetail": "中層粉",
+    "enDetail": "Middle-layer"
+  },
+  "01125": {
+    "ja": "そば粉",
+    "en": "Buckwheat Flour",
+    "jaDetail": "表層粉",
+    "enDetail": "Outer-layer"
+  },
+  "01126": {
+    "ja": "そば米",
+    "en": "Buckwheat Groats"
+  },
+  "01128": {
+    "ja": "そば",
+    "en": "Soba",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01197": {
+    "ja": "そば",
+    "en": "Soba",
+    "jaDetail": "半生",
+    "enDetail": "Semi-dried"
+  },
+  "01129": {
+    "ja": "干しそば",
+    "en": "Dried Soba",
+    "jaDetail": "乾"
+  },
+  "01130": {
+    "ja": "干しそば",
+    "en": "Dried Soba",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "01131": {
+    "ja": "とうもろこし",
+    "en": "Corn",
+    "jaDetail": "玄穀・黄色種",
+    "enDetail": "Whole Grain, Yellow"
+  },
+  "01162": {
+    "ja": "とうもろこし",
+    "en": "Corn",
+    "jaDetail": "玄穀・白色種",
+    "enDetail": "Whole grain, White"
+  },
+  "01132": {
+    "ja": "コーンミール",
+    "en": "Cornmeal",
+    "jaDetail": "黄色種",
+    "enDetail": "Yellow"
+  },
+  "01163": {
+    "ja": "コーンミール",
+    "en": "Cornmeal",
+    "jaDetail": "白色種",
+    "enDetail": "White"
+  },
+  "01133": {
+    "ja": "コーングリッツ",
+    "en": "Corn Grits",
+    "jaDetail": "黄色種",
+    "enDetail": "Yellow"
+  },
+  "01164": {
+    "ja": "コーングリッツ",
+    "en": "Corn Grits",
+    "jaDetail": "白色種",
+    "enDetail": "White"
+  },
+  "01134": {
+    "ja": "コーンフラワー",
+    "en": "Corn Flour",
+    "jaDetail": "黄色種",
+    "enDetail": "Yellow"
+  },
+  "01165": {
+    "ja": "コーンフラワー",
+    "en": "Corn Flour",
+    "jaDetail": "白色種",
+    "enDetail": "White"
+  },
+  "01138": {
+    "ja": "はとむぎ",
+    "en": "Job's tears",
+    "jaDetail": "精白粒",
+    "enDetail": "Polished"
+  },
+  "01139": {
+    "ja": "ひえ",
+    "en": "Proso Millet",
+    "jaDetail": "精白粒",
+    "enDetail": "Polished"
+  },
+  "01140": {
+    "ja": "もろこし",
+    "en": "Sorghum",
+    "jaDetail": "玄穀",
+    "enDetail": "Whole grain"
+  },
+  "01141": {
+    "ja": "もろこし",
+    "en": "Sorghum",
+    "jaDetail": "精白粒",
+    "enDetail": "Polished"
+  },
+  "01142": {
+    "ja": "ライ麦",
+    "en": "Rye",
+    "jaDetail": "全粒粉",
+    "enDetail": "Wholemeal flour"
+  },
+  "02069": {
+    "ja": "アメリカほどいも",
+    "en": "American sweet potato",
+    "jaDetail": "塊根・ゆで",
+    "enDetail": "Tuber, Boiled"
+  },
+  "02001": {
+    "ja": "きくいも",
+    "en": "Jerusalem artichoke",
+    "jaDetail": "塊茎・生",
+    "enDetail": "Tuber, Raw"
+  },
+  "02041": {
+    "ja": "きくいも",
+    "en": "Jerusalem artichoke",
+    "jaDetail": "塊茎・水煮",
+    "enDetail": "Tuber, Boiled"
+  },
+  "02002": {
+    "ja": "こんにゃく粉",
+    "en": "Konjac Flour"
+  },
+  "02003": {
+    "ja": "板こんにゃく",
+    "en": "Konjac (Block)",
+    "jaDetail": "精粉こんにゃく",
+    "enDetail": "From refined flour"
+  },
+  "02004": {
+    "ja": "板こんにゃく",
+    "en": "Konjac (Block)",
+    "jaDetail": "生いもこんにゃく",
+    "enDetail": "From fresh tuber"
+  },
+  "02042": {
+    "ja": "赤こんにゃく",
+    "en": "Red Konjac"
+  },
+  "02044": {
+    "ja": "凍みこんにゃく",
+    "en": "Freeze-dried Konjac",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "02005": {
+    "ja": "しらたき",
+    "en": "Shirataki"
+  },
+  "02046": {
+    "ja": "さつまいも",
+    "en": "Sweet Potato",
+    "jaDetail": "皮つき・蒸し",
+    "enDetail": "Skin-on, Steamed"
+  },
+  "02006": {
+    "ja": "さつまいも",
+    "en": "Sweet Potato",
+    "jaDetail": "皮なし・生",
+    "enDetail": "Peeled, Raw"
+  },
+  "02007": {
+    "ja": "さつまいも",
+    "en": "Sweet Potato",
+    "jaDetail": "皮なし・蒸し",
+    "enDetail": "Peeled, Steamed"
+  },
+  "02008": {
+    "ja": "さつまいも",
+    "en": "Sweet Potato",
+    "jaDetail": "皮なし・焼き",
+    "enDetail": "Peeled, Baked"
+  },
+  "02009": {
+    "ja": "干し芋",
+    "en": "Dried Sweet Potato",
+    "jaDetail": "蒸し切干",
+    "enDetail": "Steamed, Sliced"
+  },
+  "02048": {
+    "ja": "紫芋",
+    "en": "Purple Sweet Potato",
+    "jaDetail": "皮なし・生",
+    "enDetail": "Peeled, Raw"
+  },
+  "02049": {
+    "ja": "紫芋",
+    "en": "Purple Sweet Potato",
+    "jaDetail": "皮なし・蒸し",
+    "enDetail": "Peeled, Steamed"
+  },
+  "02011": {
+    "ja": "里芋",
+    "en": "Taro (Satoimo)",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02012": {
+    "ja": "里芋",
+    "en": "Taro (Satoimo)",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "02051": {
+    "ja": "セレベス",
+    "en": "Serebes",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02053": {
+    "ja": "たけのこいも",
+    "en": "Takenokoimo",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02014": {
+    "ja": "みずいも",
+    "en": "Mizuimo",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02016": {
+    "ja": "やつがしら",
+    "en": "Yatsugashira",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02064": {
+    "ja": "じゃがいも",
+    "en": "Potato",
+    "jaDetail": "皮つき・電子レンジ調理",
+    "enDetail": "Skin-on, Microwave-cooked"
+  },
+  "02019": {
+    "ja": "じゃがいも",
+    "en": "Potato",
+    "jaDetail": "皮なし・水煮",
+    "enDetail": "Peeled, Boiled"
+  },
+  "02018": {
+    "ja": "じゃがいも",
+    "en": "Potato",
+    "jaDetail": "皮なし・蒸し",
+    "enDetail": "Peeled, Steamed"
+  },
+  "02066": {
+    "ja": "じゃがいも",
+    "en": "Potato",
+    "jaDetail": "皮なし・電子レンジ調理",
+    "enDetail": "Peeled, Microwave-cooked"
+  },
+  "02021": {
+    "ja": "乾燥マッシュポテト",
+    "en": "Instant Mashed Potato"
+  },
+  "02054": {
+    "ja": "ヤーコン",
+    "en": "Yacon",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "02055": {
+    "ja": "ヤーコン",
+    "en": "Yacon",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02022": {
+    "ja": "長芋",
+    "en": "Nagaimo",
+    "jaDetail": "いちょういも・生",
+    "enDetail": "Ichouimo, Raw"
+  },
+  "02023": {
+    "ja": "長芋",
+    "en": "Nagaimo",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "02024": {
+    "ja": "長芋",
+    "en": "Nagaimo",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "02025": {
+    "ja": "長芋",
+    "en": "Nagaimo",
+    "jaDetail": "やまといも・生",
+    "enDetail": "Yamatoimo, Raw"
+  },
+  "02070": {
+    "ja": "オオウバユリでん粉",
+    "en": "Oobayuri Starch"
+  },
+  "02028": {
+    "ja": "キャッサバでん粉",
+    "en": "Cassava Starch"
+  },
+  "02029": {
+    "ja": "葛粉",
+    "en": "Kudzu Starch"
+  },
+  "02030": {
+    "ja": "米でん粉",
+    "en": "Rice Starch"
+  },
+  "02031": {
+    "ja": "小麦でん粉",
+    "en": "Wheat Starch"
+  },
+  "02032": {
+    "ja": "サゴでん粉",
+    "en": "Sago Starch"
+  },
+  "02033": {
+    "ja": "さつまいもでん粉",
+    "en": "Sweet Potato Starch"
+  },
+  "02034": {
+    "ja": "じゃがいもでん粉",
+    "en": "Potato Starch"
+  },
+  "02035": {
+    "ja": "コーンスターチ",
+    "en": "Cornstarch"
+  },
+  "02036": {
+    "ja": "くずきり",
+    "en": "Kuzukiri",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "02037": {
+    "ja": "くずきり",
+    "en": "Kuzukiri",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "02056": {
+    "ja": "ごま豆腐",
+    "en": "Goma Dofu"
+  },
+  "02038": {
+    "ja": "タピオカパール",
+    "en": "Tapioca Pearls",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "02057": {
+    "ja": "タピオカパール",
+    "en": "Tapioca Pearls",
+    "jaDetail": "ゆで",
+    "enDetail": "Cooked"
+  },
+  "02059": {
+    "ja": "春雨",
+    "en": "Glass Noodles",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "02060": {
+    "ja": "でん粉めん",
+    "en": "Starch Noodles",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "02039": {
+    "ja": "はるさめ",
+    "en": "Mung Bean Vermicelli",
+    "jaDetail": "緑豆・乾",
+    "enDetail": "Dried"
+  },
+  "02061": {
+    "ja": "はるさめ",
+    "en": "Mung Bean Vermicelli",
+    "jaDetail": "緑豆・ゆで",
+    "enDetail": "Boiled"
+  },
+  "02040": {
+    "ja": "はるさめ",
+    "en": "Glass Noodles",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "02062": {
+    "ja": "はるさめ",
+    "en": "Glass Noodles",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "03022": {
+    "ja": "はちみつ",
+    "en": "Honey"
+  },
+  "03033": {
+    "ja": "はちみつ",
+    "en": "Honey",
+    "jaDetail": "国産",
+    "enDetail": "Japanese"
+  },
+  "04001": {
+    "ja": "あずき",
+    "en": "Azuki Beans",
+    "jaDetail": "全粒・乾",
+    "enDetail": "Whole, Dried"
+  },
+  "04002": {
+    "ja": "あずき",
+    "en": "Azuki Beans",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04102": {
+    "ja": "こしあん",
+    "en": "Smooth Red Bean Paste"
+  },
+  "04111": {
+    "ja": "つぶあん",
+    "en": "Chunky Red Bean Paste",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "04008": {
+    "ja": "いんげんまめ",
+    "en": "Common Beans",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04009": {
+    "ja": "うずら豆",
+    "en": "Uzura Bean"
+  },
+  "04010": {
+    "ja": "こしあん",
+    "en": "Smooth Bean Paste",
+    "jaDetail": "いんげんまめ",
+    "enDetail": "Common Bean"
+  },
+  "04011": {
+    "ja": "豆きんとん",
+    "en": "Bean Kinton",
+    "jaDetail": "いんげんまめ",
+    "enDetail": "Common Bean"
+  },
+  "04012": {
+    "ja": "グリーンピース",
+    "en": "Green Peas",
+    "jaDetail": "全粒・乾",
+    "enDetail": "Whole, Dried"
+  },
+  "04013": {
+    "ja": "グリーンピース",
+    "en": "Green Peas",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04074": {
+    "ja": "赤えんどう",
+    "en": "Red Peas",
+    "jaDetail": "全粒・乾",
+    "enDetail": "Whole, Dried"
+  },
+  "04075": {
+    "ja": "赤えんどう",
+    "en": "Red Peas",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04016": {
+    "ja": "うぐいす豆",
+    "en": "Uguisu Beans"
+  },
+  "04018": {
+    "ja": "ささげ",
+    "en": "Sasage",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04019": {
+    "ja": "そらまめ",
+    "en": "Broad Bean",
+    "jaDetail": "全粒・乾",
+    "enDetail": "Whole, Dried"
+  },
+  "04022": {
+    "ja": "そらまめ",
+    "en": "Broad Bean",
+    "jaDetail": "ふき豆",
+    "enDetail": "Fuki variety"
+  },
+  "04105": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "全粒・青大豆・国産・ゆで",
+    "enDetail": "Whole, Green, Domestic, Boiled"
+  },
+  "04023": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "全粒・黄大豆・国産・乾",
+    "enDetail": "Whole, Yellow, Domestic, Dried"
+  },
+  "04024": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "全粒・黄大豆・国産・ゆで",
+    "enDetail": "Whole, Yellow, Domestic, Boiled"
+  },
+  "04106": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "全粒・黒大豆・国産・ゆで",
+    "enDetail": "Whole, Black, Domestic, Boiled"
+  },
+  "04080": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "いり大豆・青大豆",
+    "enDetail": "Roasted, Green"
+  },
+  "04078": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "いり大豆・黄大豆",
+    "enDetail": "Roasted, Yellow"
+  },
+  "04079": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "いり大豆・黒大豆",
+    "enDetail": "Roasted, Black"
+  },
+  "04028": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "水煮缶詰・黄大豆",
+    "enDetail": "Canned (in water), Yellow"
+  },
+  "04081": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "蒸し大豆・黄大豆",
+    "enDetail": "Steamed, Yellow"
+  },
+  "04082": {
+    "ja": "きな粉",
+    "en": "Kinako",
+    "jaDetail": "青大豆・全粒",
+    "enDetail": "Green Soybeans, Whole"
+  },
+  "04096": {
+    "ja": "きな粉",
+    "en": "Kinako",
+    "jaDetail": "青大豆・脱皮",
+    "enDetail": "Green Soybeans, Dehulled"
+  },
+  "04029": {
+    "ja": "きな粉",
+    "en": "Kinako",
+    "jaDetail": "黄大豆・全粒",
+    "enDetail": "Yellow Soybeans, Whole"
+  },
+  "04030": {
+    "ja": "きな粉",
+    "en": "Kinako",
+    "jaDetail": "黄大豆・脱皮",
+    "enDetail": "Yellow Soybeans, Dehulled"
+  },
+  "04110": {
+    "ja": "きな粉",
+    "en": "Kinako",
+    "jaDetail": "砂糖入り",
+    "enDetail": "Sweetened (with sugar)"
+  },
+  "04083": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "はいが",
+    "enDetail": "Germ (soy germ)"
+  },
+  "04031": {
+    "ja": "だいず",
+    "en": "Soybeans",
+    "jaDetail": "ぶどう豆",
+    "enDetail": "Budou-mame (variety)"
+  },
+  "04032": {
+    "ja": "木綿豆腐",
+    "en": "Momen Tofu",
+    "enDetail": "Firm (cotton) tofu"
+  },
+  "04097": {
+    "ja": "木綿豆腐",
+    "en": "Firm tofu",
+    "jaDetail": "塩化マグネシウム使用",
+    "enDetail": "Coagulated with magnesium chloride"
+  },
+  "04098": {
+    "ja": "木綿豆腐",
+    "en": "Firm tofu",
+    "jaDetail": "硫酸カルシウム使用",
+    "enDetail": "Coagulated with calcium sulfate"
+  },
+  "04033": {
+    "ja": "絹ごし豆腐",
+    "en": "Silken tofu",
+    "jaDetail": "凝固剤指定なし",
+    "enDetail": "Coagulant unspecified"
+  },
+  "04099": {
+    "ja": "絹ごし豆腐",
+    "en": "Silken tofu",
+    "jaDetail": "塩化マグネシウム使用",
+    "enDetail": "Coagulated with magnesium chloride"
+  },
+  "04100": {
+    "ja": "絹ごし豆腐",
+    "en": "Silken tofu",
+    "jaDetail": "硫酸カルシウム使用",
+    "enDetail": "Coagulated with calcium sulfate"
+  },
+  "04034": {
+    "ja": "ソフト豆腐",
+    "en": "Soft tofu"
+  },
+  "04035": {
+    "ja": "充填豆腐",
+    "en": "Filled tofu"
+  },
+  "04036": {
+    "ja": "沖縄豆腐",
+    "en": "Okinawa tofu"
+  },
+  "04037": {
+    "ja": "ゆし豆腐",
+    "en": "Yushi tofu"
+  },
+  "04038": {
+    "ja": "焼き豆腐",
+    "en": "Grilled tofu"
+  },
+  "04039": {
+    "ja": "厚揚げ",
+    "en": "Atsu-age (thick fried tofu)"
+  },
+  "04113": {
+    "ja": "絹厚揚げ",
+    "en": "Silken atsu-age"
+  },
+  "04040": {
+    "ja": "油揚げ",
+    "en": "Aburaage",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "04084": {
+    "ja": "油揚げ",
+    "en": "Aburaage",
+    "jaDetail": "油抜き・生",
+    "enDetail": "Oil-removed, Raw"
+  },
+  "04086": {
+    "ja": "油揚げ",
+    "en": "Aburaage",
+    "jaDetail": "油抜き・ゆで",
+    "enDetail": "Oil-removed, Boiled"
+  },
+  "04085": {
+    "ja": "油揚げ",
+    "en": "Aburaage",
+    "jaDetail": "油抜き・焼き",
+    "enDetail": "Oil-removed, Grilled"
+  },
+  "04095": {
+    "ja": "油揚げ",
+    "en": "Aburaage",
+    "jaDetail": "甘煮",
+    "enDetail": "Sweet-simmered"
+  },
+  "04042": {
+    "ja": "高野豆腐",
+    "en": "Koya tofu",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "04087": {
+    "ja": "高野豆腐",
+    "en": "Koya tofu",
+    "jaDetail": "水煮",
+    "enDetail": "Rehydrated"
+  },
+  "04044": {
+    "ja": "豆腐ちくわ",
+    "en": "Tofu chikuwa",
+    "jaDetail": "蒸し",
+    "enDetail": "Steamed"
+  },
+  "04088": {
+    "ja": "豆腐",
+    "en": "Tofu",
+    "jaDetail": "六条豆腐",
+    "enDetail": "Rokujo"
+  },
+  "04046": {
+    "ja": "納豆",
+    "en": "Natto",
+    "jaDetail": "糸引き",
+    "enDetail": "Itohiki"
+  },
+  "04047": {
+    "ja": "納豆",
+    "en": "Natto",
+    "jaDetail": "挽きわり",
+    "enDetail": "Hikiwari"
+  },
+  "04048": {
+    "ja": "納豆",
+    "en": "Natto",
+    "jaDetail": "五斗",
+    "enDetail": "Goto"
+  },
+  "04114": {
+    "ja": "納豆",
+    "en": "Natto",
+    "jaDetail": "塩",
+    "enDetail": "Salted"
+  },
+  "04049": {
+    "ja": "納豆",
+    "en": "Natto",
+    "jaDetail": "寺納豆",
+    "enDetail": "Tera"
+  },
+  "04115": {
+    "ja": "納豆",
+    "en": "Natto",
+    "jaDetail": "干し",
+    "enDetail": "Dried"
+  },
+  "04089": {
+    "ja": "おから",
+    "en": "Okara",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "04052": {
+    "ja": "豆乳",
+    "en": "Soy Milk",
+    "jaDetail": "無調整",
+    "enDetail": "Unsweetened"
+  },
+  "04053": {
+    "ja": "豆乳",
+    "en": "Soy Milk",
+    "jaDetail": "調製",
+    "enDetail": "Prepared"
+  },
+  "04055": {
+    "ja": "大豆たんぱく",
+    "en": "Soy Protein",
+    "jaDetail": "粒状",
+    "enDetail": "Granular"
+  },
+  "04056": {
+    "ja": "大豆たんぱく",
+    "en": "Soy Protein",
+    "jaDetail": "濃縮",
+    "enDetail": "Concentrated"
+  },
+  "04057": {
+    "ja": "大豆たんぱく",
+    "en": "Soy Protein",
+    "jaDetail": "分離・塩分無調整",
+    "enDetail": "Isolate, Unsalted"
+  },
+  "04090": {
+    "ja": "大豆たんぱく",
+    "en": "Soy Protein",
+    "jaDetail": "分離・塩分調整",
+    "enDetail": "Isolate, Salt-adjusted"
+  },
+  "04058": {
+    "ja": "大豆ミート",
+    "en": "Soy Meat",
+    "jaDetail": "繊維状",
+    "enDetail": "Textured"
+  },
+  "04060": {
+    "ja": "湯葉",
+    "en": "Yuba",
+    "jaDetail": "干し",
+    "enDetail": "Dried"
+  },
+  "04091": {
+    "ja": "湯葉",
+    "en": "Yuba",
+    "jaDetail": "湯戻し",
+    "enDetail": "Rehydrated"
+  },
+  "04062": {
+    "ja": "味噌",
+    "en": "Miso",
+    "jaDetail": "ひしお",
+    "enDetail": "Hishio"
+  },
+  "04063": {
+    "ja": "テンペ",
+    "en": "Tempeh"
+  },
+  "04092": {
+    "ja": "ゆで小豆",
+    "en": "Boiled Azuki Beans",
+    "jaDetail": "全粒",
+    "enDetail": "Whole"
+  },
+  "04066": {
+    "ja": "ひよこまめ",
+    "en": "Chickpea",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04068": {
+    "ja": "べにばないんげん",
+    "en": "Bean",
+    "jaDetail": "全粒・乾",
+    "enDetail": "Benibana, Dried"
+  },
+  "04069": {
+    "ja": "べにばないんげん",
+    "en": "Bean",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Benibana, Boiled"
+  },
+  "04093": {
+    "ja": "らいまめ",
+    "en": "Lima Bean",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04071": {
+    "ja": "りょくとう",
+    "en": "Mung Bean",
+    "jaDetail": "全粒・乾",
+    "enDetail": "Whole, Dried"
+  },
+  "04072": {
+    "ja": "りょくとう",
+    "en": "Mung Bean",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "04094": {
+    "ja": "レンズまめ",
+    "en": "Lentil",
+    "jaDetail": "全粒・ゆで",
+    "enDetail": "Whole, Boiled"
+  },
+  "05003": {
+    "ja": "麻の実",
+    "en": "Hemp Seed",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "05041": {
+    "ja": "亜麻仁",
+    "en": "Flaxseed",
+    "jaDetail": "いり",
+    "enDetail": "Roasted"
+  },
+  "05004": {
+    "ja": "えごま",
+    "en": "Perilla Seed",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "05010": {
+    "ja": "日本ぐり",
+    "en": "Japanese Chestnut",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "05011": {
+    "ja": "日本ぐり",
+    "en": "Japanese Chestnut",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "05013": {
+    "ja": "甘栗",
+    "en": "Roasted Sweet Chestnut",
+    "enDetail": "Chinese"
+  },
+  "05016": {
+    "ja": "ココナッツパウダー",
+    "en": "Coconut Powder"
+  },
+  "05017": {
+    "ja": "ごま",
+    "en": "Sesame Seed",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "05018": {
+    "ja": "ごま",
+    "en": "Sesame Seed",
+    "jaDetail": "いり",
+    "enDetail": "Roasted"
+  },
+  "05019": {
+    "ja": "むきごま",
+    "en": "Hulled Sesame"
+  },
+  "05042": {
+    "ja": "練りごま",
+    "en": "Tahini"
+  },
+  "05020": {
+    "ja": "椎の実",
+    "en": "Acorn",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "05021": {
+    "ja": "すいかの種",
+    "en": "Watermelon Seeds",
+    "jaDetail": "いり・味付け",
+    "enDetail": "Roasted, Seasoned"
+  },
+  "05046": {
+    "ja": "チアシード",
+    "en": "Chia Seeds",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "05022": {
+    "ja": "栃の実",
+    "en": "Horse Chestnut",
+    "jaDetail": "蒸し",
+    "enDetail": "Steamed"
+  },
+  "05024": {
+    "ja": "蓮の実",
+    "en": "Lotus Seed",
+    "jaDetail": "成熟・乾燥",
+    "enDetail": "Mature, Dried"
+  },
+  "05043": {
+    "ja": "蓮の実",
+    "en": "Lotus Seed",
+    "jaDetail": "成熟・ゆで",
+    "enDetail": "Mature, Boiled"
+  },
+  "05025": {
+    "ja": "菱の実",
+    "en": "Water Caltrop",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "05047": {
+    "ja": "とうびし",
+    "en": "Water Caltrop (Toubishi)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "05048": {
+    "ja": "とうびし",
+    "en": "Water Caltrop (Toubishi)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "05033": {
+    "ja": "松の実",
+    "en": "Pine Nuts",
+    "jaDetail": "いり",
+    "enDetail": "Roasted"
+  },
+  "06001": {
+    "ja": "アーティチョーク",
+    "en": "Artichoke",
+    "jaDetail": "花蕾・生",
+    "enDetail": "Flower Bud, Raw"
+  },
+  "06002": {
+    "ja": "アーティチョーク",
+    "en": "Artichoke",
+    "jaDetail": "花蕾・ゆで",
+    "enDetail": "Flower Bud, Boiled"
+  },
+  "06402": {
+    "ja": "アイスプラント",
+    "en": "Ice Plant"
+  },
+  "06005": {
+    "ja": "明日葉",
+    "en": "Ashitaba",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06006": {
+    "ja": "明日葉",
+    "en": "Ashitaba",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06007": {
+    "ja": "アスパラガス",
+    "en": "Asparagus",
+    "jaDetail": "若茎・生",
+    "enDetail": "Young Shoots, Raw"
+  },
+  "06008": {
+    "ja": "アスパラガス",
+    "en": "Asparagus",
+    "jaDetail": "若茎・ゆで",
+    "enDetail": "Young Shoots, Boiled"
+  },
+  "06327": {
+    "ja": "アスパラガス",
+    "en": "Asparagus",
+    "jaDetail": "若茎・油いため",
+    "enDetail": "Young Shoots, Stir‑fried in Oil"
+  },
+  "06009": {
+    "ja": "アスパラガス",
+    "en": "Asparagus",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned (Water‑packed)"
+  },
+  "06010": {
+    "ja": "さやいんげん",
+    "en": "Green Beans",
+    "jaDetail": "若ざや・生",
+    "enDetail": "Pods, Raw"
+  },
+  "06011": {
+    "ja": "さやいんげん",
+    "en": "Green Beans",
+    "jaDetail": "若ざや・ゆで",
+    "enDetail": "Pods, Boiled"
+  },
+  "06012": {
+    "ja": "うど",
+    "en": "Udo (Japanese Udo)",
+    "jaDetail": "茎・生",
+    "enDetail": "Stem, Raw"
+  },
+  "06013": {
+    "ja": "うど",
+    "en": "Udo"
+  },
+  "06014": {
+    "ja": "やまうど",
+    "en": "Mountain Udo"
+  },
+  "06363": {
+    "ja": "うるい",
+    "en": "Urui"
+  },
+  "06016": {
+    "ja": "枝豆",
+    "en": "Edamame",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06017": {
+    "ja": "枝豆",
+    "en": "Edamame",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "06018": {
+    "ja": "エンダイブ",
+    "en": "Endive"
+  },
+  "06019": {
+    "ja": "豆苗",
+    "en": "Pea shoots",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stems & leaves, Raw"
+  },
+  "06329": {
+    "ja": "豆苗",
+    "en": "Pea shoots",
+    "jaDetail": "芽ばえ・生",
+    "enDetail": "Sprouts, Raw"
+  },
+  "06330": {
+    "ja": "豆苗",
+    "en": "Pea shoots",
+    "jaDetail": "芽ばえ・ゆで",
+    "enDetail": "Sprouts, Boiled"
+  },
+  "06331": {
+    "ja": "豆苗",
+    "en": "Pea shoots",
+    "jaDetail": "芽ばえ・油いため",
+    "enDetail": "Sprouts, Stir-fried"
+  },
+  "06020": {
+    "ja": "さやえんどう",
+    "en": "Snow peas",
+    "jaDetail": "若ざや・生",
+    "enDetail": "Young pods, Raw"
+  },
+  "06021": {
+    "ja": "さやえんどう",
+    "en": "Snow peas",
+    "jaDetail": "若ざや・ゆで",
+    "enDetail": "Young pods, Boiled"
+  },
+  "06022": {
+    "ja": "スナップえんどう",
+    "en": "Snap pea"
+  },
+  "06023": {
+    "ja": "グリンピース",
+    "en": "Green peas",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06024": {
+    "ja": "グリンピース",
+    "en": "Green peas",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06025": {
+    "ja": "グリンピース",
+    "en": "Green peas",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "06374": {
+    "ja": "グリンピース",
+    "en": "Green peas",
+    "jaDetail": "冷凍・ゆで",
+    "enDetail": "Frozen, Boiled"
+  },
+  "06375": {
+    "ja": "グリンピース",
+    "en": "Green peas",
+    "jaDetail": "冷凍・油いため",
+    "enDetail": "Frozen, Stir-fried"
+  },
+  "06026": {
+    "ja": "グリンピース",
+    "en": "Green peas",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned in water"
+  },
+  "06027": {
+    "ja": "おおさかしろな",
+    "en": "Osaka Shirona"
+  },
+  "06028": {
+    "ja": "しろな",
+    "en": "Shirona",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06030": {
+    "ja": "おかひじき",
+    "en": "Okahijiki",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stems & Leaves, Raw"
+  },
+  "06031": {
+    "ja": "おかひじき",
+    "en": "Okahijiki",
+    "jaDetail": "茎葉・ゆで",
+    "enDetail": "Stems & Leaves, Boiled"
+  },
+  "06032": {
+    "ja": "オクラ",
+    "en": "Okra",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06033": {
+    "ja": "オクラ",
+    "en": "Okra",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06034": {
+    "ja": "かぶの葉",
+    "en": "Turnip greens",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06035": {
+    "ja": "かぶの葉",
+    "en": "Turnip greens",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06036": {
+    "ja": "かぶ",
+    "en": "Turnip",
+    "jaDetail": "根・皮つき・生",
+    "enDetail": "Root, Skin-on, Raw"
+  },
+  "06037": {
+    "ja": "かぶ",
+    "en": "Turnip",
+    "jaDetail": "根・皮つき・ゆで",
+    "enDetail": "Root, Skin-on, Boiled"
+  },
+  "06038": {
+    "ja": "かぶ",
+    "en": "Turnip",
+    "jaDetail": "根・皮なし・生",
+    "enDetail": "Root, Peeled, Raw"
+  },
+  "06039": {
+    "ja": "かぶ",
+    "en": "Turnip",
+    "jaDetail": "根・皮なし・ゆで",
+    "enDetail": "Root, Peeled, Boiled"
+  },
+  "06046": {
+    "ja": "日本かぼちゃ",
+    "en": "Kabocha (Japanese pumpkin)",
+    "jaDetail": "果実・生",
+    "enDetail": "Raw"
+  },
+  "06047": {
+    "ja": "日本かぼちゃ",
+    "en": "Kabocha (Japanese pumpkin)",
+    "jaDetail": "果実・ゆで",
+    "enDetail": "Boiled"
+  },
+  "06048": {
+    "ja": "西洋かぼちゃ",
+    "en": "Western pumpkin (kabocha-type)",
+    "jaDetail": "果実・生",
+    "enDetail": "Raw"
+  },
+  "06049": {
+    "ja": "西洋かぼちゃ",
+    "en": "Western pumpkin (kabocha-type)",
+    "jaDetail": "果実・ゆで",
+    "enDetail": "Boiled"
+  },
+  "06332": {
+    "ja": "西洋かぼちゃ",
+    "en": "Western pumpkin (kabocha-type)",
+    "jaDetail": "果実・焼き",
+    "enDetail": "Roasted"
+  },
+  "06050": {
+    "ja": "西洋かぼちゃ",
+    "en": "Western pumpkin (kabocha-type)",
+    "jaDetail": "果実・冷凍",
+    "enDetail": "Frozen"
+  },
+  "06051": {
+    "ja": "そうめんかぼちゃ",
+    "en": "Spaghetti squash",
+    "jaDetail": "果実・生",
+    "enDetail": "Raw"
+  },
+  "06052": {
+    "ja": "からし菜",
+    "en": "Mustard greens",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06053": {
+    "ja": "からし菜",
+    "en": "Mustard greens",
+    "jaDetail": "塩漬け",
+    "enDetail": "Salted (pickled)"
+  },
+  "06054": {
+    "ja": "カリフラワー",
+    "en": "Cauliflower",
+    "jaDetail": "花序・生",
+    "enDetail": "Floret, Raw"
+  },
+  "06055": {
+    "ja": "カリフラワー",
+    "en": "Cauliflower",
+    "jaDetail": "花序・ゆで",
+    "enDetail": "Floret, Boiled"
+  },
+  "06056": {
+    "ja": "かんぴょう",
+    "en": "Kanpyo",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "06057": {
+    "ja": "かんぴょう",
+    "en": "Kanpyo",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06058": {
+    "ja": "菊",
+    "en": "Edible Chrysanthemum",
+    "jaDetail": "花びら・生",
+    "enDetail": "Petals, Raw"
+  },
+  "06059": {
+    "ja": "菊",
+    "en": "Edible Chrysanthemum",
+    "jaDetail": "花びら・ゆで",
+    "enDetail": "Petals, Boiled"
+  },
+  "06060": {
+    "ja": "菊のり",
+    "en": "Chrysanthemum Leaves"
+  },
+  "06061": {
+    "ja": "キャベツ",
+    "en": "Cabbage",
+    "jaDetail": "結球葉・生",
+    "enDetail": "Head Leaves, Raw"
+  },
+  "06062": {
+    "ja": "キャベツ",
+    "en": "Cabbage",
+    "jaDetail": "結球葉・ゆで",
+    "enDetail": "Head Leaves, Boiled"
+  },
+  "06333": {
+    "ja": "キャベツ",
+    "en": "Cabbage",
+    "jaDetail": "結球葉・油いため",
+    "enDetail": "Stir-fried (with oil)"
+  },
+  "06403": {
+    "ja": "カットキャベツ",
+    "en": "Cut Cabbage",
+    "jaDetail": "常法洗浄",
+    "enDetail": "Standard Wash"
+  },
+  "06404": {
+    "ja": "カットキャベツ",
+    "en": "Cut Cabbage",
+    "jaDetail": "次亜塩素酸洗浄",
+    "enDetail": "Chlorine Wash"
+  },
+  "06063": {
+    "ja": "グリーンボール",
+    "en": "Green Ball (cabbage)",
+    "jaDetail": "結球葉・生",
+    "enDetail": "Head Leaves, Raw"
+  },
+  "06064": {
+    "ja": "レッドキャベツ",
+    "en": "Red Cabbage",
+    "jaDetail": "結球葉・生",
+    "enDetail": "Raw"
+  },
+  "06065": {
+    "ja": "きゅうり",
+    "en": "Cucumber"
+  },
+  "06068": {
+    "ja": "きゅうりのぬか漬け",
+    "en": "Nuka-pickled Cucumber"
+  },
+  "06070": {
+    "ja": "きゅうりのピクルス",
+    "en": "Pickled Cucumber",
+    "enDetail": "Sour Type"
+  },
+  "06075": {
+    "ja": "キンサイ",
+    "en": "Kinsai",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stem Leaves, Raw"
+  },
+  "06076": {
+    "ja": "キンサイ",
+    "en": "Kinsai",
+    "jaDetail": "茎葉・ゆで",
+    "enDetail": "Stem Leaves, Boiled"
+  },
+  "06077": {
+    "ja": "クレソン",
+    "en": "Watercress",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Raw"
+  },
+  "06078": {
+    "ja": "くわい",
+    "en": "Kuwai",
+    "jaDetail": "生",
+    "enDetail": "tuber, raw"
+  },
+  "06079": {
+    "ja": "くわい",
+    "en": "Kuwai",
+    "jaDetail": "ゆで",
+    "enDetail": "tuber, boiled"
+  },
+  "06080": {
+    "ja": "ケール",
+    "en": "Kale"
+  },
+  "06081": {
+    "ja": "コールラビ",
+    "en": "Kohlrabi",
+    "jaDetail": "球茎・生",
+    "enDetail": "bulb, raw"
+  },
+  "06082": {
+    "ja": "コールラビ",
+    "en": "Kohlrabi",
+    "jaDetail": "球茎・ゆで",
+    "enDetail": "bulb, boiled"
+  },
+  "06084": {
+    "ja": "ごぼう",
+    "en": "Burdock root",
+    "jaDetail": "根・生",
+    "enDetail": "raw"
+  },
+  "06085": {
+    "ja": "ごぼう",
+    "en": "Burdock root",
+    "jaDetail": "根・ゆで",
+    "enDetail": "boiled"
+  },
+  "06405": {
+    "ja": "堀川ごぼう",
+    "en": "Horikawa burdock"
+  },
+  "06086": {
+    "ja": "小松菜",
+    "en": "Komatsuna",
+    "jaDetail": "葉・生",
+    "enDetail": "leaf, raw"
+  },
+  "06087": {
+    "ja": "小松菜",
+    "en": "Komatsuna",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "leaf, boiled"
+  },
+  "06385": {
+    "ja": "コリアンダー",
+    "en": "Coriander (cilantro)"
+  },
+  "06089": {
+    "ja": "山東菜",
+    "en": "Shandong cabbage",
+    "jaDetail": "葉・生",
+    "enDetail": "leaf, raw"
+  },
+  "06090": {
+    "ja": "山東菜",
+    "en": "Shandong cabbage",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "leaf, boiled"
+  },
+  "06093": {
+    "ja": "ししとう",
+    "en": "Shishito pepper",
+    "jaDetail": "果実・生",
+    "enDetail": "fruit, raw"
+  },
+  "06094": {
+    "ja": "ししとう",
+    "en": "Shishito pepper",
+    "jaDetail": "果実・油いため",
+    "enDetail": "stir-fried"
+  },
+  "06406": {
+    "ja": "万願寺とうがらし",
+    "en": "Manganji pepper"
+  },
+  "06095": {
+    "ja": "しそ",
+    "en": "Shiso",
+    "jaDetail": "葉・生",
+    "enDetail": "leaf, raw"
+  },
+  "06096": {
+    "ja": "しその実",
+    "en": "Shiso seeds"
+  },
+  "06097": {
+    "ja": "十六ささげ",
+    "en": "Juroku sasage",
+    "jaDetail": "若ざや・生",
+    "enDetail": "young pods, raw"
+  },
+  "06098": {
+    "ja": "十六ささげ",
+    "en": "Juroku sasage",
+    "jaDetail": "若ざや・ゆで",
+    "enDetail": "young pods, boiled"
+  },
+  "06099": {
+    "ja": "春菊",
+    "en": "Shungiku",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06100": {
+    "ja": "春菊",
+    "en": "Shungiku",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06101": {
+    "ja": "じゅんさい",
+    "en": "Junsai"
+  },
+  "06102": {
+    "ja": "葉しょうが",
+    "en": "Leaf Ginger"
+  },
+  "06103": {
+    "ja": "しょうが",
+    "en": "Ginger",
+    "jaDetail": "皮なし・生",
+    "enDetail": "Peeled, Raw"
+  },
+  "06365": {
+    "ja": "おろししょうが",
+    "en": "Grated Ginger",
+    "jaDetail": "皮なし・生",
+    "enDetail": "Peeled, Raw"
+  },
+  "06366": {
+    "ja": "しょうが汁",
+    "en": "Ginger Juice",
+    "jaDetail": "おろし汁・皮なし・生",
+    "enDetail": "Grated, Peeled, Raw"
+  },
+  "06105": {
+    "ja": "甘酢しょうが",
+    "en": "Pickled Ginger",
+    "jaDetail": "漬物",
+    "enDetail": "Sweet Vinegar"
+  },
+  "06386": {
+    "ja": "新しょうが",
+    "en": "New Ginger",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06106": {
+    "ja": "白瓜",
+    "en": "White Gourd"
+  },
+  "06110": {
+    "ja": "ずいき",
+    "en": "Zuiki",
+    "jaDetail": "生ずいき・ゆで",
+    "enDetail": "Fresh, Boiled"
+  },
+  "06111": {
+    "ja": "ずいき",
+    "en": "Zuiki",
+    "jaDetail": "干しずいき・乾",
+    "enDetail": "Dried"
+  },
+  "06112": {
+    "ja": "ずいき",
+    "en": "Zuiki",
+    "jaDetail": "干しずいき・ゆで",
+    "enDetail": "Dried, Boiled"
+  },
+  "06387": {
+    "ja": "水前寺菜",
+    "en": "Suizenji Greens"
+  },
+  "06113": {
+    "ja": "すぐき菜",
+    "en": "Suguki",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06114": {
+    "ja": "すぐき菜",
+    "en": "Suguki",
+    "jaDetail": "根・生",
+    "enDetail": "Root, Raw"
+  },
+  "06116": {
+    "ja": "ズッキーニ",
+    "en": "Zucchini"
+  },
+  "06117": {
+    "ja": "せり",
+    "en": "Japanese Parsley (Seri)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06118": {
+    "ja": "せり",
+    "en": "Japanese Parsley (Seri)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06119": {
+    "ja": "セロリ",
+    "en": "Celery"
+  },
+  "06121": {
+    "ja": "ぜんまい",
+    "en": "Fiddlehead",
+    "jaDetail": "生・若芽・ゆで",
+    "enDetail": "Fresh, Boiled"
+  },
+  "06122": {
+    "ja": "干しぜんまい",
+    "en": "Dried fiddlehead",
+    "jaDetail": "乾"
+  },
+  "06123": {
+    "ja": "干しぜんまい",
+    "en": "Dried fiddlehead",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06125": {
+    "ja": "そらまめ",
+    "en": "Fava bean",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06126": {
+    "ja": "タアサイ",
+    "en": "Tatsoi",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06127": {
+    "ja": "タアサイ",
+    "en": "Tatsoi",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06128": {
+    "ja": "かいわれだいこん",
+    "en": "Radish sprouts",
+    "jaDetail": "芽ばえ・生",
+    "enDetail": "Raw"
+  },
+  "06129": {
+    "ja": "葉だいこん",
+    "en": "Leaf radish",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06130": {
+    "ja": "大根葉",
+    "en": "Daikon leaves",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06131": {
+    "ja": "大根葉",
+    "en": "Daikon leaves",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06132": {
+    "ja": "だいこん",
+    "en": "Daikon",
+    "jaDetail": "根・皮つき・生",
+    "enDetail": "Root, Skin-on, Raw"
+  },
+  "06133": {
+    "ja": "だいこん",
+    "en": "Daikon",
+    "jaDetail": "根・皮つき・ゆで",
+    "enDetail": "Root, Skin-on, Boiled"
+  },
+  "06134": {
+    "ja": "だいこん",
+    "en": "Daikon",
+    "jaDetail": "根・皮なし・生",
+    "enDetail": "Root, Skinless, Raw"
+  },
+  "06367": {
+    "ja": "大根おろし",
+    "en": "Grated daikon"
+  },
+  "06368": {
+    "ja": "大根おろし汁",
+    "en": "Daikon oroshi juice"
+  },
+  "06369": {
+    "ja": "大根おろし",
+    "en": "Grated daikon",
+    "jaDetail": "水洗い",
+    "enDetail": "Water-washed"
+  },
+  "06135": {
+    "ja": "だいこん",
+    "en": "Daikon",
+    "jaDetail": "根・皮なし・ゆで",
+    "enDetail": "Root, Skinless, Boiled"
+  },
+  "06136": {
+    "ja": "切干しだいこん",
+    "en": "Dried shredded daikon",
+    "jaDetail": "乾"
+  },
+  "06334": {
+    "ja": "切干しだいこん",
+    "en": "Dried shredded daikon",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06335": {
+    "ja": "切干しだいこん",
+    "en": "Dried shredded daikon",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06137": {
+    "ja": "ぬか漬け",
+    "en": "Nukazuke",
+    "jaDetail": "大根",
+    "enDetail": "Daikon"
+  },
+  "06143": {
+    "ja": "福神漬け",
+    "en": "Fukujinzuke"
+  },
+  "06144": {
+    "ja": "つまみな",
+    "en": "Tsumamina",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06145": {
+    "ja": "たいさい",
+    "en": "Taisai",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06147": {
+    "ja": "高菜",
+    "en": "Takana",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06148": {
+    "ja": "高菜漬け",
+    "en": "Takana pickles"
+  },
+  "06150": {
+    "ja": "たけのこ",
+    "en": "Bamboo shoot",
+    "jaDetail": "若茎・ゆで",
+    "enDetail": "Young stem, Boiled"
+  },
+  "06151": {
+    "ja": "たけのこ",
+    "en": "Canned bamboo shoots",
+    "jaDetail": "水煮缶詰"
+  },
+  "06152": {
+    "ja": "メンマ",
+    "en": "Menma",
+    "jaDetail": "塩蔵・塩抜き",
+    "enDetail": "Salted (desalted)"
+  },
+  "06157": {
+    "ja": "たらのめ",
+    "en": "Taranome",
+    "jaDetail": "若芽・生",
+    "enDetail": "Young buds, Raw"
+  },
+  "06158": {
+    "ja": "たらのめ",
+    "en": "Taranome",
+    "jaDetail": "若芽・ゆで",
+    "enDetail": "Young buds, Boiled"
+  },
+  "06159": {
+    "ja": "チコリ",
+    "en": "Chicory",
+    "jaDetail": "若芽・生",
+    "enDetail": "Young shoots, Raw"
+  },
+  "06376": {
+    "ja": "ちぢみゆきな",
+    "en": "Chijimi-yukina",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06377": {
+    "ja": "ちぢみゆきな",
+    "en": "Chijimi-yukina",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06160": {
+    "ja": "チンゲンサイ",
+    "en": "Bok choy",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06161": {
+    "ja": "チンゲンサイ",
+    "en": "Bok choy",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06338": {
+    "ja": "チンゲンサイ",
+    "en": "Bok choy",
+    "jaDetail": "葉・油いため",
+    "enDetail": "Leaves, Stir-fried"
+  },
+  "06163": {
+    "ja": "つくし",
+    "en": "Horsetail shoots (tsukushi)",
+    "jaDetail": "胞子茎・ゆで",
+    "enDetail": "Spore stalks, Boiled"
+  },
+  "06164": {
+    "ja": "つるな",
+    "en": "Tsuruna",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stems & leaves, Raw"
+  },
+  "06390": {
+    "ja": "つるにんじん",
+    "en": "Tsuruninjin",
+    "jaDetail": "根・生",
+    "enDetail": "Root, Raw"
+  },
+  "06165": {
+    "ja": "つるむらさき",
+    "en": "Malabar spinach",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stems and leaves, Raw"
+  },
+  "06166": {
+    "ja": "つるむらさき",
+    "en": "Malabar spinach",
+    "jaDetail": "茎葉・ゆで",
+    "enDetail": "Stems and leaves, Boiled"
+  },
+  "06168": {
+    "ja": "つわぶき",
+    "en": "Tsuwabuki",
+    "jaDetail": "葉柄・ゆで",
+    "enDetail": "Leaf stalks, Boiled"
+  },
+  "06173": {
+    "ja": "冬瓜",
+    "en": "Winter melon",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06174": {
+    "ja": "冬瓜",
+    "en": "Winter melon",
+    "jaDetail": "果実・ゆで",
+    "enDetail": "Fruit, Boiled"
+  },
+  "06175": {
+    "ja": "スイートコーン",
+    "en": "Sweet corn",
+    "jaDetail": "未熟種子・生",
+    "enDetail": "Immature kernels, Raw"
+  },
+  "06176": {
+    "ja": "スイートコーン",
+    "en": "Sweet corn",
+    "jaDetail": "未熟種子・ゆで",
+    "enDetail": "Immature kernels, Boiled"
+  },
+  "06339": {
+    "ja": "スイートコーン",
+    "en": "Sweet corn",
+    "jaDetail": "未熟種子・電子レンジ調理",
+    "enDetail": "Immature kernels, Microwave-cooked"
+  },
+  "06177": {
+    "ja": "スイートコーン",
+    "en": "Frozen sweet corn",
+    "jaDetail": "穂軸つき・冷凍",
+    "enDetail": "On-cob, Frozen"
+  },
+  "06178": {
+    "ja": "スイートコーン",
+    "en": "Sweet corn",
+    "jaDetail": "カーネル・冷凍",
+    "enDetail": "Kernels, Frozen"
+  },
+  "06378": {
+    "ja": "スイートコーン",
+    "en": "Sweet corn",
+    "jaDetail": "カーネル・冷凍・ゆで",
+    "enDetail": "Kernels, Frozen, Boiled"
+  },
+  "06379": {
+    "ja": "スイートコーン",
+    "en": "Sweet corn",
+    "jaDetail": "カーネル・冷凍・油いため",
+    "enDetail": "Kernels, Frozen, Stir-fried"
+  },
+  "06180": {
+    "ja": "ホールコーン",
+    "en": "Canned corn",
+    "jaDetail": "缶詰",
+    "enDetail": "Whole kernels"
+  },
+  "06181": {
+    "ja": "ベビーコーン",
+    "en": "Baby corn",
+    "jaDetail": "幼雌穂・生",
+    "enDetail": "Raw"
+  },
+  "06182": {
+    "ja": "トマト",
+    "en": "Tomato",
+    "jaDetail": "赤色・生",
+    "enDetail": "Red, Raw"
+  },
+  "06183": {
+    "ja": "ミニトマト",
+    "en": "Cherry tomato",
+    "jaDetail": "赤色・生",
+    "enDetail": "Red, Raw"
+  },
+  "06391": {
+    "ja": "トマト",
+    "en": "Tomato",
+    "jaDetail": "黄色・生",
+    "enDetail": "Yellow, Raw"
+  },
+  "06370": {
+    "ja": "ドライトマト",
+    "en": "Dried tomato"
+  },
+  "06184": {
+    "ja": "ホールトマト",
+    "en": "Canned whole tomatoes",
+    "jaDetail": "食塩無添加",
+    "enDetail": "No salt added"
+  },
+  "06340": {
+    "ja": "トマトジュース",
+    "en": "Tomato juice",
+    "jaDetail": "食塩無添加",
+    "enDetail": "No salt added"
+  },
+  "06186": {
+    "ja": "ミックスジュース",
+    "en": "Mixed Juice",
+    "jaDetail": "食塩添加",
+    "enDetail": "Salt Added"
+  },
+  "06341": {
+    "ja": "ミックスジュース",
+    "en": "Mixed Juice",
+    "jaDetail": "食塩無添加",
+    "enDetail": "No Salt Added"
+  },
+  "06187": {
+    "ja": "トレビス",
+    "en": "Radicchio"
+  },
+  "06188": {
+    "ja": "とんぶり",
+    "en": "Tonburi",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06189": {
+    "ja": "白菜",
+    "en": "Chinese Cabbage",
+    "jaDetail": "長崎・葉・生",
+    "enDetail": "Nagasaki, Leaf, Raw"
+  },
+  "06190": {
+    "ja": "白菜",
+    "en": "Chinese Cabbage",
+    "jaDetail": "長崎・葉・ゆで",
+    "enDetail": "Nagasaki, Leaf, Boiled"
+  },
+  "06192": {
+    "ja": "なす",
+    "en": "Eggplant",
+    "jaDetail": "果実・ゆで",
+    "enDetail": "Fruit, Boiled"
+  },
+  "06342": {
+    "ja": "なす",
+    "en": "Eggplant",
+    "jaDetail": "果実・油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06200": {
+    "ja": "なずな",
+    "en": "Shepherd's Purse",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06201": {
+    "ja": "なばな",
+    "en": "Nabana",
+    "jaDetail": "和種・花蕾・茎・生",
+    "enDetail": "Japanese type, Buds & Stems, Raw"
+  },
+  "06202": {
+    "ja": "なばな",
+    "en": "Nabana",
+    "jaDetail": "和種・花蕾・茎・ゆで",
+    "enDetail": "Japanese type, Buds & Stems, Boiled"
+  },
+  "06203": {
+    "ja": "なばな",
+    "en": "Nabana",
+    "jaDetail": "洋種・茎葉・生",
+    "enDetail": "Western type, Stems & Leaves, Raw"
+  },
+  "06204": {
+    "ja": "なばな",
+    "en": "Nabana",
+    "jaDetail": "洋種・茎葉・ゆで",
+    "enDetail": "Western type, Stems & Leaves, Boiled"
+  },
+  "06206": {
+    "ja": "ゴーヤ",
+    "en": "Bitter Gourd",
+    "jaDetail": "果実・油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06211": {
+    "ja": "にんじんの葉",
+    "en": "Carrot Greens",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06212": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮つき・生",
+    "enDetail": "Root, Skin-on, Raw"
+  },
+  "06213": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮つき・ゆで",
+    "enDetail": "Root, Skin-on, Boiled"
+  },
+  "06214": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮なし・生",
+    "enDetail": "Root, Peeled, Raw"
+  },
+  "06215": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮なし・ゆで",
+    "enDetail": "Root, Peeled, Boiled"
+  },
+  "06345": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮なし・油いため",
+    "enDetail": "Root, Peeled, Stir-fried"
+  },
+  "06346": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮なし・素揚げ",
+    "enDetail": "Root, Peeled, Deep-fried"
+  },
+  "06407": {
+    "ja": "カットにんじん",
+    "en": "Cut Carrot",
+    "jaDetail": "皮なし・常法洗浄",
+    "enDetail": "Peeled, Conventional-washed"
+  },
+  "06408": {
+    "ja": "カットにんじん",
+    "en": "Cut Carrot",
+    "jaDetail": "皮なし・次亜塩素酸洗浄",
+    "enDetail": "Peeled, Hypochlorite-washed"
+  },
+  "06347": {
+    "ja": "にんじん",
+    "en": "Carrot",
+    "jaDetail": "根・皮つき・生",
+    "enDetail": "Root, Skin-on, Raw"
+  },
+  "06216": {
+    "ja": "冷凍にんじん",
+    "en": "Frozen Carrot"
+  },
+  "06380": {
+    "ja": "ゆでにんじん",
+    "en": "Boiled Carrot",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "06381": {
+    "ja": "にんじん油いため",
+    "en": "Stir-fried Carrot",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "06348": {
+    "ja": "にんじんグラッセ",
+    "en": "Glazed Carrot"
+  },
+  "06217": {
+    "ja": "にんじんジュース",
+    "en": "Carrot Juice",
+    "jaDetail": "缶詰",
+    "enDetail": "Canned"
+  },
+  "06218": {
+    "ja": "金時にんじん",
+    "en": "Kintoki Carrot",
+    "jaDetail": "根・皮つき・生",
+    "enDetail": "Root, Skin-on, Raw"
+  },
+  "06219": {
+    "ja": "金時にんじん",
+    "en": "Kintoki Carrot",
+    "jaDetail": "根・皮つき・ゆで",
+    "enDetail": "Root, Skin-on, Boiled"
+  },
+  "06220": {
+    "ja": "金時にんじん",
+    "en": "Kintoki Carrot",
+    "jaDetail": "根・皮なし・生",
+    "enDetail": "Root, Peeled, Raw"
+  },
+  "06221": {
+    "ja": "金時にんじん",
+    "en": "Kintoki Carrot",
+    "jaDetail": "根・皮なし・ゆで",
+    "enDetail": "Root, Peeled, Boiled"
+  },
+  "06409": {
+    "ja": "島にんじん",
+    "en": "Island Carrot",
+    "jaDetail": "根・皮なし・生",
+    "enDetail": "Root, Peeled, Raw"
+  },
+  "06222": {
+    "ja": "ミニキャロット",
+    "en": "Baby Carrot",
+    "jaDetail": "根・生",
+    "enDetail": "Raw"
+  },
+  "06229": {
+    "ja": "野沢菜",
+    "en": "Nozawana",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06233": {
+    "ja": "白菜",
+    "en": "Chinese Cabbage",
+    "jaDetail": "結球葉・生",
+    "enDetail": "Head Leaves, Raw"
+  },
+  "06234": {
+    "ja": "白菜",
+    "en": "Chinese Cabbage",
+    "jaDetail": "結球葉・ゆで",
+    "enDetail": "Head Leaves, Boiled"
+  },
+  "06237": {
+    "ja": "チンゲン菜",
+    "en": "Bok Choy",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06238": {
+    "ja": "バジル",
+    "en": "Basil",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06239": {
+    "ja": "パセリ",
+    "en": "Parsley",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaf, Raw"
+  },
+  "06240": {
+    "ja": "ラディッシュ",
+    "en": "Radish",
+    "jaDetail": "根・生",
+    "enDetail": "Root, Raw"
+  },
+  "06392": {
+    "ja": "ブロッコリーニ",
+    "en": "Broccolini",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06241": {
+    "ja": "ハヤトウリ",
+    "en": "Chayote",
+    "jaDetail": "白色種・果実・生",
+    "enDetail": "White variety, Fruit, Raw"
+  },
+  "06353": {
+    "ja": "ハヤトウリ",
+    "en": "Chayote",
+    "jaDetail": "緑色種・果実・生",
+    "enDetail": "Green variety, Fruit, Raw"
+  },
+  "06243": {
+    "ja": "ビーツ",
+    "en": "Beetroot",
+    "jaDetail": "根・生",
+    "enDetail": "Root, Raw"
+  },
+  "06244": {
+    "ja": "ビーツ",
+    "en": "Beetroot",
+    "jaDetail": "根・ゆで",
+    "enDetail": "Root, Boiled"
+  },
+  "06245": {
+    "ja": "青ピーマン",
+    "en": "Green Bell Pepper",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06246": {
+    "ja": "青ピーマン",
+    "en": "Green Bell Pepper",
+    "jaDetail": "果実・油いため",
+    "enDetail": "Fruit, Stir-fried"
+  },
+  "06247": {
+    "ja": "赤ピーマン",
+    "en": "Red Bell Pepper",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06248": {
+    "ja": "赤ピーマン",
+    "en": "Red Bell Pepper",
+    "jaDetail": "果実・油いため",
+    "enDetail": "Fruit, Stir-fried"
+  },
+  "06393": {
+    "ja": "オレンジピーマン",
+    "en": "Orange Bell Pepper",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06394": {
+    "ja": "オレンジピーマン",
+    "en": "Orange Bell Pepper",
+    "jaDetail": "果実・油いため",
+    "enDetail": "Fruit, Stir-fried"
+  },
+  "06249": {
+    "ja": "黄ピーマン",
+    "en": "Yellow Bell Pepper",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06250": {
+    "ja": "黄ピーマン",
+    "en": "Yellow Bell Pepper",
+    "jaDetail": "果実・油いため",
+    "enDetail": "Fruit, Stir-fried"
+  },
+  "06251": {
+    "ja": "トマピー",
+    "en": "Tomapy pepper",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06252": {
+    "ja": "ひのな",
+    "en": "Hinona",
+    "jaDetail": "根・茎葉・生",
+    "enDetail": "Root & stems/leaves, Raw"
+  },
+  "06253": {
+    "ja": "ひのな",
+    "en": "Hinona",
+    "jaDetail": "根・茎葉・甘酢漬",
+    "enDetail": "Root & stems/leaves, Sweet-vinegar pickled"
+  },
+  "06254": {
+    "ja": "広島菜",
+    "en": "Hiroshimana",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaf, Raw"
+  },
+  "06255": {
+    "ja": "広島菜",
+    "en": "Hiroshimana",
+    "jaDetail": "塩漬",
+    "enDetail": "Leaf, Salted (pickled)"
+  },
+  "06257": {
+    "ja": "ふき",
+    "en": "Butterbur",
+    "jaDetail": "葉柄・ゆで",
+    "enDetail": "Stalk, Boiled"
+  },
+  "06259": {
+    "ja": "ふきのとう",
+    "en": "Butterbur bud",
+    "jaDetail": "花序・ゆで",
+    "enDetail": "Inflorescence, Boiled"
+  },
+  "06260": {
+    "ja": "ふじまめ",
+    "en": "Hyacinth bean",
+    "jaDetail": "若ざや・生",
+    "enDetail": "Young pods, Raw"
+  },
+  "06261": {
+    "ja": "ふだんそう",
+    "en": "Swiss chard",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06262": {
+    "ja": "ふだんそう",
+    "en": "Swiss chard",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06263": {
+    "ja": "ブロッコリー",
+    "en": "Broccoli",
+    "jaDetail": "花序・生",
+    "enDetail": "Florets, Raw"
+  },
+  "06264": {
+    "ja": "ブロッコリー",
+    "en": "Broccoli",
+    "jaDetail": "花序・ゆで",
+    "enDetail": "Florets, Boiled"
+  },
+  "06395": {
+    "ja": "ブロッコリー",
+    "en": "Broccoli",
+    "jaDetail": "花序・電子レンジ調理",
+    "enDetail": "Florets, Microwaved"
+  },
+  "06396": {
+    "ja": "ブロッコリー",
+    "en": "Broccoli",
+    "jaDetail": "花序・焼き",
+    "enDetail": "Florets, Roasted"
+  },
+  "06397": {
+    "ja": "ブロッコリー",
+    "en": "Broccoli",
+    "jaDetail": "花序・油いため",
+    "enDetail": "Florets, Stir-fried"
+  },
+  "06354": {
+    "ja": "ブロッコリースプラウト",
+    "en": "Broccoli sprout",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06265": {
+    "ja": "へちま",
+    "en": "Luffa (sponge gourd)",
+    "jaDetail": "果実・生",
+    "enDetail": "Fruit, Raw"
+  },
+  "06266": {
+    "ja": "へちま",
+    "en": "Luffa (sponge gourd)",
+    "jaDetail": "果実・ゆで",
+    "enDetail": "Fruit, Boiled"
+  },
+  "06267": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "通年平均・葉・生",
+    "enDetail": "Year-round avg, Leaves, Raw"
+  },
+  "06268": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "通年平均・葉・ゆで",
+    "enDetail": "Year-round avg, Leaves, Boiled"
+  },
+  "06359": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "通年平均・葉・油いため",
+    "enDetail": "Year-round avg, Leaves, Stir-fried"
+  },
+  "06355": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "夏採り・葉・生",
+    "enDetail": "Summer harvest, Leaves, Raw"
+  },
+  "06357": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "夏採り・葉・ゆで",
+    "enDetail": "Summer harvest, Leaves, Boiled"
+  },
+  "06356": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "冬採り・葉・生",
+    "enDetail": "Winter harvest, Leaves, Raw"
+  },
+  "06358": {
+    "ja": "ほうれんそう",
+    "en": "Spinach",
+    "jaDetail": "冬採り・葉・ゆで",
+    "enDetail": "Winter harvest, Leaves, Boiled"
+  },
+  "06269": {
+    "ja": "ほうれん草",
+    "en": "Spinach",
+    "jaDetail": "冷凍",
+    "enDetail": "Leaves, Frozen"
+  },
+  "06372": {
+    "ja": "ほうれん草",
+    "en": "Spinach",
+    "jaDetail": "ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06373": {
+    "ja": "ほうれん草",
+    "en": "Spinach",
+    "jaDetail": "油いため",
+    "enDetail": "Leaves, Sautéed"
+  },
+  "06271": {
+    "ja": "マコモダケ",
+    "en": "Makomodake"
+  },
+  "06272": {
+    "ja": "みずかけな",
+    "en": "Mizukakena"
+  },
+  "06072": {
+    "ja": "水菜",
+    "en": "Mizuna",
+    "jaDetail": "生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06073": {
+    "ja": "水菜",
+    "en": "Mizuna",
+    "jaDetail": "ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06274": {
+    "ja": "切りみつば",
+    "en": "Cut Mitsuba",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06275": {
+    "ja": "切りみつば",
+    "en": "Cut Mitsuba",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06276": {
+    "ja": "根みつば",
+    "en": "Mitsuba (with root)",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06277": {
+    "ja": "根みつば",
+    "en": "Mitsuba (with root)",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06278": {
+    "ja": "糸みつば",
+    "en": "Ito-mitsuba",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06279": {
+    "ja": "糸みつば",
+    "en": "Ito-mitsuba",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06360": {
+    "ja": "壬生菜",
+    "en": "Mibuna"
+  },
+  "06280": {
+    "ja": "みょうが",
+    "en": "Myoga"
+  },
+  "06281": {
+    "ja": "みょうがたけ",
+    "en": "Myogatake"
+  },
+  "06282": {
+    "ja": "むかご",
+    "en": "Mukago"
+  },
+  "06283": {
+    "ja": "芽キャベツ",
+    "en": "Brussels Sprouts",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06284": {
+    "ja": "芽キャベツ",
+    "en": "Brussels Sprouts",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06285": {
+    "ja": "めたで",
+    "en": "Metade"
+  },
+  "06288": {
+    "ja": "大豆もやし",
+    "en": "Soybean sprouts",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06412": {
+    "ja": "大豆もやし",
+    "en": "Soybean sprouts",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06290": {
+    "ja": "ブラックマッペもやし",
+    "en": "Black mung bean sprouts",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06398": {
+    "ja": "ブラックマッペもやし",
+    "en": "Black mung bean sprouts",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06292": {
+    "ja": "緑豆もやし",
+    "en": "Mung bean sprouts",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06413": {
+    "ja": "緑豆もやし",
+    "en": "Mung bean sprouts",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06293": {
+    "ja": "モロヘイヤ",
+    "en": "Molokhia",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stems & leaves, Raw"
+  },
+  "06294": {
+    "ja": "モロヘイヤ",
+    "en": "Molokhia",
+    "jaDetail": "茎葉・ゆで",
+    "enDetail": "Stems & leaves, Boiled"
+  },
+  "06296": {
+    "ja": "百合根",
+    "en": "Lily bulb",
+    "jaDetail": "りん茎・生",
+    "enDetail": "Bulb, Raw"
+  },
+  "06297": {
+    "ja": "百合根",
+    "en": "Lily bulb",
+    "jaDetail": "りん茎・ゆで",
+    "enDetail": "Bulb, Boiled"
+  },
+  "06298": {
+    "ja": "葉菜",
+    "en": "Leafy vegetables",
+    "jaDetail": "茎葉・生",
+    "enDetail": "Stems & leaves, Raw"
+  },
+  "06299": {
+    "ja": "葉菜",
+    "en": "Leafy vegetables",
+    "jaDetail": "茎葉・ゆで",
+    "enDetail": "Stems & leaves, Boiled"
+  },
+  "06300": {
+    "ja": "ヨメナ",
+    "en": "Aster",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06301": {
+    "ja": "よもぎ",
+    "en": "Mugwort",
+    "jaDetail": "葉・生",
+    "enDetail": "Leaves, Raw"
+  },
+  "06302": {
+    "ja": "よもぎ",
+    "en": "Mugwort",
+    "jaDetail": "葉・ゆで",
+    "enDetail": "Leaves, Boiled"
+  },
+  "06319": {
+    "ja": "ルッコラ",
+    "en": "Arugula"
+  },
+  "06311": {
+    "ja": "ルバーブ",
+    "en": "Rhubarb",
+    "jaDetail": "葉柄・ゆで",
+    "enDetail": "Stems, Boiled"
+  },
+  "06312": {
+    "ja": "レタス",
+    "en": "Lettuce",
+    "jaDetail": "土耕栽培・結球葉・生",
+    "enDetail": "Soil-grown, Head leaves, Raw"
+  },
+  "06361": {
+    "ja": "レタス",
+    "en": "Lettuce",
+    "jaDetail": "水耕栽培・結球葉・生",
+    "enDetail": "Hydroponic, Head leaves, Raw"
+  },
+  "06313": {
+    "ja": "サラダ菜",
+    "en": "Salad greens"
+  },
+  "06314": {
+    "ja": "リーフレタス",
+    "en": "Leaf Lettuce"
+  },
+  "06315": {
+    "ja": "サニーレタス",
+    "en": "Red Leaf Lettuce"
+  },
+  "06362": {
+    "ja": "サンチュ",
+    "en": "Ssam Lettuce"
+  },
+  "06316": {
+    "ja": "ロメインレタス",
+    "en": "Romaine Lettuce"
+  },
+  "06317": {
+    "ja": "れんこん",
+    "en": "Lotus Root",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "06318": {
+    "ja": "れんこん",
+    "en": "Lotus Root",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06371": {
+    "ja": "甘酢れんこん",
+    "en": "Pickled Lotus Root"
+  },
+  "06325": {
+    "ja": "わらび",
+    "en": "Bracken",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06382": {
+    "ja": "ミックスベジタブル",
+    "en": "Mixed Vegetables",
+    "jaDetail": "冷凍",
+    "enDetail": "Frozen"
+  },
+  "06383": {
+    "ja": "ミックスベジタブル",
+    "en": "Mixed Vegetables",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "06384": {
+    "ja": "ミックスベジタブル",
+    "en": "Mixed Vegetables",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "06399": {
+    "ja": "野菜ジュース",
+    "en": "Vegetable Juice",
+    "jaDetail": "通常タイプ",
+    "enDetail": "Regular"
+  },
+  "07001": {
+    "ja": "あけび",
+    "en": "Akebi"
+  },
+  "07181": {
+    "ja": "アサイー",
+    "en": "Acai",
+    "jaDetail": "冷凍・無糖",
+    "enDetail": "Frozen, Unsweetened"
+  },
+  "07003": {
+    "ja": "アセロラ",
+    "en": "Acerola",
+    "jaDetail": "酸味種",
+    "enDetail": "Tart variety"
+  },
+  "07159": {
+    "ja": "アセロラ",
+    "en": "Acerola",
+    "jaDetail": "甘味種",
+    "enDetail": "Sweet variety"
+  },
+  "07005": {
+    "ja": "アテモヤ",
+    "en": "Atemoya"
+  },
+  "07007": {
+    "ja": "あんず",
+    "en": "Apricot",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "07008": {
+    "ja": "あんず",
+    "en": "Apricot",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "07009": {
+    "ja": "あんず",
+    "en": "Apricot",
+    "jaDetail": "缶詰",
+    "enDetail": "Canned"
+  },
+  "07010": {
+    "ja": "あんずジャム",
+    "en": "Apricot Jam",
+    "jaDetail": "高糖度",
+    "enDetail": "High sugar"
+  },
+  "07012": {
+    "ja": "いちご",
+    "en": "Strawberry"
+  },
+  "07160": {
+    "ja": "ドライいちご",
+    "en": "Dried Strawberry"
+  },
+  "07037": {
+    "ja": "グリーンオリーブ",
+    "en": "Green Olive",
+    "jaDetail": "塩漬",
+    "enDetail": "Brined"
+  },
+  "07049": {
+    "ja": "甘柿",
+    "en": "Sweet Persimmon",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "07050": {
+    "ja": "渋抜き柿",
+    "en": "Astringency-removed Persimmon",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "07051": {
+    "ja": "干し柿",
+    "en": "Dried Persimmon"
+  },
+  "07053": {
+    "ja": "かりん",
+    "en": "Quince",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "07026": {
+    "ja": "温州みかん",
+    "en": "Satsuma Mandarin",
+    "jaDetail": "早生・じょうのう",
+    "enDetail": "Early, Segment"
+  },
+  "07027": {
+    "ja": "温州みかん",
+    "en": "Satsuma Mandarin",
+    "jaDetail": "普通・じょうのう",
+    "enDetail": "Standard, Segment"
+  },
+  "07028": {
+    "ja": "温州みかん",
+    "en": "Satsuma Mandarin",
+    "jaDetail": "早生・砂じょう",
+    "enDetail": "Early, Pulp sacs"
+  },
+  "07029": {
+    "ja": "温州みかん",
+    "en": "Satsuma Mandarin",
+    "jaDetail": "普通・砂じょう",
+    "enDetail": "Standard, Pulp sacs"
+  },
+  "07030": {
+    "ja": "みかんジュース",
+    "en": "Mandarin Juice",
+    "jaDetail": "ストレート",
+    "enDetail": "Not from concentrate"
+  },
+  "07031": {
+    "ja": "みかんジュース",
+    "en": "Mandarin Juice",
+    "jaDetail": "濃縮還元",
+    "enDetail": "From concentrate"
+  },
+  "07032": {
+    "ja": "みかんジュース",
+    "en": "Mandarin Juice",
+    "jaDetail": "果粒入り",
+    "enDetail": "With pulp"
+  },
+  "07035": {
+    "ja": "みかん缶詰",
+    "en": "Canned Mandarin",
+    "jaDetail": "果肉",
+    "enDetail": "Segments"
+  },
+  "07036": {
+    "ja": "みかん缶詰",
+    "en": "Canned Mandarin",
+    "jaDetail": "液汁",
+    "enDetail": "Juice"
+  },
+  "07041": {
+    "ja": "バレンシアオレンジ",
+    "en": "Valencia Orange",
+    "jaDetail": "米国産・砂じょう・生",
+    "enDetail": "USA, Pulp sacs"
+  },
+  "07043": {
+    "ja": "オレンジジュース",
+    "en": "Orange Juice",
+    "jaDetail": "バレンシア・濃縮還元",
+    "enDetail": "Valencia, From concentrate"
+  },
+  "07161": {
+    "ja": "福原オレンジ",
+    "en": "Fukuhara Orange",
+    "jaDetail": "砂じょう・生",
+    "enDetail": "Pulp sacs"
+  },
+  "07048": {
+    "ja": "オロブランコ",
+    "en": "Oroblanco"
+  },
+  "07162": {
+    "ja": "河内晩柑",
+    "en": "Kawachi Bankan"
+  },
+  "07163": {
+    "ja": "清見",
+    "en": "Kiyomi"
+  },
+  "07074": {
+    "ja": "三宝柑",
+    "en": "Sanbokan"
+  },
+  "07165": {
+    "ja": "デコポン",
+    "en": "Dekopon"
+  },
+  "07166": {
+    "ja": "せとか",
+    "en": "Setoka"
+  },
+  "07085": {
+    "ja": "セミノール",
+    "en": "Seminole"
+  },
+  "07093": {
+    "ja": "夏みかん",
+    "en": "Natsumikan"
+  },
+  "07094": {
+    "ja": "夏みかん",
+    "en": "Natsumikan",
+    "jaDetail": "缶詰",
+    "enDetail": "Canned"
+  },
+  "07105": {
+    "ja": "はっさく",
+    "en": "Hassaku"
+  },
+  "07167": {
+    "ja": "はるみ",
+    "en": "Harumi"
+  },
+  "07126": {
+    "ja": "文旦",
+    "en": "Pomelo",
+    "jaDetail": "砂じょう・生",
+    "enDetail": "Albedo (pith), Raw"
+  },
+  "07127": {
+    "ja": "文旦",
+    "en": "Pomelo",
+    "jaDetail": "ざぼん漬",
+    "enDetail": "Zabon-zuke (candied rind)"
+  },
+  "07054": {
+    "ja": "キウイフルーツ",
+    "en": "Kiwi (kiwifruit)",
+    "jaDetail": "緑肉種",
+    "enDetail": "Green-fleshed"
+  },
+  "07168": {
+    "ja": "キウイフルーツ",
+    "en": "Kiwi (kiwifruit)",
+    "jaDetail": "黄肉種",
+    "enDetail": "Golden / Yellow-fleshed"
+  },
+  "07183": {
+    "ja": "キハダ",
+    "en": "Kihada"
+  },
+  "07055": {
+    "ja": "キワノメロン",
+    "en": "Kiwano",
+    "enDetail": "Horned melon"
+  },
+  "07057": {
+    "ja": "グァバ",
+    "en": "Guava",
+    "jaDetail": "赤肉種",
+    "enDetail": "Red-fleshed"
+  },
+  "07169": {
+    "ja": "グァバ",
+    "en": "Guava",
+    "jaDetail": "白肉種",
+    "enDetail": "White-fleshed"
+  },
+  "07185": {
+    "ja": "クコの実",
+    "en": "Goji berry"
+  },
+  "07061": {
+    "ja": "グミ",
+    "en": "Goumi"
+  },
+  "07157": {
+    "ja": "ココナッツウォーター",
+    "en": "Coconut Water"
+  },
+  "07158": {
+    "ja": "ココナッツミルク",
+    "en": "Coconut Milk"
+  },
+  "07070": {
+    "ja": "さくらんぼ",
+    "en": "Cherry",
+    "jaDetail": "国産・生",
+    "enDetail": "Japan, Raw"
+  },
+  "07071": {
+    "ja": "さくらんぼ",
+    "en": "Cherry",
+    "jaDetail": "米国産・生",
+    "enDetail": "U.S., Raw"
+  },
+  "07072": {
+    "ja": "さくらんぼ",
+    "en": "Cherry",
+    "jaDetail": "米国産・缶詰",
+    "enDetail": "U.S., Canned"
+  },
+  "07077": {
+    "ja": "すいか",
+    "en": "Watermelon",
+    "jaDetail": "赤肉種・生",
+    "enDetail": "Red Flesh, Raw"
+  },
+  "07171": {
+    "ja": "すいか",
+    "en": "Watermelon",
+    "jaDetail": "黄肉種・生",
+    "enDetail": "Yellow Flesh, Raw"
+  },
+  "07186": {
+    "ja": "赤すぐり",
+    "en": "Red Currant"
+  },
+  "07182": {
+    "ja": "カシス",
+    "en": "Blackcurrant"
+  },
+  "07060": {
+    "ja": "グーズベリー",
+    "en": "Gooseberry"
+  },
+  "07086": {
+    "ja": "チェリモヤ",
+    "en": "Cherimoya"
+  },
+  "07111": {
+    "ja": "ドラゴンフルーツ",
+    "en": "Dragon Fruit"
+  },
+  "07087": {
+    "ja": "ドリアン",
+    "en": "Durian"
+  },
+  "07088": {
+    "ja": "和梨",
+    "en": "Japanese Pear"
+  },
+  "07090": {
+    "ja": "中国梨",
+    "en": "Asian Pear",
+    "enDetail": "Chinese"
+  },
+  "07091": {
+    "ja": "洋梨",
+    "en": "European Pear"
+  },
+  "07095": {
+    "ja": "なつめ",
+    "en": "Jujube",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "07097": {
+    "ja": "パインアップル",
+    "en": "Pineapple",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "07177": {
+    "ja": "パインアップル",
+    "en": "Pineapple",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "07098": {
+    "ja": "パイナップルジュース",
+    "en": "Pineapple Juice",
+    "jaDetail": "ストレート",
+    "enDetail": "Straight"
+  },
+  "07103": {
+    "ja": "パイナップル缶詰",
+    "en": "Canned Pineapple",
+    "jaDetail": "砂糖漬",
+    "enDetail": "In Syrup"
+  },
+  "07104": {
+    "ja": "ハスカップ",
+    "en": "Haskap"
+  },
+  "07106": {
+    "ja": "パッションフルーツジュース",
+    "en": "Passion Fruit Juice"
+  },
+  "07107": {
+    "ja": "バナナ",
+    "en": "Banana",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "07108": {
+    "ja": "バナナ",
+    "en": "Banana",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "07109": {
+    "ja": "パパイア",
+    "en": "Papaya",
+    "jaDetail": "完熟",
+    "enDetail": "Ripe"
+  },
+  "07114": {
+    "ja": "びわ",
+    "en": "Loquat",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "07115": {
+    "ja": "びわ",
+    "en": "Canned Loquat",
+    "jaDetail": "缶詰"
+  },
+  "07124": {
+    "ja": "ブルーベリー",
+    "en": "Blueberry",
+    "jaDetail": "生",
+    "enDetail": "Fresh"
+  },
+  "07172": {
+    "ja": "ブルーベリー",
+    "en": "Blueberry",
+    "jaDetail": "乾",
+    "enDetail": "Dried"
+  },
+  "07128": {
+    "ja": "ホワイトサポテ",
+    "en": "White Sapote"
+  },
+  "07130": {
+    "ja": "まくわうり",
+    "en": "Oriental Melon",
+    "jaDetail": "黄肉種・生",
+    "enDetail": "Yellow-fleshed"
+  },
+  "07173": {
+    "ja": "まくわうり",
+    "en": "Oriental Melon",
+    "jaDetail": "白肉種・生",
+    "enDetail": "White-fleshed"
+  },
+  "07131": {
+    "ja": "マルメロ",
+    "en": "Quince"
+  },
+  "07132": {
+    "ja": "マンゴー",
+    "en": "Mango"
+  },
+  "07133": {
+    "ja": "マンゴスチン",
+    "en": "Mangosteen"
+  },
+  "07134": {
+    "ja": "メロン",
+    "en": "Melon",
+    "jaDetail": "温室メロン・生",
+    "enDetail": "Greenhouse"
+  },
+  "07135": {
+    "ja": "メロン",
+    "en": "Melon",
+    "jaDetail": "露地メロン・緑肉種・生",
+    "enDetail": "Field, Green-fleshed"
+  },
+  "07174": {
+    "ja": "メロン",
+    "en": "Melon",
+    "jaDetail": "露地メロン・赤肉種・生",
+    "enDetail": "Field, Red-fleshed"
+  },
+  "07136": {
+    "ja": "もも",
+    "en": "Peach",
+    "jaDetail": "白肉種・生",
+    "enDetail": "White-flesh, Raw"
+  },
+  "07184": {
+    "ja": "もも",
+    "en": "Peach",
+    "jaDetail": "黄肉種・生",
+    "enDetail": "Yellow-flesh, Raw"
+  },
+  "07138": {
+    "ja": "もも",
+    "en": "Peach",
+    "jaDetail": "缶詰・白肉種・果肉",
+    "enDetail": "Canned, White-flesh, Fruit"
+  },
+  "07175": {
+    "ja": "もも",
+    "en": "Peach",
+    "jaDetail": "缶詰・黄肉種・果肉",
+    "enDetail": "Canned, Yellow-flesh, Fruit"
+  },
+  "07139": {
+    "ja": "もも",
+    "en": "Peach",
+    "jaDetail": "缶詰・液汁",
+    "enDetail": "Canned, Syrup"
+  },
+  "07140": {
+    "ja": "ネクタリン",
+    "en": "Nectarine"
+  },
+  "07141": {
+    "ja": "やまもも",
+    "en": "Yamamomo",
+    "enDetail": "Japanese bayberry"
+  },
+  "07146": {
+    "ja": "ラズベリー",
+    "en": "Raspberry"
+  },
+  "07148": {
+    "ja": "りんご",
+    "en": "Apple",
+    "jaDetail": "皮なし・生",
+    "enDetail": "Peeled, Raw"
+  },
+  "07176": {
+    "ja": "りんご",
+    "en": "Apple",
+    "jaDetail": "皮つき・生",
+    "enDetail": "With skin, Raw"
+  },
+  "07180": {
+    "ja": "りんご",
+    "en": "Apple",
+    "jaDetail": "皮つき・焼き",
+    "enDetail": "Baked, With skin"
+  },
+  "07149": {
+    "ja": "りんごジュース",
+    "en": "Apple Juice",
+    "jaDetail": "ストレート",
+    "enDetail": "100% (Straight)"
+  },
+  "07150": {
+    "ja": "りんごジュース",
+    "en": "Apple Juice",
+    "jaDetail": "濃縮還元",
+    "enDetail": "From concentrate"
+  },
+  "07151": {
+    "ja": "りんご飲料",
+    "en": "Apple Beverage",
+    "jaDetail": "果汁50%入り",
+    "enDetail": "50% Juice"
+  },
+  "07153": {
+    "ja": "りんご",
+    "en": "Apple",
+    "jaDetail": "缶詰",
+    "enDetail": "Canned"
+  },
+  "08001": {
+    "ja": "えのきたけ",
+    "en": "Enoki Mushroom",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08002": {
+    "ja": "えのきたけ",
+    "en": "Enoki Mushroom",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08037": {
+    "ja": "えのきたけ",
+    "en": "Enoki Mushroom",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried (in oil)"
+  },
+  "08054": {
+    "ja": "きくらげ",
+    "en": "Wood Ear Mushroom",
+    "jaDetail": "生（あらげきくらげ）",
+    "enDetail": "Raw (Auricularia)"
+  },
+  "08004": {
+    "ja": "きくらげ",
+    "en": "Wood Ear Mushroom",
+    "jaDetail": "乾（あらげきくらげ）",
+    "enDetail": "Dried (Auricularia)"
+  },
+  "08005": {
+    "ja": "あらげきくらげ",
+    "en": "Arage Wood Ear",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08038": {
+    "ja": "あらげきくらげ",
+    "en": "Arage Wood Ear",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "08006": {
+    "ja": "きくらげ",
+    "en": "Wood Ear",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "08007": {
+    "ja": "きくらげ",
+    "en": "Wood Ear",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08008": {
+    "ja": "しろきくらげ",
+    "en": "Snow Fungus",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "08009": {
+    "ja": "しろきくらげ",
+    "en": "Snow Fungus",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08010": {
+    "ja": "くろあわびたけ",
+    "en": "Black Abalone Mushroom",
+    "enDetail": "Raw"
+  },
+  "08039": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "菌床栽培・生",
+    "enDetail": "Cultivated (substrate), Raw"
+  },
+  "08040": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "菌床栽培・ゆで",
+    "enDetail": "Cultivated (substrate), Boiled"
+  },
+  "08041": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "菌床栽培・油いため",
+    "enDetail": "Cultivated (substrate), Stir-fried"
+  },
+  "08057": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "菌床栽培・天ぷら",
+    "enDetail": "Cultivated (substrate), Tempura"
+  },
+  "08042": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "原木栽培・生",
+    "enDetail": "Log-grown, Raw"
+  },
+  "08043": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "原木栽培・ゆで",
+    "enDetail": "Log-grown, Boiled"
+  },
+  "08044": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "原木栽培・油いため",
+    "enDetail": "Log-grown, Stir-fried"
+  },
+  "08013": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "08014": {
+    "ja": "しいたけ",
+    "en": "Shiitake",
+    "jaDetail": "乾燥・ゆで",
+    "enDetail": "Dried, Boiled"
+  },
+  "08015": {
+    "ja": "はたけしめじ",
+    "en": "Hatake Shimeji",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08045": {
+    "ja": "はたけしめじ",
+    "en": "Hatake Shimeji",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08016": {
+    "ja": "ぶなしめじ",
+    "en": "Buna Shimeji",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08017": {
+    "ja": "ぶなしめじ",
+    "en": "Buna Shimeji",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08046": {
+    "ja": "ぶなしめじ",
+    "en": "Buna Shimeji",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "08055": {
+    "ja": "ぶなしめじ",
+    "en": "Buna Shimeji",
+    "jaDetail": "素揚げ",
+    "enDetail": "Deep-fried"
+  },
+  "08018": {
+    "ja": "ほんしめじ",
+    "en": "Hon Shimeji",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08047": {
+    "ja": "ほんしめじ",
+    "en": "Hon Shimeji",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08019": {
+    "ja": "たもぎたけ",
+    "en": "Tamogitake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08020": {
+    "ja": "なめこ",
+    "en": "Nameko",
+    "jaDetail": "株採り・生",
+    "enDetail": "Whole cluster, Raw"
+  },
+  "08021": {
+    "ja": "なめこ",
+    "en": "Nameko",
+    "jaDetail": "株採り・ゆで",
+    "enDetail": "Whole cluster, Boiled"
+  },
+  "08058": {
+    "ja": "なめこ",
+    "en": "Nameko",
+    "jaDetail": "カットなめこ・生",
+    "enDetail": "Cut, Raw"
+  },
+  "08022": {
+    "ja": "なめこ",
+    "en": "Nameko",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned (water-packed)"
+  },
+  "08023": {
+    "ja": "ぬめりすぎたけ",
+    "en": "Numerisugidake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08024": {
+    "ja": "うすひらたけ",
+    "en": "Usuhiratake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08025": {
+    "ja": "エリンギ",
+    "en": "King Oyster Mushroom",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08048": {
+    "ja": "エリンギ",
+    "en": "King Oyster Mushroom",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08049": {
+    "ja": "エリンギ",
+    "en": "King Oyster Mushroom",
+    "jaDetail": "焼き",
+    "enDetail": "Grilled"
+  },
+  "08050": {
+    "ja": "エリンギ",
+    "en": "King Oyster Mushroom",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "08026": {
+    "ja": "ひらたけ",
+    "en": "Oyster Mushroom",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08027": {
+    "ja": "ひらたけ",
+    "en": "Oyster Mushroom",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08028": {
+    "ja": "まいたけ",
+    "en": "Maitake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08029": {
+    "ja": "まいたけ",
+    "en": "Maitake",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08051": {
+    "ja": "まいたけ",
+    "en": "Maitake",
+    "jaDetail": "油いため",
+    "enDetail": "Stir-fried"
+  },
+  "08030": {
+    "ja": "まいたけ",
+    "en": "Maitake",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "08031": {
+    "ja": "マッシュルーム",
+    "en": "Mushroom",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08032": {
+    "ja": "マッシュルーム",
+    "en": "Mushroom",
+    "jaDetail": "ゆで",
+    "enDetail": "Boiled"
+  },
+  "08052": {
+    "ja": "マッシュルーム",
+    "en": "Mushroom",
+    "jaDetail": "油いため",
+    "enDetail": "Fried in Oil"
+  },
+  "08059": {
+    "ja": "マッシュルーム",
+    "en": "Mushroom",
+    "jaDetail": "ブラウン種・生",
+    "enDetail": "Brown (Cremini), Raw"
+  },
+  "08033": {
+    "ja": "マッシュルーム",
+    "en": "Mushroom",
+    "jaDetail": "水煮缶詰",
+    "enDetail": "Canned (In Water)"
+  },
+  "08034": {
+    "ja": "まつたけ",
+    "en": "Matsutake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "08036": {
+    "ja": "やなぎまつたけ",
+    "en": "Yanagi Matsutake",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "09001": {
+    "ja": "あおさ",
+    "en": "Aosa",
+    "jaDetail": "素干し",
+    "enDetail": "Dried"
+  },
+  "09002": {
+    "ja": "あおのり",
+    "en": "Aonori",
+    "jaDetail": "素干し",
+    "enDetail": "Dried"
+  },
+  "09003": {
+    "ja": "あまのり",
+    "en": "Amanori",
+    "jaDetail": "ほしのり",
+    "enDetail": "Dried (Hoshi-nori)"
+  },
+  "09004": {
+    "ja": "あまのり",
+    "en": "Amanori",
+    "jaDetail": "焼きのり",
+    "enDetail": "Toasted (Yaki-nori)"
+  },
+  "09005": {
+    "ja": "あまのり",
+    "en": "Amanori",
+    "jaDetail": "味付けのり",
+    "enDetail": "Seasoned (Ajitsuke nori)"
+  },
+  "09006": {
+    "ja": "あらめ",
+    "en": "Arame",
+    "jaDetail": "蒸し干し",
+    "enDetail": "Steamed and Dried"
+  },
+  "09007": {
+    "ja": "いわのり",
+    "en": "Iwanori",
+    "jaDetail": "素干し",
+    "enDetail": "Dried"
+  },
+  "09012": {
+    "ja": "うみぶどう",
+    "en": "Sea Grapes",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  },
+  "09008": {
+    "ja": "えごのり",
+    "en": "Egonori",
+    "jaDetail": "素干し",
+    "enDetail": "Dried"
+  },
+  "09009": {
+    "ja": "えごのり",
+    "en": "Egonori",
+    "jaDetail": "おきうと",
+    "enDetail": "Okiuto"
+  },
+  "09010": {
+    "ja": "おごのり",
+    "en": "Ogonori",
+    "jaDetail": "塩蔵・塩抜き",
+    "enDetail": "Salt-cured, Desalted"
+  },
+  "09011": {
+    "ja": "かわのり",
+    "en": "Kawanori",
+    "jaDetail": "素干し",
+    "enDetail": "Dried"
+  },
+  "09013": {
+    "ja": "えながおに昆布",
+    "en": "enagaoni kombu"
+  },
+  "09014": {
+    "ja": "ガゴメ昆布",
+    "en": "gagome kombu"
+  },
+  "09015": {
+    "ja": "長昆布",
+    "en": "naga kombu"
+  },
+  "09016": {
+    "ja": "細目昆布",
+    "en": "hosome kombu"
+  },
+  "09017": {
+    "ja": "真昆布",
+    "en": "makonbu"
+  },
+  "09018": {
+    "ja": "三石昆布",
+    "en": "mitsuishi kombu"
+  },
+  "09019": {
+    "ja": "利尻昆布",
+    "en": "rishiri kombu"
+  },
+  "09020": {
+    "ja": "刻み昆布",
+    "en": "kombu flakes"
+  },
+  "09021": {
+    "ja": "削り昆布",
+    "en": "kombu shavings"
+  },
+  "09022": {
+    "ja": "塩昆布",
+    "en": "shio kombu"
+  },
+  "09024": {
+    "ja": "水前寺のり",
+    "en": "Suizenji nori",
+    "jaDetail": "水戻し",
+    "enDetail": "soaked"
+  },
+  "09025": {
+    "ja": "てんぐさ",
+    "en": "tengusa"
+  },
+  "09026": {
+    "ja": "ところてん",
+    "en": "tokoroten"
+  },
+  "09027": {
+    "ja": "角寒天",
+    "en": "kanten block"
+  },
+  "09028": {
+    "ja": "寒天",
+    "en": "kanten"
+  },
+  "09049": {
+    "ja": "粉寒天",
+    "en": "kanten powder"
+  },
+  "09029": {
+    "ja": "赤とさか",
+    "en": "red tosaka nori",
+    "jaDetail": "塩抜き",
+    "enDetail": "desalted"
+  },
+  "09030": {
+    "ja": "青とさか",
+    "en": "blue tosaka nori",
+    "jaDetail": "塩抜き",
+    "enDetail": "desalted"
+  },
+  "09050": {
+    "ja": "干しひじき",
+    "en": "dried hijiki",
+    "jaDetail": "乾"
+  },
+  "09051": {
+    "ja": "ゆでひじき",
+    "en": "boiled hijiki",
+    "jaDetail": "ゆで"
+  },
+  "09055": {
+    "ja": "ひじき",
+    "en": "Hijiki",
+    "jaDetail": "干し・油炒め",
+    "enDetail": "Dried, Sauteed in Oil"
+  },
+  "09032": {
+    "ja": "ひとえぐさ",
+    "en": "Monostroma",
+    "jaDetail": "素干し",
+    "enDetail": "Sun-dried"
+  },
+  "09034": {
+    "ja": "ふのり",
+    "en": "Funori",
+    "jaDetail": "素干し",
+    "enDetail": "Sun-dried"
+  },
+  "09035": {
+    "ja": "まつも",
+    "en": "Matsumo",
+    "jaDetail": "素干し",
+    "enDetail": "Sun-dried"
+  },
+  "09036": {
+    "ja": "むかでのり",
+    "en": "Mukadenori",
+    "jaDetail": "塩蔵・塩抜き",
+    "enDetail": "Salted, Desalted"
+  },
+  "09037": {
+    "ja": "沖縄もずく",
+    "en": "Okinawa Mozuku",
+    "jaDetail": "塩蔵・塩抜き",
+    "enDetail": "Salted, Desalted"
+  },
+  "09038": {
+    "ja": "もずく",
+    "en": "Mozuku",
+    "jaDetail": "塩蔵・塩抜き",
+    "enDetail": "Salted, Desalted"
+  },
+  "09039": {
+    "ja": "わかめ",
+    "en": "Wakame",
+    "jaDetail": "原藻・生",
+    "enDetail": "Raw, Whole"
+  },
+  "09040": {
+    "ja": "乾燥わかめ",
+    "en": "Dried Wakame",
+    "jaDetail": "素干し",
+    "enDetail": "Sun-dried"
+  },
+  "09041": {
+    "ja": "乾燥わかめ",
+    "en": "Dried Wakame",
+    "jaDetail": "水戻し",
+    "enDetail": "Rehydrated"
+  },
+  "09060": {
+    "ja": "乾燥わかめ",
+    "en": "Dried Wakame",
+    "jaDetail": "水煮",
+    "enDetail": "Rehydrated, Boiled"
+  },
+  "09042": {
+    "ja": "板わかめ",
+    "en": "Wakame Sheets"
+  },
+  "09043": {
+    "ja": "乾燥わかめ",
+    "en": "Dried Wakame",
+    "jaDetail": "灰干し・水戻し",
+    "enDetail": "Ash-dried, Rehydrated"
+  },
+  "09044": {
+    "ja": "カットわかめ",
+    "en": "Cut Wakame",
+    "jaDetail": "乾燥",
+    "enDetail": "Dried"
+  },
+  "09058": {
+    "ja": "カットわかめ",
+    "en": "Cut Wakame",
+    "jaDetail": "水煮",
+    "enDetail": "Boiled"
+  },
+  "09059": {
+    "ja": "カットわかめ",
+    "en": "Cut Wakame Cooking Liquid",
+    "jaDetail": "水煮の汁"
+  },
+  "09045": {
+    "ja": "塩蔵わかめ",
+    "en": "Salted Wakame",
+    "jaDetail": "湯通し・塩抜き・生",
+    "enDetail": "Blanched, Desalted"
+  },
+  "09057": {
+    "ja": "塩蔵わかめ",
+    "en": "Salted Wakame",
+    "jaDetail": "湯通し・塩抜き・ゆで",
+    "enDetail": "Blanched, Desalted, Boiled"
+  },
+  "09046": {
+    "ja": "茎わかめ",
+    "en": "Wakame Stems",
+    "jaDetail": "湯通し塩蔵・塩抜き",
+    "enDetail": "Blanched, Salted, Desalted"
+  },
+  "09047": {
+    "ja": "めかぶ",
+    "en": "Mekabu",
+    "jaDetail": "生",
+    "enDetail": "Raw"
+  }
+}
