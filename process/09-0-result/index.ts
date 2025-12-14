@@ -1,4 +1,4 @@
-import { mkdir, copyFile, readFile, writeFile } from "fs/promises";
+import { mkdir, copyFile, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -12,13 +12,17 @@ const specFile = join(__dirname, "../../doc/spec.md");
 const specComparisonFile = join(__dirname, "../07-normalize-headers/SPEC_COMPARISON.md");
 
 // コピー先
-const outputCSV = join(__dirname, "final-with-choline.csv");
-const outputMetadata = join(__dirname, "column-metadata.json");
-const outputSpec = join(__dirname, "spec.md");
-const outputSpecComparison = join(__dirname, "SPEC_COMPARISON.md");
+const resultDir = join(__dirname, "result");
+const outputCSV = join(resultDir, "final-with-choline.csv");
+const outputMetadata = join(resultDir, "column-metadata.json");
+const outputSpec = join(resultDir, "spec.md");
+const outputSpecComparison = join(resultDir, "SPEC_COMPARISON.md");
 
 async function main() {
   console.log("最終成果物を収集しています...");
+
+  // resultフォルダ作成
+  await mkdir(resultDir, { recursive: true });
 
   // CSVをコピー
   console.log("  final-with-choline.csv をコピー中...");
@@ -47,7 +51,7 @@ async function main() {
   console.log("\n処理完了:");
   console.log(`  CSV: ${lines}行, ${headers}列`);
   console.log(`  メタデータ: ${metadata.columns.length}列`);
-  console.log(`  出力先: ${__dirname}`);
+  console.log(`  出力先: ${resultDir}`);
 }
 
 main().catch(console.error);

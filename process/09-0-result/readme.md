@@ -19,9 +19,16 @@
 pnpm run process:9-0
 ```
 
-## ファイル一覧
+## 出力
 
-### 1. `final-with-choline.csv`
+- `result/final-with-choline.csv` - コリン追加済みCSV
+- `result/column-metadata.json` - 列メタデータ
+- `result/spec.md` - 仕様書
+- `result/SPEC_COMPARISON.md` - 仕様比較
+
+## ファイル詳細
+
+### 1. `result/final-with-choline.csv`
 
 **最終的な栄養成分データCSVファイル（コリン追加版）**
 
@@ -96,7 +103,7 @@ pnpm run process:9-0
 - 括弧付きの値（例: `(0)`, `(550)`）は推定値または計算値
 - `ME_KCAL_100G`はmodified Atwater法で計算された代謝エネルギー
 
-### 2. `column-metadata.json`
+### 2. `result/column-metadata.json`
 
 **CSV列のメタデータ（構造化ドキュメント）**
 
@@ -137,7 +144,7 @@ pnpm run process:9-0
 
 このファイルにより、LLMは各列の意味、単位、カテゴリなどの詳細情報を参照できます。
 
-### 3. `spec.md`
+### 3. `result/spec.md`
 
 **犬の健康レシピ生成仕様書**
 
@@ -156,7 +163,7 @@ pnpm run process:9-0
 
 この仕様書に基づいて、`final-nutrition.csv`のデータが加工されています。
 
-### 4. `SPEC_COMPARISON.md`
+### 4. `result/SPEC_COMPARISON.md`
 
 **spec.mdとの列名比較結果**
 
