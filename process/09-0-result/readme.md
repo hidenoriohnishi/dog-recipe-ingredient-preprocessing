@@ -1,6 +1,23 @@
-# 最終成果物
+# 09-0: 最終成果物
 
 このフォルダには、成分表分析前処理プロジェクトの最終成果物が含まれています。
+
+## 概要
+
+08-3で生成されたコリン追加済みCSVと関連ファイルを収集し、最終成果物としてまとめます。
+
+## 入力
+
+- `../08-3-merge-choline/result/final-with-choline.csv` - コリン追加済みCSV
+- `../08-3-merge-choline/result/column-metadata.json` - 列メタデータ
+- `../../doc/spec.md` - 仕様書
+- `../07-normalize-headers/SPEC_COMPARISON.md` - 仕様比較
+
+## 実行
+
+```bash
+pnpm run process:9-0
+```
 
 ## ファイル一覧
 
