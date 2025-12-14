@@ -4,12 +4,12 @@
 
 ## ファイル一覧
 
-### 1. `final-nutrition.csv`
+### 1. `final-with-choline.csv`
 
-**最終的な栄養成分データCSVファイル**
+**最終的な栄養成分データCSVファイル（コリン追加版）**
 
-- **行数**: 1,314行（ヘッダー1行 + データ1,313行）
-- **列数**: 64列
+- **行数**: 1,315行（ヘッダー1行 + データ1,314行）
+- **列数**: 67列（コリン関連3列を追加）
 - **エンコーディング**: UTF-8
 - **形式**: 通常のCSV（ヘッダーは英語の列名）
 
@@ -66,6 +66,11 @@
     - `tag_name_ja_detail`: 日本語タグ名詳細
     - `tag_name_en`: 英語タグ名
     - `tag_name_en_detail`: 英語タグ名詳細
+
+11. **コリン（3列）**
+    - `CHOLN`: コリン（mg/100g、USDAデータから追加）
+    - `usda_ndb_no`: USDA NDB番号（マッチしたUSDA食品のID）
+    - `usda_food_name`: USDA食品名（マッチしたUSDA食品の名称）
 
 #### データの特徴
 
@@ -152,7 +157,7 @@
 import pandas as pd
 
 # CSVを読み込む
-df = pd.read_csv('final-nutrition.csv')
+df = pd.read_csv('final-with-choline.csv')
 
 # 特定の栄養素でフィルタリング
 high_protein = df[df['PROT-'] > 20]
@@ -184,6 +189,7 @@ for col in metadata['columns']:
 - **MEXT 2023**: 日本食品標準成分表（八訂）増補2023年
 - **アミノ酸成分表**: MEXT 2023 アミノ酸成分表
 - **脂肪酸成分表**: MEXT 2023 脂肪酸成分表
+- **USDA Choline Database**: USDA Database for the Choline Content of Common Foods, Release 2 (2008)
 
 ## 注意事項
 
@@ -194,6 +200,8 @@ for col in metadata['columns']:
 3. **代謝エネルギー**: `ME_KCAL_100G`はmodified Atwater法で計算されています。spec.md 6.3節を参照してください。
 
 4. **列名の命名規則**: spec.md 6.2節の理想的な形式（`protein_g_100g`など）ではなく、MEXTの元のコード名（`PROT-`など）を使用しています。詳細は`SPEC_COMPARISON.md`を参照してください。
+
+5. **コリンデータ**: `CHOLN`はUSDAデータベースからマッチングして追加されました。マッチしなかった食品は空欄です。`usda_ndb_no`と`usda_food_name`でマッチしたUSDA食品を確認できます。コリンデータはAAFCO栄養基準の制約に必要です。
 
 ## 次のステップ
 

@@ -2,9 +2,8 @@ import dotenv from "dotenv";
 import { mkdir, writeFile, readFile } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
-import { generateText, tool } from "ai";
+import { generateText } from "ai";
 import { openai } from "@ai-sdk/openai";
-import { z } from "zod";
 import {
   calculateCost,
   formatCost,
@@ -35,7 +34,6 @@ const MODEL_NAME = "gpt-5-mini-2025-08-07";
 // USDA食品データ
 interface USDAFood {
   ndb_no: string;
-  food_group: string;
   food_name: string;
   total_choline_mg: number;
 }
@@ -56,68 +54,6 @@ interface Progress {
 
 // グローバルに保持するUSDAデータ
 let usdaFoods: USDAFood[] = [];
-
-/**
- * 検索スコアを計算（高いほど良いマッチ）
- */
-function calculateMatchScore(foodName: string, query: string): number {
-  // 正規化: 小文字化、ハイフン/アンダースコアをスペースに変換
-  const name = foodName.toLowerCase().replace(/[-_]/g, " ");
-  const q = query.toLowerCase().replace(/[-_]/g, " ");
-
-  // 完全一致
-  if (name === q) return 100;
-
-  // 前方一致
-  if (name.startsWith(q)) return 80;
-
-  // 食品名の単語を抽出（カンマ、スペースで分割）
-  const nameWords = name.split(/[\s,()]+/).filter((w) => w.length > 0);
-  
-  // クエリの単語を抽出
-  const queryWords = q.split(/\s+/).filter((w) => w.length > 0);
-
-  // 全クエリ単語がname内の単語に一致（前方一致も許容）
-  const allWordsMatch = queryWords.every((qw) =>
-    nameWords.some((nw) => nw === qw || nw.startsWith(qw) || qw.startsWith(nw))
-  );
-  if (allWordsMatch) return 70;
-
-  // 全クエリ単語が部分一致
-  if (queryWords.every((qw) => name.includes(qw))) return 60;
-
-  // 部分一致（クエリ全体）
-  if (name.includes(q)) return 50;
-
-  // 一部の単語が一致
-  const matchedWords = queryWords.filter((qw) =>
-    nameWords.some((nw) => nw === qw || nw.startsWith(qw) || nw.includes(qw))
-  );
-  if (matchedWords.length > 0) {
-    return 20 + (matchedWords.length / queryWords.length) * 25;
-  }
-
-  return 0;
-}
-
-/**
- * USDA食品を検索
- */
-function searchUSDA(query: string): USDAFood[] {
-  const q = query.toLowerCase().trim();
-
-  // スコア付きで検索
-  const scored = usdaFoods
-    .map((food) => ({
-      food,
-      score: calculateMatchScore(food.food_name, q),
-    }))
-    .filter((item) => item.score > 0)
-    .sort((a, b) => b.score - a.score)
-    .slice(0, 30);
-
-  return scored.map((item) => item.food);
-}
 
 /**
  * CSVをパース
@@ -187,11 +123,9 @@ function parseCSVRecords(csvContent: string): string[][] {
 async function loadUSDAData(): Promise<void> {
   const content = await readFile(usdaFile, "utf-8");
   const records = parseCSVRecords(content);
-  const headers = records[0];
 
   usdaFoods = records.slice(1).map((row) => ({
     ndb_no: row[0],
-    food_group: row[1],
     food_name: row[2]?.replace(/^"|"$/g, "") || "",
     total_choline_mg: parseFloat(row[3]) || 0,
   }));
@@ -238,6 +172,15 @@ async function saveMapping(mapping: MatchResult[]): Promise<void> {
 }
 
 /**
+ * USDA食品リストを生成（プロンプト用）
+ */
+function generateUSDAList(): string {
+  return usdaFoods
+    .map((f) => `${f.ndb_no}: ${f.food_name} (${f.total_choline_mg}mg)`)
+    .join("\n");
+}
+
+/**
  * AIでマッチングを実行
  */
 async function matchFoods(
@@ -257,31 +200,17 @@ async function matchFoods(
     })
     .join("\n\n");
 
-  const systemPrompt = `あなたは日本の食品（MEXT）とアメリカの食品データベース（USDA）をマッチングする専門家です。
+  const usdaList = generateUSDAList();
 
-## 手順
+  const prompt = `あなたは日本の食品（MEXT）とアメリカの食品データベース（USDA）をマッチングする専門家です。
 
-1. 各食品について、USDAデータベースに登録されていそうな英語名を推測してください
-2. その推測した名前でsearch_usdaツールを使って検索してください
-3. 検索結果から最適なマッチを選んでください
+## USDA食品リスト（NDB番号: 食品名 (コリン含有量mg/100g)）
 
-## 検索キーワードの選び方
+${usdaList}
 
-USDAは米国の食品データベースです。検索キーワードは「USDAにその食品があるならどんな名前か」を考えて選んでください。
+## マッチング対象のMEXT食品
 
-例:
-- パスタ（ゆで）→ "spaghetti" や "pasta" で検索（"Pasta (Boiled)" ではない）
-- 薄力粉 → "wheat flour" や "cake flour" で検索
-- 鶏もも肉 → "chicken thigh" で検索
-- 牛レバー → "beef liver" で検索
-- 豆腐 → "tofu" で検索
-
-## ツールの使い方
-
-search_usdaは複数キーワードを配列で受け取ります:
-{"queries": ["spaghetti", "chicken thigh", "beef liver", ...]}
-
-各キーワードに対して上位5件の候補が返されます。
+${foodList}
 
 ## マッチの判断基準
 
@@ -300,41 +229,14 @@ search_usdaは複数キーワードを配列で受け取ります:
   {"index": 1, "usda_ndb_no": "01123", "reason": "同じ卵の全卵"},
   {"index": 2, "usda_ndb_no": null, "reason": "NO_MATCH: 該当する食品がない"}
 ]
-\`\`\``;
+\`\`\`
 
-  const searchTool = tool({
-    description:
-      "複数のキーワードでUSDA食品データベースを一括検索します。各キーワードに対して上位5件を返します。",
-    parameters: z.object({
-      queries: z.array(z.string()).min(1),
-    }),
-    execute: async ({ queries }) => {
-      if (!Array.isArray(queries) || queries.length === 0) {
-        return [];
-      }
-      // 重複を除去
-      const uniqueQueries = [...new Set(queries.map((q) => String(q).toLowerCase()))];
-      // 各キーワードで検索し、上位5件を返す
-      return uniqueQueries.map((q) => ({
-        query: q,
-        results: searchUSDA(q)
-          .slice(0, 5)
-          .map((f) => ({
-            ndb_no: f.ndb_no,
-            name: f.food_name,
-            choline_mg: f.total_choline_mg,
-          })),
-      }));
-    },
-  });
+各MEXT食品について、上記USDAリストから最適なマッチを見つけてください。`;
 
   try {
     const result = await generateText({
       model: openai(MODEL_NAME),
-      system: systemPrompt,
-      prompt: `以下のMEXT食品について、USDAデータベースから最適なマッチを見つけてください。\n\n${foodList}`,
-      tools: { search_usda: searchTool },
-      maxSteps: 5,
+      prompt,
       temperature: 0.1,
     });
 
@@ -382,7 +284,6 @@ search_usdaは複数キーワードを配列で受け取ります:
     return { results, cost };
   } catch (error) {
     console.error("AI処理エラー:", error);
-    // エラー時はNO_MATCHを返す
     return {
       results: foods.map((f) => ({
         mext_food_number: f.foodNumber,
@@ -486,48 +387,12 @@ async function main() {
     console.log(`\n累計料金: $${totalCostUSD.toFixed(4)} (¥${(totalCostUSD * 150).toFixed(2)})`);
   }
 
-  // 最終CSVを生成
-  console.log("\n最終CSVを生成しています...");
-  
-  // マッピングをマップに変換
-  const mappingMap = new Map<string, MatchResult>();
-  for (const m of existingMapping) {
-    mappingMap.set(m.mext_food_number, m);
-  }
-
-  // 新しいヘッダーを追加
-  const newHeaders = [
-    ...mextHeaders,
-    "CHOLN",
-    "usda_ndb_no",
-    "usda_food_name",
-    "choline_match_reason",
-  ];
-
-  // 新しい行を生成
-  const newRows = mextDataRows.map((row) => {
-    const foodNumber = row[foodNumberIdx];
-    const mapping = mappingMap.get(foodNumber);
-
-    return [
-      ...row,
-      mapping?.total_choline_mg?.toString() || "",
-      mapping?.usda_ndb_no || "",
-      mapping?.usda_food_name ? `"${mapping.usda_food_name.replace(/"/g, '""')}"` : "",
-      mapping?.match_reason ? `"${mapping.match_reason.replace(/"/g, '""')}"` : "",
-    ];
-  });
-
-  // CSV出力
-  const csvContent = [newHeaders.join(","), ...newRows.map((r) => r.join(","))].join("\n");
-  await writeFile(outputFile, csvContent, "utf-8");
-
   // 統計
   const matchedCount = existingMapping.filter((m) => m.usda_ndb_no).length;
   console.log(`\n処理完了:`);
   console.log(`  マッチ: ${matchedCount}件`);
   console.log(`  NO_MATCH: ${existingMapping.length - matchedCount}件`);
-  console.log(`  出力: ${outputFile}`);
+  console.log(`  マッピング結果: ${mappingFile}`);
 }
 
 main().catch(console.error);

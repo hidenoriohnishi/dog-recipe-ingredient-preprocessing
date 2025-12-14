@@ -722,6 +722,34 @@
       "name": "代謝エネルギー",
       "unit": "kcal",
       "code": "ME_KCAL_100G"
+    },
+    {
+      "columnIndex": 64,
+      "columnName": "CHOLN",
+      "type": "nutrient",
+      "basis": "可食部100g当たり",
+      "category": "ビタミン",
+      "name": "コリン",
+      "unit": "mg",
+      "code": "CHOLN",
+      "source": "USDA",
+      "originalHeader": "{\"type\":\"nutrient\",\"basis\":\"可食部100g当たり\",\"category\":\"ビタミン\",\"name\":\"コリン\",\"unit\":\"mg\",\"code\":\"CHOLN\",\"source\":\"USDA\"}"
+    },
+    {
+      "columnIndex": 65,
+      "columnName": "usda_ndb_no",
+      "type": "identifier",
+      "name": "USDA NDB番号",
+      "description": "USDAデータベースの食品ID（マッチした場合）",
+      "originalHeader": "{\"type\":\"identifier\",\"name\":\"USDA NDB番号\",\"description\":\"USDAデータベースの食品ID（マッチした場合）\"}"
+    },
+    {
+      "columnIndex": 66,
+      "columnName": "usda_food_name",
+      "type": "identifier",
+      "name": "USDA食品名",
+      "description": "USDAデータベースの食品名（マッチした場合）",
+      "originalHeader": "{\"type\":\"identifier\",\"name\":\"USDA食品名\",\"description\":\"USDAデータベースの食品名（マッチした場合）\"}"
     }
   ]
 }
