@@ -1,0 +1,48 @@
+{
+  "@type": "dcat:Dataset",
+  "accessLevel": "public",
+  "bureauCode": [
+    "005:18"
+  ],
+  "contactPoint": {
+    "fn": "Pehrsson, Pamela",
+    "hasEmail": "mailto:Pamela.Pehrsson@ARS.USDA.GOV"
+  },
+  "description": "<p>This database contains values for six choline metabolites: Betaine, Glycerophosphocholine, Phosphocholine, Phosphatidylcholine, Sphingomyelin, and Total choline</p>  \n<p>This database was created through a collaborative effort between the USDA and the Department of Nutrition, University of North Carolina.</p> <div><br>Resources in this dataset:</div><br><ul><li><p>Resource Title: READ ME - Documentation: USDA Database for the Choline Content of Common  Foods .</p> <p>File Name: Choln02.pdf</p><p>Resource Description: Contains information about documentation, methods and procedures, data evaluation, format, and dissemination information. Also contains references and general information about choline compounds.\n</p></li><br><li><p>Resource Title: Choline Content Release 2.</p> <p>File Name: Choln02.zip</p><p>Resource Description: .zip file with Food and Nutrient database tables for Choline from phosphocholine, Choline from phosphatidylcholine, Choline from glycerophoshocholine, Betaine, and Choline from sphingomyelin.</p></li></ul>",
+  "distribution": [
+    {
+      "@type": "dcat:Distribution",
+      "downloadURL": "https://ndownloader.figshare.com/files/43362762",
+      "format": "pdf",
+      "mediaType": "application/pdf",
+      "title": "Choln02.pdf"
+    },
+    {
+      "@type": "dcat:Distribution",
+      "downloadURL": "https://ndownloader.figshare.com/files/43362765",
+      "format": "zip",
+      "mediaType": "application/zip",
+      "title": "Choln02.zip"
+    }
+  ],
+  "identifier": "10.15482/USDA.ADC/1178141",
+  "keyword": [
+    "choline",
+    "nutrient database",
+    "nutrition",
+    "food composition",
+    "NP107",
+    "data.gov",
+    "ARS"
+  ],
+  "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "modified": "2023-11-30",
+  "programCode": [
+    "005:040"
+  ],
+  "publisher": {
+    "@type": "org:Organization",
+    "name": "Agricultural Research Service"
+  },
+  "title": "USDA Database for the Choline Content of Common Foods, Release 2 (2008)"
+}

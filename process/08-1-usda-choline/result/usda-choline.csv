@@ -1,0 +1,635 @@
+ndb_no,food_group,food_name,total_choline_mg,free_choline_mg,phosphocholine_mg,phosphatidylcholine_mg,glycerophosphocholine_mg,betaine_mg,sphingomyelin_mg
+01001,01,"Butter, with salt",19,0.6,0.7,11,1.2,0.35,5.4
+01009,01,"Cheese, cheddar",17,1.6,0.6,7.4,2.3,0.7,4.6
+01012,01,"Cheese, cottage, creamed, large or small curd",18,3.6,1.3,2.5,8.4,0.7,2.5
+01014,01,"Cheese, cottage, nonfat, uncreamed, dry large or small curd",18,3.7,1.6,1.6,9.2,0.9,1.8
+01015,01,"Cheese, cottage, lowfat, 2% milk fat",16,2.9,1.3,2,8.1,0.6,2
+01017,01,"Cheese, cream",27,3.6,1.5,7.3,9.3,0.7,5.6
+01029,01,"Cheese, mozzarella, part skim milk, low moisture",14,2.3,1,5.2,2.7,0.7,3
+01040,01,"Cheese, swiss",16,4.5,0,6.3,0.6,0.6,4.2
+01046,01,"Cheese food, pasteurized process, american, without sodium phosphate",36,7.9,2.1,7.1,14,1.4,4.6
+01049,01,"Cream, fluid, half and half",19,3.9,1.1,2.6,9,0.7,2.1
+01056,01,"Cream, sour, cultured",19,3.9,1.2,3.7,7.6,0.6,2.7
+01069,01,"Cream substitute, powdered",2.3,0.5,0,0.1,1.4,0.1,0.3
+01077,01,"Milk, whole, 3.25% milkfat",14,3.7,1.9,0.6,7.5,0.6,0.7
+01079,01,"Milk, reduced fat fluid, 2% milk fat, with added vitamin A",16,2.8,1.6,1.2,10,0.9,0.9
+01082,01,"Milk, low fat, fluid, 1% milkfat, with added vitamin A",18,4,1.9,1.2,9.8,0.6,0.7
+01085,01,"Milk, nonfat, fluid, with added vitamin A (fat free skim)",16,2.8,1.7,0.8,9.7,1.9,0.7
+01103,01,"Milk, chocolate, fluid, commercial, reduced fat",17,5.4,1.1,1.7,8.2,0.7,0.8
+01117,01,"Yogurt, plain, low fat, 12 grams protein per 8 ounce",15,2.3,1.7,1,9.1,0.9,1.1
+01121,01,"Yogurt, fruit, low fat, 10 grams protein per 8 ounce",14,2.1,1.6,1.5,7.8,0.8,1.1
+01123,01,"Egg, whole, raw, fresh",250,0.6,0.6,240,0.6,0.6,11
+01124,01,"Egg, white, raw, fresh",1.1,0.2,0,0.3,0.6,0.3,0
+01125,01,"Egg, yolk, raw, fresh",680,1.3,1,630,0.9,0.9,45
+01128,01,"Egg, whole, cooked, fried",270,0.7,0.7,250,0.6,0.7,17
+01129,01,"Egg, whole, cooked, hard boiled",230,0.7,0.5,210,0.5,0.6,14
+01199,01,"Cream, half and half, fat free",15,4,1.2,0.9,8,0.7,1
+02003,02,"Spices, basil, dried",55,50,0,3.2,1.3,16,0.4
+02009,02,"Spices, chili powder",67,49,2.2,14,1,2.8,0
+02010,02,"Spices, cinnamon, ground",11,7,0.8,2.4,0.9,3.9,0
+02011,02,"Spices, cloves, ground",37,29,1,6.8,1,1.4,0
+02015,02,"Spices, curry powder",64,42,1.4,20,1.1,29,0
+02020,02,"Spices, garlic powder",68,42,1.3,7,18,6.1,0
+02021,02,"Spices, ginger, ground",41,33,0.9,6.2,1.4,3.4,0
+02024,02,"Spices, mustard seed, yellow",120,46,0.4,75,0.9,1.9,0
+02026,02,"Spices, onion powder",39,25,1.6,7.8,4.4,0.4,0
+02027,02,"Spices, oregano, dried",32,28,0,2.1,1.6,9.8,0.2
+02028,02,"Spices, paprika",52,34,3.8,11,2,7.1,0
+02029,02,"Spices, parsley, dried",97,17,6.6,72,1.5,1.8,0
+02030,02,"Spices, pepper, black",11,9.4,0.3,1.2,0.3,8.9,0
+02033,02,"Spices, poppy seed",8.8,7.2,0,0.6,1,0.9,0
+02043,02,"Spices, turmeric, ground",49,21,3.2,22,2.3,9.7,0
+02044,02,"Basil, fresh",11,8,2,0.8,0.7,0.4,0
+02046,02,"Mustard, prepared, yellow",22,12,0.4,7.3,2.4,0.2,0
+03003,03,"Babyfood, meat, beef, junior and strained",38,1.5,0.3,28,2.3,3.1,5.6
+03006,03,"Babyfood, meat, veal, junior",50,1.7,0.5,37,3.2,6.9,7.5
+03011,03,"Babyfood, meat, lamb, junior",55,2.8,0.5,38,4.3,6.6,9.3
+03013,03,"Babyfood, meat, chicken, junior and strained",43,3.3,1.2,31,2.1,12,5.8
+03016,03,"Babyfood, meat, turkey, junior and strained",40,1.7,0.6,28,2.4,4.7,6.8
+03054,03,"Babyfood, dinner, vegetables and beef, junior",17,3.5,0.4,11,1,1.1,1
+03091,03,"Babyfood, vegetables, green beans, strained",23,2.9,1.5,17,0.4,0.1,0.4
+03104,03,"Babyfood, vegetables, squash, strained",7.6,4.6,0.5,2.1,0.2,0.3,0.2
+03121,03,"Babyfood, vegetables, peas, strained",32,5.1,1,25,0.5,0.5,0.4
+03130,03,"Babyfood, fruit, peaches, strained",8.5,0.6,0.7,4,2.7,0.4,0.6
+03189,03,"Babyfood, cereal, oatmeal, dry",32,5,0.2,16,11,21,0
+03298,03,"Babyfood, dinner, broccoli and chicken, strained",31,6.7,1.5,20,1.6,2.3,1.7
+04025,04,"Salad dressing, mayonnaise, soybean oil, with salt",22,0,0.1,18,2.4,0,0.9
+04027,04,"Salad dressing, mayonnaise, imitation, soybean",15,0.3,0,13,1.1,0.4,0.6
+04044,04,"Oil, soybean, salad or cooking",0.2,0,0,0,0.2,0,0
+04053,04,"Oil, olive, salad or cooking",0.3,0,0,0,0.3,0.1,0
+04114,04,"Salad dressing, italian dressing, commercial, regular",2.6,1.5,0,0.1,1,0,0.1
+04582,04,"Oil, vegetable, canola",0.2,0,0,0,0.1,0,0
+04585,04,"Margarine-butter blend, 60% corn oil margarine and 40% butter",6.5,0.3,1.4,4,0.8,0.1,0
+04613,04,"Margarine, vegetable oil spread, 60% fat, tub/bottle",10,0.1,0.2,9.5,0.3,0,0
+04629,04,"Margarine, 70% vegetable oil spread, soybean and soybean (hydrogenated)",14,0.5,0.4,12,1.3,0,0
+04636,04,"Salad dressing, italian dressing, fat free",4,1.5,0.2,0.5,1.4,1.8,0.4
+04638,04,"Salad dressing, ranch dressing, fat-free",3.9,1.6,0.5,0,1.8,0.3,0
+05006,05,"Chicken, broilers and fryers, meat and skin, raw",60,6,3.6,41,1,7.8,8.5
+05009,05,"Chicken, broilers or fryers, meat and skin, cooked, roasted",66,5.3,3.5,45,1.2,5.6,12
+05011,05,"Chicken, broilers or fryers, meat only, raw",66,5.8,3.5,45,1.1,8.5,11
+05013,05,"Chicken, broilers and fryers, meat only, roasted",79,5.7,3.7,54,1.1,5.7,15
+05027,05,"Chicken, liver, all classes, raw",190,49,4.1,120,16,17,4.7
+05028,05,"Chicken, liver, all classes, cooked, simmered",290,48,4.9,210,8.8,13,15
+05173,05,"Turkey, gizzard, all classes, raw",90,41,5,24,0.3,2,19
+05174,05,"Turkey, gizzard, all classes, cooked, simmered",82,9.5,3.6,41,3.1,1.8,25
+05175,05,"Turkey, heart, all classes, raw",130,25,3.7,84,0.9,3.3,14
+05176,05,"Turkey, heart, all classes, cooked, simmered",170,3.9,3.4,140,1.4,3.1,22
+05177,05,"Turkey, liver, all classes, raw",220,64,2.1,120,17,3,16
+05178,05,"Turkey, liver, all classes, cooked, simmered",220,9.7,2.9,170,13,2.5,26
+05312,05,"Chicken, wings, frozen, barbecue flavored, glazed, raw",70,4.6,1.6,48,1.4,13,14
+05313,05,"Chicken, wings, frozen, barbecue flavored, glazed, microwaved",74,5.7,1.5,52,1.4,17,14
+05320,05,"Chicken, wings, frozen, barbecue flavored, glazed, conventional",77,4,1.7,55,1.5,14,15
+05661,05,"Chicken, liver, all classes, cooked, pan-fried",330,69,6,210,7.7,21,32
+06019,06,"Soup, chicken noodle, canned, condensed",11,3.3,0.4,5.9,0.9,12,0.8
+06030,06,"Soup, clam chowder, new england, canned, condensed",6.9,2,0.4,3.5,0.9,24,0.2
+06159,06,"Soup, tomato, canned, condensed",13,6.1,1.1,4.3,0.9,4.2,0.4
+06164,06,"Sauce, salsa, ready to serve",12,7.3,1.3,2,1,0.3,0.1
+06931,06,"Sauce, pasta, spaghetti/marinara, ready-to-serve",14,8.5,2,2.4,0.8,0.6,0
+07007,07,"Bologna, beef",46,18,1.5,21,0.8,5.1,4.3
+07022,07,"Frankfurter, beef",34,3.9,0.9,24,1.4,5,3.2
+07024,07,"Frankfurter, chicken",51,6.2,1.8,35,0.9,5.1,7.3
+07063,07,"Pork sausage, fresh, raw",53,8,0.5,30,8.7,3.4,6.2
+07064,07,"Pork sausage, fresh, cooked",67,7.1,0.5,43,9.4,3.6,6.9
+07075,07,"Sausage, smoked link sausage, pork and beef",51,23,0.9,22,0.8,2.1,4.7
+07945,07,"Frankfurter, beef, heated",39,4.3,1.1,29,1.8,5.5,3.3
+07949,07,"Frankfurter, meat (heated)",43,5.9,1.4,29,1.1,3.5,5.5
+07950,07,"Frankfurter, meat",44,6.7,1.5,30,1.4,3.6,4.9
+07952,07,"Bologna, chicken, turkey, pork",53,23,2,23,0.5,4.8,4.4
+07953,07,"Pork sausage, pre-cooked",52,5.5,0.7,34,5.4,3.1,6.9
+07954,07,"Beef sausage, pre-cooked",43,3.3,1,31,1.9,7.3,6
+07955,07,"Turkey sausage, fresh, raw",51,2.7,1.2,39,1.3,6.4,6.8
+07956,07,"Beef sausage, fresh, cooked",51,0.5,0.9,41,2.6,10,6.2
+07957,07,"Pork and turkey sausage, fresh, cooked",39,6.7,1,25,1.7,2.2,5.1
+07958,07,"Turkey sausage, fresh, cooked",63,2,1.5,48,1.1,8,10
+07959,07,"Bologna, chicken, pork, beef",59,24,2.9,27,1,4.2,5.2
+07960,07,"Bologna, chicken, pork",68,37,2.4,23,0.6,4.4,4.1
+08001,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S ALL-BRAN Original",49,26,1.7,18,4.3,360,0
+08012,08,"Cereals ready-to-eat, QUAKER, CAP'N CRUNCH'S PEANUT BUTTER CRUNCH",15,7.1,0.7,5.2,1.7,1.8,0
+08013,08,"Cereals ready-to-eat, GENERAL MILLS, CHEERIOS",26,4.4,0,11,10,35,0
+08014,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S COCOA KRISPIES",8.7,4.2,0,0.9,3.6,1.3,0
+08020,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S Corn Flakes",3.9,1.4,0,0.5,2.1,0.7,0
+08030,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S FROOT LOOPS",11,1.8,0.5,5.2,3,33,0
+08061,08,"Cereals ready-to-eat, KRAFT, POST Raisin Bran Cereal",29,12,0.8,11,5,290,0
+08065,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S RICE KRISPIES",6,2,0,1,3.1,0.5,0
+08067,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K",31,12,0.3,12,4.1,26,2.1
+08074,08,"Cereals ready to eat, RALSTON, TASTEEOS",15,2.9,0.4,7.1,4.6,20,0
+08077,08,"Cereals ready-to-eat, GENERAL MILLS, Whole Grain TOTAL",19,5.8,0.9,12,0.7,170,0
+08084,08,"Cereals ready-to-eat, wheat germ, toasted, plain",180,130,2.2,23,18,410,2.7
+08089,08,"Cereals ready-to-eat, GENERAL MILLS, WHEATIES",33,11,0.6,18,3.7,200,0
+08092,08,"Cereals, QUAKER, corn grits, instant, plain, dry",14,4.2,0.3,6.2,1.4,1.1,2.4
+08093,08,"Cereals, QUAKER, corn grits, instant, plain, prepared with water",2.6,1,0.1,1.2,0.4,0.2,0
+08105,08,"Cereals, CREAM OF WHEAT, quick, cooked with water, without salt",3.5,1.6,0,1.2,0.7,6.9,0
+08121,08,"Cereals, oats, regular and quick and instant, unenriched, cooked with water, without salt",7.4,1.3,0,4.5,1.6,3.1,0
+08147,08,"Cereals ready-to-eat, wheat, shredded, plain, sugar and salt free",23,5.5,0.9,14,3.2,160,0
+08202,08,"Cereals ready-to-eat, GENERAL MILLS, OATMEAL CRISP with Almonds",25,5,0.7,12,2.1,35,5.1
+08218,08,"Cereals ready-to-eat, QUAKER, QUAKER 100% Natural Cereal with oats, honey, and raisins",32,8.3,2,11,11,140,0
+08231,20,"Cereals, QUAKER, Oat Bran, QUAKER/MOTHER'S Oat Bran, dry",59,4.4,0.7,20,33,36,0
+08259,08,"Cereals ready to eat, KELLOGG, KELLOGG'S CRISPIX",3.8,2,0,0.4,1.3,0.7,0
+08333,08,"Cereals ready-to-eat, KRAFT, POST HONEY BUNCHES OF OATS Honey Roasted Cereal",13,6,0.1,5.3,2,22,0
+08363,08,"Cereals ready-to-eat, QUAKER, KRETSCHMER Toasted Wheat Bran",81,54,2,19,5.9,320,0.9
+08383,08,"Cereals ready-to-eat, KELLOGG, KELLOGG'S SPECIAL K RED BERRIES",22,7.5,0.4,6.4,2.1,38,5.5
+08389,08,"Cereals ready-to-eat, Honey Puffed KASHI by KELLOGG",30,8.2,0.1,19,3.4,68,0
+08435,08,"Cereals ready-to-eat, UNCLE SAM CEREAL",50,12,0.6,29,7.1,250,0
+08504,08,"Cereals ready-to-eat, RALSTON Enriched Bran flakes",31,11,0.5,15,2,120,3
+08505,08,"Cereals ready-to-eat, RALSTON Corn Biscuits",11,2.6,0.1,0.6,4.9,7.1,2.9
+08506,08,"Cereals ready-to-eat, RALSTON Corn Flakes",2.2,1.6,0,0.3,0.3,1.2,0
+09003,09,"Apples, raw, with skin",3.4,0.3,0,3.1,0,0.1,0
+09032,09,"Apricots, dried, sulfured, uncooked",14,7.1,0,6,0.8,0.3,0
+09038,09,"Avocados, raw, California",14,8.6,2.5,2.2,0.7,0.7,0.1
+09040,09,"Bananas, raw",9.8,3.2,0.5,0.4,5.6,0.1,0
+09042,09,"Blackberries, raw",8.6,1.8,0,6,0.8,0.3,0
+09050,09,"Blueberries, raw",6,3,0.7,1.8,0.6,0.2,0
+09078,09,"Cranberries, raw",5.5,1.3,0.5,2.6,1,0.2,0
+09087,09,"Dates, deglet noor",6.3,6.1,0.1,0.1,0,0.4,0
+09094,09,"Figs, dried, uncooked",16,13,0.1,2.6,0.4,0.8,0
+09112,09,"Grapefruit, raw, pink and red, all areas",7.5,3.6,0.3,2.6,1.2,0.2,0
+09132,09,"Grapes, red or green (European type varieties, such as, Thompson seedless), raw",5.6,4.8,0.6,0.2,0,0.1,0
+09135,09,"Grape juice, canned or bottled, unsweetened, without added vitamin C",3.2,3,0,0.2,0,0.2,0
+09148,09,"Kiwi fruit, (Chinese gooseberries), fresh, raw",7.8,2.6,0.5,3.6,1,0.5,0
+09160,09,"Lime juice, raw",5.1,1.1,0.7,2.5,0.9,0.2,0
+09181,09,"Melons, cantaloupe, raw",7.6,4.1,1.1,1.6,0.7,0.1,0
+09191,09,"Nectarines, raw",6.2,1.7,0.6,2.7,1.2,0.2,0
+09202,09,"Oranges, raw, navel",8.4,4.7,0.5,2.1,1.1,0.1,0
+09209,09,"Orange juice, chilled, includes from concentrate",6.6,2.2,0.4,2.2,1.9,0.2,0
+09214,09,"Orange juice, frozen concentrate, unsweetened, undiluted",20,8.1,0.6,7,4.2,0.5,0
+09218,09,"Tangerines, (mandarin oranges), raw",10,5.2,0.6,3.5,1,0.1,0
+09236,09,"Peaches, raw",6.1,0.8,0.5,3.7,1.1,0.3,0
+09252,09,"Pears, raw",5.1,2.2,0,2.7,0.2,0.2,0
+09257,09,"Pears, canned, heavy syrup pack, solids and liquids",1.9,0.6,0,0.3,1.1,0.3,0
+09291,09,"Plums, dried, (prunes), uncooked",10,6.7,0,2.5,0.9,0.4,0
+09298,09,"Raisins, seedless",11,9.4,1.1,0.3,0.3,0.3,0
+09302,09,"Raspberries, raw",12,3.1,0.6,7,1.6,0.8,0
+09316,09,"Strawberries, raw",5.7,0.6,0,4.2,0.9,0.2,0
+09326,09,"Watermelon, raw",4.1,3.1,0.7,0.2,0,0.3,0.1
+09370,09,"Peaches, canned, heavy syrup, drained, solids",3.8,0.4,0.5,1.8,0.9,0.3,0.2
+09421,09,"Dates, medjool",9.9,8.9,0,0.8,0,0.4,0.2
+09429,09,"Pineapple, raw, traditional varieties",5.7,5.1,0.5,0.1,0,0.1,0
+09430,09,"Pineapple, raw, extra sweet variety",5.4,4.2,0.4,0.8,0,0.1,0
+09433,09,"Clementines, raw",14,11,0.3,2.1,0.5,0.1,0.2
+09434,09,"Guanabana nectar, canned",2.2,0.8,0.2,0.1,1.2,0,0
+09435,09,"Guava nectar, canned",1.1,0.5,0,0.1,0.5,0.1,0
+09436,09,"Mango nectar, canned",1.5,1,0.3,0,0.3,0,0
+09437,09,"Tamarind nectar, canned",1.3,0.3,0.1,0,0.9,0.1,0
+10006,10,"Pork, fresh, separable fat, raw",25,1.5,0.6,14,5.7,2.4,3.6
+10007,10,"Pork, fresh, separable fat, cooked",33,1.6,0.4,20,6,1.9,5.2
+10060,10,"Pork, fresh, loin, tenderloin, separable lean only, raw",81,1.6,0.6,49,24,3,6.1
+10061,10,"Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted",89,1.8,0.7,62,17,4.3,7.6
+10066,10,"Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",60,1.2,0.8,38,14,3.1,5.3
+10068,10,"Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, broiled",78,1.1,0.6,57,12,2.8,7.5
+10084,10,"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, raw",79,5.4,1,55,11,4.1,6
+10085,10,"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean only, cooked, braised",110,5.5,0.7,85,9.1,3.5,9
+10123,10,"Pork, cured, bacon, raw",47,4.4,1.4,32,4.6,0.9,3.9
+10219,10,"Pork, fresh, ground, raw",69,3.1,0.8,45,15,3.7,5.9
+10220,10,"Pork, fresh, ground, cooked",87,3,0.7,59,16,4.7,8.2
+10860,10,"Pork, cured, bacon, cooked, baked",120,12,2.5,82,14,3.4,9.3
+10861,10,"Pork, cured, bacon, cooked, microwaved",120,12,2.5,89,11,3,11
+10862,10,"Pork, cured, bacon, cooked, pan-fried",130,12,3,87,19,4.2,10
+10864,10,"Pork, bacon, rendered fat, cooked",6.5,0.2,0,5.4,0,0.2,1
+10865,10,"Pork, cured, ham -- water added, rump, bone-in, separable lean only, heated, roasted",84,2,1,65,9.6,5,5.9
+10867,10,"Pork, cured, ham -- water added, shank, bone-in, separable lean only, heated, roasted",91,2.7,1.1,71,7.8,2.9,8.3
+10868,10,"Pork, cured, ham -- water added, slice, bone-in, separable lean only, heated, pan-broil",90,2,0.9,70,9,5.5,8.1
+10869,10,"Pork, cured, ham and water product, slice, bone-in, separable lean only, heated, pan-broil",92,2.2,0.8,73,9,3.9,7.7
+10870,10,"Pork, cured, ham and water product, slice, boneless, separable lean only, heated, pan-broil",65,2.2,0.8,50,7.1,4.5,4.5
+10871,10,"Pork, cured, ham and water product, whole, boneless, separable lean only, heated, roasted",63,2.8,0.6,49,6.5,4.4,4.4
+10872,10,"Pork, cured, ham and water product, whole, boneless, separable lean only, unheated",65,1.3,0.8,50,8.5,3.2,4.7
+10873,10,"Pork, cured, ham with natural juices, rump, bone-in, separable lean only, heated, roasted",110,1.7,0.8,81,15,3,13
+10874,10,"Pork, cured, ham with natural juices, shank, bone-in, separable lean only, heated, roasted",100,2.2,0.9,84,8.1,2.9,9.6
+10875,10,"Pork, cured, ham with natural juices, slice, bone-in, separable lean only, heated, pan-broil",140,2,0.9,100,23,1.8,13
+10876,10,"Pork, cured, ham with natural juices, spiral slice, meat only, boneless, separable lean only, heated, roasted",86,0.6,1,67,11,3.7,6.5
+10877,10,"Pork, cured, ham and water product, rump, bone-in, separable lean only, heated, roasted",94,1.8,0.9,74,9.5,3.6,8.3
+10878,10,"Pork, cured, ham -- water added, slice, boneless, separable lean only, heated, pan-broil",79,1.6,0.8,61,10,4.8,5.5
+10879,10,"Pork, cured, ham -- water added, whole, boneless, separable lean only, heated, roasted",74,1.2,0.8,57,9,4.3,5.9
+10880,10,"Pork, cured, ham -- water added, whole, boneless, separable lean only, unheated",72,1.5,0.9,55,9.7,3.5,5.2
+10881,10,"Pork, cured, ham and water product, shank, bone-in, separable lean only, heated, roasted",100,2.2,0.9,83,7.3,5.3,10
+10882,10,"Pork, cured, ham with natural juices, slice, boneless, separable lean only, heated, pan-broil",82,1.5,0.9,62,12,6.3,6.3
+10883,10,"Pork, cured, ham with natural juices, whole, boneless, separable lean only, heated, roasted",80,2,1,61,9.5,7.8,6.7
+10884,10,"Pork, cured, ham with natural juices, whole, boneless, separable lean only, unheated",75,1.5,1,55,12,5.5,5.5
+10894,10,"Pork, cured, ham, separable fat, boneless, heated",37,0.8,0.6,27,4.8,2.6,3.6
+10895,10,"Pork, cured, ham, separable fat, boneless, unheated",31,0.4,0.6,23,4.3,1.9,2.8
+10898,10,"Pork, pickled pork hocks",58,1.2,0.3,34,3.5,1.1,18
+10899,10,"Pork, cured, ham, slice, bone-in, separable lean only, heated, pan-broil",110,1.3,1,89,9.8,7.3,12
+10931,10,"Pork, cured, ham, rump, bone-in, separable lean only, heated, roasted",110,1.6,0.9,84,8.2,7.3,10
+10932,10,"Pork, cured, ham, rump, bone-in, separable lean only, unheated",92,1.3,0.9,72,8.2,6.3,9.2
+10933,10,"Pork, cured, ham, shank, bone-in, separable lean only, heated, roasted",110,1.2,1,83,8.6,7.2,12
+10934,10,"Pork, cured, ham, shank, bone-in, separable lean only, unheated",91,1.1,1.1,72,7.7,6,8.5
+10938,10,"Pork, cured, ham, slice, bone-in, separable lean only, unheated",93,1.1,1.1,73,8.1,6.1,10
+11001,11,"Alfalfa seeds, sprouted, raw",14,11,1.8,1,0.6,0.4,0
+11008,11,"Artichokes, (globe or French), cooked, boiled, drained without salt",34,4.2,13,16,1.1,0.2,0
+11011,11,"Asparagus, raw",16,12,2.4,0.9,0.6,0.6,0
+11012,11,"Asparagus, cooked, boiled, drained",26,6.6,3.5,15,0.9,0.9,0
+11061,11,"Beans, snap, green, frozen, cooked, boiled, drained without salt",14,4,1.4,7.3,0.8,0.1,0
+11080,11,"Beets, raw",6,4.1,0.9,0.4,0.6,130,0
+11084,11,"Beets, canned, drained solids",7.5,0.3,1.1,5.4,0.6,260,0
+11090,11,"Broccoli, raw",19,18,0.4,0.1,0,0.1,0.1
+11091,11,"Broccoli, cooked, boiled, drained, without salt",40,8.5,9.3,21,1.3,0.1,0
+11096,11,"Broccoli raab, raw",18,12,6.4,0.2,0,0.3,0.1
+11097,11,"Broccoli, raab, cooked",34,4.3,13,14,2.4,0.2,0
+11099,11,"Brussels sprouts, cooked, boiled, drained, without salt",41,23,0,14,3.2,0.2,0
+11109,11,"Cabbage, raw",11,6.1,1.3,0.3,2.9,0.4,0
+11110,11,"Cabbage, cooked, boiled, drained, without salt",20,7.6,1.4,7.2,4,0.3,0
+11112,11,"Cabbage, red, raw",17,9.7,2,1.5,4,0.1,0
+11113,11,"Cabbage, red, cooked, boiled, drained, without salt",21,5,2.5,7.9,6.1,0.1,0
+11124,11,"Carrots, raw",8.8,6.8,1.1,0.8,0,0.4,0
+11125,11,"Carrots, cooked, boiled, drained, without salt",8.8,0.4,1.1,6.8,0.4,0.1,0
+11136,11,"Cauliflower, cooked, boiled, drained without salt",39,25,1.8,12,0.7,0.1,0
+11143,11,"Celery, raw",6.1,5.3,0.7,0.2,0,0.1,0
+11179,11,"Corn, sweet yellow, frozen, kernels cut of cob, boiled, drained, without salt",22,8.9,1.7,11,0.6,0.2,0
+11205,11,"Cucumber, with peel, raw",6,4,0.9,0.6,0.5,0.1,0
+11206,11,"Cucumber, peeled, raw",5.7,3.5,0.7,0.9,0.5,0.1,0
+11211,11,"Edamame, frozen, unprepared",56,9.2,4,43,0.3,0.7,0
+11212,11,"Edamame, frozen, prepared",56,6.9,2,46,1.5,4.5,0
+11234,11,"Kale, cooked, boiled, drained without salt",0.4,0.1,0,0.3,0,0.3,0
+11250,11,"Lettuce, butterhead, raw",8.5,5.9,2.4,0.2,0,0.1,0
+11251,11,"Lettuce, cos or romaine, raw",9.9,7.6,1.6,0.7,0,0.1,0
+11252,11,"Lettuce, iceberg (includes crisphead types), raw",6.7,4.8,1.5,0.4,0,0.1,0
+11257,11,"Lettuce, red leaf, raw",12,7.9,3.4,0.5,0,0.2,0
+11260,11,"Mushrooms, raw",17,5.9,1.4,4.5,5.1,11,0
+11282,11,"Onions, raw",6.1,4.4,0.7,0.5,0.6,0.1,0
+11286,11,"Onions, yellow, sauted",6.5,3.4,0.6,1.9,0.6,0.1,0
+11294,11,"Onions, sweet, raw",5.5,3.7,0.6,0.5,0.7,0.1,0
+11313,11,"Peas, green, frozen, cooked, boiled, drained without salt",28,2.2,0.7,24,0.8,0.2,0
+11333,11,"Peppers, sweet, green, raw",5.6,3.6,1.2,0.7,0,0.1,0
+11339,11,"Peppers, sweet, green, saut�ed",4.8,0.4,1.2,2.8,0.5,0.1,0
+11353,11,"Potatoes, russet, flesh and skin, raw",13,10,0.7,0.1,1.7,0.2,0
+11354,11,"Potatoes, white, flesh and skin, raw",11,7.9,0.3,0.3,2.6,0.2,0
+11355,11,"Potatoes, red, flesh and skin, raw",16,9.7,0.8,0.2,5.7,0.2,0
+11356,11,"Potatoes, russet, flesh and skin, baked",15,8.1,0.7,4.6,1.6,0.2,0
+11357,11,"Potatoes, white, flesh and skin, baked",14,6.8,0.9,4.1,2.7,0.2,0
+11358,11,"Potatoes, red, flesh and skin, baked",19,8.5,1.2,5.3,3.8,0.2,0
+11402,11,"Potatoes, french fried, frozen, unprepared",22,15,1,5.1,1.4,0.7,0
+11403,11,"Potatoes, french fried, frozen, home prepared, heated in oven without salt",24,14,1.2,6.4,2.6,0.7,0
+11429,11,"Radishes, raw",6.5,4.8,1,0.6,0,0.1,0
+11439,11,"sauerkraut, canned, solids and liquids",10,8.7,0,0.6,0.9,0.5,0.2
+11463,11,"Spinach, frozen, chopped or leaf, unprepared",22,2.3,1.4,18,0.2,120,0
+11464,11,"Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",25,1.7,1.1,22,0,110,0
+11478,11,"Squash, summer zucchini, includes skin, cooked, boiled, drained, without salt",9.4,0.5,2.4,5.7,0.7,0.3,0
+11508,11,"Sweet potato, cooked, baked in skin, without salt",13,0.9,2.6,7.7,2,35,0
+11529,11,"Tomatoes, red, ripe, raw, year round average",6.7,4.4,1.8,0.5,0,0.1,0
+11546,11,"Tomato products, canned, paste, without salt added",39,26,4.3,6.2,1.7,0.4,0.1
+11549,11,"Tomato products, canned, sauce",9.9,6.5,1.6,1,0.8,0.8,0
+11644,11,"Squash, winter, all varieties, cooked, baked without salt",11,2.1,2.6,5.3,0.6,0.2,0
+11657,11,"Potatoes, mashed, home-prepared, whole milk added",14,8.4,0.8,3.9,1.3,0.4,0
+11821,11,"Peppers, sweet, red, raw",5.6,4,1,0,0.5,0.1,0
+11921,11,"Peppers, sweet, red, saut�ed",6.1,1.2,1.5,2.9,0.5,0.1,0
+11935,11,"Catsup",13,7.5,1.8,1.8,1.4,0.2,0.1
+11937,11,"Pickles, cucumber, dill or kosher dill",3.4,0.9,0.7,1.2,0.3,0,0.3
+11940,11,"Pickles, cucumber, sweet (includes bread and butter pickles)",3.1,0.9,0.7,0.7,0.7,0.3,0.2
+11960,11,"Carrots, baby, raw",7.5,5.4,0.7,1.5,0,0.1,0
+12036,12,"Seeds, sunflower seed kernels, dried",55,18,1.3,29,5.6,35,0.7
+12061,12,"Nuts, almonds",52,9.4,1.9,40,1.2,0.5,0
+12078,12,"Nuts, brazil nuts, dried, unblanched",29,16,0.3,11,1,0.4,0
+12109,12,"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",19,9.7,2.8,4,2.8,1.3,0
+12118,12,"Nuts, coconut milk, canned (liquid expressed from grated meat and water)",8.5,5.1,0.6,2.2,0.6,0,0.1
+12120,12,"Nuts, hazelnuts or filberts",46,15,0.9,25,5,0.4,0
+12142,12,"Nuts, pecans",41,9.7,1.3,23,6.1,0.7,0
+12147,12,"Nuts, pine nuts, dried",56,8.4,2.1,45,0.7,0.4,0
+12154,12,"Nuts, walnuts, black, dried",32,8.3,0.6,16,7.4,0.6,0
+12155,12,"Nuts, walnuts, english",39,7.3,0.8,21,10,0.3,0
+12201,12,"Seeds, sesame seed kernels, dried (decorticated)",26,9.6,2.8,10,3.1,0.7,0
+12220,12,"Seeds, flaxseed",79,39,0.6,36,3.1,3.1,0
+12516,12,"Seeds, pumpkin and squash seed kernels, roasted, with salt added",63,40,2.3,20,0.9,1.5,0.7
+12586,12,"Nuts, cashew nuts, oil roasted, with salt added",61,20,0.9,37,3.3,11,0
+12632,12,"Nuts, macadamia nuts, dry roasted, with salt added",45,11,1.1,30,1.8,0.3,0
+12652,12,"Nuts, pistachio nuts, dry roasted, with salt added",71,11,8.5,51,1.7,0.8,0
+12663,12,"Seeds, pumpkin and squash seeds, whole, roasted, with salt added",39,13,3.8,18,3.6,0.3,0.4
+13325,13,"Beef, variety meats and by-products, liver, raw",330,56,12,170,85,4.4,14
+13326,13,"Beef, variety meats and by-products, liver, cooked, braised",430,62,12,250,83,5.6,24
+13327,13,"Beef, variety meats and by-products, liver, cooked, pan-fried",420,57,12,250,78,6.3,24
+13497,13,"Beef, ground, 70% lean meat/ 30% fat, patty, cooked, broiled",78,2.3,0.3,65,2.4,10,8.3
+13498,13,"Beef, ground, 70% lean meat/ 30% fat, raw",47,2.6,0.5,36,2.4,8.5,5.1
+14003,14,"Alcoholic beverage, beer, regular",9.9,5.7,0,0,4.2,8.1,0
+14006,14,"Alcoholic beverage, beer, light",7.9,5.5,0,0,2.5,6.3,0
+14096,14,"Alcoholic beverage, wine, table, red",5.7,4.5,0,0,1.1,0.3,0
+14106,14,"Alcoholic beverage, wine table, white",4.7,3.4,0,0,1.4,0.2,0
+14150,14,"Carbonated beverage, orange",0.6,0,0,0,0.6,0.1,0
+14209,14,"Coffee, brewed from grounds, prepared with tap water",2.6,1.9,0,0,0.7,0.1,0
+14218,14,"Coffee, instant, decaffeinated, powder",100,94,0,0,8.2,0.7,0
+14242,14,"Cranberry juice cocktail, bottled",1.1,0.4,0,0,0.7,0.1,0
+14287,14,"Lemonade mix, sugar sweetened",0.1,0.1,0,0,0,0.7,0
+14292,14,"Lemonade, frozen concentrate, sugar sweetened, white",2,0.4,0.1,0.9,0.6,0.4,0
+14347,14,"Shake, fast food, vanilla",22,3.9,1.4,4.4,9.3,1.2,2.6
+14400,14,"Carbonated beverage, cola, contains caffeine",0.4,0,0,0,0.4,0.1,0
+14416,14,"Carbonated beverage, low calorie, cola or pepper-type, with aspartame, contains caffeine",0,0,0,0,0,0.1,0
+14542,14,"Lemonade, frozen concentrate, sugar sweetened, pink",1.9,0.4,0,1,0.6,0.1,0
+15016,15,"Fish, cod, Atlantic, cooked, dry heat",84,18,1.6,33,30,9.7,1.4
+15027,15,"Fish, fish portions and sticks, frozen, preheated",36,7.7,0.7,13,13,45,1.7
+15073,15,"Fish, roughy, orange, raw",35,14,2.2,13,3.6,2.1,1.8
+15086,15,"Fish, salmon, sockeye, cooked, dry heat",66,8.6,1.1,48,5.9,2.1,1.8
+15087,15,"Fish, salmon, sockeye, canned, drained solids with bone",83,4,0.8,44,31,3.7,2.1
+15121,15,"Fish, tuna, light, canned in water, drained solids",29,2.1,0,18,5.9,2.7,2.9
+15138,15,"Crab, Alaska king, imitation, made with surimi",13,0.8,0.2,11,0.5,1.8,0.3
+15141,15,"Crustaceans, crab, blue canned",34,0.1,0.3,26,2.5,13,4.4
+15152,15,"Crustacean, shrimp, mixed species, canned",81,1.5,0.8,67,4.9,23,6.6
+15232,15,"Fish, roughy, orange, cooked, dry heat",49,18,2.3,17,9.3,3.1,2.4
+15236,15,"Fish, salmon, Atlantic, farmed, raw",79,9.9,1,22,43,3,3
+15237,15,"Fish, salmon, Atlantic, farmed, cooked, dry heat",91,7.8,1.2,37,41,1.8,3.4
+15260,15,"Fish, salmon, pink, canned, drained solids with bone",88,4.3,0.6,52,28,9,2.5
+15261,15,"Fish, tilapia, raw",43,8.1,1.4,30,0.7,22,2.7
+15262,15,"Fish, tilapia, cooked, dry heat",83,21,2.5,54,1.2,25,4.1
+16006,16,"Beans, baked, canned, plain or vegetarian",32,17,0.8,12,1.3,0.1,0
+16010,16,"Beans, baked, canned, with pork and sweet sauce",25,13,0.9,9.2,1.6,0.1,0
+16011,16,"Beans, baked, canned, with pork and tomato sauce",39,25,1,12,1.6,0.4,0
+16034,16,"Beans, kidney, red, mature seeds, canned",33,17,0.6,13,2.1,0.1,0
+16037,16,"Beans, navy, mature seeds, raw",87,50,0,33,4.5,0.1,0
+16038,16,"Beans, navy, mature seeds, cooked, boiled, without salt",45,21,0,22,1.9,0.1,0
+16039,16,"Beans, navy, mature seeds, canned",27,14,0.6,12,0.8,0.1,0
+16042,16,"Beans, pinto, mature seeds, raw",66,32,0.8,31,2.9,0.4,0
+16043,16,"Beans, pinto, mature seeds, cooked, boiled without salt",35,11,0.2,22,1.4,0.1,0
+16087,16,"Peanuts, all types, raw",53,18,1.8,32,1.3,0.6,0
+16097,16,"Peanut butter, chunk style, with salt",61,25,2.2,33,1.3,1,0
+16098,16,"Peanut butter, smooth style with salt",66,26,0.7,38,1.1,0.4,0
+16108,16,"Soybeans, mature seeds, raw",120,47,1.1,65,2.9,2.1,0
+16117,16,"Soy flour, defatted",190,120,1.5,63,7,2.8,0.8
+16120,16,"Soy milk, fluid",24,13,3.5,5.7,1.3,0.8,0
+16123,16,"Soy sauce made from soy and wheat (shoyu)",18,18,0.3,0,0.2,30,0
+16126,16,"Tofu, firm, prepared with calcium sulfate and magnesium chloride (nigari)",28,8.3,0,19,0.6,0.4,0
+16127,16,"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",27,9.7,0,17,0.7,0.4,0
+16147,16,"Veggie burgers, unprepared",19,13,0.2,4.6,1.1,6.1,0.5
+16399,16,"Peanut butter, with omega-3, creamy",95,39,1.8,53,1,0.6,0
+17202,17,"Veal, variety meats and by-products, liver, raw",310,85,11,130,64,7.6,17
+17203,17,"Veal, variety meats and by-products, liver, cooked, braised",400,89,6.7,220,55,9.8,28
+17204,17,"Veal, variety meats and by-products, liver, cooked, pan-fried",410,93,9.7,220,57,8.1,27
+18001,18,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",15,7.7,0.3,5.5,1.9,20,0
+18002,18,"Bagels, plain, toasted, enriched, with calcium propionate (includes onion, poppy, sesame)",16,8.6,0.3,5.6,2,22,0
+18009,18,"Biscuits, plain or buttermilk, commercially baked",8.9,6.9,0.6,0.2,1.3,43,0
+18012,18,"Biscuits, plain or buttermilk, refrigerated dough, lower fat",19,16,0,0.4,1.7,42,1
+18013,18,"Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked",20,17,0.3,0.6,0.9,45,0.9
+18029,18,"Bread, french or vienna (includes sourdough)",15,6.9,0.4,4.1,3.4,55,0
+18030,18,"Bread, french or vienna, toasted (includes sourdough)",18,8.8,0.4,5.1,3.2,59,0
+18064,18,"Bread, wheat, (includes wheat berry)",19,12,0.3,3.1,3.8,85,0
+18065,18,"Bread, wheat, toasted (includes wheat berry)",22,14,0.3,4,3.6,92,0
+18069,18,"Bread, white, commercially prepared, (includes soft bread crumbs)",15,8.6,0.1,2.3,3.7,31,0
+18075,18,"Bread, whole-wheat, commercially prepared",27,18,0.3,3.3,4.9,38,0
+18101,18,"Cake, chocolate, dry mix, regular, prepared",130,5.4,0.6,59,61,48,2.9
+18141,18,"Cake, yellow, commercially prepared, with vanilla frosting",36,4.6,0,29,1.3,19,1.5
+18159,18,"Cookies, chocolate chip, commercially prepared, reg, higher fat, enriched",17,8.9,0.5,6.2,1.4,43,0
+18173,18,"Cookies, graham crackers, plain or honey (includes cinnamon)",22,13,0.4,5.2,3.6,39,0
+18215,18,"Crackers, cheese, sandwich-type with peanut butter filling",25,11,0.8,11,2.8,34,0
+18228,18,"Crackers, saltines (includes oyster, soda, soup)",20,13,0,0.7,6.3,55,0
+18229,18,"Crackers, standard snack-type, regular",14,8.2,0,1.7,3.9,52,0
+18232,18,"Crackers, wheat, regular",27,19,0.5,3.5,3.4,58,1.1
+18246,18,"Danish pastry, fruit enriched (includes apple, cinnamon, raisin, lemon, raspberry, strawberry)",22,8.7,0.7,9.6,2.2,14,0.7
+18248,18,"Doughnuts, cake-type, plain (includes un-sugared, old-fashioned)",37,4.9,0.6,28,3,38,1.1
+18249,18,"Doughnuts, cake-type, plain, chocolate-coated or frosted",29,5.4,0.6,20,1.9,27,0.8
+18258,18,"English muffins, plain, enriched, with ca prop (includes sourdough)",14,5.2,0,2.7,5.7,33,0
+18259,18,"English muffins, plain, toasted, enriched, with calcium propionate (includes sourdough)",16,6.4,0,2.5,6.9,36,0
+18262,18,"English muffins, raisin-cinnamon (includes apple-cinnamon)",13,4.9,0.2,3,4.5,28,0
+18263,18,"English muffins, raisin-cinnamon, toasted (includes apple-cinnamon)",15,6.3,0.2,2.6,5.4,32,0
+18273,18,"Muffins, plain, prepared from recipe, made with low fat (2%) milk",43,15,0.7,24,2.9,92,1.4
+18274,18,"Muffins, blueberry, commercially prepared",52,3.9,0.7,41,3.6,22,2.2
+18288,18,"Pancakes, plain, frozen, ready-to-heat (includes buttermilk)",31,3.5,0.8,9.8,15,72,1.3
+18290,18,"Pancakes, plain, dry mix, complete, prepared",19,5.5,0,11,1.5,26,0.9
+18301,18,"Pie, apple, commercially prepared, enriched flour",7.2,4.7,0,1.5,1,16,0
+18360,18,"Taco shells, baked",30,8.1,2.7,16,3.3,0.6,0
+18363,18,"Tortillas, ready-to-bake or -fry, corn",13,4.1,0.2,6.5,2.4,0.4,0
+18364,18,"Tortillas, ready-to-bake or -fry, flour",7.9,4.6,0.2,1.7,1.5,5.3,0
+18375,18,"Leavening agents, yeast, baker's, active dry",32,6.1,2.6,6.2,16,3.4,1.2
+18452,18,"Cake, snack cakes, cupcakes, chocolate, with frosting, low-fat",21,5,0.6,4.4,10,22,0.3
+18488,18,"Toaster Pastries, KELLOGG, KELLOGG 's pop tarts, strawberry",8.4,4,0.6,2.1,1.6,21,0
+18489,18,"Toaster Pastries, KELLOGG, KELLOGG 's pop tarts, frosted strawberry",7.8,3.6,0,2.7,1.5,20,0
+18927,18,"Crackers, cheese, sandwich-type with cheese filling",28,6.7,1.3,4.4,15,41,0
+18936,18,"Pancakes, plain, frozen, ready-to-heat, microwave (includes buttermilk)",28,4.1,0.9,9.9,12,69,1.3
+18939,18,"Toaster Pastries, fruit, toasted",9.2,4.5,0.9,2.3,1.5,22,0
+19003,25,"Snacks, corn-based, extruded, chips, plain",12,1.9,0,9.5,0.7,0.1,0
+19008,25,"Snacks, corn-based, extruded, puffs or twists, cheese-flavor",12,3.8,0.7,0.9,5.9,0.6,0.4
+19015,25,"Snacks, granola bars, hard, plain",22,4.2,0.3,14,3.9,6.9,0
+19034,25,"Snacks, popcorn, air-popped",21,7.2,0,12,2.4,0.8,0
+19035,25,"Snacks, popcorn, oil popped",15,5.6,0,7.9,1.8,0.4,0
+19047,25,"Snacks, pretzels, hard, plain, salted",30,16,0.3,3.6,9.8,50,0
+19056,25,"Snacks, tortilla chips, plain",19,4.2,0,13,2.7,0.4,0
+19057,25,"Snacks, tortilla chips, nacho cheese",23,4.5,1.7,12,3.5,1.2,0.7
+19058,25,"Snacks, tortilla chips, ranch-flavor",18,4.2,0.5,9.5,3.8,3,0.4
+19076,19,"Candies, caramels, chocolate-flavor roll",19,6.2,2.9,4.3,5,1.4,0.3
+19078,19,"Baking chocolate, unsweetened, squares",46,34,0,11,0.9,2.6,0
+19095,19,"Ice creams, vanilla",26,4.8,1.8,3.6,13,1.1,2.6
+19120,19,"Candies, milk chocolate",46,9.1,2.3,11,22,2.6,1.9
+19141,19,"Candies, MASTERFOODS USA, M&M's Milk Chocolate Candies",22,9.1,2,5.7,3.9,0.8,1.1
+19183,19,"Puddings, chocolate, ready-to-eat",9.5,4.3,0.8,0.7,3.6,0.9,0
+19226,19,"Frostings, chocolate, creamy, ready-to-eat",6.9,5.6,0,1.3,0,2.2,0
+19230,19,"Frostings, vanilla, creamy, ready-to-eat",2.3,0.8,0,1.5,0,2.6,0
+19270,19,"Ice creams, chocolate",23,5.1,0.7,3.8,11,0.6,2
+19296,19,"Honey",2.2,1.2,0.1,0.1,0.7,1.7,0
+19297,19,"Jams and preserves, includes fruit spreads",10,2.6,0.5,0.4,6.7,0.1,0
+19304,19,"Molasses",13,10,1.3,0.7,1,1,0
+19334,19,"Sugars, brown",2.5,2.2,0.1,0,0.3,0.3,0
+19404,25,"Snacks, granola bars, soft, uncoated, chocolate chip",17,7.1,0.4,7.4,1.9,22,0
+19411,25,"Snacks, potato chips, plain, salted",12,4.6,0,7.5,0,0.2,0
+19444,25,"Snacks, tortilla chips, low fat, made with olestra, nacho cheese",20,4.6,0,14,1.7,0.3,0.2
+20001,20,"Amaranth",70,37,0.2,25,6.8,68,0.7
+20009,20,"Buckwheat groats, roasted, dry",54,32,0.7,21,1.1,2.6,0.4
+20010,20,"Buckwheat groats, roasted, cooked",20,11,0.7,7.6,0.8,0.5,0
+20013,20,"Bulgur wheat, cooked",6.9,2.7,0.7,2.7,0.8,83,0
+20015,20,"Corn bran, crude",18,15,0.3,2.2,0.6,4.6,0.2
+20020,20,"Cornmeal, whole-grain, yellow",22,11,0.3,6.5,2,12,1.9
+20022,20,"Cornmeal, degermed, enriched, yellow",11,6.4,0.1,2.5,1.3,0.4,0.5
+20033,20,"Oat bran, raw",32,4.9,0.3,18,6.2,20,3
+20035,20,"Quinoa",70,38,0.4,17,14,630,0.7
+20037,20,"Rice, brown, long-grain, cooked",9.2,4.7,0,3.4,1.2,0.5,0
+20038,20,"Oat flour, whole grain",30,5,0.3,18,4.3,31,2.5
+20045,20,"Rice, white, long grain, regular, cooked",2.1,0.7,0,0.4,1,0.3,0
+20063,20,"Rye flour, dark",30,8.3,0.6,14,5.8,150,1.6
+20080,20,"Wheat flour, whole-grain",31,13,0.5,13,2.2,73,2.9
+20081,20,"Wheat flour, white, all purpose, enriched, bleached",10,5.7,0.1,3.2,1.5,70,0
+20109,20,"Noodles, egg, dry, enriched",79,50,0,26,2.3,130,0
+20110,20,"Noodles, egg, cooked, enriched",26,9.3,0,16,0.9,19,0
+20120,20,"Spaghetti, dry, enriched",15,9.7,0,4,1.4,140,0
+20121,20,"Spaghetti, cooked, enriched, without added salt",6.4,3.5,0,2.2,0.8,68,0
+20131,20,"Barley malt flour",38,4.9,0.9,30,2.4,66,0
+20138,20,"Kamut, uncooked",26,5.9,0.4,16,1.4,110,1.8
+20142,20,"Teff, uncooked",13,7.3,0.2,4,1.4,2.3,0.2
+20317,20,"Corn flour, masa, enriched, yellow",4.3,1.9,0.1,1.4,0.2,2,0.7
+21005,21,"Fast foods, biscuit with egg and sausage",98,2.5,0.5,87,2.8,7.3,5.3
+21007,21,"Fast foods, biscuit with egg, cheese and bacon",130,2.2,0.7,110,2.9,11,6.1
+21009,21,"Fast foods, biscuit with sausage",27,3.2,0.4,18,3.1,9.1,2
+21011,21,"Fast foods, croissant with egg and cheese",92,3.2,0.4,80,4.8,10,4.2
+21014,21,"Fast foods, croissant with egg, cheese and sausage",84,3.4,0.7,72,3.7,8.4,4.6
+21020,21,"Fast foods, english muffin with cheese and sausage",30,4.5,0.4,19,3.1,19,2.6
+21022,21,"Fast foods, english muffin with egg, cheese and sausage",100,2.9,0.5,92,2.6,10,4.9
+21024,21,"Fast foods, french toast sticks",14,6.4,0,5.1,2.3,20,0.2
+21026,21,"Fast foods, potatoes, hashed brown",18,7.2,0.5,8.2,1.6,0.3,0.2
+21060,21,"Fast foods, burrito with beans",27,16,0,9.5,1,15,0
+21064,21,"Fast foods, burritos with beans, cheese and beef",28,16,0.9,9.8,0.8,12,0.8
+21078,21,"Fast foods, nachos with cheese",26,4.8,0.7,9.3,11,0.7,0.8
+21080,21,"Fast foods, nachos, with cheese, beans, ground beef, and peppers",28,7.5,0.9,17,1.3,2,1.5
+21082,21,"Fast foods, tacos",32,11,1.1,17,1,3.3,2
+21083,21,"Fast foods, taco salad",23,8.8,0.8,12,1,11,1.3
+21089,21,"Sandwiches and burgers, cheeseburger, regular, single meat patty, plain",29,3,1.3,19,2.9,16,3.3
+21098,21,"Fast foods, cheeseburger, large, single patty with condiments and vegetables",29,3.1,1.2,19,2.6,12,2.9
+21100,21,"Fast foods, cheeseburger, large, double patty, with condiments and vegetables",39,5.4,1,23,6.2,30,3.6
+21102,21,"Fast foods, chicken fillet sandwich, plain",35,5.5,1,21,4.2,29,3.2
+21106,21,"Fast foods, fish sandwich, with tartar sauce and cheese",33,7.4,0.5,12,11,98,1.2
+21107,21,"Fast foods, hamburger, regular, single patty, plain",34,5.6,0.8,20,5.6,41,2.6
+21114,21,"Fast foods, hamburger, large double patty with condiments and vegetables",41,9.5,0.8,21,5.7,46,3.1
+21138,21,"Fast foods, potato, french fried in vegetable oil",21,11,1.5,6.2,2.4,0.5,0
+21202,21,"Fast foods, hamburger, large, single patty, with condiments",33,5,0.9,22,2.7,22,3
+21226,21,"Meat and vegetable pizza, frozen (heated)",25,11,0.8,9.6,1.8,25,1.3
+21229,21,"Fast foods, chicken, breaded and fried, boneless pieces, plain",41,3.1,1.2,29,1.7,16,5.3
+21230,21,"Fast foods, crispy chicken",31,5.7,0.9,18,4.1,76,2.6
+21299,21,"Fast food, pizza chain, 14"" pizza, cheese topping, regular crust",16,5.9,0.6,5.2,2.5,28,2.3
+21300,21,"Fast food, pizza chain, 14"" pizza, cheese topping, thick crust",17,6,0.6,5.1,2.5,27,2.4
+21301,21,"Fast food, pizza chain, 14"" pizza, cheese topping, thin crust",19,8.8,1,5.1,2.6,20,1.5
+21302,21,"Fast food, pizza chain, 14"" pizza, pepperoni topping, regular crust",25,10,0.5,10,2.1,26,2.7
+21303,21,"Fast food, pizza chain, 14"" pizza, pepperoni topping, thick crust",25,9.7,0.5,9.3,2.5,28,2.7
+21304,21,"Fast food, pizza chain, 14"" pizza, meat and vegetable topping, regular crust",22,8.3,0.7,9.4,2,24,1.3
+21388,21,"Fast foods, miniature cinnamon rolls",27,4.5,0.4,19,2.2,12,0.9
+21401,21,"Fast foods, chicken tenders",44,2.7,0.9,34,1.4,17,4.9
+21409,21,"Fast foods, bagel with ham, egg and cheese",98,3.7,0.5,87,2.7,11,4.7
+21410,21,"Fast foods, bagel with egg, sausage patty, cheese, and condiments",84,3.9,0.5,72,2.6,8.7,4.4
+21411,21,"Fast foods, bagel with breakfast steak, egg, cheese and condiments",82,4,0.5,71,2,10,4.7
+22247,22,"Macaroni and cheese, canned entr�e",5.4,2.8,0.4,1.1,1.1,43,0
+22902,21,"Sausage and pepperoni pizza, frozen",22,8.1,0.4,11,1.6,19,1.3
+22903,21,"Frozen pepperoni pizza, (heated)",26,11,1,10,2.1,20,1.8
+22904,22,"Chili con carne with beans, canned entree",27,12,0.6,12,1.5,0.9,1.5
+22905,22,"Beef stew, canned entr�e",16,2.9,0.7,9.8,1.1,1.8,1.1
+22912,22,"Spaghetti, with meatballs, canned",12,5.4,0.4,4.4,1.1,24,0.7
+22916,22,"Lasagna with meat sauce, frozen entr�e",17,5.2,0.9,8.6,1.1,6.1,1.2
+22927,22,"Burrito, bean and cheese, microwaved",28,14,0.2,12,1.2,30,0
+22928,22,"Burrito, beef and bean, microwaved",28,15,0,12,1.1,34,0.2
+23030,13,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0"" fat, choice, raw",87,0.8,1,72,4.8,12,7.7
+23031,13,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0"" fat, choice, cooked, grilled",100,0.4,1,87,4,17,11
+23032,13,"Beef, round, knuckle, tip side, steak, separable lean and fat , trimmed to 0"" fat, select, raw",91,0.9,0.9,76,5.7,8.1,7.9
+23033,13,"Beef, round, knuckle, tip side, steak, separable lean and fat, trimmed to 0"" fat, select, cooked, grilled",100,0.5,0.9,82,4.5,6.9,14
+23034,13,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0"" fat, choice, raw",75,1,1.5,59,6.1,12,7.2
+23035,13,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0"" fat, choice, cooked, grilled",100,0.7,1.5,84,5.5,14,11
+23036,13,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0"" fat, select, raw",85,0.9,1.5,65,9.3,12,8.5
+23037,13,"Beef, chuck, shoulder clod, shoulder top and center steaks, steak, separable lean and fat, trimmed to 0"" fat, choice, raw",85,0.8,1.2,71,5.1,15,7.1
+23038,13,"Beef, chuck, shoulder clod, shoulder top and center steaks, steak, separable lean and fat, trimmed to 0"" fat, choice, cooked, grilled",94,0.6,1.1,77,4.5,16,11
+23039,13,"Beef, chuck, shoulder clod, shoulder top and center steaks, steak, separable lean and fat, trimmed to 0"" fat, select, raw",87,1,1.2,72,5.8,12,7
+23040,13,"Beef, chuck, shoulder clod, shoulder top and center steaks, steak, separable lean and fat, trimmed to 0"" fat, select, cooked, grilled",100,0.7,1.3,86,5.2,13,11
+23041,13,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0"" fat, choice, raw",83,1.9,1.7,68,4.9,15,6.2
+23042,13,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0"" fat, choice, cooked, grilled",100,1.6,1.9,83,4.3,17,12
+23043,13,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0"" fat, select, raw",100,2.2,1.5,86,5.7,12,7.4
+23044,13,"Beef, chuck, shoulder clod, top blade, steak, separable lean and fat, trimmed to 0"" fat, select, cooked, grilled",110,1.7,1.9,94,4,12,11
+23045,13,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0"" fat, choice, raw",81,0.6,1.6,65,6.4,17,7.5
+23046,13,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0"" fat, choice, cooked, grilled",100,0.5,1.1,87,4.2,16,11
+23047,13,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0"" fat, select, raw",86,0.6,1,71,5.2,13,8.1
+23048,13,"Beef, round, knuckle, tip center, steak, separable lean and fat, trimmed to 0"" fat, select, cooked, grilled",100,0.5,1.2,87,5,13,12
+23049,13,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0"" fat, choice, raw",84,0.8,1,70,4.7,15,7.2
+23050,13,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0"" fat, choice, cooked, grilled",94,0.5,0.8,77,4.6,11,12
+23051,13,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0"" fat, select, raw",91,0.9,0.7,77,5.8,11,7
+23052,13,"Beef, round, outside round, bottom round, steak, separable lean and fat, trimmed to 0"" fat, select, cooked, grilled",92,0.5,0.9,72,5.9,12,12
+23065,13,"Beef, chuck, shoulder clod, shoulder tender, medallion, separable lean and fat, trimmed to 0"" fat, select, cooked, grilled",110,0.7,1.4,91,7.8,13,12
+23557,13,"Beef, ground, 95% lean meat/ 5% fat, raw",71,2.5,0.2,59,3.3,6.9,6.3
+23558,13,"Beef, ground, 95% lean meat/ 5% fat, patty, cooked, broiled",85,2.2,0.4,72,3.3,6.6,7.6
+23562,13,"Beef, ground, 90% lean meat/ 10% fat, raw",66,2.5,0.3,54,3.2,7,6.1
+23563,13,"Beef, ground, 90% lean meat/ 10% fat, patty, cooked, broiled",84,2.2,0.3,71,3.1,7.1,7.7
+23567,13,"Beef, ground, 85% lean meat/ 15% fat, raw",61,2.6,0.3,50,3,7.2,5.8
+23568,13,"Beef, ground, 85% lean meat/ 15% fat, patty, cooked, broiled",82,2.2,0.3,69,3,7.5,7.9
+23572,13,"Beef, ground, 80% lean meat/ 20% fat, raw",56,2.6,0.4,45,2.8,7.3,5.6
+23573,13,"Beef, ground, 80% lean meat/ 20% fat, patty, cooked, broiled",81,2.3,0.3,68,2.8,8,8
+23577,13,"Beef, ground, 75% lean meat/ 25% fat, raw",52,2.6,0.4,41,2.6,7.4,5.4
+23578,13,"Beef, ground, 75% lean meat/ 25% fat, patty, cooked, broiled",79,2.3,0.3,66,2.6,8.5,8.2
+25000,25,"Snacks, popcorn, microwave, 94% fat free",13,5.4,0,4.9,2.6,0.3,0
+25013,25,"Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, original flavor",15,3.9,0.2,8.5,2.1,39,0
+25014,25,"Snacks, popcorn, microwave, butter flavor",14,5.5,0,5.4,3,0.3,0
+25017,25,"Formulated bar, POWER BAR, chocolate",18,7.8,0.3,7.1,2.5,4.3,0.8
+25020,25,"Formulated bar, SLIMFAST OPTIMA Meal Bar, Chocolate Peanut",41,19,0.8,18,1.9,2.2,0.9
+25021,25,"Formulated bar, LUNA Meal Bar",42,14,0.6,21,3.2,1.7,2.7
+35009,35,"Whale, beluga, meat, air-dried, raw (Alaska Native)",130,42,5.6,17,48,24,20
+35015,35,"Blackberries, raw (Alaska Native)",4.9,1.4,0.1,3.2,0.1,0.2,0.1
+35055,35,"Seal, bearded (oogruk), meat, air-dried (Alaska Native)",120,17,1.5,33,52,16,20
+35056,35,"Seal, bearded (oogruk), meat, raw (Alaska Native)",72,7.9,1.5,30,24,9.9,8.1
+35149,35,"Fish, halibut, raw, with skin (Alaska Native)",50,8.6,0.4,13,25,9.2,4.1
+35150,35,"Fish, salmon, coho (silver), raw (Alaska Native)",94,31,1.5,22,39,5.4,1.3
+35151,35,"Fish, salmon, sockeye (red), raw (Alaska Native)",99,20,1.5,24,53,4.3,1.4
+35152,35,"Fish, salmon, chum, raw (Alaska Native)",90,23,0.9,23,41,2.9,1.5
+35153,35,"Fish, salmon, king (chinook), raw (Alaska Native)",96,20,1.4,23,50,5.2,1.8
+35155,35,"Blueberries, wild, raw (Alaska Native)",11,2.9,0.2,6.9,1.4,0.5,0
+35157,35,"Fish, salmon, red, canned, bones removed (Alaska Native)",82,7.1,2,35,29,3.3,8.7
+35158,35,"Fish, whitefish, eggs (Alaska Native)",250,12,1.8,220,5.1,8.2,13
+35160,35,"Caribou, rump meat, partially dried (Alaska Native)",200,15,5.1,120,31,29,27
+35161,35,"Caribou, shoulder meat, dried (Alaska Native)",260,51,7.3,130,33,43,32
+35162,35,"Caribou, hind quarter meat, raw (Alaska Native)",88,2.2,1.2,67,6.5,2.8,11
+35164,35,"Seal, bearded (oogruk), meat, dried, in oil (Alaska Native)",68,6.8,1.3,28,20,61,12
+35165,35,"Fish, whitefish, dried (Alaska Native)",210,50,3,80,41,88,32
+35166,35,"Fish, salmon, red, (sockeye), canned, smoked (Alaska Native)",110,12,2.8,39,42,5,12
+35167,35,"Fish, salmon, red, (sockeye), kippered (Alaska Native)",88,12,3.2,39,24,4.2,11
+35168,35,"Fish, salmon, king, with skin, kippered, (Alaska Native)",99,8.8,2.6,40,33,3.6,14
+35169,35,"Fish, sheefish, dried (Alaska Native)",110,12,1.1,15,74,120,7.4
+35171,35,"Fish, salmon, chum, dried (Alaska Native)",230,64,2.4,45,100,11,15
+35179,35,"Chokecherries, raw, pitted",11,6.7,0.1,4,0.1,0.5,0
+35180,35,"Fish, steelhead trout, dried, flesh (Shoshone Bannock)",260,15,4.1,46,190,38,4.2
+35181,35,"Fish, steelhead trout, boiled, canned (Alaska Native)",90,2.6,1.7,38,46,2.5,2.2
+35182,35,"Acorn stew (Apache)",34,1.3,0.3,26,1.6,9.6,5.6
+35184,35,"Fish, smelt, dried (Alaska Native)",300,170,3.5,96,0.1,15,25
+35187,35,"Tennis bread, plain (Apache)",15,6.3,0.1,5,1.9,32,2
+35188,35,"Fish, halibut, cooked, with skin (Alaska Native)",64,5.5,0.9,30,23,5.2,4.4
+35190,35,"Fish, salmon, red (sockeye), smoked (Alaska Native)",220,46,1.8,35,130,6.8,11
+35193,35,"Agave, cooked",8.8,5.2,0,2.8,0.7,0.4,0.1
+35196,11,"Lambsquarters, raw",20,13,1.9,4.5,0.3,330,0
+42187,19,"Frozen yogurts, flavors other than chocolate",23,5.1,2.1,4.8,9.2,0.9,1.8
+42289,04,"Oil, corn and canola",0.2,0,0,0,0.2,0,0
+43133,16,"Burgers, soy protein, frozen",14,9.9,0.4,2.2,1.8,5,0
+43261,01,"Yogurt, fruit variety, nonfat",16,3.3,2,1.9,7.8,0.7,1.4
+98001,04,"Salad Dressing, italian, regular with egg",12,1.6,0,7.4,2.9,0,0.4
+98005,09,"Apple juice, calcium enriched with added vitamin C",1.8,0.7,0,0.4,0.7,0.1,0
+98010,11,"Artichokes, microwaved",22,6.4,1.1,15,0,0.4,0
+98011,11,"Tomatoes, red, cooked, microwaved",8,4.4,1.9,1.8,0,0.1,0
+98013,11,"Spinach, frozen, whole leaf, cooked, microwaved",28,2.2,1.8,24,0,130,0
+98014,12,"Seeds, psyllium seed, husk powder ( dietary fiber supplement)",8.6,5.2,0,2.5,0.9,2.9,0
+98015,14,"Iced tea, fast food, unsweetened",0.4,0.4,0,0,0,1,0
+98019,16,"Beans, baked, canned, plain or vegetarian, heated",28,14,0.9,11,1.8,0.1,0
+98020,16,"Beans, baked, canned, with pork and tomato sauce, heated",24,11,0.9,11,1.6,0.1,0
+98021,16,"Soy protein powder, dietary supplement, cholesterol free, low fat enriched with vitamins",86,15,0,70,1.1,0.2,0
+98022,17,"Mutton, roasted from mutton sandwich",100,1.7,0.6,81,9.9,34,7.9
+98024,18,"Plain danish pastry",17,3,0.6,9.4,2.7,8.1,1
+98026,18,"Toaster Pastries, strawberry, frosted, toasted",7.6,3.8,0,2.2,1.6,19,0
+98028,19,"Gelatin desserts, strawberry flavor, ready-to-eat",0.5,0,0,0,0.5,0.1,0
+98029,19,"Gelatin desserts, strawberry flavor, with fruit juice, ready-to-eat",0.6,0.1,0,0,0.5,0.8,0
+98030,19,"Ice creams, vanilla and sherbet, orange",16,1.8,1.6,3.3,6.2,0.6,2.7
+98031,19,"Candies, milk chocolate coated wafer bars",31,7.9,0,6.3,16,6.1,0.7
+98032,19,"Candies, milk chocolate pieces, sugar coated",44,9.6,3.1,7.5,22,1.3,1.3
+98033,19,"Candies, milk chocolate coated, caramel and nougat bars with peanuts",38,12,1.7,13,11,0.9,0.7
+98034,19,"Frozen yogurts, vanilla, fat free",23,3.7,1.1,3.7,13,0.8,1.2
+98035,19,"Ice creams, vanilla, fat free, no sugar added",18,2.7,1.9,1.2,10,0.8,1.3
+98039,21,"Frozen cheese pizza, regular thin crust, (heated)",14,6.7,0.8,4.2,1.4,26,0.9
+98041,05,"Frozen chicken nuggets (uncooked)",46,5.5,1.5,32,2.1,23,4.9
+98042,05,"Chicken nuggets, frozen, (cooked)",41,5.8,1.1,28,1.3,18,5.2
+98043,05,"Chicken tenders, frozen, (cooked)",39,3.8,1.1,28,1.4,29,5
+98047,21,"Fast foods, flour tortilla with sausage, egg, cheese and condiments",86,4.6,0.5,74,2.1,13,4.1
+98050,21,"Fast foods, hotcakes with syrup and sausage",34,5,0.9,22,4.5,6.2,1.8
+98051,21,"Fast foods, croissant with sausage and cheese",36,4.8,0.6,24,4,11,3
+98052,21,"Fast foods, english muffin with bacon, egg and cheese",59,3.3,0.4,50,2.1,13,2.8
+98055,21,"Fast foods, fried chicken sandwich",36,8.9,0.7,19,5.5,44,2.5
+98056,21,"Fast foods, chicken breast fillet",35,3.6,1.5,24,2.1,18,3.6
+98058,21,"Fast foods, flour tortilla with beans, chicken and cheese",21,8.9,0.8,9.2,1.2,15,0.9
+98059,21,"Fast foods, flour tortilla with beans, steak and cheese",27,12,0.6,12,0.8,15,1.1
+98060,21,"Fast foods, flour tortilla with beef and cheese",26,11,0.9,11,1.2,18,1.5
+98061,21,"Fast foods, flour tortilla with chicken and cheese",27,7.5,1.3,15,1.3,19,2
+98062,21,"Fast foods, flour tortilla with steak and cheese",29,7.7,0.6,18,0.6,19,2.4
+98063,21,"Fast foods, chocolate, dairy dessert",28,5.5,1.2,3.4,15,1.1,2.6
+98064,22,"Macaroni and cheese, canned, microwave",13,3.9,0.6,2.7,4.9,41,1.2
+98069,22,"Tamales",18,2.7,0.2,12,1.4,1.7,1.6
+98070,22,"Macaroni and cheese, prepared with cheese powder, boxed",14,4,1.1,3.3,4.8,12,1
+98071,22,"Macaroni and cheese, prepared with cheese sauce, boxed",22,4.3,0.8,3,13,19,1.4
+98080,21,"Fast foods, english muffin with egg",130,3,0.4,120,2.3,13,5.6
+98082,03,"Infant formula, dry powder",130,72,5.2,20,22,2.5,7
+98083,04,"Canola oil margarine",11,0.1,0.2,10,0.4,0.1,0
+98084,05,"Chicken, broilers or fryers, back, meat only, cooked, rotisserie",64,5.8,2.8,44,0.8,6.6,11
+98085,05,"Chicken, broilers or fryers, breast, meat only, cooked, rotisserie",62,3.2,2.1,46,1.6,6.4,8.9
+98086,05,"Chicken, broilers or fryers, drumstick, meat only, cooked, rotisserie",84,6,3,62,1.1,12,12
+98087,05,"Chicken, broilers or fryers, skin only, cooked, rotisserie",46,5.1,1.8,25,1.4,6.1,13
+98088,05,"Chicken, broilers or fryers, thigh, meat only, cooked, rotisserie",65,5.8,2.8,46,0.8,8.4,9.7
+98089,05,"Chicken, broilers or fryers, wing, meat only, cooked, rotisserie",68,4.9,2.2,49,0.9,5.7,11
+98092,10,"Pickled pigs feet",28,0.7,0,10,2.3,0.4,15
+98094,10,"Pork, fresh, enhanced, separable fat, raw",34,2,0.6,19,6.9,1.7,5.5
+98095,10,"Pork, fresh, enhanced, separable fat, cooked",46,1.3,0.5,28,8,2,8.5
+98096,13,"Beef, grass-fed, ground, raw",67,1,0.9,55,3.2,7.8,6.7
+98097,13,"Beef, grass-fed, short loin, top loin, separable lean only, 0"" trim, raw",65,0.6,0.6,54,3.4,7.6,6.3
+98099,22,"Hot dog and bun",30,4.5,0.8,21,1.9,44,2.1
+98100,35,"Caribou, ground",150,0.6,1.4,120,8.7,16,17
+98101,35,"Fish, salmon, king, kippered, raw",110,9.6,2.5,45,32,4.3,18
+98102,35,"Cattail shoots",24,14,6.4,1.1,1.8,1.1,0
+98103,35,"Stinging nettles",17,3.3,3.7,5.4,5,21,0
+98104,35,"Prickly pear, raw",4.3,3.8,0.2,0.2,0.2,0.3,0
+98105,35,"Prairie turnips, raw",4.8,4.2,0.3,0.3,0,0.1,0
+98106,35,"Wild raspberries",9.5,2.4,1.2,4.4,1.4,0.5,0
+98107,35,"Wild plums",5.2,0.6,0.5,3.8,0.3,0.2,0
+98108,35,"Wild rose hips",12,4,0.7,5.4,1.8,2.9,0
+98110,05,"Chicken, broilers or fryers, breast, meat only, cooked, rotisserie BBQ",60,3.1,2.3,47,1.8,8,6
+98111,05,"Chicken, broilers or fryers, drumstick, meat only, cooked, rotisserie BBQ",80,6.3,3.2,60,1.1,11,9
+98112,05,"Chicken, broilers or fryers, thigh, meat only, cooked, rotisserie BBQ",68,5.3,2.4,52,1,11,7.4
+98114,09,"Peaches, canned in heavy syrup, drained liquid",2.7,0.5,0.5,0.4,1,0.3,0.2
+98116,18,"Muffins, wheat bran, prepared from recipe",36,8.1,0.7,20,3,36,4.3
+98119,22,"Egg rolls, restaurant",18,3.8,0.7,9.2,0.5,22,3.8
+98121,06,"Hot and sour soup",40,0.6,0.2,37,0.3,1.1,1.8

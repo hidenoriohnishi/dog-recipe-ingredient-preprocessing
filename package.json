@@ -14,7 +14,9 @@
     "process:5-2": "tsx process/05-2-tag-names/index.ts",
     "process:5-3": "tsx process/05-3-merge-extensions/index.ts",
     "process:6": "tsx process/06-calculate-me/index.ts",
-    "process:7": "tsx process/07-normalize-headers/index.ts"
+    "process:7": "tsx process/07-normalize-headers/index.ts",
+    "process:8-1": "tsx process/08-1-usda-choline/index.ts",
+    "process:8-2": "tsx process/08-2-choline-matching/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.0.0",
@@ -22,7 +24,7 @@
     "dotenv": "^16.4.5",
     "openai": "^4.28.0",
     "xlsx": "^0.18.5",
-    "zod": "^4.1.13"
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
