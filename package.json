@@ -18,7 +18,10 @@
     "process:8-1": "tsx process/08-1-usda-choline/index.ts",
     "process:8-2": "tsx process/08-2-choline-matching/index.ts",
     "process:8-3": "tsx process/08-3-merge-choline/index.ts",
-    "process:9-0": "tsx process/09-0-result/index.ts"
+    "process:9-0": "tsx process/09-0-result/index.ts",
+    "process:9-1": "tsx process/09-1-usda-normalize/index.ts",
+    "process:9-2": "tsx process/09-2-pure-distance/index.ts",
+    "process:9-3": "tsx process/09-3-ai-select/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.0.0",
