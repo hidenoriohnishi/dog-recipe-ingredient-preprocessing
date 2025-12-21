@@ -21,7 +21,8 @@
     "process:9-0": "tsx process/09-0-result/index.ts",
     "process:9-1": "tsx process/09-1-usda-normalize/index.ts",
     "process:9-2": "tsx process/09-2-pure-distance/index.ts",
-    "process:9-3": "tsx process/09-3-ai-select/index.ts"
+    "process:9-3": "tsx process/09-3-ai-select/index.ts",
+    "process:10-1": "tsx process/10-1-recipe-ingredient-mark/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^1.0.0",
