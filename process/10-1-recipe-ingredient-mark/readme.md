@@ -18,11 +18,10 @@ MEXTの栄養データ（`final-nutrition.csv`）の各食品について、`10-
 ## 出力
 
 - `result/final-nutrition-with-recipe-flag.csv` – 元CSVに以下の列を追加した最終成果物
-  - `recipe_ai_reason`: 判定理由（理由→フラグ→ラベルの順で追記）
   - `is_recipe_ingredient`: `TRUE` or `FALSE`
-  - `recipe_label_paths`: AIが採用したラベルパス（複数の場合は" | "区切り）
+  - `recipe_label_path`: AIが採用したラベルパス（MATCHの場合のみ）
 - `result/progress.json` – 処理済み食品番号とヘッダー書き込み状態を保持
-- `result/batch-results/batch-{n}.json` – バッチ単位のAI応答ログ
+- `result/batch-results/batch-{n}.json` – バッチ単位のAI応答ログ（判定理由を含む）
 
 ## 実行
 

@@ -10438,5 +10438,2621 @@
     "usda_description": null,
     "distance": null,
     "match_reason": "NO_MATCH: 候補リストにめかぶ/わかめ等の海藻に対応する食品がなく、同種・近種のマッチができないため。"
+  },
+  {
+    "mext_food_number": "10001",
+    "mext_food_name": "＜魚類＞　あいなめ　生",
+    "usda_fdc_id": "169809",
+    "usda_description": "Fish, lingcod, meat, raw (Alaska Native)",
+    "distance": 1.014915818471392,
+    "match_reason": "あいなめ（greenling）はHexagrammidae系の沿岸魚で、候補の中ではlingcod（169809, Ophiodon elongatus）が同科・近縁であり最も近種と判断したため。"
+  },
+  {
+    "mext_food_number": "10003",
+    "mext_food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　生",
+    "usda_fdc_id": "175123",
+    "usda_description": "Fish, mullet, striped, raw",
+    "distance": 1.0979264579407668,
+    "match_reason": "まあじ（馬鰺、jack/horse mackerel）は候補内に明確なmackerel系が乏しいため、小型の沿岸魚であるstriped mullet（175123）が形態・利用上の近似として最も妥当と判断。"
+  },
+  {
+    "mext_food_number": "10006",
+    "mext_food_name": "＜魚類＞　（あじ類）　まあじ　開き干し　生",
+    "usda_fdc_id": "173673",
+    "usda_description": "Fish, mackerel, spanish, raw",
+    "distance": 1.0781788535888317,
+    "match_reason": "まあじの開き干しは保存・加工魚だが、種としては“鯵＝mackerel/horse mackerel”に近いので、候補のmackerel（spanish mackerel, 173673）を選択。"
+  },
+  {
+    "mext_food_number": "10008",
+    "mext_food_name": "＜魚類＞　（あじ類）　にしまあじ　生",
+    "usda_fdc_id": "173673",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "にしまあじもあじ類（jack/mackerel系）に該当するため、候補中のmackerel（spanish mackerel, 173673）が近種として最も適切と判断。"
+  },
+  {
+    "mext_food_number": "10011",
+    "mext_food_name": "＜魚類＞　（あじ類）　むろあじ　生",
+    "usda_fdc_id": "173672",
+    "usda_description": "Fish, mackerel, Pacific and jack, mixed species, raw",
+    "distance": 1.031082970115363,
+    "match_reason": "むろあじ（muroaji）はmackerel/jackに近い魚であり、候補にある“mackerel, Pacific and jack, mixed species”（173672）が種グループとして直接的に対応しているため選択。"
+  },
+  {
+    "mext_food_number": "10017",
+    "mext_food_name": "＜魚類＞　あまご　養殖　生",
+    "usda_fdc_id": "173717",
+    "usda_description": "Fish, trout, rainbow, farmed, raw",
+    "distance": 1.0945187473430913,
+    "match_reason": "あまご（Oncorhynchus属に近いサケ科の淡水魚、養殖）はサケ科（trout/salmon）であり、候補のrainbow trout, farmed, raw（173717）が生・養殖のサケ科魚として最も近い。"
+  },
+  {
+    "mext_food_number": "10018",
+    "mext_food_name": "＜魚類＞　あまだい　生",
+    "usda_fdc_id": "173705",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "あまだい（甘鯛）は英語でtilefish/amadaiに相当するため、候補のtilefish, raw（173705）が同一種に最も近い。"
+  },
+  {
+    "mext_food_number": "10021",
+    "mext_food_name": "＜魚類＞　あゆ　天然　生",
+    "usda_fdc_id": "175154",
+    "usda_description": "Fish, trout, rainbow, wild, raw",
+    "distance": 1.2973267222508749,
+    "match_reason": "あゆ（鮎、天然の小型淡水魚）は候補に直接該当がないため、小型淡水魚であるrainbow trout, wild, raw（175154）が生の川魚として利用・形態が近いと判断。"
+  },
+  {
+    "mext_food_number": "10023",
+    "mext_food_name": "＜魚類＞　あゆ　天然　内臓　生",
+    "usda_fdc_id": "167626",
+    "usda_description": "Fish, whitefish, broad, liver (Alaska Native)",
+    "distance": 1.3445203320640997,
+    "match_reason": "あゆの内臓（臓器部分）に相当する栄養値を補うため、候補の魚肝（whitefish, broad, liver, 167626）のような魚類内臓部位を対応させるのが最も妥当と判断。"
+  },
+  {
+    "mext_food_number": "10025",
+    "mext_food_name": "＜魚類＞　あゆ　養殖　生",
+    "usda_fdc_id": "173717",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "あゆ（養殖、生）は養殖サケ科・養殖トラウトと利用形態が近いため、rainbow trout, farmed, raw（173717）を対応させた。"
+  },
+  {
+    "mext_food_number": "10027",
+    "mext_food_name": "＜魚類＞　あゆ　養殖　内臓　生",
+    "usda_fdc_id": "169810",
+    "usda_description": "Fish, lingcod, liver (Alaska Native)",
+    "distance": 1.4923319167739928,
+    "match_reason": "好意的解釈：あゆ（養殖）内臓（魚の臓器）に相当する候補として、魚の肝臓などの内臓部位である \"Fish, lingcod, liver (FDC 169810)\" を選択（魚の内臓部位に着目したマッチ）"
+  },
+  {
+    "mext_food_number": "10031",
+    "mext_food_name": "＜魚類＞　あんこう　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にあんこう（アンコウ／monkfish に相当）や近縁種が含まれておらず、同一・近種での妥当なマッチができない"
+  },
+  {
+    "mext_food_number": "10033",
+    "mext_food_name": "＜魚類＞　いかなご　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: いかなご（砂浜魚／sand lance 等）に相当する同種・近種が候補に含まれておらず、妥当な同定ができない"
+  },
+  {
+    "mext_food_number": "10035",
+    "mext_food_name": "＜魚類＞　いかなご　つくだ煮",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: いかなごの佃煮（元の魚種は砂ヌメ類が多い）が前提だが、候補群に同種・近種がなく食品として対応できない"
+  },
+  {
+    "mext_food_number": "10037",
+    "mext_food_name": "＜魚類＞　いさき　生",
+    "usda_fdc_id": "174192",
+    "usda_description": "Fish, croaker, Atlantic, raw",
+    "distance": 0.7536458400050485,
+    "match_reason": "好意的解釈：いさき（沿岸性の白身魚／grunt に相当）に対し、同じく沿岸の白身性魚である \"Fish, croaker, Atlantic, raw (FDC 174192)\" を近種として選択"
+  },
+  {
+    "mext_food_number": "10038",
+    "mext_food_name": "＜魚類＞　いしだい　生",
+    "usda_fdc_id": "173705",
+    "usda_description": "Fish, tilefish, raw",
+    "distance": 1.018021238533485,
+    "match_reason": "好意的解釈：いしだい（沿岸の礁域性白身魚）に対し、同じく海域性の底生白身魚として近いと判断できる \"Fish, tilefish, raw (FDC 173705)\" を選択"
+  },
+  {
+    "mext_food_number": "10039",
+    "mext_food_name": "＜魚類＞　いとよりだい　生",
+    "usda_fdc_id": "175125",
+    "usda_description": "Fish, ocean perch, Atlantic, raw",
+    "distance": 1.0596669550963906,
+    "match_reason": "好意的解釈：いとよりだい（イトヨリダイ、沿岸性の白身魚）に対し、同じく沿岸の底生/中層性白身魚である \"Fish, ocean perch, Atlantic, raw (FDC 175125)\" を近種的に選択"
+  },
+  {
+    "mext_food_number": "10041",
+    "mext_food_name": "＜魚類＞　いぼだい　生",
+    "usda_fdc_id": "171951",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "同種相当：いぼだい は英語で butterfish に相当することがあるため、直接対応する \"Fish, butterfish, raw (FDC 171951)\" を選択"
+  },
+  {
+    "mext_food_number": "10042",
+    "mext_food_name": "＜魚類＞　（いわし類）　うるめいわし　生",
+    "usda_fdc_id": "175122",
+    "usda_description": "Fish, mackerel, king, raw",
+    "distance": 1.1542579120395358,
+    "match_reason": "好意的解釈：うるめいわし（小型の脂のある回遊性/沿岸性有鱗魚）に対し、小型の脂の多い回遊性魚のプロキシとして \"Fish, mackerel, king, raw (FDC 175122)\" を選択（同じ小型〜中型の脂性海魚グループの近似）"
+  },
+  {
+    "mext_food_number": "10044",
+    "mext_food_name": "＜魚類＞　（いわし類）　かたくちいわし　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: かたくちいわし（小型のイワシ/アンチョビ類）に相当する同種・近種（アンチョビ／イワシ類）が候補に見当たらないためマッチ不可"
+  },
+  {
+    "mext_food_number": "10047",
+    "mext_food_name": "＜魚類＞　（いわし類）　まいわし　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「まいわし」（イワシ類）に対応する候補（ニシン科・イワシ類や近縁種）が候補一覧に含まれていないため。"
+  },
+  {
+    "mext_food_number": "10050",
+    "mext_food_name": "＜魚類＞　（いわし類）　まいわし　塩いわし",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「塩いわし」もイワシ類に属するため、候補にイワシ類や近縁種がないため対応不可。"
+  },
+  {
+    "mext_food_number": "10053",
+    "mext_food_name": "＜魚類＞　（いわし類）　めざし　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「めざし」は一般に小型のイワシ類等に該当する（イワシ系）ため、候補に同一・近種がないため。"
+  },
+  {
+    "mext_food_number": "10065",
+    "mext_food_name": "＜魚類＞　いわな　養殖　生",
+    "usda_fdc_id": "173717",
+    "usda_description": "Fish, trout, rainbow, farmed, raw",
+    "distance": 1.2055679793273817,
+    "match_reason": "いわな（サケ科のイワナ）はサケ・マス類に近縁の淡水魚のため、同じサケ科に属する trout, rainbow, farmed, raw（FDC ID: 173717）が最も適切。"
+  },
+  {
+    "mext_food_number": "10066",
+    "mext_food_name": "＜魚類＞　うぐい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「うぐい」（ハヤ・コイ科に近い淡水魚）が該当するコイ科・ハヤ類の候補がなく、近種が見つからないため。"
+  },
+  {
+    "mext_food_number": "10067",
+    "mext_food_name": "＜魚類＞　うなぎ　養殖　生",
+    "usda_fdc_id": "174193",
+    "usda_description": "Fish, eel, mixed species, raw",
+    "distance": 1.4675657947768384,
+    "match_reason": "「うなぎ」＝eel に対し、fish, eel, mixed species, raw（FDC ID: 174193）は同一カテゴリ（ウナギ類）の生魚資料であり最適。"
+  },
+  {
+    "mext_food_number": "10071",
+    "mext_food_name": "＜魚類＞　うまづらはぎ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「うまづらはぎ」（カワハギ類・ファイルフィッシュ系）は候補に同種または近縁のカワハギ科が含まれておらず対応不可。"
+  },
+  {
+    "mext_food_number": "10073",
+    "mext_food_name": "＜魚類＞　えい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「えい」（エイ類、軟骨魚類）は候補にエイや他の軟骨魚類が含まれておらず対応不可。"
+  },
+  {
+    "mext_food_number": "10074",
+    "mext_food_name": "＜魚類＞　えそ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「えそ」は日本では特定の小魚（エソ類）を指すが、候補に同種・近種に相当する魚（エソ／類縁）がないため。"
+  },
+  {
+    "mext_food_number": "10075",
+    "mext_food_name": "＜魚類＞　おいかわ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「おいかわ」（オイカワ、ハヤ類＝コイ科）は候補にコイ科・ハヤ類が含まれておらず対応不可。"
+  },
+  {
+    "mext_food_number": "10077",
+    "mext_food_name": "＜魚類＞　おこぜ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: おこぜは日本固有のカサゴ目（スコルピオンフィッシュ類）に相当するが、候補に同一または近種（カサゴ/ロックフィッシュ系）はなく、タラ類やエビ等は明らかに異種のためマッチ不可。"
+  },
+  {
+    "mext_food_number": "10078",
+    "mext_food_name": "＜魚類＞　おひょう　生",
+    "usda_fdc_id": "174200",
+    "usda_description": "Fish, halibut, Atlantic and Pacific, raw",
+    "distance": 1.0303444778535942,
+    "match_reason": "おひょう = halibut に相当。候補に Fish, halibut, Atlantic and Pacific, raw (FDC ID: 174200) があり、同一食材と判断。"
+  },
+  {
+    "mext_food_number": "10080",
+    "mext_food_name": "＜魚類＞　かじか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: かじか（カジカ類・スカルピン類）に近い候補がなく、提示された魚種はいずれも明らかに別科の魚（ホワイトフィッシュ、リンゴド等）であるためマッチ不可。"
+  },
+  {
+    "mext_food_number": "10084",
+    "mext_food_name": "＜魚類＞　（かじき類）　まかじき　生",
+    "usda_fdc_id": "175159",
+    "usda_description": "Fish, tuna, fresh, yellowfin, raw",
+    "distance": 1.4245137477903898,
+    "match_reason": "まかじき（大型の外洋性魚・旗魚類〈カジキ類〉）に完全一致する候補はないが、同じ大型外洋性の遊泳性捕食魚として Fish, tuna, fresh, yellowfin, raw (FDC ID: 175159) を好意的に解釈して選定（近傍の代替）。"
+  },
+  {
+    "mext_food_number": "10086",
+    "mext_food_name": "＜魚類＞　（かつお類）　かつお　春獲り　生",
+    "usda_fdc_id": "175159",
+    "usda_description": "Fish, tuna, fresh, yellowfin, raw",
+    "distance": 1.0921106474637094,
+    "match_reason": "かつお（春獲り）はカツオ類/マグロ類に相当。候補に Fish, tuna, fresh, yellowfin, raw (FDC ID: 175159) があり、同じScombridae科の大型回遊性魚として近種と判断。"
+  },
+  {
+    "mext_food_number": "10087",
+    "mext_food_name": "＜魚類＞　（かつお類）　かつお　秋獲り　生",
+    "usda_fdc_id": "174227",
+    "usda_description": "Fish, tuna, light, canned in oil, without salt, drained solids",
+    "distance": 1.1005304771495148,
+    "match_reason": "かつお（秋獲り）も同様にカツオ類に相当。生の候補が乏しいため、同科の保存形態として近い Fish, tuna, light, canned in oil, without salt, drained solids (FDC ID: 174227) を選定。"
+  },
+  {
+    "mext_food_number": "10088",
+    "mext_food_name": "＜魚類＞　（かつお類）　そうだがつお　生",
+    "usda_fdc_id": "175156",
+    "usda_description": "Fish, tuna, fresh, skipjack, raw",
+    "distance": 1.3962722414054516,
+    "match_reason": "そうだがつお（Auxis等のfrigate/bonitoに相当）はスズキ目ではなくカツオ・サバ類に近い回遊性の魚。候補の中に Fish, tuna, fresh, skipjack, raw (FDC ID: 175156) があり、同系統の回遊性小～中型捕食魚として最適な近似と判断。"
+  },
+  {
+    "mext_food_number": "10098",
+    "mext_food_name": "＜魚類＞　かます　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: かます（バラクーダ等の可能性）が候補に含まれていない。候補はタラ・ポロック・カツオ等であり、バラクーダ系に近い魚種がないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "10100",
+    "mext_food_name": "＜魚類＞　（かれい類）　まがれい　生",
+    "usda_fdc_id": "174196",
+    "usda_description": "Fish, flatfish (flounder and sole species), raw",
+    "distance": 1.5803423994439294,
+    "match_reason": "まがれいはカレイ類・ヒラメ類などの平魚（flatfish）に該当。候補に Fish, flatfish (flounder and sole species), raw (FDC ID: 174196) があり、同種グループとして適合。"
+  },
+  {
+    "mext_food_number": "10103",
+    "mext_food_name": "＜魚類＞　（かれい類）　まこがれい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: まこがれい（マコガレイ）は特定のカレイ類（平魚）だが、提示候補に明確な平魚（flounder/sole）表示がなく、候補はリンゴド、タラ、ホワイトフィッシュ等で近種と判断できないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "10104",
+    "mext_food_name": "＜魚類＞　（かれい類）　子持ちがれい　生",
+    "usda_fdc_id": "175142",
+    "usda_description": "Fish, sea bass, mixed species, raw",
+    "distance": 1.3729572267242194,
+    "match_reason": "子持ちがれい（かれい類）は白身の海水魚で、候補内では sea bass（175142）が同様に白身の海水魚として調理・利用法が近く、最も妥当な代理と判断"
+  },
+  {
+    "mext_food_number": "10107",
+    "mext_food_name": "＜魚類＞　かわはぎ　生",
+    "usda_fdc_id": "171964",
+    "usda_description": "Fish, haddock, raw",
+    "distance": 0.4834873337610714,
+    "match_reason": "かわはぎは白身の海水魚で、候補に同種がないため白身の代表的魚種であるhaddock（171964）を近似として選択（調理状態差を許容）"
+  },
+  {
+    "mext_food_number": "10109",
+    "mext_food_name": "＜魚類＞　きす　生",
+    "usda_fdc_id": "174191",
+    "usda_description": "Fish, cod, Pacific, raw (may have been previously frozen)",
+    "distance": 1.8586129437652676,
+    "match_reason": "きす（日本のホワイトフィッシュ系の砂魚）は白身の淡泊な海水魚で、候補中のPacific cod（174191）が性質・用途が近いので選択"
+  },
+  {
+    "mext_food_number": "10111",
+    "mext_food_name": "＜魚類＞　きびなご　生",
+    "usda_fdc_id": "175146",
+    "usda_description": "Fish, smelt, rainbow, raw",
+    "distance": 1.3667446392223357,
+    "match_reason": "きびなごは小型の銀色の海魚で風味・利用法がsmelt（175146）に近いため、これを最適候補として選択"
+  },
+  {
+    "mext_food_number": "10114",
+    "mext_food_name": "＜魚類＞　キングクリップ　生",
+    "usda_fdc_id": "175178",
+    "usda_description": "Fish, cod, Pacific, cooked",
+    "distance": 1.736251172126417,
+    "match_reason": "キングクリップ（白身の海魚）に直接対応する候補がないため、同じく白身の代表魚であるPacific cod（175178、調理済）を近似として選択"
+  },
+  {
+    "mext_food_number": "10115",
+    "mext_food_name": "＜魚類＞　ぎんだら　生",
+    "usda_fdc_id": "174191",
+    "usda_description": "Fish, cod, Pacific, raw (may have been previously frozen)",
+    "distance": 1.523481966033786,
+    "match_reason": "ぎんだら（sablefish/black cod）は脂のある白身魚で、候補の中ではPacific cod（174191）が同じく白身の海魚として最も近い代理と判断"
+  },
+  {
+    "mext_food_number": "10117",
+    "mext_food_name": "＜魚類＞　ぐち　生",
+    "usda_fdc_id": "173725",
+    "usda_description": "Fish, pollock, Alaska, raw",
+    "distance": 0.9216801788765424,
+    "match_reason": "ぐち（白身の海魚）に対して、候補中で一般的な白身魚であるAlaska pollock（173725）が用途・栄養面で近いと判断し選択"
+  },
+  {
+    "mext_food_number": "10119",
+    "mext_food_name": "＜魚類＞　こい　養殖　生",
+    "usda_fdc_id": "175165",
+    "usda_description": "Fish, catfish, channel, farmed, raw",
+    "distance": 1.4935488136424553,
+    "match_reason": "こい（養殖・淡水魚）には淡水で養殖される魚が最も近いため、候補中のchannel catfish, farmed, raw（175165）を養殖淡水魚の近似として選択"
+  },
+  {
+    "mext_food_number": "10121",
+    "mext_food_name": "＜魚類＞　こい　養殖　内臓　生",
+    "usda_fdc_id": "168034",
+    "usda_description": "Fish, whitefish, broad, head, eyes, cheeks and soft bones (Alaska Native)",
+    "distance": 1.6394972527077636,
+    "match_reason": "こい（養殖）の内臓・頭部等の非筋肉部位に対応する候補が限られるため、魚の頭部・目・頬・軟骨などを含む記述のあるwhitefish（168034）を最も近い代理と判断"
+  },
+  {
+    "mext_food_number": "10122",
+    "mext_food_name": "＜魚類＞　（こち類）　まごち　生",
+    "usda_fdc_id": "173725",
+    "usda_description": "Fish, pollock, Alaska, raw",
+    "distance": 1.1651206049338634,
+    "match_reason": "まごち（flathead）は白身の底生魚で、候補中のAlaska pollock（173725）が白身魚の一般的な代理として用途・栄養が近いと判断"
+  },
+  {
+    "mext_food_number": "10123",
+    "mext_food_name": "＜魚類＞　（こち類）　めごち　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「めごち」(Sillago属などの白身小型魚/ジャパニーズ・ホワイティング) に相当する同一または近種の魚が候補に含まれていないため。"
+  },
+  {
+    "mext_food_number": "10124",
+    "mext_food_name": "＜魚類＞　このしろ　生",
+    "usda_fdc_id": "173669",
+    "usda_description": "Fish, herring, Pacific, raw",
+    "distance": 0.966395057148696,
+    "match_reason": "このしろ（コノシロ）はニシン・ニゴロブナに近いClupeidae系（gizzard shad/鯵に近い小型回遊性鰶類）で、候補の中では「Fish, herring, Pacific, raw (173669)」が最も近種と判断。"
+  },
+  {
+    "mext_food_number": "10126",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　からふとます　生",
+    "usda_fdc_id": "173689",
+    "usda_description": "Fish, salmon, chum, raw",
+    "distance": 0.9717919683283606,
+    "match_reason": "「カラフトマス」は英語でchum salmonに相当するため、直接対応する「Fish, salmon, chum, raw (173689)」を選択。"
+  },
+  {
+    "mext_food_number": "10130",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　生",
+    "usda_fdc_id": "173715",
+    "usda_description": "Fish, salmon, coho, farmed, raw",
+    "distance": 0.7816654793645699,
+    "match_reason": "「ぎんざけ 養殖」はcoho salmon（銀鮭＝Coho）の養殖品を指すため、候補の「Fish, salmon, coho, farmed, raw (173715)」が同一食材として最適。"
+  },
+  {
+    "mext_food_number": "10137",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　生",
+    "usda_fdc_id": "173689",
+    "usda_description": "Fish, salmon, chum, raw",
+    "distance": 1.0990509412277878,
+    "match_reason": "「しろさけ（新巻き）」は市販される新巻鮭の原料として一般にカラフトマス（chum salmon）が使われることが多いため、「Fish, salmon, chum, raw (173689)」を対応と判断。"
+  },
+  {
+    "mext_food_number": "10144",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
+    "usda_fdc_id": "175167",
+    "usda_description": "Fish, salmon, Atlantic, farmed, raw",
+    "distance": 0.6879843775793105,
+    "match_reason": "「たいせいようさけ 養殖」はAtlantic salmon（大西洋鮭・養殖）を明示しているため、候補の「Fish, salmon, Atlantic, farmed, raw (175167)」を選択。"
+  },
+  {
+    "mext_food_number": "10146",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　生",
+    "usda_fdc_id": "173717",
+    "usda_description": "Fish, trout, rainbow, farmed, raw",
+    "distance": 1.156244778893019,
+    "match_reason": "「にじます 海面養殖 皮つき」は養殖のrainbow trout（ニジマス）を指すため、候補の「Fish, trout, rainbow, farmed, raw (173717)」が一致。"
+  },
+  {
+    "mext_food_number": "10148",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　にじます　淡水養殖　皮つき　生",
+    "usda_fdc_id": "173717",
+    "usda_description": "Fish, trout, rainbow, farmed, raw",
+    "distance": 0.9202639553326413,
+    "match_reason": "「にじます 淡水養殖 皮つき」も養殖ニジマス（rainbow trout）であり、同じく「Fish, trout, rainbow, farmed, raw (173717)」を選択。"
+  },
+  {
+    "mext_food_number": "10152",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　ますのすけ　生",
+    "usda_fdc_id": "173717",
+    "usda_description": "Fish, trout, rainbow, farmed, raw",
+    "distance": 0.7680886174854922,
+    "match_reason": "「ますのすけ」は一般にマス類（Salmonidae）を指すが、候補にOncorhynchus masou等の直接の対応がないため、同じサーモン科の代表として「Fish, trout, rainbow, farmed, raw (173717)」を最適な近似と判断。"
+  },
+  {
+    "mext_food_number": "10154",
+    "mext_food_name": "＜魚類＞　（さば類）　まさば　生",
+    "usda_fdc_id": "173673",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "「まさば」はマサバ（mackerel）であり、候補の「Fish, mackerel, spanish, raw (173673)」がマッカレル系として最も近い。同種のマッカレルがデータにない場合の実用的近似と判断。"
+  },
+  {
+    "mext_food_number": "10158",
+    "mext_food_name": "＜魚類＞　（さば類）　たいせいようさば　生",
+    "usda_fdc_id": "173674",
+    "usda_description": "Fish, mackerel, spanish, cooked, dry heat",
+    "distance": 1.4196349703348339,
+    "match_reason": "好意的マッチ: たいせいようさばはサバ類（mackerel系）で、候補の\"Fish, mackerel, spanish\"(FDC 173674)は同じサバ類に該当するため近種として妥当。"
+  },
+  {
+    "mext_food_number": "10161",
+    "mext_food_name": "＜魚類＞　（さば類）　加工品　塩さば",
+    "usda_fdc_id": "173672",
+    "usda_description": "Fish, mackerel, Pacific and jack, mixed species, raw",
+    "distance": 1.0303746796579907,
+    "match_reason": "好意的マッチ: 塩さばは加工済みのサバであり、候補の\"Fish, mackerel, Pacific and jack, mixed species, raw\"(FDC 173672)はサバ系の混合であり同系統として最も近い。"
+  },
+  {
+    "mext_food_number": "10167",
+    "mext_food_name": "＜魚類＞　（さめ類）　あぶらつのざめ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: あぶらつのざめはサメ類（軟骨魚類）だが、候補にサメや近縁の軟骨魚類が含まれておらず近種とみなせる項目がない。"
+  },
+  {
+    "mext_food_number": "10168",
+    "mext_food_name": "＜魚類＞　（さめ類）　よしきりざめ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: よしきりざめもサメ類であり、候補にサメ類や近縁種がないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "10170",
+    "mext_food_name": "＜魚類＞　さより　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: さより（日本のハーフビーク・半身魚）は候補に同種または近種（ハーフビーク／似た小型沿岸魚）がなく、食材として近縁と判断できない。"
+  },
+  {
+    "mext_food_number": "10171",
+    "mext_food_name": "＜魚類＞　さわら　生",
+    "usda_fdc_id": "173674",
+    "usda_description": "Fish, mackerel, spanish, cooked, dry heat",
+    "distance": 0.9861016419009859,
+    "match_reason": "好意的マッチ: さわら（日本でのsawara）はスペインマカレル/サワラ系の魚として扱われ、候補の\"Fish, mackerel, spanish\"(FDC 173674)が同系統で最適。"
+  },
+  {
+    "mext_food_number": "10173",
+    "mext_food_name": "＜魚類＞　さんま　皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: さんま（太平洋さんま）は候補にさんまやそれに近い種がなく、提示候補とは同種・近種と判断できない。"
+  },
+  {
+    "mext_food_number": "10179",
+    "mext_food_name": "＜魚類＞　しいら　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: しいら（mahi‑mahi/dolphinfish）は候補にしいら/mahimahiに相当する項目がなく、近種として妥当な候補がない。"
+  },
+  {
+    "mext_food_number": "10182",
+    "mext_food_name": "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　生",
+    "usda_fdc_id": "175146",
+    "usda_description": "Fish, smelt, rainbow, raw",
+    "distance": 1.4838111319826743,
+    "match_reason": "好意的マッチ: からふとししゃもはシシャモ/スマルト系（smelt）であり、候補の\"Fish, smelt, rainbow, raw\"(FDC 175146)は同じシシャモ類に対応するため妥当。"
+  },
+  {
+    "mext_food_number": "10186",
+    "mext_food_name": "＜魚類＞　しらうお　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: しらうお（白魚／icefish等小型透明魚）は候補に同種・同科の小型白魚がなく、近種と見なせる項目がない。"
+  },
+  {
+    "mext_food_number": "10187",
+    "mext_food_name": "＜魚類＞　シルバー　生",
+    "usda_fdc_id": "173715",
+    "usda_description": "Fish, salmon, coho, farmed, raw",
+    "distance": 0.7223476683869721,
+    "match_reason": "シルバー（銀鮭＝coho/silver salmon）と一致。候補の中で同種の“Fish, salmon, coho, farmed, raw (FDC ID: 173715)”が最も適切。"
+  },
+  {
+    "mext_food_number": "10188",
+    "mext_food_name": "＜魚類＞　すずき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: すずき（日本のスズキ／Japanese sea bass）に相当する同一種・同科の候補がリストに含まれていないため。"
+  },
+  {
+    "mext_food_number": "10190",
+    "mext_food_name": "＜魚類＞　（たい類）　くろだい　生",
+    "usda_fdc_id": "173694",
+    "usda_description": "Fish, sea bass, mixed species, cooked, dry heat",
+    "distance": 1.221580629353782,
+    "match_reason": "くろだい（黒鯛／black sea bream）は主に白身の磯魚で、候補中では“Fish, sea bass, mixed species, cooked, dry heat (FDC ID: 173694)”が料理用途・食味上もっとも近く、実用的に妥当な近種クラスタリングと判断。"
+  },
+  {
+    "mext_food_number": "10192",
+    "mext_food_name": "＜魚類＞　（たい類）　まだい　天然　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: まだい（真鯛／red sea bream, Pagrus属）に対応する同一種・同科の候補が存在しないため。"
+  },
+  {
+    "mext_food_number": "10193",
+    "mext_food_name": "＜魚類＞　（たい類）　まだい　養殖　皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 養殖のまだい（真鯛, 皮つき）に相当する同種・同科の候補がリストにないため。"
+  },
+  {
+    "mext_food_number": "10196",
+    "mext_food_name": "＜魚類＞　たかさご　生",
+    "usda_fdc_id": "175144",
+    "usda_description": "Fish, sheepshead, raw",
+    "distance": 1.4097356501749265,
+    "match_reason": "たかさご（磯場の白身魚と解釈）に対して、候補の中で同系統の磯魚に近い“Fish, sheepshead, raw (FDC ID: 175144)”が最も近いクラスタとして妥当と判断。"
+  },
+  {
+    "mext_food_number": "10197",
+    "mext_food_name": "＜魚類＞　たかべ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: たかべに対応する同一種・同科の候補がリストに含まれておらず、近縁性を満たす適切な候補がないため。"
+  },
+  {
+    "mext_food_number": "10198",
+    "mext_food_name": "＜魚類＞　たちうお　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: たちうお（太刀魚／cutlassfish）に相当する食材が候補に含まれておらず、同科・近種のものがないため。"
+  },
+  {
+    "mext_food_number": "10199",
+    "mext_food_name": "＜魚類＞　（たら類）　すけとうだら　生",
+    "usda_fdc_id": "173725",
+    "usda_description": "Fish, pollock, Alaska, raw",
+    "distance": 0.6145644119886656,
+    "match_reason": "すけとうだら（スケトウダラ／Alaska pollock）は候補の“Fish, pollock, Alaska, raw (FDC ID: 173725)”と同一種であり、直接対応。"
+  },
+  {
+    "mext_food_number": "10202",
+    "mext_food_name": "＜魚類＞　（たら類）　すけとうだら　たらこ　生",
+    "usda_fdc_id": "175132",
+    "usda_description": "Fish, roe, mixed species, raw",
+    "distance": 1.6681717414069863,
+    "match_reason": "すけとうだらのたらこ（魚卵）に対して、候補の“Fish, roe, mixed species, raw (FDC ID: 175132)”が該当。"
+  },
+  {
+    "mext_food_number": "10205",
+    "mext_food_name": "＜魚類＞　（たら類）　まだら　生",
+    "usda_fdc_id": "174191",
+    "usda_description": "Fish, cod, Pacific, raw (may have been previously frozen)",
+    "distance": 1.6561201356527517,
+    "match_reason": "まだら（cod）生に対し、Fish, cod, Pacific, raw は同一種のcodであり最も適切（生/rawが一致）"
+  },
+  {
+    "mext_food_number": "10207",
+    "mext_food_name": "＜魚類＞　（たら類）　まだら　しらこ　生",
+    "usda_fdc_id": "174191",
+    "usda_description": "Fish, cod, Pacific, raw (may have been previously frozen)",
+    "distance": 1.4491566290158235,
+    "match_reason": "まだらのしらこ（魚の精巣）は同一魚種の部位違いのため、同じまだらの生魚（Fish, cod, Pacific, raw）が最も近い対応"
+  },
+  {
+    "mext_food_number": "10211",
+    "mext_food_name": "＜魚類＞　ちか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「ちか」（日本のスメント類/小型魚）に相当する候補（smelt系等）が候補リストに含まれておらず、近種の明確な一致がない"
+  },
+  {
+    "mext_food_number": "10212",
+    "mext_food_name": "＜魚類＞　ナイルティラピア　生",
+    "usda_fdc_id": "175176",
+    "usda_description": "Fish, tilapia, raw",
+    "distance": 1.2212735796552183,
+    "match_reason": "ナイルティラピアはtilapiaであり、Fish, tilapia, raw は同一種で直接対応"
+  },
+  {
+    "mext_food_number": "10213",
+    "mext_food_name": "＜魚類＞　どじょう　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: どじょう（loach）に相当する同種・近種の魚が候補に含まれていない"
+  },
+  {
+    "mext_food_number": "10216",
+    "mext_food_name": "＜魚類＞　なまず　生",
+    "usda_fdc_id": "174186",
+    "usda_description": "Fish, catfish, channel, wild, raw",
+    "distance": 0.930020845922283,
+    "match_reason": "なまず（catfish）に対して、Fish, catfish, channel, wild, raw は同一/近種のcatfishで適合"
+  },
+  {
+    "mext_food_number": "10217",
+    "mext_food_name": "＜魚類＞　にぎす　生",
+    "usda_fdc_id": "175161",
+    "usda_description": "Fish, whiting, mixed species, cooked, dry heat",
+    "distance": 1.2220589529692427,
+    "match_reason": "にぎすは日本のwhiting（または近縁のSillago類）とされるため、Fish, whiting, mixed species, cooked, dry heat が最も近い（調理状態は許容）"
+  },
+  {
+    "mext_food_number": "10218",
+    "mext_food_name": "＜魚類＞　にしん　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: にしん（herring）に相当する魚種の直接の候補がリストにないため一致する近種がない"
+  },
+  {
+    "mext_food_number": "10221",
+    "mext_food_name": "＜魚類＞　にしん　くん製",
+    "usda_fdc_id": "169807",
+    "usda_description": "Fish, herring, Pacific, flesh, air-dried, packed in oil (Alaska Native)",
+    "distance": 1.412743939267675,
+    "match_reason": "にしん（加工品：燻製）に対し、Fish, herring, Pacific, flesh, air-dried, packed in oil は同一herringの加工品であり最も近い対応（加工形態は異なるが同種）"
+  },
+  {
+    "mext_food_number": "10222",
+    "mext_food_name": "＜魚類＞　にしん　かずのこ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: にしん かずのこ（ニシンの卵）に相当する卵・roeの項目が候補に含まれておらず一致するものがない"
+  },
+  {
+    "mext_food_number": "10225",
+    "mext_food_name": "＜魚類＞　はぜ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「はぜ」はハゼ科の小型沿岸魚で、候補にハゼや同科・近縁の小型沿岸魚が含まれていないため適切な近種がない"
+  },
+  {
+    "mext_food_number": "10228",
+    "mext_food_name": "＜魚類＞　はたはた　生",
+    "usda_fdc_id": "173725",
+    "usda_description": "Fish, pollock, Alaska, raw",
+    "distance": 1.695138700863501,
+    "match_reason": "候補の中ではFish, pollock, Alaska, rawが最も近い：はたはた（日本の砂魚）は北方の小型〜中型海魚で、形態・生態は正確に一致しないが同じ北洋系の白身魚（gadiformesに近い利用形態）として栄養推定に現実的な代替と判断"
+  },
+  {
+    "mext_food_number": "10230",
+    "mext_food_name": "＜魚類＞　はまふえふき　生",
+    "usda_fdc_id": "171964",
+    "usda_description": "Fish, haddock, raw",
+    "distance": 1.502701417311655,
+    "match_reason": "Fish, haddock, rawを選択：はまふえふきは白身の海水魚として扱われることが多く、候補中のタラ・ハドック類が料理用途・栄養特性で最も類似すると判断"
+  },
+  {
+    "mext_food_number": "10231",
+    "mext_food_name": "＜魚類＞　はも　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 「はも」はウナギ目（アナゴやハモ属など）のウナギ類・アナゴ類に相当するが、候補にウナギ類や近縁の魚が含まれていないため適切な近種がない"
+  },
+  {
+    "mext_food_number": "10232",
+    "mext_food_name": "＜魚類＞　みなみくろたち　生",
+    "usda_fdc_id": "175178",
+    "usda_description": "Fish, cod, Pacific, cooked",
+    "distance": 1.2144629389102353,
+    "match_reason": "Fish, cod, Pacific, cookedを選択：みなみくろたち（黒ダラ／sablefishや黒鱈に相当すると解釈）を白身の北洋系魚として好意的に解釈し、同じ用途の白身魚である太平洋タラを代替と判断（加熱/生の差は許容）"
+  },
+  {
+    "mext_food_number": "10233",
+    "mext_food_name": "＜魚類＞　ひらまさ　生",
+    "usda_fdc_id": "171949",
+    "usda_description": "Fish, bluefish, raw",
+    "distance": 1.0345734506580122,
+    "match_reason": "Fish, bluefish, rawを選択：ひらまさ（アマダイやブリ系の回遊性大型魚／amberjackに近い）を脂のある海水性回遊魚として解釈し、同じく脂のある海水性回遊魚であるbluefishが栄養面で現実的な代替と判断"
+  },
+  {
+    "mext_food_number": "10238",
+    "mext_food_name": "＜魚類＞　ふな　生",
+    "usda_fdc_id": "174184",
+    "usda_description": "Fish, bass, fresh water, mixed species, raw",
+    "distance": 1.4256273537897453,
+    "match_reason": "Fish, bass, fresh water, mixed species, rawを選択：ふなは淡水の鯉類・フナ類であるため、候補中の淡水食用魚（bass, freshwater mixed）が調理法・生態系の面で最も近く、栄養推定の代替として妥当"
+  },
+  {
+    "mext_food_number": "10241",
+    "mext_food_name": "＜魚類＞　ぶり　成魚　生",
+    "usda_fdc_id": "173706",
+    "usda_description": "Fish, tuna, fresh, bluefin, raw",
+    "distance": 1.6791102987340378,
+    "match_reason": "Fish, tuna, fresh, bluefin, rawを選択：ぶり（成魚）は大型の回遊性脂肪魚であり、同様に大型の回遊性で刺身等に使われるbluefin tunaが栄養的に近しい代替と判断"
+  },
+  {
+    "mext_food_number": "10243",
+    "mext_food_name": "＜魚類＞　ぶり　はまち　養殖　皮つき　生",
+    "usda_fdc_id": "175167",
+    "usda_description": "Fish, salmon, Atlantic, farmed, raw",
+    "distance": 1.1157798963153096,
+    "match_reason": "Fish, salmon, Atlantic, farmed, rawを選択：ぶり（はまち、養殖）は養殖の脂のある食用魚であるため、候補中の養殖系の脂のある魚（Atlantic salmon, farmed）が調理法・栄養面で実用的な代替と判断"
+  },
+  {
+    "mext_food_number": "10244",
+    "mext_food_name": "＜魚類＞　ほうぼう　生",
+    "usda_fdc_id": "175141",
+    "usda_description": "Fish, scup, raw",
+    "distance": 0.7324835280521556,
+    "match_reason": "Fish, scup, rawを選択：ほうぼう（ホウボウ、gurnardに相当）を白身の沿岸魚として解釈し、候補中の沿岸性白身魚であるscupが料理用途・栄養推定で最も近いと判断"
+  },
+  {
+    "mext_food_number": "10246",
+    "mext_food_name": "＜魚類＞　ほっけ　生",
+    "usda_fdc_id": "174235",
+    "usda_description": "Fish, lingcod, cooked, dry heat",
+    "distance": 1.127770474699279,
+    "match_reason": "ほっけ（Atka/greenling系）はHexagrammidaeに属する近縁魚。候補の中で同科に近いlingcod（Fish, lingcod, cooked, dry heat）が最も近種と判断"
+  },
+  {
+    "mext_food_number": "10248",
+    "mext_food_name": "＜魚類＞　ほっけ　開き干し　生",
+    "usda_fdc_id": "173673",
+    "usda_description": "Fish, mackerel, spanish, raw",
+    "distance": 1.287360721611182,
+    "match_reason": "ほっけの開き干しに相当する同種は候補にないため、調理・利用法が類似する瀬付きの青魚（mackerel, spanish, raw）が実用的な代替と判断"
+  },
+  {
+    "mext_food_number": "10249",
+    "mext_food_name": "＜魚類＞　ぼら　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: ぼら（mullet, Mugilidae）に相当する同種・近種が候補に含まれておらず、無理なマッチは不可"
+  },
+  {
+    "mext_food_number": "10251",
+    "mext_food_name": "＜魚類＞　ほんもろこ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: ほんもろこ（小型の淡水魚／固有種に近い）は候補に同種・近種がなくマッチ不可"
+  },
+  {
+    "mext_food_number": "10265",
+    "mext_food_name": "＜魚類＞　マジェランあいなめ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: マジェランあいなめ（greenling系）に対応する近縁魚が候補に含まれていないため"
+  },
+  {
+    "mext_food_number": "10267",
+    "mext_food_name": "＜魚類＞　みなみだら　生",
+    "usda_fdc_id": "174191",
+    "usda_description": "Fish, cod, Pacific, raw (may have been previously frozen)",
+    "distance": 1.564853440843999,
+    "match_reason": "みなみだら（南方のタラ類）に対して、同じタラ類に該当するFish, cod, Pacific, rawが最も近いと判断"
+  },
+  {
+    "mext_food_number": "10268",
+    "mext_food_name": "＜魚類＞　むつ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: むつ（日本の“ムツ”に相当する種）が候補に含まれておらず、同種・近種が見当たらないため"
+  },
+  {
+    "mext_food_number": "10271",
+    "mext_food_name": "＜魚類＞　めばる　生",
+    "usda_fdc_id": "173684",
+    "usda_description": "Fish, rockfish, Pacific, mixed species, raw",
+    "distance": 1.3569385086236543,
+    "match_reason": "めばるは一般にrockfish（Sebastes等）であり、候補のFish, rockfish, Pacific, mixed species, rawが同義・近種として最適"
+  },
+  {
+    "mext_food_number": "10273",
+    "mext_food_name": "＜魚類＞　やつめうなぎ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: やつめうなぎ（lamprey）は候補に灯鰻類に相当する食材がなくマッチ不可"
+  },
+  {
+    "mext_food_number": "10275",
+    "mext_food_name": "＜魚類＞　やまめ　養殖　生",
+    "usda_fdc_id": "173717",
+    "usda_description": "Fish, trout, rainbow, farmed, raw",
+    "distance": 1.2363404878165096,
+    "match_reason": "やまめ（養殖）はtrout系（Oncorhynchus属の一形態）であるため、Fish, trout, rainbow, farmed, rawが対応すると判断"
+  },
+  {
+    "mext_food_number": "10276",
+    "mext_food_name": "＜魚類＞　わかさぎ　生",
+    "usda_fdc_id": "175146",
+    "usda_description": "Fish, smelt, rainbow, raw",
+    "distance": 1.0946115759334107,
+    "match_reason": "わかさぎはスモルト（smelt：大和名でスミレ・ワカサギ等）に相当するため、Fish, smelt, rainbow, raw（FDC ID:175146）が最も近いマッチ。"
+  },
+  {
+    "mext_food_number": "10278",
+    "mext_food_name": "＜魚類＞　わかさぎ　あめ煮",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にわかさぎ（smelt）またはそれに近い種が含まれておらず、別種の魚のみのため同一/近種とみなせない。"
+  },
+  {
+    "mext_food_number": "10279",
+    "mext_food_name": "＜貝類＞　あかがい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: あかがい（赤貝）は二枚貝（ark shell/血貝）だが、候補にこれに相当する貝類（二枚貝）の同種・近種がなく、近似できない。"
+  },
+  {
+    "mext_food_number": "10280",
+    "mext_food_name": "＜貝類＞　あげまき　生",
+    "usda_fdc_id": "174212",
+    "usda_description": "Mollusks, abalone, mixed species, raw",
+    "distance": 1.55631416452877,
+    "match_reason": "あげまき（海螺系の巻貝）は海産の殻付き軟体動物であり、候補中ではMollusks, abalone, mixed species, raw（FDC ID:174212）が同じ海産貝類の軟体動物として最も近いと判断。"
+  },
+  {
+    "mext_food_number": "10281",
+    "mext_food_name": "＜貝類＞　あさり　生",
+    "usda_fdc_id": "171977",
+    "usda_description": "Mollusks, clam, mixed species, canned, liquid",
+    "distance": 2.5346450062829717,
+    "match_reason": "あさりは二枚貝のclamに該当するため、候補の Mollusks, clam, mixed species, canned, liquid（FDC ID:171977）が同一カテゴリ（貝類・clam）として最も適切（加熱/缶詰の状態差は許容）。"
+  },
+  {
+    "mext_food_number": "10286",
+    "mext_food_name": "＜貝類＞　あわび　干し",
+    "usda_fdc_id": "174212",
+    "usda_description": "Mollusks, abalone, mixed species, raw",
+    "distance": 1.4808082848647974,
+    "match_reason": "あわび（干し）は abalone に該当するため、Mollusks, abalone, mixed species, raw（FDC ID:174212）が同一種グループとして最適（加工状態の差は許容）。"
+  },
+  {
+    "mext_food_number": "10289",
+    "mext_food_name": "＜貝類＞　いがい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: いがい（ムール貝／mussel）に相当する食材が候補に含まれておらず、同一/近種が見つからない。"
+  },
+  {
+    "mext_food_number": "10290",
+    "mext_food_name": "＜貝類＞　いたやがい　養殖　生",
+    "usda_fdc_id": "174212",
+    "usda_description": "Mollusks, abalone, mixed species, raw",
+    "distance": 1.4013726845780627,
+    "match_reason": "いたやがい（養殖の帆立/ホタテ）に対して、直接のscallopエントリは候補にないため、同じ海産軟体動物という観点で Mollusks, abalone, mixed species, raw（FDC ID:174212）を最も近い代替と判断。"
+  },
+  {
+    "mext_food_number": "10295",
+    "mext_food_name": "＜貝類＞　さざえ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: さざえ（タービン／巻貝の一種）は候補に同種・近種の巻貝が無く、妥当な近似ができない。"
+  },
+  {
+    "mext_food_number": "10297",
+    "mext_food_name": "＜貝類＞　しじみ　生",
+    "usda_fdc_id": "174214",
+    "usda_description": "Mollusks, clam, mixed species, raw",
+    "distance": 2.3825964553141064,
+    "match_reason": "しじみは小型の二枚貝（clam）であり、Mollusks, clam, mixed species, raw（FDC ID:174214）が同一カテゴリ（二枚貝）として最も適切。"
+  },
+  {
+    "mext_food_number": "10298",
+    "mext_food_name": "＜貝類＞　たいらがい　貝柱　生",
+    "usda_fdc_id": "174220",
+    "usda_description": "Mollusks, scallop, mixed species, raw",
+    "distance": 2.4842354233029624,
+    "match_reason": "たいらがいの「貝柱」は二枚貝の貝柱（adductor muscle）に相当するため、Mollusks, scallop, mixed species, raw (FDC ID: 174220) を選択。"
+  },
+  {
+    "mext_food_number": "10299",
+    "mext_food_name": "＜貝類＞　たにし　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: たにしは淡水性の巻貝（タニシ）だが、候補にタニシやそれに近い海産巻貝・陸産巻貝が含まれていない。"
+  },
+  {
+    "mext_food_number": "10300",
+    "mext_food_name": "＜貝類＞　つぶ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: つぶは海産の巻貝（ツブ／バイ類）だが、候補に海産巻貝に相当する項目がない。"
+  },
+  {
+    "mext_food_number": "10301",
+    "mext_food_name": "＜貝類＞　とこぶし　生",
+    "usda_fdc_id": "174212",
+    "usda_description": "Mollusks, abalone, mixed species, raw",
+    "distance": 1.3732061069734203,
+    "match_reason": "とこぶしは小型のアワビ類（腹足類）に該当するため、Mollusks, abalone, mixed species, raw (FDC ID: 174212) を選択。"
+  },
+  {
+    "mext_food_number": "10303",
+    "mext_food_name": "＜貝類＞　とりがい　斧足　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: とりがい（鳥貝等の二枚貝）に相当する同種・近種の二枚貝が候補に含まれておらず、近縁とみなせる項目がない。"
+  },
+  {
+    "mext_food_number": "10304",
+    "mext_food_name": "＜貝類＞　ばい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: ばい（海産巻貝）に対応する巻貝の候補がなく、同一・近種のマッチができない。"
+  },
+  {
+    "mext_food_number": "10306",
+    "mext_food_name": "＜貝類＞　（はまぐり類）　はまぐり　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: はまぐりは二枚貝（潮干狩りで採るハマグリ等）だが、候補群にハマグリや近縁の二枚貝が含まれていない。"
+  },
+  {
+    "mext_food_number": "10311",
+    "mext_food_name": "＜貝類＞　ほたてがい　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: ほたてがい（生）の候補にホタテ（scallop）相当の項目が含まれていないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "10313",
+    "mext_food_name": "＜貝類＞　ほたてがい　貝柱　生",
+    "usda_fdc_id": "174220",
+    "usda_description": "Mollusks, scallop, mixed species, raw",
+    "distance": 1.7137281853889839,
+    "match_reason": "ほたてがい（貝柱）はホタテに該当するため、Mollusks, scallop, mixed species, raw (FDC ID: 174220) を選択。"
+  },
+  {
+    "mext_food_number": "10316",
+    "mext_food_name": "＜貝類＞　ほっきがい　生",
+    "usda_fdc_id": "174214",
+    "usda_description": "Mollusks, clam, mixed species, raw",
+    "distance": 1.8060982898588018,
+    "match_reason": "ほっきがいは二枚貝（surf clam/北寄貝）に相当するため、Mollusks, clam, mixed species, raw (FDC ID: 174214) を選択。"
+  },
+  {
+    "mext_food_number": "10317",
+    "mext_food_name": "＜貝類＞　みるがい　水管　生",
+    "usda_fdc_id": "171983",
+    "usda_description": "Mollusks, whelk, unspecified, raw",
+    "distance": 1.0399510281384259,
+    "match_reason": "みるがい（ミルガイ）は海産の貝類（海産軟体動物・二枚貝）で、候補の 'Mollusks, whelk, unspecified, raw' は同じ海産軟体動物の生貝類に該当するため、利用可能な中で最も近いマッチと判断しました。"
+  },
+  {
+    "mext_food_number": "10319",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　あまえび　生",
+    "usda_fdc_id": "174210",
+    "usda_description": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",
+    "distance": 1.5095315733095716,
+    "match_reason": "あまえびは生のえび類で、候補の 'Crustaceans, shrimp, mixed species, raw' は生のエビ（混合種）を表す項目であり、種別・形態ともに妥当な対応です。"
+  },
+  {
+    "mext_food_number": "10320",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　いせえび　生",
+    "usda_fdc_id": "174208",
+    "usda_description": "Crustaceans, lobster, northern, raw",
+    "distance": 2.7409823093641084,
+    "match_reason": "いせえび（伊勢海老）はロブスター/イセエビ類に相当する甲殻類で、候補の 'Crustaceans, lobster, northern, raw' は生のロブスター類を示しており、最も近縁なマッチです。"
+  },
+  {
+    "mext_food_number": "10321",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　くるまえび　養殖　生",
+    "usda_fdc_id": "175179",
+    "usda_description": "Crustaceans, shrimp, raw",
+    "distance": 0.7503724529701797,
+    "match_reason": "くるまえび（養殖）はエビ類（養殖生エビ）に該当し、候補の 'Crustaceans, shrimp, raw' は生のエビ一般の項目であるため妥当と判断しました。"
+  },
+  {
+    "mext_food_number": "10327",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　大正えび　生",
+    "usda_fdc_id": "174210",
+    "usda_description": "Crustaceans, shrimp, mixed species, raw (may contain additives to retain moisture)",
+    "distance": 2.873228006616977,
+    "match_reason": "大正えびも一般的な食用エビに該当するため、同じく生エビのカテゴリである 'Crustaceans, shrimp, mixed species, raw' が最も適切です。"
+  },
+  {
+    "mext_food_number": "10328",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　しばえび　生",
+    "usda_fdc_id": "175179",
+    "usda_description": "Crustaceans, shrimp, raw",
+    "distance": 0.7200234288463004,
+    "match_reason": "しばえびは小型のエビ類であり、候補の 'Crustaceans, shrimp, raw'（生エビ）は種を特定しない生エビの代表データとして最適です。"
+  },
+  {
+    "mext_food_number": "10329",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　ブラックタイガー　養殖　生",
+    "usda_fdc_id": "175179",
+    "usda_description": "Crustaceans, shrimp, raw",
+    "distance": 1.7502891776536285,
+    "match_reason": "ブラックタイガー（養殖）は有名な養殖エビ（Penaeus 等）で、候補の 'Crustaceans, shrimp, raw' が直接対応します。"
+  },
+  {
+    "mext_food_number": "10330",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　加工品　干しえび",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 干しえび（乾燥エビ）は加工品（乾燥状態）の特有品目ですが、候補リストに乾燥エビまたは同等の乾燥甲殻類項目が含まれておらず、同一・近種の食材が見つからないためマッチ不可です。"
+  },
+  {
+    "mext_food_number": "10332",
+    "mext_food_name": "＜えび・かに類＞　（かに類）　がざみ　生",
+    "usda_fdc_id": "174205",
+    "usda_description": "Crustaceans, crab, blue, cooked, moist heat",
+    "distance": 1.7776838725694621,
+    "match_reason": "がざみは日本でいう渡り蟹／ワタリガニ（青ガニに相当することが多い）を指すため、候補の 'Crustaceans, crab, blue, cooked, moist heat'（ブルークラブ／青ガニの調理品）は種名・分類上もっとも近いと判断しました（調理状態の差は許容）。"
+  },
+  {
+    "mext_food_number": "10333",
+    "mext_food_name": "＜えび・かに類＞　（かに類）　毛がに　生",
+    "usda_fdc_id": "171968",
+    "usda_description": "Crustaceans, crab, dungeness, raw",
+    "distance": 1.2444903115517851,
+    "match_reason": "毛がには毛ガニ（日本の代表的な食用カニ）に該当しますが、候補に毛ガニそのものはなく、同じ『蟹（食用の甲殻類）』として生のダンジェネス（Dungeness）蟹 'Crustaceans, crab, dungeness, raw' が最も近い一般的な代替です。"
+  },
+  {
+    "mext_food_number": "10335",
+    "mext_food_name": "＜えび・かに類＞　（かに類）　ずわいがに　生",
+    "usda_fdc_id": "174205",
+    "usda_description": "Crustaceans, crab, blue, cooked, moist heat",
+    "distance": 1.773704800781862,
+    "match_reason": "ずわいがに（生）に対して、候補中で最も近いのはカニ類（Crustaceans, crab, blue, cooked）。種は異なるが同じ甲殻類のカニであり、食品群・用途が一致するため近種として妥当と判断。調理状態（raw/cooked）は柔軟に許容。"
+  },
+  {
+    "mext_food_number": "10338",
+    "mext_food_name": "＜えび・かに類＞　（かに類）　たらばがに　生",
+    "usda_fdc_id": "175164",
+    "usda_description": "Crustaceans, crab, alaska king, raw",
+    "distance": 1.5467724917869494,
+    "match_reason": "たらばがに（生）に対して、候補にあるCrustaceans, crab, alaska king, raw（Alaska king crab）は直近の対応。たらばがに＝king crab に相当するため同定可能。"
+  },
+  {
+    "mext_food_number": "10342",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　あかいか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補リストにいか類（squid）や近縁の頭足類が含まれておらず、同一または近種の食材が存在しないため。"
+  },
+  {
+    "mext_food_number": "10343",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　けんさきいか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にけんさきいか（squid）や他のイカ類・頭足類がなく、食材として同一・近種と判断できるものがないため。"
+  },
+  {
+    "mext_food_number": "10344",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　こういか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にこういか（squid）や他のイカ類・頭足類が含まれておらず、同種・近種の食材がないため。"
+  },
+  {
+    "mext_food_number": "10345",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　するめいか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にするめいか（squid）やその他のイカ類が含まれておらず、同一または近種の食材がないため。"
+  },
+  {
+    "mext_food_number": "10348",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　ほたるいか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補リストにほたるいか（firefly squid）や他のイカ類・頭足類がなく、食材として対応可能な項目がないため。"
+  },
+  {
+    "mext_food_number": "10350",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　ほたるいか　くん製",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: ほたるいか（くん製）に相当する燻製イカ等の項目が候補に含まれておらず、同種・近種が見つからないため。"
+  },
+  {
+    "mext_food_number": "10352",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　やりいか　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: やりいか（生）に対応するイカ類または近縁の頭足類が候補に含まれておらず、同一・近種の食材がないため。"
+  },
+  {
+    "mext_food_number": "10360",
+    "mext_food_name": "＜いか・たこ類＞　（たこ類）　いいだこ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: いいだこ（小だこ／octopus）に相当するタコ類が候補リストに存在せず、同一または近種の食材と判断できないため。"
+  },
+  {
+    "mext_food_number": "10361",
+    "mext_food_name": "＜いか・たこ類＞　（たこ類）　まだこ　皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補群にたこ（頭足類）や近縁の種が含まれておらず、同一・近種での対応ができないため"
+  },
+  {
+    "mext_food_number": "10367",
+    "mext_food_name": "＜その他＞　うに　練りうに",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にうに（棘皮動物）やそれに近い食材がなく、同一・近種での対応ができないため"
+  },
+  {
+    "mext_food_number": "10372",
+    "mext_food_name": "＜その他＞　なまこ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補群になまこ（海鼠）や近縁の海産無脊椎動物が含まれておらず対応不可のため"
+  },
+  {
+    "mext_food_number": "10380",
+    "mext_food_name": "＜水産練り製品＞　焼き抜きかまぼこ",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 焼き抜きかまぼこは魚肉すり身（surimi）系の加工品だが、候補に相当する加工魚肉（surimi/かまぼこ類）が含まれていないため"
+  },
+  {
+    "mext_food_number": "10389",
+    "mext_food_name": "＜魚類＞　（あじ類）　まあじ　皮なし　生",
+    "usda_fdc_id": "173673",
+    "usda_description": "Fish, mackerel, spanish, raw",
+    "distance": 1.0183126474382789,
+    "match_reason": "まあじ（あじ類）はmackerel系と考えられるため、同属・近縁と評価できる Fish, mackerel, spanish, raw を最適と判断"
+  },
+  {
+    "mext_food_number": "10391",
+    "mext_food_name": "＜魚類＞　（あじ類）　まあじ　小型　骨付き　生",
+    "usda_fdc_id": "173674",
+    "usda_description": "Fish, mackerel, spanish, cooked, dry heat",
+    "distance": 1.3908630036869294,
+    "match_reason": "まあじ（小型、骨付き）もあじ類→mackerel系に近いと判断。生でも調理状態の差は許容されるため Fish, mackerel, spanish, cooked を選択"
+  },
+  {
+    "mext_food_number": "10393",
+    "mext_food_name": "＜魚類＞　（あじ類）　まるあじ　生",
+    "usda_fdc_id": "173674",
+    "usda_description": "Fish, mackerel, spanish, cooked, dry heat",
+    "distance": 1.1145587439451716,
+    "match_reason": "まるあじ（生）はあじ類でmackerel系に近いと解釈し、調理法の違いを許容して Fish, mackerel, spanish, cooked を最適候補と判断"
+  },
+  {
+    "mext_food_number": "10396",
+    "mext_food_name": "＜魚類＞　（いわし類）　しらす　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: しらすは小型のイワシ・カタクチ（小魚）類だが、候補にこれら小型脂鯵類（sardine/anchovy 等）に相当する項目が存在しないため"
+  },
+  {
+    "mext_food_number": "10402",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮なし　生",
+    "usda_fdc_id": "175167",
+    "usda_description": "Fish, salmon, Atlantic, farmed, raw",
+    "distance": 0.5296490572826125,
+    "match_reason": "にじます（ニジマス、サケ科）はサケ科（Salmonidae）に属し、候補の farmed salmon（Fish, salmon, Atlantic, farmed, raw）は同科の養殖生魚であり近縁と判断"
+  },
+  {
+    "mext_food_number": "10403",
+    "mext_food_name": "＜魚類＞　（さば類）　まさば　フライ",
+    "usda_fdc_id": "173674",
+    "usda_description": "Fish, mackerel, spanish, cooked, dry heat",
+    "distance": 1.2593943569178698,
+    "match_reason": "まさば（マサバ）のフライはマサバ＝mackerel系の魚。候補の Fish, mackerel, spanish, cooked は加熱済みのmackerelであり調理差を許容して最適と判断"
+  },
+  {
+    "mext_food_number": "10407",
+    "mext_food_name": "＜魚類＞　さんま　皮なし　生",
+    "usda_fdc_id": "173672",
+    "usda_description": "Fish, mackerel, Pacific and jack, mixed species, raw",
+    "distance": 0.9792942028032274,
+    "match_reason": "さんま（秋刀魚）そのものの候補は無かったため、小型〜中型の青魚で調理・栄養学的にも近いと判断した: Fish, mackerel, Pacific and jack, mixed species, raw (FDC ID: 173672) を近種として選択。"
+  },
+  {
+    "mext_food_number": "10410",
+    "mext_food_name": "＜魚類＞　ひらめ　養殖　皮なし　生",
+    "usda_fdc_id": "174200",
+    "usda_description": "Fish, halibut, Atlantic and Pacific, raw",
+    "distance": 1.2813474021950269,
+    "match_reason": "ひらめ（平目）は平たい底生魚で、同じ平目目に属するhalibut（大比目魚）が近種に当たるため: Fish, halibut, Atlantic and Pacific, raw (FDC ID: 174200) を選択。"
+  },
+  {
+    "mext_food_number": "10411",
+    "mext_food_name": "＜魚類＞　ぶり　はまち　養殖　皮なし　生",
+    "usda_fdc_id": "175159",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "ぶり／はまち（Seriola属）は大型の回遊性の白身〜脂のある魚で、候補中で同様の大型回遊性魚として栄養的に近いと判断した: Fish, tuna, fresh, yellowfin, raw (FDC ID: 175159) を選択。"
+  },
+  {
+    "mext_food_number": "10415",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　バナメイえび　養殖　生",
+    "usda_fdc_id": "175179",
+    "usda_description": "Crustaceans, shrimp, raw",
+    "distance": 0.6625630328238605,
+    "match_reason": "バナメイえび（養殖えび、生）は一般的な生のエビに該当するため、直接対応する: Crustaceans, shrimp, raw (FDC ID: 175179) を選択。"
+  },
+  {
+    "mext_food_number": "10417",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　するめいか　胴　皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補リストにするめいか（イカ類）またはそれに近い頭足類・イカ類が含まれておらず、同一・近種と判断できるものがない。"
+  },
+  {
+    "mext_food_number": "10418",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　するめいか　胴　皮なし　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にするめいか（胴・皮なし）や他のイカ類に相当する項目がないため。"
+  },
+  {
+    "mext_food_number": "10420",
+    "mext_food_name": "＜いか・たこ類＞　（いか類）　するめいか　耳・足　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にするめいか（耳・足）や足類に対応する食材が含まれていないため。"
+  },
+  {
+    "mext_food_number": "10422",
+    "mext_food_name": "＜魚類＞　とびうお　焼き干し",
+    "usda_fdc_id": "174182",
+    "usda_description": "Fish, anchovy, european, raw",
+    "distance": 1.9230163572637031,
+    "match_reason": "とびうおの焼き干しに近い小型の回遊性・油性魚として、用途・栄養特性が近いAnchovyを選択: Fish, anchovy, european, raw (FDC ID: 174182)。"
+  },
+  {
+    "mext_food_number": "10424",
+    "mext_food_name": "＜魚類＞　かんぱち　背側　生",
+    "usda_fdc_id": "175142",
+    "usda_description": "Fish, sea bass, mixed species, raw",
+    "distance": 1.4971521311025782,
+    "match_reason": "かんぱち（amberjack）は海産の白身の大型近海魚で、候補中で同様に食用の海産白身魚として扱われるsea bass（混合種）が最も近いと判断: Fish, sea bass, mixed species, raw (FDC ID: 175142) を選択。"
+  },
+  {
+    "mext_food_number": "10427",
+    "mext_food_name": "＜貝類＞　あわび　くろあわび　生",
+    "usda_fdc_id": "174212",
+    "usda_description": "Mollusks, abalone, mixed species, raw",
+    "distance": 1.7254942507939903,
+    "match_reason": "あわび（黒あわび）に対して直接対応する項目が存在するため: Mollusks, abalone, mixed species, raw (FDC ID: 174212) を選択。"
+  },
+  {
+    "mext_food_number": "10428",
+    "mext_food_name": "＜貝類＞　あわび　まだかあわび　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補リストにあわび（Mollusca, abalone）または近縁の貝類が含まれておらず、同一／近種と判断できる食品がないため"
+  },
+  {
+    "mext_food_number": "10429",
+    "mext_food_name": "＜貝類＞　あわび　めがいあわび　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にめがいあわびや他のアワビ類に相当する項目がなく、同一／近種と見なせる食品がないため"
+  },
+  {
+    "mext_food_number": "10431",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　さくらえび　生",
+    "usda_fdc_id": "175179",
+    "usda_description": "Crustaceans, shrimp, raw",
+    "distance": 1.520433774639802,
+    "match_reason": "さくらえびはエビ類なので、'Crustaceans, shrimp, raw (FDC ID: 175179)' が同種のエビ類として最も適切"
+  },
+  {
+    "mext_food_number": "10432",
+    "mext_food_name": "＜いか・たこ類＞　（たこ類）　みずだこ　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: みずだこ（タコ類）に相当する項目が候補に含まれておらず、同一／近種と判断できる食品がないため"
+  },
+  {
+    "mext_food_number": "10438",
+    "mext_food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　生",
+    "usda_fdc_id": "175167",
+    "usda_description": "Fish, salmon, Atlantic, farmed, raw",
+    "distance": 1.2769097340585815,
+    "match_reason": "たいせいようさけ（養殖・Atlantic salmon）に対して 'Fish, salmon, Atlantic, farmed, raw (FDC ID: 175167)' が同一種で最適な一致"
+  },
+  {
+    "mext_food_number": "10457",
+    "mext_food_name": "＜魚類＞　（あじ類）　にしまあじ　開き干し　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: にしまあじ（あじ類/mackerel系）に近い魚種が候補に含まれておらず、同一／近種と判断できる項目がないため"
+  },
+  {
+    "mext_food_number": "10467",
+    "mext_food_name": "＜えび・かに類＞　（えび類）　アルゼンチンあかえび　生",
+    "usda_fdc_id": "175179",
+    "usda_description": "Crustaceans, shrimp, raw",
+    "distance": 1.0378817013461017,
+    "match_reason": "アルゼンチンあかえびはエビ類のため、'Crustaceans, shrimp, raw (FDC ID: 175179)' が同種のエビ類として適切"
+  },
+  {
+    "mext_food_number": "10471",
+    "mext_food_name": "＜いか・たこ類＞　（たこ類）　まだこ　皮なし　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: まだこ（タコ類）に相当する候補がなく、同一／近種と見なせる食品がないため"
+  },
+  {
+    "mext_food_number": "11001",
+    "mext_food_name": "＜畜肉類＞　いのしし　肉　脂身つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: いのしし（野生イノシシ）は豚類に近いが、候補リストに豚／イノシシ類の項目がなく、同一／近種と判断できる食品がないため"
+  },
+  {
+    "mext_food_number": "11002",
+    "mext_food_name": "＜畜肉類＞　いのぶた　肉　脂身つき　生",
+    "usda_fdc_id": "168222",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean and fat, raw",
+    "distance": 0.6291681955982316,
+    "match_reason": "いのぶたは豚とイノシシの交雑種であり、候補にある 'Pork, fresh, leg (ham), whole, separable lean and fat, raw (FDC ID: 168222)' が最も近縁で妥当な一致"
+  },
+  {
+    "mext_food_number": "11108",
+    "mext_food_name": "＜畜肉類＞　うし　［加工品］　スモークタン",
+    "usda_fdc_id": "174737",
+    "usda_description": "Beef, New Zealand, imported, variety meats and by-products, tongue, cooked, boiled",
+    "distance": 0.4480562903802452,
+    "match_reason": "同一部位の牛タン（tongue）。スモークされた加工品と調理状態は異なるが、食材としては牛の舌で一致するため最適。"
+  },
+  {
+    "mext_food_number": "11115",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　脂身つき　生",
+    "usda_fdc_id": "168288",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "MEXTは豚かた（肩）で脂身つき。候補にある \"Pork, cured, shoulder, blade roll, separable lean and fat\" は同じ豚の肩部（blade/shoulder）に該当し、部位同一性が高いため選択。"
+  },
+  {
+    "mext_food_number": "11116",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　皮下脂肪なし　生",
+    "usda_fdc_id": "168302",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw",
+    "distance": 1.119589465189734,
+    "match_reason": "MEXTは豚かた（肩）で皮下脂肪なし（赤身主体）。候補の中で「boneless, separable lean only」の豚ロイン（lean only）は、皮下脂肪なしという属性に近い（同一動物で部位はやや異なるが実務的に妥当）。"
+  },
+  {
+    "mext_food_number": "11117",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　赤肉　生",
+    "usda_fdc_id": "168249",
+    "usda_description": "Pork, fresh, loin, tenderloin, separable lean only, raw",
+    "distance": 0.8363764493994678,
+    "match_reason": "MEXTは豚かたの赤肉（赤身）。候補の「Pork, fresh, loin, tenderloin, separable lean only, raw」は豚の赤身部位であり、同一動物かつ赤身という点で近い。"
+  },
+  {
+    "mext_food_number": "11119",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　脂身つき　生",
+    "usda_fdc_id": "167889",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean and fat, raw",
+    "distance": 0.7553604254319934,
+    "match_reason": "MEXTはかたロース（脂身つき）。候補の「Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean and fat, raw」はロース系で脂身付きの豚肉に相当し、部位・脂肪状態が近い。"
+  },
+  {
+    "mext_food_number": "11120",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　皮下脂肪なし　生",
+    "usda_fdc_id": "168320",
+    "usda_description": "HORMEL ALWAYS TENDER, Boneless Pork Loin, Fresh Pork",
+    "distance": 0.7487361234845142,
+    "match_reason": "MEXTはかたロースで皮下脂肪なし。候補のブランド品 \"HORMEL ALWAYS TENDER, Boneless Pork Loin\" はボンレスのロインで脂肪が少ない想定のため、皮下脂肪なしの状態に近いと判断。"
+  },
+  {
+    "mext_food_number": "11121",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　赤肉　生",
+    "usda_fdc_id": "168302",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw",
+    "distance": 0.7280372746883739,
+    "match_reason": "MEXTはかたロースの赤肉。候補の「Pork, fresh, loin, center rib ... separable lean only, raw」は豚の赤身（ロイン系）で赤肉に該当し、同一動物・赤身という点で妥当。"
+  },
+  {
+    "mext_food_number": "11122",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.3075374373370474,
+    "match_reason": "MEXTはかたロースの脂身（脂身部分）。候補にある「Pork, fresh, backfat, raw」は豚の皮下脂肪/背脂で、脂身そのものとして最も直接的に対応するため選択。"
+  },
+  {
+    "mext_food_number": "11123",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　生",
+    "usda_fdc_id": "168314",
+    "usda_description": "Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, raw",
+    "distance": 1.3350506850119452,
+    "match_reason": "MEXTはロース（脂身つき）。候補の「Pork, fresh, loin, top loin (roasts), boneless, separable lean and fat, raw」はロース部位で脂身つきの豚肉に該当し、部位・脂肪状態が一致する。"
+  },
+  {
+    "mext_food_number": "11126",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　皮下脂肪なし　生",
+    "usda_fdc_id": "168251",
+    "usda_description": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",
+    "distance": 1.049679073869915,
+    "match_reason": "MEXTはロース（皮下脂肪なし、生）。候補の「Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw」は皮下脂肪なし（lean only）のロースで、状態・部位が最も近い。"
+  },
+  {
+    "mext_food_number": "11127",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　赤肉　生",
+    "usda_fdc_id": "168251",
+    "usda_description": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",
+    "distance": 0.5376187453544164,
+    "match_reason": "ぶた ロース 赤肉 生 に対応：Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw（同じ部位の生の赤肉に相当）"
+  },
+  {
+    "mext_food_number": "11128",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.5194985189761037,
+    "match_reason": "ぶた ロース 脂身 生 に対応：Pork, fresh, backfat, raw（豚の脂身／背脂に相当し、脂肪部位として最も近い）"
+  },
+  {
+    "mext_food_number": "11129",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　ばら　脂身つき　生",
+    "usda_fdc_id": "168277",
+    "usda_description": "Pork, cured, bacon, unprepared",
+    "distance": 1.319765809408727,
+    "match_reason": "ぶた ばら 脂身つき 生 に対応：生の豚バラ（fresh belly）の候補がないため、加工形態として豚バラ由来のPork, cured, bacon, unprepared（ベーコン：168277）が最も近い対応と判断"
+  },
+  {
+    "mext_food_number": "11130",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身つき　生",
+    "usda_fdc_id": "167889",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean and fat, raw",
+    "distance": 0.6252220360766184,
+    "match_reason": "ぶた もも 脂身つき 生 に対応する直接の候補が限られるため、同じ豚で『separable lean and fat, raw』のPork, fresh, loin, center rib (boneless), separable lean and fat, raw（167889）が脂肪の有無を含め最も近いと判断"
+  },
+  {
+    "mext_food_number": "11131",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　生",
+    "usda_fdc_id": "168224",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean only, raw",
+    "distance": 0.7147336426013908,
+    "match_reason": "ぶた もも 皮下脂肪なし 生 に対応：Pork, fresh, leg (ham), whole, separable lean only, raw（168224）は皮下脂肪なしのもも（腿）赤肉に直接対応"
+  },
+  {
+    "mext_food_number": "11134",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　赤肉　生",
+    "usda_fdc_id": "168224",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean only, raw",
+    "distance": 0.7561346947081278,
+    "match_reason": "ぶた もも 赤肉 生 に対応：Pork, fresh, leg (ham), whole, separable lean only, raw（168224）はもも（腿）の赤肉生に相当"
+  },
+  {
+    "mext_food_number": "11135",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.9357290853111773,
+    "match_reason": "ぶた もも 脂身 生 に対応：脂身の成分を反映するPork, fresh, backfat, raw（167811）が最も近い"
+  },
+  {
+    "mext_food_number": "11136",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身つき　生",
+    "usda_fdc_id": "168222",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean and fat, raw",
+    "distance": 0.7854009301455728,
+    "match_reason": "ぶた そともも 脂身つき 生 に対応：Pork, fresh, leg (ham), whole, separable lean and fat, raw（168222）はそともも（腿外側）で脂身を含む生の状態に合致"
+  },
+  {
+    "mext_food_number": "11137",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　皮下脂肪なし　生",
+    "usda_fdc_id": "168224",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "ぶた そともも 皮下脂肪なし 生 に対応：Pork, fresh, leg (ham), whole, separable lean only, raw（168224）は皮下脂肪なしの腿赤肉に相当"
+  },
+  {
+    "mext_food_number": "11138",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　赤肉　生",
+    "usda_fdc_id": "168224",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean only, raw",
+    "distance": 0.536248279944139,
+    "match_reason": "ぶた そともも 赤肉 生 に対応：Pork, fresh, leg (ham), whole, separable lean only, raw（168224）はそとももの赤肉生に適合"
+  },
+  {
+    "mext_food_number": "11139",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.8090735606401724,
+    "match_reason": "豚の背脂（Pork, fresh, backfat）はMEXTの「そともも　脂身」に該当する同種の豚の皮下脂肪（脂身）であり、食材として最も近い"
+  },
+  {
+    "mext_food_number": "11140",
+    "mext_food_name": "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　生",
+    "usda_fdc_id": "168249",
+    "usda_description": "Pork, fresh, loin, tenderloin, separable lean only, raw",
+    "distance": 0.920727106696592,
+    "match_reason": "Pork, fresh, loin, tenderloin（ヒレ、separable lean only, raw）はMEXTの「ヒレ　赤肉」に相当する豚のヒレ（テンダーロイン）で同一部位に近い"
+  },
+  {
+    "mext_food_number": "11141",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生",
+    "usda_fdc_id": "168381",
+    "usda_description": "Pork, fresh, loin, blade (chops or roasts), boneless, separable lean and fat only, raw",
+    "distance": 1.098959455864791,
+    "match_reason": "Pork, fresh, loin, blade（blade＝肩ロース／かた周辺）はMEXTの「かた　脂身つき」に対応する肩部位で、脂と赤肉が混在する点が近い"
+  },
+  {
+    "mext_food_number": "11142",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　皮下脂肪なし　生",
+    "usda_fdc_id": "168302",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw",
+    "distance": 0.8623082350070918,
+    "match_reason": "Pork, fresh, loin, center rib, boneless, separable lean only（脂肪除去のロース系）はMEXTの「かた　皮下脂肪なし（赤身）」に近い（皮下脂肪なし＝lean onlyに対応）"
+  },
+  {
+    "mext_food_number": "11143",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　赤肉　生",
+    "usda_fdc_id": "169194",
+    "usda_description": "Pork, fresh, loin, blade (chops or roasts), boneless, separable lean only, raw",
+    "distance": 0.7550955884578956,
+    "match_reason": "Pork, fresh, loin, blade（boneless, separable lean only）は肩（かた）の赤肉（blade領域）に近く、MEXTの「かた　赤肉」に適合する"
+  },
+  {
+    "mext_food_number": "11144",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.180336569442424,
+    "match_reason": "Pork, fresh, backfat（豚の背脂）はMEXTの「かた　脂身」に相当する豚の皮下脂肪部位で同種の脂肪源である"
+  },
+  {
+    "mext_food_number": "11145",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　脂身つき　生",
+    "usda_fdc_id": "167889",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean and fat, raw",
+    "distance": 0.6577883974745012,
+    "match_reason": "Pork, fresh, loin, center rib（boneless, separable lean and fat）はロース系の中心部で、MEXTの「かたロース　脂身つき（ロースで脂がつく部位）」に近い"
+  },
+  {
+    "mext_food_number": "11146",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　皮下脂肪なし　生",
+    "usda_fdc_id": "168302",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw",
+    "distance": 0.9093944135027954,
+    "match_reason": "Pork, fresh, loin, center rib, boneless, separable lean onlyは皮下脂肪を除いたロース系の赤身で、MEXTの「かたロース　皮下脂肪なし」に適合する"
+  },
+  {
+    "mext_food_number": "11147",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　赤肉　生",
+    "usda_fdc_id": "168302",
+    "usda_description": "Pork, fresh, loin, center rib (chops or roasts), boneless, separable lean only, raw",
+    "distance": 0.7469803650787736,
+    "match_reason": "Pork, fresh, loin, center rib（boneless, lean only）はロース中心の赤身部位としてMEXTの「かたロース　赤肉」に近い（同種の豚ロース系）"
+  },
+  {
+    "mext_food_number": "11148",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　脂身　生",
+    "usda_fdc_id": "167889",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "Pork, fresh, loin, center rib（separable lean and fat）はロースの脂身つき部位で、MEXTの「かたロース　脂身」に相当する"
+  },
+  {
+    "mext_food_number": "11149",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　脂身つき　生",
+    "usda_fdc_id": "167839",
+    "usda_description": "Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, raw",
+    "distance": 1.7736741015117248,
+    "match_reason": "同じ豚ロース（top loin/chops）、脂身（lean and fat）を含む生の切り身であり、食材・部位の同一性が高い"
+  },
+  {
+    "mext_food_number": "11150",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　皮下脂肪なし　生",
+    "usda_fdc_id": "168251",
+    "usda_description": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",
+    "distance": 1.81601100164269,
+    "match_reason": "豚ロース（top loin/chops）の無脂肪（separable lean only）生で、MEXTの「皮下脂肪なし」に対応する最適候補"
+  },
+  {
+    "mext_food_number": "11151",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　赤肉　生",
+    "usda_fdc_id": "168263",
+    "usda_description": "Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw",
+    "distance": 0.833317347336455,
+    "match_reason": "豚ロース（center loin）の無脂肪生（separable lean only）で、MEXTの「ロース 赤肉（lean/red meat）」に相当する同種の部位"
+  },
+  {
+    "mext_food_number": "11152",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.4810500703401617,
+    "match_reason": "豚の脂身（backfat）生で、MEXTの「ロース 脂身」に相当する脂肪部分として最も近い"
+  },
+  {
+    "mext_food_number": "11153",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　ばら　脂身つき　生",
+    "usda_fdc_id": "168277",
+    "usda_description": "Pork, cured, bacon, unprepared",
+    "distance": 1.2632579484080768,
+    "match_reason": "豚のばら（pork belly）由来の加工前ベーコン（cured bacon）。生の豚ばらが候補になければ、ばら由来のベーコンが最も近い表現であるため選択"
+  },
+  {
+    "mext_food_number": "11154",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　脂身つき　生",
+    "usda_fdc_id": "168222",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean and fat, raw",
+    "distance": 0.8982392424423528,
+    "match_reason": "豚のもも（leg/ham）全体、脂肪付きの生（separable lean and fat）で、MEXTの「もも 脂身つき」に直接対応"
+  },
+  {
+    "mext_food_number": "11155",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　皮下脂肪なし　生",
+    "usda_fdc_id": "168315",
+    "usda_description": "Pork, fresh, loin, top loin (roasts), boneless, separable lean only, raw",
+    "distance": 0.8549562846613553,
+    "match_reason": "候補内で無脂肪の豚ロース部位（top loin roasts, separable lean only, raw）があり、MEXTの「もも 皮下脂肪なし（lean）」に近い同種の赤身豚肉として選択"
+  },
+  {
+    "mext_food_number": "11156",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　赤肉　生",
+    "usda_fdc_id": "168224",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean only, raw",
+    "distance": 0.6476223955448805,
+    "match_reason": "豚のもも（leg/ham）、赤肉で可分な脂肪がない（separable lean only）生の品目があり、MEXTの「もも 赤肉」に対応"
+  },
+  {
+    "mext_food_number": "11157",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.7168756360484048,
+    "match_reason": "豚の脂身（backfat）生が候補に含まれており、MEXTの「もも 脂身」に該当する脂肪部分として適合"
+  },
+  {
+    "mext_food_number": "11158",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身つき　生",
+    "usda_fdc_id": "168222",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean and fat, raw",
+    "distance": 0.5852522627534154,
+    "match_reason": "豚のそともも（outer ham）に相当する「leg (ham) whole, separable lean and fat, raw」が候補にあり、脂身つき生の部位として直接対応"
+  },
+  {
+    "mext_food_number": "11159",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　皮下脂肪なし　生",
+    "usda_fdc_id": "168251",
+    "usda_description": "Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",
+    "distance": 0.859760998373392,
+    "match_reason": "同じ動物（豚）の生の赤身部位で、皮下脂肪なしのそともも（もも系の赤身）に対して、豚の生のロイン（top loin）でseparable lean onlyは同系統の生の赤身部位として最も妥当"
+  },
+  {
+    "mext_food_number": "11160",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　赤肉　生",
+    "usda_fdc_id": "168224",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean only, raw",
+    "distance": 0.6076998266262023,
+    "match_reason": "MEXTのそともも（もも＝leg/ham）の赤肉に対して、Pork, fresh, leg (ham), whole, separable lean only, rawは同一部位（もも／ハム）に相当するため適合"
+  },
+  {
+    "mext_food_number": "11161",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身　生",
+    "usda_fdc_id": "167811",
+    "usda_description": "Pork, fresh, backfat, raw",
+    "distance": 1.7556765977721118,
+    "match_reason": "MEXTの脂身（そとももの脂身）に対して、Pork, fresh, backfat, rawは豚の皮下脂肪／背脂に相当し、脂肪部位として直接対応するため適合"
+  },
+  {
+    "mext_food_number": "11162",
+    "mext_food_name": "＜畜肉類＞　ぶた　［中型種肉］　ヒレ　赤肉　生",
+    "usda_fdc_id": "168249",
+    "usda_description": "Pork, fresh, loin, tenderloin, separable lean only, raw",
+    "distance": 0.6720707716242357,
+    "match_reason": "MEXTのヒレ（tenderloin）赤肉生に対して、Pork, fresh, loin, tenderloin, separable lean only, rawは同一部位（豚ヒレ）の記載であり直接対応するため最適"
+  },
+  {
+    "mext_food_number": "11163",
+    "mext_food_name": "＜畜肉類＞　ぶた　［ひき肉］　生",
+    "usda_fdc_id": "168222",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean and fat, raw",
+    "distance": 0.7943166189414896,
+    "match_reason": "MEXTのひき肉（豚ひき）に対して、候補中に明確な『ground pork』がないため、同じ豚の部位原料として使われることが多いPork, fresh, leg (ham), whole, separable lean and fat, rawを原材料代表として最も妥当と判断"
+  },
+  {
+    "mext_food_number": "11164",
+    "mext_food_name": "＜畜肉類＞　ぶた　［副生物］　舌　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: MEXTは豚の舌（tongue）だが、候補は主に牛・羊など他種の舌や牛肉であり、同一・近種の豚舌に相当するデータが候補に存在しないためマッチ不可"
+  },
+  {
+    "mext_food_number": "11165",
+    "mext_food_name": "＜畜肉類＞　ぶた　［副生物］　心臓　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: MEXTは豚の心臓だが、候補に豚心臓（pork heart）や同種に相当する内臓がなく、牛・羊等の心臓のみであるため同一・近種性が満たされない"
+  },
+  {
+    "mext_food_number": "11166",
+    "mext_food_name": "＜畜肉類＞　ぶた　［副生物］　肝臓　生",
+    "usda_fdc_id": "167862",
+    "usda_description": "Pork, fresh, variety meats and by-products, liver, raw",
+    "distance": 1.1833253765923175,
+    "match_reason": "MEXTの豚の肝臓に対して、Pork, fresh, variety meats and by-products, liver, rawは同一食材（豚の肝臓）であり直接対応するため適合"
+  },
+  {
+    "mext_food_number": "11167",
+    "mext_food_name": "＜畜肉類＞　ぶた　［副生物］　じん臓　生",
+    "usda_fdc_id": "168270",
+    "usda_description": "Pork, fresh, variety meats and by-products, kidneys, raw",
+    "distance": 0.9314497390030526,
+    "match_reason": "MEXTの豚のじん臓（kidneys）に対して、Pork, fresh, variety meats and by-products, kidneys, rawは同一食材（豚の腎臓）であり直接対応するため適合"
+  },
+  {
+    "mext_food_number": "11171",
+    "mext_food_name": "＜畜肉類＞　ぶた　［副生物］　子宮　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: MEXTは豚の子宮（uterus）だが、候補に同一または近種の豚の子宮に相当するデータがなく、他の臓器・家禽・野生肉のみのためマッチ不可"
+  },
+  {
+    "mext_food_number": "11205",
+    "mext_food_name": "＜鳥肉類＞　かも　あいがも　肉　皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補リストは主に牛・羊などで、かも／あいがも（鴨類）に相当する食材が含まれていないため"
+  },
+  {
+    "mext_food_number": "11206",
+    "mext_food_name": "＜鳥肉類＞　かも　あひる　肉　皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にあひる／鴨類に相当する食材がなく、同一・近種の食材が存在しないため"
+  },
+  {
+    "mext_food_number": "11207",
+    "mext_food_name": "＜鳥肉類＞　うずら　肉　皮つき　生",
+    "usda_fdc_id": "171112",
+    "usda_description": "Duck, young duckling, domesticated, White Pekin, leg, meat and skin, bone in, cooked, roasted",
+    "distance": 0.5454922082340439,
+    "match_reason": "うずらは小型の家禽だが候補に鶏類がほとんどなく、同じ家禽の鴨（duck: White Pekin）の肉（leg, meat and skin, cooked, roasted, FDC 171112）が最も近いと判断"
+  },
+  {
+    "mext_food_number": "11208",
+    "mext_food_name": "＜鳥肉類＞　かも　まがも　肉　皮なし　生",
+    "usda_fdc_id": "171511",
+    "usda_description": "Duck, young duckling, domesticated, White Pekin, breast, meat only, boneless, cooked without skin, broiled",
+    "distance": 0.8433295323134787,
+    "match_reason": "まがも（野生の鴨）は鴨類に属するため、候補中の Duck, White Pekin, breast, meat only, boneless, cooked without skin (FDC 171511) が同属の鴨類として最も適切"
+  },
+  {
+    "mext_food_number": "11209",
+    "mext_food_name": "＜鳥肉類＞　きじ　肉　皮なし　生",
+    "usda_fdc_id": "174474",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "きじ = pheasant に対して、Pheasant, breast, meat only, raw (FDC 174474) が直接対応するため"
+  },
+  {
+    "mext_food_number": "11210",
+    "mext_food_name": "＜鳥肉類＞　しちめんちょう　肉　皮なし　生",
+    "usda_fdc_id": "174471",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "しちめんちょう = guinea fowl に対して、Guinea hen, meat only, raw (FDC 174471) が直接対応するため"
+  },
+  {
+    "mext_food_number": "11211",
+    "mext_food_name": "＜鳥肉類＞　すずめ　肉　骨・皮つき　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にすずめ等の小型野鳥に相当する食材がなく、同一または近種の食材が存在しないため"
+  },
+  {
+    "mext_food_number": "11212",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生",
+    "usda_fdc_id": "173631",
+    "usda_description": "Chicken, broilers or fryers, wing, meat and skin, cooked, stewed",
+    "distance": 0.8231396151235996,
+    "match_reason": "にわとり 手羽（皮つき）に対して、候補中の Chicken, broilers or fryers, wing, meat and skin, cooked, stewed (FDC 173631) が同種かつ部位（翼・皮あり）で最も近い"
+  },
+  {
+    "mext_food_number": "11213",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生",
+    "usda_fdc_id": "171077",
+    "usda_description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+    "distance": 1.9777434771998565,
+    "match_reason": "にわとり むね（皮つき・生）に対して、同種かつ胸部の生肉で最も近いのは Chicken, broilers or fryers, breast, skinless, boneless, meat only, raw (FDC 171077)。皮の有無は部位差として許容して選択"
+  },
+  {
+    "mext_food_number": "11214",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮なし　生",
+    "usda_fdc_id": "171077",
+    "usda_description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+    "distance": 1.128203185107571,
+    "match_reason": "にわとり むね（皮なし・生）に対して、Chicken, broilers or fryers, breast, skinless, boneless, meat only, raw (FDC 171077) が直接一致するため"
+  },
+  {
+    "mext_food_number": "11215",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生",
+    "usda_fdc_id": "171463",
+    "usda_description": "Chicken, broilers or fryers, dark meat, meat and skin, raw",
+    "distance": 0.7315389863006323,
+    "match_reason": "同一食材：にわとり（chicken）のもも/大腿部の生・皮つきに該当するため（dark meat, thigh, meat and skin, raw と一致）"
+  },
+  {
+    "mext_food_number": "11216",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮なし　生",
+    "usda_fdc_id": "173614",
+    "usda_description": "Chicken, broilers or fryers, dark meat, drumstick, meat only, raw",
+    "distance": 0.8235782026852362,
+    "match_reason": "同一種：にわとりの暗色部位（もも/ドラムスティック等）の皮なし生に近い（dark meat, drumstick, meat only, raw を部位柔軟に解釈）"
+  },
+  {
+    "mext_food_number": "11217",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［親・副品目］　ささみ　生",
+    "usda_fdc_id": "171464",
+    "usda_description": "Chicken, broilers or fryers, light meat, meat only, raw",
+    "distance": 1.0519276602299756,
+    "match_reason": "同一系統：ささみは胸肉の白身（light meat）に該当するため（chicken light meat, meat only, raw と近種）"
+  },
+  {
+    "mext_food_number": "11218",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽　皮つき　生",
+    "usda_fdc_id": "172390",
+    "usda_description": "Chicken, broilers or fryers, wing, meat and skin, raw",
+    "distance": 0.398125554452806,
+    "match_reason": "同一部位：手羽（wing）・皮つき・生に直接一致（chicken wing, meat and skin, raw）"
+  },
+  {
+    "mext_food_number": "11219",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　生",
+    "usda_fdc_id": "171474",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "同一部位：むね肉・皮つき・生に該当するため（chicken breast, meat and skin, raw）"
+  },
+  {
+    "mext_food_number": "11220",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　生",
+    "usda_fdc_id": "171077",
+    "usda_description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+    "distance": 0.8242171727749881,
+    "match_reason": "同一部位：むね肉・皮なし・生に該当するため（chicken breast, skinless, boneless, meat only, raw）"
+  },
+  {
+    "mext_food_number": "11221",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　生",
+    "usda_fdc_id": "172385",
+    "usda_description": "Chicken, broilers or fryers, thigh, meat and skin, raw",
+    "distance": 0.5879971137020891,
+    "match_reason": "同一部位：もも（thigh）・皮つき・生に該当するため（chicken thigh, meat and skin, raw）"
+  },
+  {
+    "mext_food_number": "11224",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　生",
+    "usda_fdc_id": "173627",
+    "usda_description": "Chicken, broilers or fryers, dark meat, thigh, meat only, raw",
+    "distance": 0.6358186043816311,
+    "match_reason": "同一系統：もも・皮なしの暗色部位に近い（chicken dark meat, thigh, meat only, raw と一致）"
+  },
+  {
+    "mext_food_number": "11227",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　生",
+    "usda_fdc_id": "171077",
+    "usda_description": "Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",
+    "distance": 2.3989636989496965,
+    "match_reason": "同一系統：ささみは胸肉由来の白身のため、胸肉（skinless boneless breast, raw）を対応させた（部位柔軟性）"
+  },
+  {
+    "mext_food_number": "11230",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　生",
+    "usda_fdc_id": "171116",
+    "usda_description": "Chicken, ground, raw",
+    "distance": 0.9495827017667513,
+    "match_reason": "同一形状：ひき肉（ground）・生に直接一致（chicken, ground, raw）"
+  },
+  {
+    "mext_food_number": "11231",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
+    "usda_fdc_id": "172527",
+    "usda_description": "Lamb, variety meats and by-products, heart, raw",
+    "distance": 0.9992346053819775,
+    "match_reason": "両方とも心臓（内臓／variety meats）の部位であり、臓器としての栄養組成が近いため（にわとり心臓に対して羊のheartが最も近い）"
+  },
+  {
+    "mext_food_number": "11232",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補に肝臓（liver）に相当する食品が含まれていない"
+  },
+  {
+    "mext_food_number": "11233",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［副品目］　すなぎも　生",
+    "usda_fdc_id": "171456",
+    "usda_description": "Chicken, gizzard, all classes, raw",
+    "distance": 0.8111010795816017,
+    "match_reason": "同じ食材：Chicken, gizzard（にわとり すなぎも）生 と一致するため"
+  },
+  {
+    "mext_food_number": "11235",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
+    "usda_fdc_id": "171468",
+    "usda_description": "Chicken, broilers or fryers, separable fat, raw",
+    "distance": 1.9496876297775847,
+    "match_reason": "にわとりの皮／分離脂肪に相当する（Chicken separable fat）が最も近いため"
+  },
+  {
+    "mext_food_number": "11236",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［副品目］　なんこつ（胸肉）　生",
+    "usda_fdc_id": "172963",
+    "usda_description": "Chicken breast, oven-roasted, fat-free, sliced",
+    "distance": 1.1227117918201284,
+    "match_reason": "直接の胸軟骨（なんこつ）項目は候補にないため、同一種の鶏肉（胸肉）で最も近いものを選定（調理状態は異なるが同一動物の部位として妥当）"
+  },
+  {
+    "mext_food_number": "11238",
+    "mext_food_name": "＜鳥肉類＞　はと　肉　皮なし　生",
+    "usda_fdc_id": "174474",
+    "usda_description": "Pheasant, breast, meat only, raw",
+    "distance": 1.5463595383301998,
+    "match_reason": "ハトは家禽の一種であり、同じ鳥類の胸肉（pheasant breast）が野禽／家禽として最も近いと判断したため"
+  },
+  {
+    "mext_food_number": "11240",
+    "mext_food_name": "＜鳥肉類＞　ほろほろちょう　肉　皮なし　生",
+    "usda_fdc_id": "172831",
+    "usda_description": "Ruffed Grouse, breast meat, skinless, raw",
+    "distance": 1.2368464117341693,
+    "match_reason": "ほろほろちょう（guinea fowl）は狩猟性の鳥類であり、ruffed grouseも同じく野禽（game bird）で近種と判断できるため"
+  },
+  {
+    "mext_food_number": "11242",
+    "mext_food_name": "＜その他＞　かえる　肉　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にカエル（両生類）やそれに準ずる食品が含まれていない"
+  },
+  {
+    "mext_food_number": "11243",
+    "mext_food_name": "＜その他＞　すっぽん　肉　生",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にすっぽん（亀／爬虫類）やそれに準ずる食品が含まれていない"
+  },
+  {
+    "mext_food_number": "11247",
+    "mext_food_name": "＜鳥肉類＞　かも　あひる　肉　皮なし　生",
+    "usda_fdc_id": "174612",
+    "usda_description": "Turkey, breast, smoked, lemon pepper flavor, 97% fat-free",
+    "distance": 0.6875166619997543,
+    "match_reason": "かも・あひるは水禽だが、候補に水禽がないため、同じ鳥類（家禽）であるターキー胸肉が最も近いと判断したため"
+  },
+  {
+    "mext_food_number": "11284",
+    "mext_food_name": "＜鳥肉類＞　かも　あひる　皮　生",
+    "usda_fdc_id": "172855",
+    "usda_description": "Chicken, skin (drumsticks and thighs), raw",
+    "distance": 1.3738607624256336,
+    "match_reason": "かも（あひる）皮の代替として最も近いのは家禽の皮。候補中のChicken, skin (drumsticks and thighs), rawは鶏の皮であり、家禽の皮類として近種・近機能であるため適合。"
+  },
+  {
+    "mext_food_number": "11285",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽さき　皮つき　生",
+    "usda_fdc_id": "172390",
+    "usda_description": "Chicken, broilers or fryers, wing, meat and skin, raw",
+    "distance": 0.6542254452835139,
+    "match_reason": "にわとり 手羽さき（皮つき、生）に対して、Chicken, broilers or fryers, wing, meat and skin, rawは同一部位（wing）であり直接対応。"
+  },
+  {
+    "mext_food_number": "11286",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽もと　皮つき　生",
+    "usda_fdc_id": "172390",
+    "usda_description": "Chicken, broilers or fryers, wing, meat and skin, raw",
+    "distance": 0.5061266025842148,
+    "match_reason": "にわとり 手羽もと（皮つき、生）は翼の根本（wing/drumette）であり、候補のChicken, broilers or fryers, wing, meat and skin, rawが最も近い部位・種であるため適合。"
+  },
+  {
+    "mext_food_number": "11293",
+    "mext_food_name": "＜鳥肉類＞　にわとり　［その他］　つくね",
+    "usda_fdc_id": "171513",
+    "usda_description": "Chicken patty, frozen, cooked",
+    "distance": 0.9385152475298106,
+    "match_reason": "つくねは挽き肉を成形した鶏加工品であり、候補のChicken patty, frozen, cookedは加工された成形鶏肉製品でカテゴリ上最も類似するため選択。"
+  },
+  {
+    "mext_food_number": "11312",
+    "mext_food_name": "＜畜肉類＞　ぶた　［副生物］　頭部　ジョウルミート　生",
+    "usda_fdc_id": "168222",
+    "usda_description": "Pork, fresh, leg (ham), whole, separable lean and fat, raw",
+    "distance": 1.2279436859504884,
+    "match_reason": "豚の頭部（ジョウルミート）に対応する同部位の候補がないため、同一動物（豚）の生肉で代表的な品であるPork, fresh, leg (ham), whole, separable lean and fat, rawを最も近い代替として選択。"
+  },
+  {
+    "mext_food_number": "12002",
+    "mext_food_name": "うずら卵　全卵　生",
+    "usda_fdc_id": "172191",
+    "usda_description": "Egg, quail, whole, fresh, raw",
+    "distance": 0.6266632922044629,
+    "match_reason": "うずら卵 全卵 生に対してEgg, quail, whole, fresh, rawは同一食材の直接対応。"
+  },
+  {
+    "mext_food_number": "12004",
+    "mext_food_name": "鶏卵　全卵　生",
+    "usda_fdc_id": "171287",
+    "usda_description": "Egg, whole, raw, fresh",
+    "distance": 0.6374527406299518,
+    "match_reason": "鶏卵 全卵 生に対してEgg, whole, raw, freshは同一食材の直接対応。"
+  },
+  {
+    "mext_food_number": "12008",
+    "mext_food_name": "鶏卵　全卵　加糖全卵",
+    "usda_fdc_id": "171287",
+    "usda_description": "Egg, whole, raw, fresh",
+    "distance": 0.7663066357137734,
+    "match_reason": "加糖全卵は加工の違い（糖付加）があるが、基礎原料は全卵であるためEgg, whole, raw, freshを基礎成分として対応させる（候補に加糖卵がないため）。"
+  },
+  {
+    "mext_food_number": "12010",
+    "mext_food_name": "鶏卵　卵黄　生",
+    "usda_fdc_id": "172184",
+    "usda_description": "Egg, yolk, raw, fresh",
+    "distance": 0.8978745083889406,
+    "match_reason": "鶏卵 卵黄 生に対してEgg, yolk, raw, freshは同一部位（卵黄）の直接対応。"
+  },
+  {
+    "mext_food_number": "13052",
+    "mext_food_name": "＜その他＞　やぎ乳",
+    "usda_fdc_id": "171278",
+    "usda_description": "Milk, goat, fluid, with added vitamin D",
+    "distance": 0.6606314579497695,
+    "match_reason": "やぎ乳（山羊乳）に対してMilk, goat, fluid, with added vitamin Dは同一食材（ヤギ乳）の直接対応（ビタミンD添加は許容範囲）。"
+  },
+  {
+    "mext_food_number": "14016",
+    "mext_food_name": "（動物油脂類）　ラード",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: ラードは豚などの動物油脂（animal fat）であるが、候補はすべて植物油または植物性ショートニングであり同一・近種の食材がないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "15034",
+    "mext_food_name": "＜和生菓子・和半生菓子類＞　まんじゅう　中華まんじゅう　あんまん　こしあん入り",
+    "usda_fdc_id": "167923",
+    "usda_description": "Interstate Brands Corp, Wonder Hamburger Rolls",
+    "distance": 1.2074913879216593,
+    "match_reason": "中華まん（あんまん）は小麦粉のイースト発酵パン生地にあんを包んだ蒸し菓子であり、候補の中ではWonder Hamburger Rolls（パン・ロール類）が同じ小麦系の発酵生地に該当。調理法は異なるが食材（小麦粉系のパン生地）として近い。"
+  },
+  {
+    "mext_food_number": "15165",
+    "mext_food_name": "＜和生菓子・和半生菓子類＞　まんじゅう　蒸しまんじゅう　つぶしあん入り",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 蒸しまんじゅう（つぶしあん入り）に近い小麦系蒸しパンや饅頭が候補に含まれておらず、候補は主に果実スナック・ジャム類などで同一・近種の食材がないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "17021",
+    "mext_food_name": "＜調味料類＞　（だし類）　かつお・昆布だし　荒節・昆布だし",
+    "usda_fdc_id": "174566",
+    "usda_description": "Soup, chicken broth cubes, dry, prepared with water",
+    "distance": 1.584251025333998,
+    "match_reason": "かつお・昆布だしは料理のベースとなる出汁（だし・ブロス）であり、候補の中のスープ／ブロス（例: chicken broth cubes を水で調製したもの）は用途・カテゴリ（濃縮ブロス・だし類）で近いと判断したためマッチ。"
+  },
+  {
+    "mext_food_number": "17044",
+    "mext_food_name": "＜調味料類＞　（みそ類）　米みそ　甘みそ",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 米みそ（甘みそ）は発酵した大豆・米のペーストという特定の調味料であるが、候補は缶スープ類等であり、同一または近種の発酵味噌製品が含まれていないためマッチ不可。"
+  },
+  {
+    "mext_food_number": "17071",
+    "mext_food_name": "＜香辛料類＞　タイム　粉",
+    "usda_fdc_id": "173470",
+    "usda_description": "Thyme, fresh",
+    "distance": 1.6088915658761382,
+    "match_reason": "タイム（粉）は同じハーブの異なる形態（粉末 vs 生）であり、候補に thyme, fresh があるため同一種（Thymus属）のハーブとして妥当なマッチ。"
+  },
+  {
+    "mext_food_number": "17077",
+    "mext_food_name": "＜香辛料類＞　バジル　粉",
+    "usda_fdc_id": "171317",
+    "usda_description": "Spices, basil, dried",
+    "distance": 1.474331024749261,
+    "match_reason": "バジル（粉）は乾燥・粉末の形態差はあるが同一植物（バジル）の乾燥香辛料（Spices, basil, dried）が候補にあり、同種としてマッチ。"
+  },
+  {
+    "mext_food_number": "17131",
+    "mext_food_name": "＜調味料類＞　（だし類）　かつおだし　本枯れ節",
+    "usda_fdc_id": "172922",
+    "usda_description": "Soup, beef broth or bouillon, powder, prepared with water",
+    "distance": 1.600993615088941,
+    "match_reason": "かつおだし（本枯れ節）は特定の魚介性だし原料だが、候補にある各種ブロス/ブイヨン粉末（例: beef broth or bouillon powder）は『濃縮して調製するだし・ブロス』という用途・カテゴリで近く、だし類の代表的代替としてマッチと判断。"
+  },
+  {
+    "mext_food_number": "01014",
+    "mext_food_name": "こむぎ　［玄穀］　輸入　硬質",
+    "usda_fdc_id": "168890",
+    "usda_description": "Wheat, hard red winter",
+    "distance": 0.6176940296350508,
+    "match_reason": "こむぎ［玄穀］輸入 硬質は硬質小麦を指し、候補の 'Wheat, hard red winter' は同じ硬質小麦の品種群に該当するため同種のマッチ。"
+  },
+  {
+    "mext_food_number": "01186",
+    "mext_food_name": "こむぎ　［うどん・そうめん類］　うどん　半生うどん",
+    "usda_fdc_id": "168909",
+    "usda_description": "Noodles, japanese, somen, cooked",
+    "distance": 2.0262059729794997,
+    "match_reason": "うどん（半生うどん）は小麦製の日本の麺類であり、候補の中で日本の小麦麺に該当する 'Noodles, japanese, somen, cooked' は同じ小麦系和麺類として近種・同カテゴリにあたるためマッチ。"
+  },
+  {
+    "mext_food_number": "01149",
+    "mext_food_name": "こむぎ　［マカロニ・スパゲッティ類］　生パスタ　生",
+    "usda_fdc_id": "168928",
+    "usda_description": "Pasta, cooked, unenriched, without added salt",
+    "distance": 1.2480284182340347,
+    "match_reason": "生パスタ（小麦を原料とする平麺・マカロニ類）なので、同じくpasta（unenriched）に対応。調理状態（生→調理済）差は許容。"
+  },
+  {
+    "mext_food_number": "01066",
+    "mext_food_name": "こむぎ　［ふ類］　焼きふ　釜焼きふ",
+    "usda_fdc_id": "169761",
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "焼きふ（釜焼きふ）は小麦粉由来の加工品のため、同じ原料であるWheat flour, all-purposeが最も近い。"
+  },
+  {
+    "mext_food_number": "01179",
+    "mext_food_name": "こむぎ　［その他］　春巻きの皮　生",
+    "usda_fdc_id": "168928",
+    "usda_description": "Pasta, cooked, unenriched, without added salt",
+    "distance": 1.69166741548424,
+    "match_reason": "春巻きの皮は小麦粉ベースの薄い生地で、平らな小麦製品としてpasta（unenriched）が最も近い類似品と判断。"
+  },
+  {
+    "mext_food_number": "01127",
+    "mext_food_name": "そば　そば　生",
+    "usda_fdc_id": "168917",
+    "usda_description": "Quinoa, cooked",
+    "distance": 1.1588984693378432,
+    "match_reason": "生そば（蕎麦）は小麦ではなくソバ粉という“疑似穀物（pseudocereal）”であるため、同様に疑似穀物であるQuinoa（調理済）が用途・栄養学的に最も近い代替。"
+  },
+  {
+    "mext_food_number": "01136",
+    "mext_food_name": "とうもろこし　ポップコーン",
+    "usda_fdc_id": "170290",
+    "usda_description": "Corn flour, whole-grain, yellow",
+    "distance": 1.3686335048182516,
+    "match_reason": "ポップコーンはとうもろこしの全粒由来のスナックのため、whole‑grain corn（黄色）のコーンフラワーが原料的に最も近い。"
+  },
+  {
+    "mext_food_number": "02068",
+    "mext_food_name": "＜いも類＞　アメリカほどいも　塊根　生",
+    "usda_fdc_id": "170093",
+    "usda_description": "Potatoes, baked, flesh and skin, without salt",
+    "distance": 1.6025872538043686,
+    "match_reason": "（表記上不明な点あるが）芋類の塊根を指すため、同じくジャガイモの焼成品（皮つきのままのpotato）が最も近縁と判断。"
+  },
+  {
+    "mext_food_number": "02045",
+    "mext_food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　生",
+    "usda_fdc_id": "170072",
+    "usda_description": "Yam, cooked, boiled, drained, or baked, without salt",
+    "distance": 1.2680324895476052,
+    "match_reason": "さつまいもは米国データでしばしば' yam'表記と近接するため、USDAのYam（調理済/焼・茹で相当）が最も妥当な対応。"
+  },
+  {
+    "mext_food_number": "02026",
+    "mext_food_name": "＜いも類＞　（やまのいも類）　じねんじょ　塊根　生",
+    "usda_fdc_id": "169401",
+    "usda_description": "Yautia (tannier), raw",
+    "distance": 1.008979372972057,
+    "match_reason": "じねんじょはヤマノイモ類の塊根であり、同様の根菜性の塊根であるYautia（tannier, raw）が形態・利用法で最も近い。"
+  },
+  {
+    "mext_food_number": "04014",
+    "mext_food_name": "えんどう　グリンピース（揚げ豆）",
+    "usda_fdc_id": "173756",
+    "usda_description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+    "distance": 0.9277488969372444,
+    "match_reason": "グリンピース（揚げ豆）は豆類のスナックであり、同じ豆類の一例としてChickpeas（garbanzo）が最も類似。"
+  },
+  {
+    "mext_food_number": "04017",
+    "mext_food_name": "ささげ　全粒　乾",
+    "usda_fdc_id": "173727",
+    "usda_description": "Beans, adzuki, mature seeds, raw",
+    "distance": 1.453674970121741,
+    "match_reason": "ささげは日本での在来の豆類（アズキや類縁のマメ）に相当するため、Beans, adzuki（mature seeds, raw）が直接対応すると判断。"
+  },
+  {
+    "mext_food_number": "04021",
+    "mext_food_name": "そらまめ　おたふく豆",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にそらまめ（fava/broad bean, Vicia faba）または同属の近縁種が含まれておらず、豆類という広いカテゴリのみで同一性・近種性を満たさないため"
+  },
+  {
+    "mext_food_number": "04104",
+    "mext_food_name": "だいず　［全粒・全粒製品］　全粒　青大豆　国産　乾",
+    "usda_fdc_id": "174297",
+    "usda_description": "Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu",
+    "distance": 1.1663320104198025,
+    "match_reason": "全粒青大豆（大豆, Glycine max）に対して同種由来の食品が候補にないため、同一種の大豆原料から作られる豆腐（Vitasoy Organic Nasoya Super Firm Cubed Tofu, FDC 174297）を最も妥当な代替と判断"
+  },
+  {
+    "mext_food_number": "04025",
+    "mext_food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　米国産　乾",
+    "usda_fdc_id": "172444",
+    "usda_description": "Soy flour, low-fat",
+    "distance": 1.058788856111801,
+    "match_reason": "全粒黄大豆（米国産）に対し、同種由来の加工品であるsoy flour, low-fat (FDC 172444) が候補にあり、原料が同じ大豆であるため最適と判断"
+  },
+  {
+    "mext_food_number": "04026",
+    "mext_food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　中国産　乾",
+    "usda_fdc_id": "172444",
+    "usda_description": "Soy flour, low-fat",
+    "distance": 1.242754456089599,
+    "match_reason": "全粒黄大豆（中国産）も同様に大豆由来の食品であるsoy flour, low-fat (FDC 172444) が同種の代替として適切"
+  },
+  {
+    "mext_food_number": "04027",
+    "mext_food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　ブラジル産　乾",
+    "usda_fdc_id": "172444",
+    "usda_description": "Soy flour, low-fat",
+    "distance": 0.9957431033065773,
+    "match_reason": "全粒黄大豆（ブラジル産）についても、同種由来のsoy flour, low-fat (FDC 172444) を同種由来の最良候補と判断"
+  },
+  {
+    "mext_food_number": "04077",
+    "mext_food_name": "だいず　［全粒・全粒製品］　全粒　黒大豆　国産　乾",
+    "usda_fdc_id": "174297",
+    "usda_description": "Vitasoy USA, Organic Nasoya Super Firm Cubed Tofu",
+    "distance": 1.2083614015550843,
+    "match_reason": "全粒黒大豆（国産）は大豆（Glycine max）であり、候補の中で同種由来の加工品（豆腐: Vitasoy Organic Nasoya Super Firm Cubed Tofu, FDC 174297）が最も近い（同一種由来）ため選択"
+  },
+  {
+    "mext_food_number": "04051",
+    "mext_food_name": "だいず　［その他］　おから　生",
+    "usda_fdc_id": "173787",
+    "usda_description": "HOUSE FOODS Premium Soft Tofu",
+    "distance": 0.3096761290693818,
+    "match_reason": "おから（大豆の搾りかす）は大豆加工副産物であり、候補に生大豆は少ないが同一原料の豆腐（HOUSE FOODS Premium Soft Tofu, FDC 173787）が最も近い食品であるため選択"
+  },
+  {
+    "mext_food_number": "04059",
+    "mext_food_name": "だいず　［その他］　湯葉　生",
+    "usda_fdc_id": "173788",
+    "usda_description": "HOUSE FOODS Premium Firm Tofu",
+    "distance": 1.2009099095003342,
+    "match_reason": "湯葉（大豆由来の皮）は大豆由来の加工品であり、候補の豆腐（HOUSE FOODS Premium Firm Tofu, FDC 173788）が同一原料から作られるため最も妥当"
+  },
+  {
+    "mext_food_number": "04064",
+    "mext_food_name": "つるあずき　全粒　乾",
+    "usda_fdc_id": "174256",
+    "usda_description": "Mung beans, mature seeds, raw",
+    "distance": 1.1418770647960845,
+    "match_reason": "つるあずき（小豆, Vigna属）に対して、候補に同属のMung beans (Vigna radiata, FDC 174256) が含まれており、同属の近縁種として妥当な代替と判断"
+  },
+  {
+    "mext_food_number": "04065",
+    "mext_food_name": "ひよこまめ　全粒　乾",
+    "usda_fdc_id": "173756",
+    "usda_description": "Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",
+    "distance": 1.0547633251460995,
+    "match_reason": "ひよこまめ（chickpeas, Cicer arietinum）は候補に正確に該当するChickpeas, mature seeds, raw (FDC 173756) があり、同一食材のため最良のマッチ"
+  },
+  {
+    "mext_food_number": "04108",
+    "mext_food_name": "やぶまめ　乾",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補に「やぶまめ（藪豆）」と同一または近種と明確に判断できる生・乾燥豆の項目がないため。候補は主に大豆加工品や一般的な豆類だが、やぶまめ特有の生豆に相当するものがない。"
+  },
+  {
+    "mext_food_number": "04073",
+    "mext_food_name": "レンズまめ　全粒　乾",
+    "usda_fdc_id": "172420",
+    "usda_description": "Lentils, raw",
+    "distance": 1.1570181927155716,
+    "match_reason": "レンズまめ 全粒 乾はそのままlentilsに該当するため、Lentils, raw (FDC ID: 172420)が同一の食材。"
+  },
+  {
+    "mext_food_number": "05023",
+    "mext_food_name": "はす　未熟　生",
+    "usda_fdc_id": "168591",
+    "usda_description": "Seeds, lotus seeds, raw",
+    "distance": 1.3004276040983396,
+    "match_reason": "はす（蓮）の未熟なもの／蓮に関連する食品として、Seeds, lotus seeds, raw (FDC ID: 168591)が最も近く同一性が高い。"
+  },
+  {
+    "mext_food_number": "06015",
+    "mext_food_name": "えだまめ　生",
+    "usda_fdc_id": "168410",
+    "usda_description": "Edamame, frozen, unprepared",
+    "distance": 1.0701920754914591,
+    "match_reason": "えだまめ 生は未熟大豆（green soybean）であり、Edamame, frozen, unprepared (FDC ID: 168410)が同一食材の調理状態違いとして最も適切。"
+  },
+  {
+    "mext_food_number": "06092",
+    "mext_food_name": "しかくまめ　若ざや　生",
+    "usda_fdc_id": "169320",
+    "usda_description": "Beans, snap, yellow, raw",
+    "distance": 0.9270859756274221,
+    "match_reason": "しかくまめ（四角豆）はさやを食べる豆類の若さや材であり、同じさや系の野菜としてBeans, snap, yellow, raw (FDC ID: 169320)が近種・近用途で妥当と判断。"
+  },
+  {
+    "mext_food_number": "06149",
+    "mext_food_name": "たけのこ　若茎　生",
+    "usda_fdc_id": "169314",
+    "usda_description": "Asparagus, canned, no salt added, solids and liquids",
+    "distance": 1.1204627566107244,
+    "match_reason": "たけのこ 若茎 生は若い茎（shoot）を食べる野菜であり、若茎を食用とするAsparagus（缶詰品だが同じ芽/茎類の野菜）Asparagus, canned, no salt added (FDC ID: 169314)が最も類似。"
+  },
+  {
+    "mext_food_number": "06185",
+    "mext_food_name": "（トマト類）　加工品　トマトジュース　食塩添加",
+    "usda_fdc_id": "167708",
+    "usda_description": "Tomato and vegetable juice, low sodium",
+    "distance": 1.4112613075565055,
+    "match_reason": "（トマト類）加工品 トマトジュース 食塩添加は加工トマト飲料に該当するため、同じ製品群のTomato and vegetable juice, low sodium (FDC ID: 167708)を近似として選択（食塩添加版は候補にない）。"
+  },
+  {
+    "mext_food_number": "06191",
+    "mext_food_name": "（なす類）　なす　果実　生",
+    "usda_fdc_id": "169228",
+    "usda_description": "Eggplant, raw",
+    "distance": 1.1279588376367446,
+    "match_reason": "（なす類）なす 果実 生はEggplant, raw (FDC ID: 169228)と同一の食材。"
+  },
+  {
+    "mext_food_number": "06193",
+    "mext_food_name": "（なす類）　べいなす　果実　生",
+    "usda_fdc_id": "169228",
+    "usda_description": "Eggplant, raw",
+    "distance": 0.9494010905060299,
+    "match_reason": "（なす類）べいなす 果実 生は品種違いのナス（米なす等）であり、基本的にEggplant, raw (FDC ID: 169228)と同一または近種。"
+  },
+  {
+    "mext_food_number": "06194",
+    "mext_food_name": "（なす類）　べいなす　果実　素揚げ",
+    "usda_fdc_id": "169228",
+    "usda_description": "Eggplant, raw",
+    "distance": 1.1298549660669577,
+    "match_reason": "（なす類）べいなす 果実 素揚げは調理法が異なるが原料はナスであるため、Eggplant, raw (FDC ID: 169228)が最も近い（調理状態の違いは許容）。"
+  },
+  {
+    "mext_food_number": "06256",
+    "mext_food_name": "（ふき類）　ふき　葉柄　生",
+    "usda_fdc_id": "170385",
+    "usda_description": "Butterbur, (fuki), raw",
+    "distance": 2.345104238384488,
+    "match_reason": "同一食材: ふき (Butterbur)、候補にButterbur, (fuki), raw (FDC 170385) があるため同一と判断"
+  },
+  {
+    "mext_food_number": "06258",
+    "mext_food_name": "（ふき類）　ふきのとう　花序　生",
+    "usda_fdc_id": "169205",
+    "usda_description": "Artichokes, (globe or french), raw",
+    "distance": 1.0499610707222948,
+    "match_reason": "機能・分類上の近接性: ふきのとうは食用の花蕾（花序）で、Artichoke (globe/french) も未成熟の花蕾として扱われ、両者はAsteraceae（キク科）に属するため近似と判断"
+  },
+  {
+    "mext_food_number": "06286",
+    "mext_food_name": "（もやし類）　アルファルファもやし　生",
+    "usda_fdc_id": "170079",
+    "usda_description": "Beans, mung, mature seeds, sprouted, canned, drained solids",
+    "distance": 0.8854797509007701,
+    "match_reason": "形態・利用法の近接性: アルファルファもやしは『スプラウト（発芽茎）』であり、候補の Beans, mung, sprouted (FDC 170079) は別種のスプラウトだが同じく発芽野菜として最も近い"
+  },
+  {
+    "mext_food_number": "06287",
+    "mext_food_name": "（もやし類）　だいずもやし　生",
+    "usda_fdc_id": "172446",
+    "usda_description": "Soymilk, original and vanilla, unfortified",
+    "distance": 0.8264636752835715,
+    "match_reason": "同一種（大豆）を原料とする製品: だいずもやしは大豆由来の発芽体だが、候補に大豆由来の食品（soymilk, FDC 172446）があり、種としての同一性が最も高いため採用"
+  },
+  {
+    "mext_food_number": "06289",
+    "mext_food_name": "（もやし類）　ブラックマッペもやし　生",
+    "usda_fdc_id": "170079",
+    "usda_description": "Beans, mung, mature seeds, sprouted, canned, drained solids",
+    "distance": 0.7901288674519493,
+    "match_reason": "近種・カテゴリ一致: ブラックマッペもやしは黒マッペ（ウラッド等）等の豆類の発芽体であり、候補のBeans, mung, sprouted (FDC 170079) は同じく豆類のスプラウトでカテゴリ的に最も近い"
+  },
+  {
+    "mext_food_number": "06291",
+    "mext_food_name": "（もやし類）　りょくとうもやし　生",
+    "usda_fdc_id": "170079",
+    "usda_description": "Beans, mung, mature seeds, sprouted, canned, drained solids",
+    "distance": 1.53103048803125,
+    "match_reason": "同一性: りょくとう（緑豆＝mung）もやしは緑豆の発芽体であり、候補の Beans, mung, sprouted (FDC 170079) と同一カテゴリ／種に相当するため"
+  },
+  {
+    "mext_food_number": "07018",
+    "mext_food_name": "（かんきつ類）　いよかん　砂じょう　生",
+    "usda_fdc_id": "169100",
+    "usda_description": "Orange juice, chilled, includes from concentrate",
+    "distance": 0.7966895483543825,
+    "match_reason": "分類上の近接性: いよかんは柑橘類（みかん系）であり、候補にあるOrange juice (FDC 169100) は同じく柑橘類に該当するため代替として妥当"
+  },
+  {
+    "mext_food_number": "07040",
+    "mext_food_name": "（かんきつ類）　オレンジ　ネーブル　砂じょう　生",
+    "usda_fdc_id": "169097",
+    "usda_description": "Oranges, raw, all commercial varieties",
+    "distance": 1.0166496096955813,
+    "match_reason": "同一食群・近種: オレンジ（ネーブル）は候補の Oranges, raw, all commercial varieties (FDC 169097) と同一の果実カテゴリのため最適な一致"
+  },
+  {
+    "mext_food_number": "07113",
+    "mext_food_name": "（かんきつ類）　ひゅうがなつ　砂じょう　生",
+    "usda_fdc_id": "167754",
+    "usda_description": "Pummelo, raw",
+    "distance": 1.2161465148899668,
+    "match_reason": "分類上の近接性: ひゅうがなつは大型／酸味のある柑橘であり、候補のPummelo (FDC 167754) は形態・風味傾向が近い大型柑橘として最も適合"
+  },
+  {
+    "mext_food_number": "07129",
+    "mext_food_name": "（かんきつ類）　ぽんかん　砂じょう　生",
+    "usda_fdc_id": "169100",
+    "usda_description": "Orange juice, chilled, includes from concentrate",
+    "distance": 0.8258016120528803,
+    "match_reason": "分類上の近接性: ぽんかんはみかん類（マンダリン系）であり、候補にあるOrange juice (FDC 169100) は同じ柑橘類の代表的代替であり実用的な近似"
+  },
+  {
+    "mext_food_number": "07096",
+    "mext_food_name": "なつめやし　乾",
+    "usda_fdc_id": "171726",
+    "usda_description": "Dates, deglet noor",
+    "distance": 1.3888296577971606,
+    "match_reason": "なつめやし（デーツ）に対し、Dates, deglet noorは同一のドライデーツ類であり、同種または近種の一致と判断"
+  },
+  {
+    "mext_food_number": "07099",
+    "mext_food_name": "パインアップル　果実飲料　濃縮還元ジュース",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にパインアップル／パイナップル果汁（濃縮還元ジュース）に相当する食品が含まれていないため一致するものがない"
+  },
+  {
+    "mext_food_number": "07179",
+    "mext_food_name": "マンゴー　ドライマンゴー",
+    "usda_fdc_id": "167795",
+    "usda_description": "Fruit juice smoothie, NAKED JUICE, MIGHTY MANGO",
+    "distance": 1.6886992500381306,
+    "match_reason": "ドライマンゴーに対し、NAKED JUICE, MIGHTY MANGOは同じマンゴーを原料とする製品であり、果実の同一性（別加工形態）として最も適切と判断"
+  },
+  {
+    "mext_food_number": "07147",
+    "mext_food_name": "りゅうがん　乾",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にりゅうがん（ロンガン／longan）に相当する食品や近種が含まれていないため一致するものがない"
+  },
+  {
+    "mext_food_number": "08053",
+    "mext_food_name": "しいたけ　乾しいたけ　甘煮",
+    "usda_fdc_id": "168582",
+    "usda_description": "Mushrooms, straw, canned, drained solids",
+    "distance": 1.6222435561128647,
+    "match_reason": "しいたけ（きのこ類）に対し、Mushrooms, straw, cannedは同じきのこ類の別種（近種）であり、食材カテゴリとしての一致と判断"
+  },
+  {
+    "mext_food_number": "09056",
+    "mext_food_name": "（こんぶ類）　まこんぶ　素干し　水煮",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にまこんぶ／昆布などの海藻類に相当する食品が含まれていないため一致するものがない"
+  },
+  {
+    "mext_food_number": "09033",
+    "mext_food_name": "ひとえぐさ　つくだ煮",
+    "usda_fdc_id": null,
+    "usda_description": null,
+    "distance": null,
+    "match_reason": "NO_MATCH: 候補にひとえぐさ（海藻）の相当品や近種が含まれていないため一致するものがない"
   }
 ]

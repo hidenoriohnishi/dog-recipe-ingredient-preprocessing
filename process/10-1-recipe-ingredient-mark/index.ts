@@ -1,15 +1,15 @@
 import dotenv from "dotenv";
-import { mkdir, readFile, writeFile, appendFile } from "fs/promises";
+import { mkdir, readFile, writeFile, appendFile, access } from "fs/promises";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 import { generateObject } from "ai";
 import { openai } from "@ai-sdk/openai";
+import { z } from "zod";
 import {
   calculateCost,
   formatCost,
   type CostResult,
 } from "../../utils/cost-calculator.js";
-import { z } from "zod";
 
 dotenv.config();
 
@@ -28,6 +28,18 @@ const outputFile = join(resultDir, "final-nutrition-with-recipe-flag.csv");
 
 const BATCH_SIZE = 20;
 const MODEL_NAME = "gpt-5-mini-2025-08-07";
+
+// Zodスキーマ定義（Chain of Thought: reasonを先に）
+const FoodEvaluationSchema = z.object({
+  index: z.number().int().positive(),
+  reason: z.string().describe("判定理由（推論プロセス）"),
+  decision: z.enum(["MATCH", "NOMATCH"]).describe("reasonに基づく判定結果"),
+  matched_label_path: z.string().describe("該当ラベルパス。NOMATCHの場合は空文字列"),
+});
+
+const FoodEvaluationsSchema = z.object({
+  evaluations: z.array(FoodEvaluationSchema),
+});
 
 interface IngredientLabel {
   id: string;
@@ -55,13 +67,9 @@ interface BatchFood {
 
 interface MappingResult {
   foodNumber: string;
-  labelPaths: string[];
+  decision: "MATCH" | "NOMATCH";
+  labelPath: string;
   reason: string;
-}
-
-interface LabelMatcher {
-  pathString: string;
-  normalizedKeywords: string[];
 }
 
 interface Progress {
@@ -69,29 +77,7 @@ interface Progress {
   headerWritten: boolean;
 }
 
-const EXTRA_COLUMNS = [
-  "recipe_ai_reason",
-  "is_recipe_ingredient",
-  "recipe_label_paths",
-];
-
-const evaluationSchema = z.object({
-  index: z
-    .number()
-    .int()
-    .describe("1から始まる食品のバッチ内インデックス"),
-  reason: z
-    .string()
-    .min(1)
-    .describe(
-      "まず理由を書き、どのラベルに該当する/しないかを説明する。一般的な食材を優先する意図も明記する"
-    ),
-  matched_label_paths: z
-    .array(z.string().min(1))
-    .describe(
-      "一致したラベルの階層パスを『カテゴリ > ... > ラベル』形式で1〜3件まで列挙する。該当しない場合も空配列を必ず返す"
-    ),
-});
+const EXTRA_COLUMNS = ["is_recipe_ingredient", "recipe_label_path"];
 
 async function loadProgress(): Promise<Progress> {
   try {
@@ -237,89 +223,15 @@ function extractLabels(
 }
 
 function generateLabelListString(labels: IngredientLabel[]): string {
+  // 簡潔に: 各ラベルの代表的な食材のみをリスト化
   return labels
     .map((label) => {
-      const displayNames = label.ingredientNames.slice(0, 5);
-      const hasMore = label.ingredientNames.length > 5;
-      const ingredientList = displayNames
-        .map((name, idx) => `  ${idx + 1}. ${name}`)
-        .join("\n");
-      const suffix = hasMore
-        ? `\n  ...等（全${label.ingredientNames.length}件）`
-        : "";
-      return `ラベルID: ${label.id}\n階層パス: ${label.path.join(
-        " > "
-      )}\nサンプル食材:\n${ingredientList}${suffix}`;
+      const path = label.path.join(" > ");
+      const samples = label.ingredientNames.slice(0, 3).join(", ");
+      const count = label.ingredientNames.length;
+      return `- ${path}: ${samples}${count > 3 ? ` 他${count - 3}件` : ""}`;
     })
-    .join("\n\n");
-}
-
-function normalizeForMatch(value: string): string {
-  return value
-    .toLowerCase()
-    .replace(/[\s\u3000]/g, "")
-    .replace(/[ー―−‐]/g, "-");
-}
-
-function buildLabelMatchers(labels: IngredientLabel[]): LabelMatcher[] {
-  const matchers: LabelMatcher[] = [];
-
-  for (const label of labels) {
-    const keywords = new Set<string>();
-    const leafName = label.path[label.path.length - 1];
-    if (leafName) {
-      keywords.add(leafName);
-    }
-
-    for (const segment of label.path) {
-      if (segment) {
-        keywords.add(segment);
-      }
-    }
-    for (const name of label.ingredientNames) {
-      if (name) {
-        keywords.add(name);
-      }
-    }
-
-    const normalizedKeywords = Array.from(keywords)
-      .map((keyword) => normalizeForMatch(keyword))
-      .filter((keyword) => keyword.length > 0);
-
-    matchers.push({
-      pathString: label.path.join(" > "),
-      normalizedKeywords,
-    });
-  }
-
-  return matchers;
-}
-
-function inferLabelPathsFromReason(
-  reason: string,
-  matchers: LabelMatcher[],
-  limit: number = 3
-): string[] {
-  const normalizedReason = normalizeForMatch(reason || "");
-  if (!normalizedReason) {
-    return [];
-  }
-
-  const matches: string[] = [];
-  for (const matcher of matchers) {
-    if (
-      matcher.normalizedKeywords.some(
-        (keyword) => keyword && normalizedReason.includes(keyword)
-      )
-    ) {
-      matches.push(matcher.pathString);
-      if (matches.length >= limit) {
-        break;
-      }
-    }
-  }
-
-  return matches;
+    .join("\n");
 }
 
 function parseSearchKeys(raw?: string): string[] {
@@ -371,78 +283,59 @@ async function mapFoods(
   const foodListString = buildFoodListString(batchFoods);
 
   const prompt = `
-あなたは犬用レシピの食材キュレーターです。以下のMEXT食品が、犬のレシピで日常的によく使われる食材ラベル（ingredients-structured.jsonの最下層ラベル）に該当するか判定してください。目的は、将来のレシピ生成時にAIが主要な食材を優先的に選べるようにすることです。一般的で入手しやすい食材は積極的にラベル付けし、極端にマイナーな食材は慎重に扱ってください。
-
-## ラベル一覧
+以下は犬のレシピで実際に使われた食材のリストです:
 ${labelListString}
 
-## 判定対象
+判定対象のMEXT食品:
 ${foodListString}
 
-## 判定手順
-1. まず理由を考え、どのラベルに一致する/しないのかを文章で説明する。
-2. 理由で「このラベルに該当する」「〇〇カテゴリの典型的食材」など肯定した場合は、そのラベルの階層パス（"カテゴリ > ... > ラベル"）を1〜3件挙げる。否定の場合は空配列のままにする。
-3. 調理状態や乾燥/ゆでなどの差は無視してよい。同じ食材と判断できるなら肯定する。ただし極端に稀な/入手困難な食材は慎重に扱う。
-4. 出力では reason を最初に書き、続いて matched_label_paths を記載する。必ず matched_label_paths を出力し、該当ラベルが無ければ空配列 [] を返す。配列に1件以上あれば、その食品はレシピ実績食材（TRUE）とみなす。
+各MEXT食品について、上記の「実績のある食材リスト」に該当するかを判定してください。
 
-## 出力形式
-\`\`\`
-[
-  {
-    "index": 1,
-    "reason": "にんじんの一種のため",
-    "matched_label_paths": ["野菜 > 根菜類 > にんじん"]
-  }
-]
-\`\`\`
+出力形式（Chain of Thought）:
+1. reason: なぜそう判断するか（推論プロセスを記述）
+2. decision: reasonに基づく判定結果（"MATCH" または "NOMATCH"）
+3. matched_label_path: MATCHの場合は該当するラベルパス、NOMATCHの場合は空文字列 ""
+
+調理状態（生/ゆで/焼き等）の違いは無視してください。同じ食材なら"MATCH"です。
 `;
 
   try {
     const response = await generateObject({
       model: openai(MODEL_NAME),
+      schema: FoodEvaluationsSchema,
+      mode: 'json',
       prompt,
-      temperature: 0,
-      schema: z.object({
-        evaluations: z
-          .array(evaluationSchema)
-          .describe("バッチ内の各食品に対する判定結果"),
-      }),
     });
 
-    const inputTokens = response.usage?.promptTokens || 0;
-    const outputTokens = response.usage?.completionTokens || 0;
+    // AI SDKの標準的なusage構造を使用
+    const inputTokens = response.usage?.inputTokens || 0;
+    const outputTokens = response.usage?.outputTokens || 0;
+    const reasoningTokens = response.usage?.outputTokenDetails?.reasoningTokens || 0;
+
+    if (reasoningTokens > 0) {
+      console.log(`トークン: 入力=${inputTokens}, 出力=${outputTokens} (推論=${reasoningTokens}含む)`);
+    }
+
     const cost = calculateCost(MODEL_NAME, inputTokens, outputTokens);
     console.log(formatCost(cost));
-    if (response.object.evaluations.length > 0) {
-      console.log(
-        `AI出力サンプル: ${JSON.stringify(
-          response.object.evaluations[0]
-        )}`
-      );
-    }
+
+    const evaluations = response.object.evaluations;
+    console.log(`AI出力: ${evaluations.length}件の評価を取得`);
 
     const results: MappingResult[] = [];
 
-    for (const evaluation of response.object.evaluations) {
-      const indexValue = Number(evaluation.index);
-      if (!Number.isFinite(indexValue)) {
-        continue;
-      }
-
-      const item = batchFoods.find((bf) => bf.batchIndex === indexValue);
+    for (const evaluation of evaluations) {
+      const item = batchFoods.find((bf) => bf.batchIndex === evaluation.index);
       if (!item) {
+        console.warn(`警告: index ${evaluation.index} に該当する食品が見つかりません`);
         continue;
       }
-
-      const labelPathsRaw = evaluation.matched_label_paths || [];
-      const labelPaths = Array.isArray(labelPathsRaw)
-        ? labelPathsRaw.map((value) => String(value)).filter((value) => value.trim())
-        : [];
 
       results.push({
         foodNumber: item.food.food_number,
-        labelPaths,
-        reason: evaluation.reason || "",
+        decision: evaluation.decision,
+        labelPath: evaluation.matched_label_path?.trim() || "",
+        reason: evaluation.reason,
       });
     }
 
@@ -452,7 +345,8 @@ ${foodListString}
     return {
       results: batchFoods.map((bf) => ({
         foodNumber: bf.food.food_number,
-        labelPaths: [],
+        decision: "NOMATCH" as const,
+        labelPath: "",
         reason: `ERROR: ${String(error)}`,
       })),
       cost: null,
@@ -506,17 +400,6 @@ async function ensureHeader(headers: string[], progress: Progress): Promise<void
   }
 }
 
-function buildLabelPathSet(labels: IngredientLabel[]): Set<string> {
-  return new Set(labels.map((label) => label.path.join(" > ")));
-}
-
-function normalizeLabelPaths(paths: string[], validPaths: Set<string>): string[] {
-  const cleaned = paths
-    .map((path) => path.replace(/\s+/g, " ").trim())
-    .filter((path) => validPaths.has(path));
-  return Array.from(new Set(cleaned)).slice(0, 3);
-}
-
 async function main() {
   await mkdir(resultDir, { recursive: true });
   await mkdir(batchResultsDir, { recursive: true });
@@ -528,8 +411,6 @@ async function main() {
   const ingredientsData = JSON.parse(ingredientsContent);
   const labels = extractLabels(ingredientsData);
   const labelListString = generateLabelListString(labels);
-  const validLabelPaths = buildLabelPathSet(labels);
-  const labelMatchers = buildLabelMatchers(labels);
 
   const { headers, foods } = await loadMEXTFoods();
   console.log(`MEXT食品数: ${foods.length}`);
@@ -549,10 +430,11 @@ async function main() {
   console.log(`未処理食品: ${unprocessedFoods.length}`);
 
   let totalCost: CostResult | null = null;
+  const alreadyProcessedBatches = Math.floor(processedSet.size / BATCH_SIZE);
 
   for (let i = 0; i < unprocessedFoods.length; i += BATCH_SIZE) {
     const batchFoodsRaw = unprocessedFoods.slice(i, i + BATCH_SIZE);
-    const batchNumber = Math.floor(i / BATCH_SIZE) + 1;
+    const batchNumber = alreadyProcessedBatches + Math.floor(i / BATCH_SIZE) + 1;
 
     const batchFoods: BatchFood[] = batchFoodsRaw.map((food, idx) => ({
       batchIndex: idx + 1,
@@ -583,29 +465,20 @@ async function main() {
 
     for (const bf of batchFoods) {
       const evaluation = results.find((r) => r.foodNumber === bf.food.food_number);
-      const labelPaths = evaluation
-        ? normalizeLabelPaths(evaluation.labelPaths, validLabelPaths)
-        : [];
-      const reason = evaluation?.reason || "";
-      const inferredPaths = labelPaths.length > 0
-        ? labelPaths
-        : inferLabelPathsFromReason(reason, labelMatchers);
-      const isRecipeIngredient = inferredPaths.length > 0;
+      const isRecipeIngredient = evaluation?.decision === "MATCH";
+      const labelPath = evaluation?.labelPath || "";
 
       const rowValues = [...bf.food.rawRecord];
-      rowValues.push(
-        reason,
-        isRecipeIngredient ? "TRUE" : "FALSE",
-        inferredPaths.join(" | ")
-      );
+      rowValues.push(isRecipeIngredient ? "TRUE" : "FALSE");
+      rowValues.push(labelPath);
 
       rowsToAppend.push(serializeCsvRow(rowValues));
       batchResultOutput.push({
-        reason,
         foodNumber: bf.food.food_number,
         foodName: bf.food.food_name,
         isRecipeIngredient,
-        labelPaths: inferredPaths,
+        reason: evaluation?.reason || "",
+        labelPath,
       });
     }
 
