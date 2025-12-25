@@ -1,0 +1,146 @@
+{
+  "batchNumber": 3,
+  "timestamp": "2025-12-25T00:48:06.708Z",
+  "results": [
+    {
+      "foodNumber": "01064",
+      "foodName": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでパスタ／スパゲッティは実績リストの「穀物・麺類 > パスタ」に該当するため。",
+      "labelPath": "穀物・麺類 > パスタ"
+    },
+    {
+      "foodNumber": "01149",
+      "foodName": "こむぎ　［マカロニ・スパゲッティ類］　生パスタ　生",
+      "isRecipeIngredient": true,
+      "reason": "生パスタは実績リストの「穀物・麺類 > パスタ」に含まれる一般的なパスタ類と対応。",
+      "labelPath": "穀物・麺類 > パスタ"
+    },
+    {
+      "foodNumber": "01066",
+      "foodName": "こむぎ　［ふ類］　焼きふ　釜焼きふ",
+      "isRecipeIngredient": true,
+      "reason": "釜焼き麩は実績リストの「加工食材 > お麩」に該当するため。",
+      "labelPath": "加工食材 > お麩"
+    },
+    {
+      "foodNumber": "01067",
+      "foodName": "こむぎ　［ふ類］　焼きふ　板ふ",
+      "isRecipeIngredient": true,
+      "reason": "板麩は実績リストの「加工食材 > お麩」でカバーされる。",
+      "labelPath": "加工食材 > お麩"
+    },
+    {
+      "foodNumber": "01068",
+      "foodName": "こむぎ　［ふ類］　焼きふ　車ふ",
+      "isRecipeIngredient": true,
+      "reason": "車麩も実績リストの一般ラベル「加工食材 > お麩」に該当。",
+      "labelPath": "加工食材 > お麩"
+    },
+    {
+      "foodNumber": "01071",
+      "foodName": "こむぎ　［その他］　小麦たんぱく　粉末状",
+      "isRecipeIngredient": false,
+      "reason": "「小麦たんぱく（粉末）」は実績リストに同名または明確に対応するラベルが無く、新規ラベル作成は不可のため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01074",
+      "foodName": "こむぎ　［その他］　ぎょうざの皮　生",
+      "isRecipeIngredient": false,
+      "reason": "餃子の皮（生）は実績リストに同名ラベルが無いため（既存ラベルへ適切にマッピングできない）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01179",
+      "foodName": "こむぎ　［その他］　春巻きの皮　生",
+      "isRecipeIngredient": false,
+      "reason": "春巻きの皮（生）は実績リストに同名ラベルがないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01077",
+      "foodName": "こむぎ　［その他］　パン粉　生",
+      "isRecipeIngredient": true,
+      "reason": "パン粉は実績リストにある穀類系ラベル（穀物・麺類 > パン粉）に該当するため。",
+      "labelPath": "穀物・麺類 > パン粉"
+    },
+    {
+      "foodNumber": "01078",
+      "foodName": "こむぎ　［その他］　パン粉　半生",
+      "isRecipeIngredient": true,
+      "reason": "半生のパン粉も実績リストの「穀物・麺類 > パン粉」で包括可能なため。",
+      "labelPath": "穀物・麺類 > パン粉"
+    },
+    {
+      "foodNumber": "01150",
+      "foodName": "こむぎ　［その他］　冷めん　生",
+      "isRecipeIngredient": false,
+      "reason": "冷めん（生）は実績リストに同等のラベル（冷めん／冷麺）が見当たらないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01080",
+      "foodName": "こめ　［水稲穀粒］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "玄米は実績リストの「穀物・麺類 > 玄米」に該当するため。",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01081",
+      "foodName": "こめ　［水稲穀粒］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "半つき米は実績リストに「穀物・麺類 > 半つき米」として存在するため。",
+      "labelPath": "穀物・麺類 > 半つき米"
+    },
+    {
+      "foodNumber": "01082",
+      "foodName": "こめ　［水稲穀粒］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "七分つき米は実績リストの「穀物・麺類 > 七分つき米」に該当。",
+      "labelPath": "穀物・麺類 > 七分つき米"
+    },
+    {
+      "foodNumber": "01083",
+      "foodName": "こめ　［水稲穀粒］　精白米　うるち米",
+      "isRecipeIngredient": true,
+      "reason": "精白のうるち米は実績リストの「穀物・麺類 > 白米（うるち米）」に対応するため。",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01151",
+      "foodName": "こめ　［水稲穀粒］　精白米　もち米",
+      "isRecipeIngredient": true,
+      "reason": "精白のもち米は実績リストの「穀物・麺類 > もち米」に該当。",
+      "labelPath": "穀物・麺類 > もち米"
+    },
+    {
+      "foodNumber": "01152",
+      "foodName": "こめ　［水稲穀粒］　精白米　インディカ米",
+      "isRecipeIngredient": true,
+      "reason": "インディカ米（精白）は実績リストの「穀物・麺類 > インディカ米」と一致するため。",
+      "labelPath": "穀物・麺類 > インディカ米"
+    },
+    {
+      "foodNumber": "01084",
+      "foodName": "こめ　［水稲穀粒］　はいが精米",
+      "isRecipeIngredient": true,
+      "reason": "はいが精米（胚芽米）は実績リストの「穀物・麺類 > 胚芽米」に該当するため。",
+      "labelPath": "穀物・麺類 > 胚芽米"
+    },
+    {
+      "foodNumber": "01153",
+      "foodName": "こめ　［水稲穀粒］　発芽玄米",
+      "isRecipeIngredient": true,
+      "reason": "発芽玄米は実績リストの「穀物・麺類 > 発芽玄米」に存在するため。",
+      "labelPath": "穀物・麺類 > 発芽玄米"
+    },
+    {
+      "foodNumber": "01181",
+      "foodName": "こめ　［水稲穀粒］　赤米",
+      "isRecipeIngredient": true,
+      "reason": "赤米は実績リストの「穀物・麺類 > 赤米」に該当するため。",
+      "labelPath": "穀物・麺類 > 赤米"
+    }
+  ]
+}

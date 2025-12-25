@@ -1,0 +1,146 @@
+{
+  "batchNumber": 50,
+  "timestamp": "2025-12-25T02:08:15.027Z",
+  "results": [
+    {
+      "foodNumber": "10211",
+      "foodName": "＜魚類＞　ちか　生",
+      "isRecipeIngredient": true,
+      "reason": "「ちか」固有ラベルは実績リストにないが、同カテゴリの一般ラベル「魚介類 > 白身魚」が存在するため代替可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10213",
+      "foodName": "＜魚類＞　どじょう　生",
+      "isRecipeIngredient": true,
+      "reason": "「どじょう」固有ラベルは実績リストにないが、魚類として一般的なカテゴリ「魚介類 > 白身魚」にマッピングできる。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10214",
+      "foodName": "＜魚類＞　どじょう　水煮",
+      "isRecipeIngredient": true,
+      "reason": "水煮状態の「どじょう」も固有ラベルはないが、既存の魚類一般ラベルに該当するため代替可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10215",
+      "foodName": "＜魚類＞　とびうお　生",
+      "isRecipeIngredient": true,
+      "reason": "「とびうお」固有ラベルは実績リストにないが、白身魚として既存ラベルに当てはまる。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10421",
+      "foodName": "＜魚類＞　とびうお　煮干し",
+      "isRecipeIngredient": true,
+      "reason": "「煮干し」の一般ラベル（魚介類 > 煮干し）が実績リストにあるため、とびうおの煮干しはそのラベルに該当。",
+      "labelPath": "魚介類 > 煮干し"
+    },
+    {
+      "foodNumber": "10422",
+      "foodName": "＜魚類＞　とびうお　焼き干し",
+      "isRecipeIngredient": true,
+      "reason": "焼き干しは固有ラベルがないが、乾燥・干物系の用途として既存の「魚介類 > 煮干し」ラベルに近似して割当可能（新規ラベルは作らない）。",
+      "labelPath": "魚介類 > 煮干し"
+    },
+    {
+      "foodNumber": "10212",
+      "foodName": "＜魚類＞　ナイルティラピア　生",
+      "isRecipeIngredient": true,
+      "reason": "ナイルティラピア（ティラピア）の固有ラベルはないが、白身魚として既存ラベルに該当。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10216",
+      "foodName": "＜魚類＞　なまず　生",
+      "isRecipeIngredient": true,
+      "reason": "なまずの固有ラベルは実績リストにないが、魚類一般（白身魚）ラベルにマッピングできる。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10217",
+      "foodName": "＜魚類＞　にぎす　生",
+      "isRecipeIngredient": true,
+      "reason": "にぎす固有ラベルはないが、白身魚カテゴリに含められるため既存ラベルに割当可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10218",
+      "foodName": "＜魚類＞　にしん　生",
+      "isRecipeIngredient": true,
+      "reason": "「にしん」（生）のラベルは実績リストに存在するため直接一致する。",
+      "labelPath": "魚介類 > にしん"
+    },
+    {
+      "foodNumber": "10220",
+      "foodName": "＜魚類＞　にしん　開き干し",
+      "isRecipeIngredient": true,
+      "reason": "開き干し等の加工状態はあるが、基礎ラベル「魚介類 > にしん」が実績リストにあるため該当。",
+      "labelPath": "魚介類 > にしん"
+    },
+    {
+      "foodNumber": "10221",
+      "foodName": "＜魚類＞　にしん　くん製",
+      "isRecipeIngredient": true,
+      "reason": "燻製も加工形態だが基礎ラベル「魚介類 > にしん」が実績リストにあるため該当。",
+      "labelPath": "魚介類 > にしん"
+    },
+    {
+      "foodNumber": "10222",
+      "foodName": "＜魚類＞　にしん　かずのこ　生",
+      "isRecipeIngredient": true,
+      "reason": "数の子（にしん由来）も固有ラベルはないが、元の魚ラベル「魚介類 > にしん」に対応可能。",
+      "labelPath": "魚介類 > にしん"
+    },
+    {
+      "foodNumber": "10225",
+      "foodName": "＜魚類＞　はぜ　生",
+      "isRecipeIngredient": true,
+      "reason": "はぜの固有ラベルはないが、魚類一般（白身魚）ラベルで代替可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10228",
+      "foodName": "＜魚類＞　はたはた　生",
+      "isRecipeIngredient": true,
+      "reason": "はたはた固有ラベルは実績にないが、白身魚カテゴリとして既存ラベルに含められる。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10229",
+      "foodName": "＜魚類＞　はたはた　生干し",
+      "isRecipeIngredient": true,
+      "reason": "生干しのはたはたも固有ラベルはないが、魚類一般（白身魚）ラベルにマッピング可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10230",
+      "foodName": "＜魚類＞　はまふえふき　生",
+      "isRecipeIngredient": true,
+      "reason": "はまふえふき固有ラベルは実績にないが、白身魚カテゴリへ割当可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10231",
+      "foodName": "＜魚類＞　はも　生",
+      "isRecipeIngredient": true,
+      "reason": "はも（鱧）は実績リストに固有ラベルがないが、白身魚の既存ラベルに該当させられる。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10233",
+      "foodName": "＜魚類＞　ひらまさ　生",
+      "isRecipeIngredient": true,
+      "reason": "ひらまさ固有ラベルは実績にないが、魚類の一般カテゴリ（白身魚）で代替可能。",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10234",
+      "foodName": "＜魚類＞　ひらめ　天然　生",
+      "isRecipeIngredient": true,
+      "reason": "「ひらめ」は実績リストに直接存在する（魚介類 > ヒラメ）ため一致。",
+      "labelPath": "魚介類 > ヒラメ"
+    }
+  ]
+}

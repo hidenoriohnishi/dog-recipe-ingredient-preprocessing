@@ -1,0 +1,146 @@
+{
+  "batchNumber": 51,
+  "timestamp": "2025-12-25T02:09:07.489Z",
+  "results": [
+    {
+      "foodNumber": "10235",
+      "foodName": "＜魚類＞　ひらめ　養殖　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ヒラメ」のラベルが存在するため",
+      "labelPath": "魚介類 > ヒラメ"
+    },
+    {
+      "foodNumber": "10410",
+      "foodName": "＜魚類＞　ひらめ　養殖　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ヒラメ」のラベルが存在するため（皮つき／皮なしは既存ラベルで包含可能）",
+      "labelPath": "魚介類 > ヒラメ"
+    },
+    {
+      "foodNumber": "10238",
+      "foodName": "＜魚類＞　ふな　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ふな」のラベルが存在するため",
+      "labelPath": "魚介類 > ふな"
+    },
+    {
+      "foodNumber": "10239",
+      "foodName": "＜魚類＞　ふな　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ふな」のラベルが存在するため（水煮も同ラベルで扱われている）",
+      "labelPath": "魚介類 > ふな"
+    },
+    {
+      "foodNumber": "10241",
+      "foodName": "＜魚類＞　ぶり　成魚　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ぶり」のラベルが存在するため",
+      "labelPath": "魚介類 > ぶり"
+    },
+    {
+      "foodNumber": "10242",
+      "foodName": "＜魚類＞　ぶり　成魚　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ぶり」のラベルが存在するため（焼きの状態も実績に含まれる）",
+      "labelPath": "魚介類 > ぶり"
+    },
+    {
+      "foodNumber": "10243",
+      "foodName": "＜魚類＞　ぶり　はまち　養殖　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ぶり」のラベルが存在するため（はまちもぶりカテゴリで扱われる）",
+      "labelPath": "魚介類 > ぶり"
+    },
+    {
+      "foodNumber": "10411",
+      "foodName": "＜魚類＞　ぶり　はまち　養殖　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ぶり」のラベルが存在するため（皮なし生も既存ラベルと対応）",
+      "labelPath": "魚介類 > ぶり"
+    },
+    {
+      "foodNumber": "10244",
+      "foodName": "＜魚類＞　ほうぼう　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ほうぼう」のラベルが存在するため",
+      "labelPath": "魚介類 > ほうぼう"
+    },
+    {
+      "foodNumber": "10245",
+      "foodName": "＜魚類＞　ホキ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ホキ」のラベルが存在するため",
+      "labelPath": "魚介類 > ホキ"
+    },
+    {
+      "foodNumber": "10246",
+      "foodName": "＜魚類＞　ほっけ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ほっけ」のラベルが存在するため",
+      "labelPath": "魚介類 > ほっけ"
+    },
+    {
+      "foodNumber": "10248",
+      "foodName": "＜魚類＞　ほっけ　開き干し　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ほっけ　開き干し　生」のラベルが存在するため",
+      "labelPath": "魚介類 > ほっけ　開き干し　生"
+    },
+    {
+      "foodNumber": "10412",
+      "foodName": "＜魚類＞　ほっけ　開き干し　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ほっけ　開き干し　焼き」のラベルが存在するため",
+      "labelPath": "魚介類 > ほっけ　開き干し　焼き"
+    },
+    {
+      "foodNumber": "10249",
+      "foodName": "＜魚類＞　ぼら　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ぼら」のラベルが存在するため",
+      "labelPath": "魚介類 > ぼら"
+    },
+    {
+      "foodNumber": "10251",
+      "foodName": "＜魚類＞　ほんもろこ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ほんもろこ」のラベルが存在するため",
+      "labelPath": "魚介類 > ほんもろこ"
+    },
+    {
+      "foodNumber": "10252",
+      "foodName": "＜魚類＞　（まぐろ類）　きはだ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > （まぐろ類）　きはだ　生」のラベルが存在するため",
+      "labelPath": "魚介類 > （まぐろ類）　きはだ　生"
+    },
+    {
+      "foodNumber": "10253",
+      "foodName": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > （まぐろ類）　くろまぐろ　天然　赤身　生」のラベルが存在するため",
+      "labelPath": "魚介類 > （まぐろ類）　くろまぐろ　天然　赤身　生"
+    },
+    {
+      "foodNumber": "10254",
+      "foodName": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > （まぐろ類）　くろまぐろ　天然　脂身　生」のラベルが存在するため",
+      "labelPath": "魚介類 > （まぐろ類）　くろまぐろ　天然　脂身　生"
+    },
+    {
+      "foodNumber": "10450",
+      "foodName": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > （まぐろ類）　くろまぐろ　養殖　赤身　生」のラベルが存在するため",
+      "labelPath": "魚介類 > （まぐろ類）　くろまぐろ　養殖　赤身　生"
+    },
+    {
+      "foodNumber": "10451",
+      "foodName": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > （まぐろ類）　くろまぐろ　養殖　赤身　水煮」のラベルが存在するため",
+      "labelPath": "魚介類 > （まぐろ類）　くろまぐろ　養殖　赤身　水煮"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batchNumber": 29,
+  "timestamp": "2025-12-25T01:20:48.629Z",
+  "results": [
+    {
+      "foodNumber": "06298",
+      "foodName": "ようさい　茎葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ようさい／洋菜」に相当するラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06299",
+      "foodName": "ようさい　茎葉　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ようさい／洋菜（ゆで）」に該当するラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06300",
+      "foodName": "よめな　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「よめな」のラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06302",
+      "foodName": "よもぎ　葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > よもぎ」が存在するため一致。",
+      "labelPath": "野菜 > よもぎ"
+    },
+    {
+      "foodNumber": "06319",
+      "foodName": "ルッコラ　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「ルッコラ」のラベルが見当たらないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06312",
+      "foodName": "（レタス類）　レタス　土耕栽培　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > レタス」が存在するため一致。",
+      "labelPath": "野菜 > レタス"
+    },
+    {
+      "foodNumber": "06361",
+      "foodName": "（レタス類）　レタス　水耕栽培　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > レタス」が存在するため一致（品種差は実績ラベルで吸収）。",
+      "labelPath": "野菜 > レタス"
+    },
+    {
+      "foodNumber": "06313",
+      "foodName": "（レタス類）　サラダな　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > サラダ菜」が存在するため一致。",
+      "labelPath": "野菜 > サラダ菜"
+    },
+    {
+      "foodNumber": "06314",
+      "foodName": "（レタス類）　リーフレタス　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > リーフレタス」が存在するため一致。",
+      "labelPath": "野菜 > リーフレタス"
+    },
+    {
+      "foodNumber": "06315",
+      "foodName": "（レタス類）　サニーレタス　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > サニーレタス」が存在するため一致。",
+      "labelPath": "野菜 > サニーレタス"
+    },
+    {
+      "foodNumber": "06362",
+      "foodName": "（レタス類）　サンチュ　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > サンチュ」が存在するため一致。",
+      "labelPath": "野菜 > サンチュ"
+    },
+    {
+      "foodNumber": "06316",
+      "foodName": "（レタス類）　コスレタス　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > コスレタス」が存在するため一致。",
+      "labelPath": "野菜 > コスレタス"
+    },
+    {
+      "foodNumber": "06317",
+      "foodName": "れんこん　根茎　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 蓮根」が存在するため一致。",
+      "labelPath": "野菜 > 蓮根"
+    },
+    {
+      "foodNumber": "06318",
+      "foodName": "れんこん　根茎　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 蓮根」が存在するため一致。",
+      "labelPath": "野菜 > 蓮根"
+    },
+    {
+      "foodNumber": "06382",
+      "foodName": "（その他）　ミックスベジタブル　冷凍",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > ミックスベジタブル」が存在するため一致。",
+      "labelPath": "野菜 > ミックスベジタブル"
+    },
+    {
+      "foodNumber": "06383",
+      "foodName": "（その他）　ミックスベジタブル　冷凍　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > ミックスベジタブル」が存在するため一致。",
+      "labelPath": "野菜 > ミックスベジタブル"
+    },
+    {
+      "foodNumber": "06384",
+      "foodName": "（その他）　ミックスベジタブル　冷凍　油いため",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > ミックスベジタブル」が存在するため一致。",
+      "labelPath": "野菜 > ミックスベジタブル"
+    },
+    {
+      "foodNumber": "07001",
+      "foodName": "あけび　果肉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「あけび」ラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07181",
+      "foodName": "アサイー　冷凍　無糖",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「アサイー」ラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07003",
+      "foodName": "アセロラ　酸味種　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「アセロラ」ラベルが存在しないため。",
+      "labelPath": ""
+    }
+  ]
+}

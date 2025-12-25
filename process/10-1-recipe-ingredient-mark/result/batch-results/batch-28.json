@@ -1,0 +1,146 @@
+{
+  "batchNumber": 28,
+  "timestamp": "2025-12-25T01:20:07.519Z",
+  "results": [
+    {
+      "foodNumber": "06360",
+      "foodName": "みぶな　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「みぶな／壬生菜」ラベルが存在しないため。既存ラベルに明確に対応するものがない。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06280",
+      "foodName": "（みょうが類）　みょうが　花穂　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > みょうが」が存在するため（みょうがの花穂は同ラベルで扱える）。",
+      "labelPath": "野菜 > みょうが"
+    },
+    {
+      "foodNumber": "06281",
+      "foodName": "（みょうが類）　みょうがたけ　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > みょうが」が存在するため（みょうがたけはみょうが類として同ラベルに対応可）。",
+      "labelPath": "野菜 > みょうが"
+    },
+    {
+      "foodNumber": "06282",
+      "foodName": "むかご　肉芽　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「むかご」ラベルが存在しないため。既存ラベルへの明確な対応（例：長芋等）と判断しづらい。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06283",
+      "foodName": "めキャベツ　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 芽キャベツ」が存在するため（めキャベツは同ラベルで対応可）。",
+      "labelPath": "野菜 > 芽キャベツ"
+    },
+    {
+      "foodNumber": "06284",
+      "foodName": "めキャベツ　結球葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 芽キャベツ」が存在するため（ゆででも同一食材ラベルで対応可）。",
+      "labelPath": "野菜 > 芽キャベツ"
+    },
+    {
+      "foodNumber": "06285",
+      "foodName": "めたで　芽ばえ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > めたで」が存在するため。",
+      "labelPath": "野菜 > めたで"
+    },
+    {
+      "foodNumber": "06286",
+      "foodName": "（もやし類）　アルファルファもやし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > スプラウト」が存在するため（アルファルファもやしはスプラウト類として対応可）。",
+      "labelPath": "野菜 > スプラウト"
+    },
+    {
+      "foodNumber": "06287",
+      "foodName": "（もやし類）　だいずもやし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（大豆もやしはもやしカテゴリで対応可）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06288",
+      "foodName": "（もやし類）　だいずもやし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（ゆでの状態でも同ラベルで扱える）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06412",
+      "foodName": "（もやし類）　だいずもやし　油いため",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（油いためもやしは調理状態の違いであって食材ラベルは同一）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06289",
+      "foodName": "（もやし類）　ブラックマッペもやし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（ブラックマッペもやしはもやしカテゴリに含められる）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06290",
+      "foodName": "（もやし類）　ブラックマッペもやし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（ゆで状態でも同ラベルで対応可）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06398",
+      "foodName": "（もやし類）　ブラックマッペもやし　油いため",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（油いためもやしは調理差で同ラベル対応）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06291",
+      "foodName": "（もやし類）　りょくとうもやし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（緑豆もやしはもやしカテゴリに該当）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06292",
+      "foodName": "（もやし類）　りょくとうもやし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（ゆで状態でも同ラベルで対応可）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06413",
+      "foodName": "（もやし類）　りょくとうもやし　油いため",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もやし」が存在するため（油いためもやしは調理差で同ラベル対応）。",
+      "labelPath": "野菜 > もやし"
+    },
+    {
+      "foodNumber": "06293",
+      "foodName": "モロヘイヤ　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > モロヘイヤ」が存在するため（茎葉は同ラベルで対応可）。",
+      "labelPath": "野菜 > モロヘイヤ"
+    },
+    {
+      "foodNumber": "06294",
+      "foodName": "モロヘイヤ　茎葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > モロヘイヤ」が存在するため（ゆででも同一食材ラベルで扱える）。",
+      "labelPath": "野菜 > モロヘイヤ"
+    },
+    {
+      "foodNumber": "06297",
+      "foodName": "ゆりね　りん茎　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ゆりね／百合根」ラベルが存在しないため。既存ラベルに明確に対応するものがない。",
+      "labelPath": ""
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batchNumber": 14,
+  "timestamp": "2025-12-25T01:04:41.578Z",
+  "results": [
+    {
+      "foodNumber": "04108",
+      "foodName": "やぶまめ　乾",
+      "isRecipeIngredient": false,
+      "reason": "やぶまめ（藪豆）に対応する実績ラベルが一覧に存在しない（一般的な中規模スーパーでもあまり流通しないため既存ラベルにマッピング不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "04093",
+      "foodName": "らいまめ　全粒　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "らいまめ／ライマメのラベルが実績リストに無い（代替ラベルも明確でない）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "04071",
+      "foodName": "りょくとう　全粒　乾",
+      "isRecipeIngredient": false,
+      "reason": "りょくとう（緑豆）のラベルは実績リストに見当たらない（豆類でも該当ラベルなし）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "04072",
+      "foodName": "りょくとう　全粒　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "ゆでりょくとう（緑豆・加熱済）も実績リストに該当ラベルがない",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "04073",
+      "foodName": "レンズまめ　全粒　乾",
+      "isRecipeIngredient": true,
+      "reason": "レンズまめ（レンズ豆）は実績リストに存在するラベルと一致する",
+      "labelPath": "豆・ごま > レンズ豆"
+    },
+    {
+      "foodNumber": "04094",
+      "foodName": "レンズまめ　全粒　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでレンズまめも同じく実績リストのレンズ豆ラベルに対応可能",
+      "labelPath": "豆・ごま > レンズ豆"
+    },
+    {
+      "foodNumber": "05003",
+      "foodName": "あさ　乾",
+      "isRecipeIngredient": false,
+      "reason": "あさ（麻の実）のラベルは実績リストに無い（麻の実は一般的ラベルに含まれていない）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "05041",
+      "foodName": "あまに　いり",
+      "isRecipeIngredient": false,
+      "reason": "あまに（亜麻仁・フラックスシード）の種子ラベルは実績リストに無く、油ラベル（亜麻仁油）とは別物のため不一致",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "05004",
+      "foodName": "えごま　乾",
+      "isRecipeIngredient": false,
+      "reason": "えごま（荏胡麻）の種子ラベルは実績リストにない（えごま油はあるが種子ラベルは無い）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "05010",
+      "foodName": "（くり類）　日本ぐり　生",
+      "isRecipeIngredient": true,
+      "reason": "日本ぐり（和栗）は実績リストの「果実 > 栗」に該当する",
+      "labelPath": "果実 > 栗"
+    },
+    {
+      "foodNumber": "05011",
+      "foodName": "（くり類）　日本ぐり　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆで和栗も実績リストの「果実 > 栗」に対応可能",
+      "labelPath": "果実 > 栗"
+    },
+    {
+      "foodNumber": "05013",
+      "foodName": "（くり類）　中国ぐり　甘ぐり",
+      "isRecipeIngredient": true,
+      "reason": "甘栗（中国ぐり）は実績リストの「果実 > 栗」に該当する",
+      "labelPath": "果実 > 栗"
+    },
+    {
+      "foodNumber": "05017",
+      "foodName": "ごま　乾",
+      "isRecipeIngredient": true,
+      "reason": "ごま（乾）は実績リストにあるラベルと一致する",
+      "labelPath": "豆・ごま > ごま　乾"
+    },
+    {
+      "foodNumber": "05018",
+      "foodName": "ごま　いり",
+      "isRecipeIngredient": true,
+      "reason": "ごま（いり）は実績リストにあるラベルと一致する",
+      "labelPath": "豆・ごま > ごま　いり"
+    },
+    {
+      "foodNumber": "05019",
+      "foodName": "ごま　むき",
+      "isRecipeIngredient": true,
+      "reason": "むきごま（ごま・むき）は実績リストにあるラベルと一致する",
+      "labelPath": "豆・ごま > むきごま"
+    },
+    {
+      "foodNumber": "05021",
+      "foodName": "すいか　いり　味付け",
+      "isRecipeIngredient": false,
+      "reason": "すいか（果実）は実績リストに存在するが「すいかの種（味付け・いり）」というラベルは無く、加工種子は該当ラベルなし",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "05046",
+      "foodName": "チアシード　乾",
+      "isRecipeIngredient": true,
+      "reason": "チアシードは実績リストに「チアシード」として存在する",
+      "labelPath": "豆・ごま > チアシード"
+    },
+    {
+      "foodNumber": "05022",
+      "foodName": "とち　蒸し",
+      "isRecipeIngredient": false,
+      "reason": "とち（栃の実・蒸し）は実績リストに該当ラベルがない（一般流通も限定的）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "05023",
+      "foodName": "はす　未熟　生",
+      "isRecipeIngredient": false,
+      "reason": "はす（蓮の実）未熟生のラベルは実績リストに無い（蓮根はあるが蓮の実ラベルは登録されていない）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "05024",
+      "foodName": "はす　成熟　乾",
+      "isRecipeIngredient": false,
+      "reason": "はす（蓮の実）成熟乾燥も実績リストに該当ラベルが無い",
+      "labelPath": ""
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batchNumber": 46,
+  "timestamp": "2025-12-25T02:04:49.037Z",
+  "results": [
+    {
+      "foodNumber": "10133",
+      "foodName": "＜魚類＞　（さけ・ます類）　さくらます　焼き",
+      "isRecipeIngredient": true,
+      "reason": "さくらますはさけ・ます類の一種であり、実績リストの一般ラベル「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10134",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　生",
+      "isRecipeIngredient": true,
+      "reason": "しろさけ（生）は鮭に該当し、実績リストのラベル「魚介類 > 鮭」と一致するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10135",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　水煮",
+      "isRecipeIngredient": true,
+      "reason": "しろさけ（水煮）は鮭の調理済み形態であり、実績リストの一般ラベル「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10136",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　焼き",
+      "isRecipeIngredient": true,
+      "reason": "しろさけ（焼き）は鮭であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10137",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　生",
+      "isRecipeIngredient": true,
+      "reason": "新巻きは鮭の加工形態だが種目は鮭であるため、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10138",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　焼き",
+      "isRecipeIngredient": true,
+      "reason": "新巻き（焼き）も鮭の調理済み形態であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10139",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　塩ざけ",
+      "isRecipeIngredient": true,
+      "reason": "塩ざけは鮭の一形態であり、実績リストの一般ラベル「魚介類 > 鮭」に該当するため（塩分注意の扱いは別途）。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10143",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "鮭の水煮缶は鮭由来の加工品であり、実績リストの一般ラベル「魚介類 > 鮭」に該当するため（鮭缶の専用ラベルは無いため）。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10447",
+      "foodName": "＜魚類＞　（さけ・ます類）　しろさけ　サケ節　削り節",
+      "isRecipeIngredient": true,
+      "reason": "サケ節（削り節）は鮭由来の加工品で、実績リストにある類似ラベル「魚介類 > 鮭フレーク」が最も近い既存ラベルであるため。",
+      "labelPath": "魚介類 > 鮭フレーク"
+    },
+    {
+      "foodNumber": "10144",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "アトランティックサーモン（養殖、皮つき・生）はさけ類に該当するため、実績リストの「魚介類 > 鮭」に対応可能。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10433",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　水煮",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（水煮）は鮭の調理済み形態であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10434",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（蒸し）は鮭に該当するため、実績リストの「魚介類 > 鮭」と一致するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10435",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　電子レンジ調理",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（電子レンジ調理）も鮭の調理済み形態であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10145",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（焼き）は鮭に該当し、実績リストの「魚介類 > 鮭」に対応可能ため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10436",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　ソテー",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（ソテー）は鮭の調理形態であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10438",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（皮なし・生）は鮭の一種であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10439",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　水煮",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（皮なし・水煮）は鮭の調理済み形態であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10440",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（皮なし・蒸し）は鮭に該当するため、実績リストの「魚介類 > 鮭」に一致するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10441",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　電子レンジ調理",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（皮なし・電子レンジ調理）も鮭の調理済み形態であり、実績リストの「魚介類 > 鮭」に該当するため。",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10442",
+      "foodName": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　焼き",
+      "isRecipeIngredient": true,
+      "reason": "養殖サーモン（皮なし・焼き）は鮭に該当し、実績リストの「魚介類 > 鮭」に対応可能ため。",
+      "labelPath": "魚介類 > 鮭"
+    }
+  ]
+}

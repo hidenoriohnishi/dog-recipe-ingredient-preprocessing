@@ -1,0 +1,146 @@
+{
+  "batchNumber": 48,
+  "timestamp": "2025-12-25T02:06:16.770Z",
+  "results": [
+    {
+      "foodNumber": "10161",
+      "foodName": "＜魚類＞　（さば類）　加工品　塩さば",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > さば」が存在するため（塩さばはさばの変種として該当）",
+      "labelPath": "魚介類 > さば"
+    },
+    {
+      "foodNumber": "10162",
+      "foodName": "＜魚類＞　（さば類）　加工品　開き干し",
+      "isRecipeIngredient": true,
+      "reason": "厳密な「開き干し」ラベルはないが基礎ラベルの「魚介類 > さば」があり該当と判断",
+      "labelPath": "魚介類 > さば"
+    },
+    {
+      "foodNumber": "10164",
+      "foodName": "＜魚類＞　（さば類）　缶詰　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > さば缶」が存在するため（さば缶・水煮は直接一致）",
+      "labelPath": "魚介類 > さば缶"
+    },
+    {
+      "foodNumber": "10167",
+      "foodName": "＜魚類＞　（さめ類）　あぶらつのざめ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストにサメ類（あぶらつのざめ）や「ふかひれ」等のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10168",
+      "foodName": "＜魚類＞　（さめ類）　よしきりざめ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストにヨシキリザメやサメ類のラベルがないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10169",
+      "foodName": "＜魚類＞　（さめ類）　ふかひれ",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ふかひれ」ラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10170",
+      "foodName": "＜魚類＞　さより　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「さより」ラベルが見当たらないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10171",
+      "foodName": "＜魚類＞　さわら　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「さわら」ラベルがないため（該当ラベルが未登録）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10172",
+      "foodName": "＜魚類＞　さわら　焼き",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「さわら（焼き）」等のラベルがないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10173",
+      "foodName": "＜魚類＞　さんま　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > さんま」が存在するため（さんま系で一致）",
+      "labelPath": "魚介類 > さんま"
+    },
+    {
+      "foodNumber": "10407",
+      "foodName": "＜魚類＞　さんま　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > さんま」が存在するため（皮の有無に関係なくさんまに該当）",
+      "labelPath": "魚介類 > さんま"
+    },
+    {
+      "foodNumber": "10174",
+      "foodName": "＜魚類＞　さんま　皮つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > さんま」が存在するため（焼きさんまも同ラベルで扱える）",
+      "labelPath": "魚介類 > さんま"
+    },
+    {
+      "foodNumber": "10179",
+      "foodName": "＜魚類＞　しいら　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「しいら」ラベルが見当たらないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10181",
+      "foodName": "＜魚類＞　（ししゃも類）　ししゃも　生干し　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ししゃも」が存在するため（生干し・焼きは同カテゴリ）",
+      "labelPath": "魚介類 > ししゃも"
+    },
+    {
+      "foodNumber": "10182",
+      "foodName": "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ししゃも」が存在するため（カラフトししゃももししゃも系として該当）",
+      "labelPath": "魚介類 > ししゃも"
+    },
+    {
+      "foodNumber": "10183",
+      "foodName": "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > ししゃも」が存在するため（焼きも同ラベルで扱える）",
+      "labelPath": "魚介類 > ししゃも"
+    },
+    {
+      "foodNumber": "10184",
+      "foodName": "＜魚類＞　したびらめ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「したびらめ」など舌平目系のラベルがないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10185",
+      "foodName": "＜魚類＞　しまあじ　養殖　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに一般ラベル「魚介類 > あじ」が存在するため（しまあじはアジ類として該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10186",
+      "foodName": "＜魚類＞　しらうお　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > しらうお」が存在するため（直接一致）",
+      "labelPath": "魚介類 > しらうお"
+    },
+    {
+      "foodNumber": "10187",
+      "foodName": "＜魚類＞　シルバー　生",
+      "isRecipeIngredient": true,
+      "reason": "固有名の「シルバー」は無いが総称の「魚介類 > 白身魚」が存在するため（白身魚として該当）",
+      "labelPath": "魚介類 > 白身魚"
+    }
+  ]
+}

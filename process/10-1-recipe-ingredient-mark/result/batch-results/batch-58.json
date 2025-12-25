@@ -1,0 +1,146 @@
+{
+  "batchNumber": 58,
+  "timestamp": "2025-12-25T02:16:02.439Z",
+  "results": [
+    {
+      "foodNumber": "10372",
+      "foodName": "＜その他＞　なまこ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「なまこ」やsea cucumber相当のラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10378",
+      "foodName": "＜水産練り製品＞　す巻きかまぼこ",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「加工食材 > かまぼこ」があり、す巻きかまぼこは該当する加工かまぼこに対応するため。",
+      "labelPath": "加工食材 > かまぼこ"
+    },
+    {
+      "foodNumber": "10380",
+      "foodName": "＜水産練り製品＞　焼き抜きかまぼこ",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「加工食材 > かまぼこ」が該当（焼き抜きかまぼこはかまぼこ類として扱える）。",
+      "labelPath": "加工食材 > かまぼこ"
+    },
+    {
+      "foodNumber": "11001",
+      "foodName": "＜畜肉類＞　いのしし　肉　脂身つき　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「いのしし」や野生猪肉に相当するラベルがないため（一般の豚肉/牛肉ラベルとは別扱い）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11002",
+      "foodName": "＜畜肉類＞　いのぶた　肉　脂身つき　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「いのぶた」ラベルが存在しないため（混種肉は登録なし）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11003",
+      "foodName": "＜畜肉類＞　うさぎ　肉　赤肉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「うさぎ肉」ラベルが存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11004",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　かた　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに牛の肩（牛肩ロース／肩）に相当するラベルが存在するため（牛肩ロースに対応）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11005",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　かた　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛肩ロース」が該当（皮下脂肪の有無は既存ラベルで対応）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11006",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　かた　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛肩ロース」が該当（赤肉も同カテゴリに含まれる）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11008",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　かたロース　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛肩ロース」が該当（かたロース＝肩ロース系として扱える）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11009",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛肩ロース」が該当（皮下脂肪の有無はラベルの詳細差分として扱う）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11010",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　かたロース　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛肩ロース」が該当（赤肉の肩ロースも同カテゴリ）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11011",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため（リブロースに該当）。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11249",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛リブロース」が該当（ゆで等の調理状態は既存ラベルで扱う）。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11248",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛リブロース」が該当（焼き状態も同カテゴリ）。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11012",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　リブロース　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛リブロース」が該当（皮下脂肪の有無は既存ラベルでカバー）。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11013",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　リブロース　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛リブロース」が該当（赤肉タイプも同カテゴリ）。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11014",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > 牛リブロース」が該当（脂身部分も同カテゴリ内で扱われる）。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11015",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　サーロイン　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > サーロイン」が存在するため（サーロインに該当）。",
+      "labelPath": "肉類 > 牛肉 > サーロイン"
+    },
+    {
+      "foodNumber": "11016",
+      "foodName": "＜畜肉類＞　うし　［和牛肉］　サーロイン　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「肉類 > 牛肉 > サーロイン」が該当（皮下脂肪の有無はラベル内差分で扱う）。",
+      "labelPath": "肉類 > 牛肉 > サーロイン"
+    }
+  ]
+}

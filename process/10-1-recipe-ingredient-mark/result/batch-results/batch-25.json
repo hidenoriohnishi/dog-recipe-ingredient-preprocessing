@@ -1,0 +1,146 @@
+{
+  "batchNumber": 25,
+  "timestamp": "2025-12-25T01:17:56.298Z",
+  "results": [
+    {
+      "foodNumber": "06221",
+      "foodName": "（にんじん類）　きんとき　根　皮なし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "きんときは人参の品種で、実績リストの「野菜 > にんじん」に該当するため。",
+      "labelPath": "野菜 > にんじん"
+    },
+    {
+      "foodNumber": "06409",
+      "foodName": "（にんじん類）　島にんじん　根　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "島にんじんはにんじんの一種で、実績リストの「野菜 > にんじん」に含まれるため。",
+      "labelPath": "野菜 > にんじん"
+    },
+    {
+      "foodNumber": "06222",
+      "foodName": "（にんじん類）　ミニキャロット　根　生",
+      "isRecipeIngredient": true,
+      "reason": "ミニキャロットはベビーカーット＝にんじんのカテゴリにあたり、実績リストの「野菜 > にんじん」と対応するため。",
+      "labelPath": "野菜 > にんじん"
+    },
+    {
+      "foodNumber": "06229",
+      "foodName": "のざわな　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "のざわなは実績リストに「野菜 > 野沢菜」として登録されているため。",
+      "labelPath": "野菜 > 野沢菜"
+    },
+    {
+      "foodNumber": "06233",
+      "foodName": "はくさい　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "はくさい（生）は実績リストの「野菜 > 白菜」に該当するため。",
+      "labelPath": "野菜 > 白菜"
+    },
+    {
+      "foodNumber": "06234",
+      "foodName": "はくさい　結球葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "はくさい（ゆで）も白菜カテゴリに含まれるため、実績リストの「野菜 > 白菜」と対応する。",
+      "labelPath": "野菜 > 白菜"
+    },
+    {
+      "foodNumber": "06237",
+      "foodName": "パクチョイ　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "パクチョイ（青梗菜）は実績リストの「野菜 > チンゲン菜」と同義のため。",
+      "labelPath": "野菜 > チンゲン菜"
+    },
+    {
+      "foodNumber": "06238",
+      "foodName": "バジル　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "バジルは実績リストに「スパイス > バジル」として存在するため。",
+      "labelPath": "スパイス > バジル"
+    },
+    {
+      "foodNumber": "06239",
+      "foodName": "パセリ　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "パセリは実績リストの「野菜 > パセリ」に該当するため。",
+      "labelPath": "野菜 > パセリ"
+    },
+    {
+      "foodNumber": "06240",
+      "foodName": "はつかだいこん　根　生",
+      "isRecipeIngredient": true,
+      "reason": "はつかだいこん（ラディッシュ）は実績リストの「野菜 > ラディッシュ」と一致するため。",
+      "labelPath": "野菜 > ラディッシュ"
+    },
+    {
+      "foodNumber": "06392",
+      "foodName": "はなっこりー　生",
+      "isRecipeIngredient": true,
+      "reason": "はなっこりーは実績リストに登録されているラベル（野菜）であるため。",
+      "labelPath": "野菜 > はなっこりー"
+    },
+    {
+      "foodNumber": "06241",
+      "foodName": "はやとうり　果実　白色種　生",
+      "isRecipeIngredient": false,
+      "reason": "はやとうり（白色種）は実績リストに同名のラベルがなく、新規ラベルを作れないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06353",
+      "foodName": "はやとうり　果実　緑色種　生",
+      "isRecipeIngredient": false,
+      "reason": "はやとうり（緑色種）も実績リストにラベルがなく、新規作成不可のため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06243",
+      "foodName": "ビーツ　根　生",
+      "isRecipeIngredient": true,
+      "reason": "ビーツ（生）は実績リストの野菜カテゴリに該当するラベルが存在するため。",
+      "labelPath": "野菜 > ビーツ"
+    },
+    {
+      "foodNumber": "06244",
+      "foodName": "ビーツ　根　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ビーツ（ゆで）も同様に実績リストの「野菜 > ビーツ」に含まれるため。",
+      "labelPath": "野菜 > ビーツ"
+    },
+    {
+      "foodNumber": "06245",
+      "foodName": "（ピーマン類）　青ピーマン　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "青ピーマンは実績リストに「野菜 > ピーマン」として登録されているため。",
+      "labelPath": "野菜 > ピーマン"
+    },
+    {
+      "foodNumber": "06246",
+      "foodName": "（ピーマン類）　青ピーマン　果実　油いため",
+      "isRecipeIngredient": true,
+      "reason": "青ピーマン（油いため）もピーマンカテゴリとして実績リストのラベルに対応するため。",
+      "labelPath": "野菜 > ピーマン"
+    },
+    {
+      "foodNumber": "06247",
+      "foodName": "（ピーマン類）　赤ピーマン　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "赤ピーマン（生）は実績リストのパプリカ／ピーマン系ラベルに該当するため（代表ラベルをパプリカに対応）。",
+      "labelPath": "野菜 > パプリカ"
+    },
+    {
+      "foodNumber": "06248",
+      "foodName": "（ピーマン類）　赤ピーマン　果実　油いため",
+      "isRecipeIngredient": true,
+      "reason": "赤ピーマン（油いため）も加熱状態を問わず実績リストの「野菜 > パプリカ」に該当するため。",
+      "labelPath": "野菜 > パプリカ"
+    },
+    {
+      "foodNumber": "06393",
+      "foodName": "（ピーマン類）　オレンジピーマン　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "オレンジピーマンはパプリカの一種で、実績リストに「野菜 > パプリカ」があるため。",
+      "labelPath": "野菜 > パプリカ"
+    }
+  ]
+}

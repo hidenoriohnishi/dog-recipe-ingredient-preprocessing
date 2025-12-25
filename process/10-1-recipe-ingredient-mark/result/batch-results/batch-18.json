@@ -1,0 +1,146 @@
+{
+  "batchNumber": 18,
+  "timestamp": "2025-12-25T01:10:32.088Z",
+  "results": [
+    {
+      "foodNumber": "06059",
+      "foodName": "きく　花びら　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "「きく（食用菊・花びら）」は実績ラベル一覧に該当するラベルがなく、春菊とは別の素材のため新規ラベル作成は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06060",
+      "foodName": "きく　菊のり",
+      "isRecipeIngredient": false,
+      "reason": "「きく（菊のり／乾燥食用菊）」も実績ラベルに存在しないためマッチなし。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06061",
+      "foodName": "（キャベツ類）　キャベツ　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "生／ゆで等の状態差はあるが実績リストに「野菜 > キャベツ」が存在するため該当。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06062",
+      "foodName": "（キャベツ類）　キャベツ　結球葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでキャベツは実績の「野菜 > キャベツ」に該当。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06333",
+      "foodName": "（キャベツ類）　キャベツ　結球葉　油いため",
+      "isRecipeIngredient": true,
+      "reason": "油いためも加工状態の差にすぎず実績の「野菜 > キャベツ」に該当。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06403",
+      "foodName": "（キャベツ類）　キャベツ　結球葉　カット　常法洗浄",
+      "isRecipeIngredient": true,
+      "reason": "カット・洗浄の違いはあるが実績の「野菜 > キャベツ」が既存ラベルとして該当。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06404",
+      "foodName": "（キャベツ類）　キャベツ　結球葉　カット　次亜塩素酸洗浄",
+      "isRecipeIngredient": true,
+      "reason": "同様に次亜塩素酸洗浄のカット野菜も実績の「野菜 > キャベツ」に該当。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06063",
+      "foodName": "（キャベツ類）　グリーンボール　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "グリーンボールはキャベツ類の一種で、実績の「野菜 > キャベツ」に対応すると判断。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06064",
+      "foodName": "（キャベツ類）　レッドキャベツ　結球葉　生",
+      "isRecipeIngredient": true,
+      "reason": "レッドキャベツ（赤キャベツ）もキャベツ類であり、実績の「野菜 > キャベツ」に該当。",
+      "labelPath": "野菜 > キャベツ"
+    },
+    {
+      "foodNumber": "06065",
+      "foodName": "きゅうり　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "生のきゅうりは実績リストに「野菜 > キュウリ」として存在するため該当。",
+      "labelPath": "野菜 > キュウリ"
+    },
+    {
+      "foodNumber": "06068",
+      "foodName": "きゅうり　漬物　ぬかみそ漬",
+      "isRecipeIngredient": true,
+      "reason": "ぬか漬等の加工差はあるが原材料はきゅうりで、実績の「野菜 > キュウリ」に該当。",
+      "labelPath": "野菜 > キュウリ"
+    },
+    {
+      "foodNumber": "06075",
+      "foodName": "キンサイ　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "キンサイ（中国セロリ）は実績リストに該当ラベルがあるためマッチ。",
+      "labelPath": "野菜 > キンサイ"
+    },
+    {
+      "foodNumber": "06076",
+      "foodName": "キンサイ　茎葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでの状態差はあるが「野菜 > キンサイ」に該当。",
+      "labelPath": "野菜 > キンサイ"
+    },
+    {
+      "foodNumber": "06077",
+      "foodName": "クレソン　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "クレソンは実績リスト内で「野菜 > スプラウト」のバリエーション例として登録されているため該当ラベルにマッチ。",
+      "labelPath": "野菜 > スプラウト"
+    },
+    {
+      "foodNumber": "06078",
+      "foodName": "くわい　塊茎　生",
+      "isRecipeIngredient": false,
+      "reason": "くわい（慈姑）は実績ラベル一覧に見当たらないため新規ラベル作成不可の規則から不該当。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06079",
+      "foodName": "くわい　塊茎　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "ゆで状態でも同様に実績リストに「くわい」ラベルが存在しないため不該当。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06080",
+      "foodName": "ケール　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "ケールは実績リストに「野菜 > ケール」として登録されているため該当。",
+      "labelPath": "野菜 > ケール"
+    },
+    {
+      "foodNumber": "06081",
+      "foodName": "コールラビ　球茎　生",
+      "isRecipeIngredient": true,
+      "reason": "コールラビは実績ラベルに存在する野菜として扱えるため該当（根・球茎の違いはラベル内で吸収）。",
+      "labelPath": "野菜 > コールラビ"
+    },
+    {
+      "foodNumber": "06082",
+      "foodName": "コールラビ　球茎　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆで状態でも実績の「野菜 > コールラビ」に該当。",
+      "labelPath": "野菜 > コールラビ"
+    },
+    {
+      "foodNumber": "06084",
+      "foodName": "（ごぼう類）　ごぼう　根　生",
+      "isRecipeIngredient": true,
+      "reason": "ごぼう（根・生）は実績リストに「野菜 > ごぼう」として登録されているため該当。",
+      "labelPath": "野菜 > ごぼう"
+    }
+  ]
+}

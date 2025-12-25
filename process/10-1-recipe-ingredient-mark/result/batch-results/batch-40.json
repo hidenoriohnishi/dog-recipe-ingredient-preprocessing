@@ -1,0 +1,146 @@
+{
+  "batchNumber": 40,
+  "timestamp": "2025-12-25T01:59:22.767Z",
+  "results": [
+    {
+      "foodNumber": "10389",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（まあじはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10004",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　皮つき　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（まあじはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10005",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　皮つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（まあじはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10006",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　開き干し　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（開き干しもあじ類に含まれる）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10007",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　開き干し　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（開き干し焼きもあじ類に含まれる）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10391",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　小型　骨付き　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（小型・骨付きもあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10393",
+      "foodName": "＜魚類＞　（あじ類）　まるあじ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（まるあじはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10394",
+      "foodName": "＜魚類＞　（あじ類）　まるあじ　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（まるあじ焼きはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10008",
+      "foodName": "＜魚類＞　（あじ類）　にしまあじ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（にしまあじはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10009",
+      "foodName": "＜魚類＞　（あじ類）　にしまあじ　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（にしまあじの水煮もあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10010",
+      "foodName": "＜魚類＞　（あじ類）　にしまあじ　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（にしまあじ焼きもあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10457",
+      "foodName": "＜魚類＞　（あじ類）　にしまあじ　開き干し　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（にしまあじの開き干しもあじ類に含まれる）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10458",
+      "foodName": "＜魚類＞　（あじ類）　にしまあじ　開き干し　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（にしまあじの開き干し焼きもあじ類に含まれる）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10011",
+      "foodName": "＜魚類＞　（あじ類）　むろあじ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（むろあじはあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10012",
+      "foodName": "＜魚類＞　（あじ類）　むろあじ　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（むろあじ焼きもあじ類に該当）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10013",
+      "foodName": "＜魚類＞　（あじ類）　むろあじ　開き干し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」が存在するため（むろあじの開き干しもあじ類に含まれる）",
+      "labelPath": "魚介類 > あじ"
+    },
+    {
+      "foodNumber": "10015",
+      "foodName": "＜魚類＞　あなご　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あなご」が存在するため（あなごは該当ラベルあり）",
+      "labelPath": "魚介類 > あなご"
+    },
+    {
+      "foodNumber": "10016",
+      "foodName": "＜魚類＞　あなご　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あなご」が存在するため（蒸しあなごもあなごに該当）",
+      "labelPath": "魚介類 > あなご"
+    },
+    {
+      "foodNumber": "10017",
+      "foodName": "＜魚類＞　あまご　養殖　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「あまご」や明確に対応するラベルがなく、一般的なスーパーで入手しにくいため新規ラベルは作成不可",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10018",
+      "foodName": "＜魚類＞　あまだい　生",
+      "isRecipeIngredient": true,
+      "reason": "あまだいは白身魚に該当するため、実績リストの汎用ラベル「魚介類 > 白身魚」に対応可能と判断",
+      "labelPath": "魚介類 > 白身魚"
+    }
+  ]
+}

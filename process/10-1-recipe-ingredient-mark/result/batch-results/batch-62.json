@@ -1,0 +1,146 @@
+{
+  "batchNumber": 62,
+  "timestamp": "2025-12-25T02:21:11.397Z",
+  "results": [
+    {
+      "foodNumber": "11264",
+      "foodName": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛モモ」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛モモ"
+    },
+    {
+      "foodNumber": "11263",
+      "foodName": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛モモ」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛モモ"
+    },
+    {
+      "foodNumber": "11265",
+      "foodName": "＜畜肉類＞　うし　［交雑牛肉］　もも　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛モモ」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛モモ"
+    },
+    {
+      "foodNumber": "11266",
+      "foodName": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛モモ」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛モモ"
+    },
+    {
+      "foodNumber": "11267",
+      "foodName": "＜畜肉類＞　うし　［交雑牛肉］　ヒレ　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛ヒレ」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛ヒレ"
+    },
+    {
+      "foodNumber": "11060",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身つき　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「牛かた（かた肉）」に対応するラベルがなく、既存ラベルへ適切にマッピングできないため（新規作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11061",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かた　皮下脂肪なし　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「牛かた（かた肉）」に対応するラベルがなく、既存ラベルへ適切にマッピングできないため（新規作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11062",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かた　赤肉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「牛かた（かた肉）」に対応するラベルがなく、既存ラベルへ適切にマッピングできないため（新規作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11063",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「牛かた（かた肉）」に対応するラベルがなく、既存ラベルへ適切にマッピングできないため（新規作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11064",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛肩ロース」が存在するため（かたロースに対応）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11065",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛肩ロース」が存在するため（かたロースに対応）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11066",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛肩ロース」が存在するため（かたロースに対応）。",
+      "labelPath": "肉類 > 牛肉 > 牛肩ロース"
+    },
+    {
+      "foodNumber": "11067",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11269",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11268",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11068",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11069",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　赤肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11070",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > 牛リブロース」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > 牛リブロース"
+    },
+    {
+      "foodNumber": "11071",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > サーロイン」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > サーロイン"
+    },
+    {
+      "foodNumber": "11072",
+      "foodName": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 牛肉 > サーロイン」が存在するため。",
+      "labelPath": "肉類 > 牛肉 > サーロイン"
+    }
+  ]
+}

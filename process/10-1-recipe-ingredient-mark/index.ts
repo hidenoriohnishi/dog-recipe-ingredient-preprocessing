@@ -283,20 +283,29 @@ async function mapFoods(
   const foodListString = buildFoodListString(batchFoods);
 
   const prompt = `
-以下は犬のレシピで実際に使われた食材のリストです:
-${labelListString}
+## 目的
+犬のレシピ生成システムで「よく使われる食材」と「あまり使われない食材」を区別するため、MEXT食品が実績リストに含まれるかを判定します。
+これはレシピ提案時に「典型的な食材」を優先的に提案できるようにするためのフラグ付けです。
+実績リストの食材ラベルの全体を眺めて、その粒度を確認し、各MEXT食品が適切な粒度の食材ラベルを選択するようにしてください。
 
-判定対象のMEXT食品:
+## 実績リスト（過去のレシピで実際に使われた食材ラベル）
+形式: "- {階層パス（=食材ラベル）}: {ユーザによって実際に書かれた食材名1}, {ユーザによって実際に書かれた食材名2}, {ユーザによって実際に書かれた食材名3} 他{N}件"
+--------------------------------
+${labelListString}
+--------------------------------
+
+## 判定対象のMEXT食品
 ${foodListString}
 
-各MEXT食品について、上記の「実績のある食材リスト」に該当するかを判定してください。
+## 判定ルール
+- MEXT食品が上記の実績リストに「存在する食材ラベル」に該当する食材の場合はMATCH
+- 実績リストにない食材ラベルを新たに作成してはならない
+- もし迷った場合は、その食品が郊外の中規模のスーパーマーケットなどで手に入るかを参考にしてください。手に入る場合は食材がラベルに該当することが多いです。
 
-出力形式（Chain of Thought）:
-1. reason: なぜそう判断するか（推論プロセスを記述）
-2. decision: reasonに基づく判定結果（"MATCH" または "NOMATCH"）
-3. matched_label_path: MATCHの場合は該当するラベルパス、NOMATCHの場合は空文字列 ""
-
-調理状態（生/ゆで/焼き等）の違いは無視してください。同じ食材なら"MATCH"です。
+## 出力形式
+1. reason: 判定理由を簡潔に
+2. decision: "MATCH" または "NOMATCH"
+3. matched_label_path: MATCHの場合は実績リストに存在するラベルパスをそのまま記載、NOMATCHの場合は空文字列 ""
 `;
 
   try {
@@ -432,7 +441,7 @@ async function main() {
   let totalCost: CostResult | null = null;
   const alreadyProcessedBatches = Math.floor(processedSet.size / BATCH_SIZE);
 
-  for (let i = 0; i < unprocessedFoods.length; i += BATCH_SIZE) {
+  for (let i = 0;i < unprocessedFoods.length;i += BATCH_SIZE) {
     const batchFoodsRaw = unprocessedFoods.slice(i, i + BATCH_SIZE);
     const batchNumber = alreadyProcessedBatches + Math.floor(i / BATCH_SIZE) + 1;
 

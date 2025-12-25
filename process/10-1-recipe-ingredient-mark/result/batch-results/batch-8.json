@@ -1,0 +1,146 @@
+{
+  "batchNumber": 8,
+  "timestamp": "2025-12-25T00:55:21.653Z",
+  "results": [
+    {
+      "foodNumber": "02006",
+      "foodName": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さつまいも」が存在するため（皮なし・生は調理状態の差異で基底ラベルと一致）。",
+      "labelPath": "野菜 > さつまいも"
+    },
+    {
+      "foodNumber": "02007",
+      "foodName": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さつまいも」が存在するため（蒸しは調理状態の差異で基底ラベルと一致）。",
+      "labelPath": "野菜 > さつまいも"
+    },
+    {
+      "foodNumber": "02008",
+      "foodName": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さつまいも」が存在するため（焼きは調理状態の差異で基底ラベルと一致）。",
+      "labelPath": "野菜 > さつまいも"
+    },
+    {
+      "foodNumber": "02009",
+      "foodName": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
+      "isRecipeIngredient": true,
+      "reason": "蒸し切干（干し芋）専用ラベルはないが基底の「野菜 > さつまいも」が存在するため。",
+      "labelPath": "野菜 > さつまいも"
+    },
+    {
+      "foodNumber": "02048",
+      "foodName": "＜いも類＞　（さつまいも類）　むらさきいも　塊根　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 紫芋」が存在するため（むらさきいもは紫芋ラベルに該当）。",
+      "labelPath": "野菜 > 紫芋"
+    },
+    {
+      "foodNumber": "02049",
+      "foodName": "＜いも類＞　（さつまいも類）　むらさきいも　塊根　皮なし　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 紫芋」が存在するため（蒸しも基底ラベルと一致）。",
+      "labelPath": "野菜 > 紫芋"
+    },
+    {
+      "foodNumber": "02011",
+      "foodName": "＜いも類＞　（さといも類）　さといも　球茎　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さといも」が存在するため（水煮は調理状態の差異）。",
+      "labelPath": "野菜 > さといも"
+    },
+    {
+      "foodNumber": "02051",
+      "foodName": "＜いも類＞　（さといも類）　セレベス　球茎　水煮",
+      "isRecipeIngredient": true,
+      "reason": "セレベスは里芋類の一種で専用ラベルはないが、実績リストの「野菜 > さといも」に該当するため。",
+      "labelPath": "野菜 > さといも"
+    },
+    {
+      "foodNumber": "02053",
+      "foodName": "＜いも類＞　（さといも類）　たけのこいも　球茎　水煮",
+      "isRecipeIngredient": true,
+      "reason": "たけのこいもは里芋類の一種で、実績リストの「野菜 > さといも」に該当するため。",
+      "labelPath": "野菜 > さといも"
+    },
+    {
+      "foodNumber": "02014",
+      "foodName": "＜いも類＞　（さといも類）　みずいも　球茎　水煮",
+      "isRecipeIngredient": true,
+      "reason": "みずいもは里芋類であり、実績リストの「野菜 > さといも」に該当するため。",
+      "labelPath": "野菜 > さといも"
+    },
+    {
+      "foodNumber": "02016",
+      "foodName": "＜いも類＞　（さといも類）　やつがしら　球茎　水煮",
+      "isRecipeIngredient": true,
+      "reason": "やつがしらは里芋類で、実績リストの「野菜 > さといも」に該当するため。",
+      "labelPath": "野菜 > さといも"
+    },
+    {
+      "foodNumber": "02064",
+      "foodName": "＜いも類＞　じゃがいも　塊茎　皮つき　電子レンジ調理",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > じゃがいも」が存在するため（皮つき・電子レンジ調理は調理状態の差異）。",
+      "labelPath": "野菜 > じゃがいも"
+    },
+    {
+      "foodNumber": "02019",
+      "foodName": "＜いも類＞　じゃがいも　塊茎　皮なし　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > じゃがいも」が存在するため（皮なし・水煮は調理状態の差異）。",
+      "labelPath": "野菜 > じゃがいも"
+    },
+    {
+      "foodNumber": "02018",
+      "foodName": "＜いも類＞　じゃがいも　塊茎　皮なし　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > じゃがいも」が存在するため（皮なし・蒸しは調理状態の差異）。",
+      "labelPath": "野菜 > じゃがいも"
+    },
+    {
+      "foodNumber": "02066",
+      "foodName": "＜いも類＞　じゃがいも　塊茎　皮なし　電子レンジ調理",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > じゃがいも」が存在するため（皮なし・電子レンジ調理は調理状態の差異）。",
+      "labelPath": "野菜 > じゃがいも"
+    },
+    {
+      "foodNumber": "02054",
+      "foodName": "＜いも類＞　ヤーコン　塊根　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > ヤーコン」が存在するため（生のヤーコンに対応）。",
+      "labelPath": "野菜 > ヤーコン"
+    },
+    {
+      "foodNumber": "02055",
+      "foodName": "＜いも類＞　ヤーコン　塊根　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > ヤーコン」が存在するため（水煮のヤーコンも基底ラベルと一致）。",
+      "labelPath": "野菜 > ヤーコン"
+    },
+    {
+      "foodNumber": "02022",
+      "foodName": "＜いも類＞　（やまのいも類）　ながいも　いちょういも　塊根　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 長芋」が存在するため（いちょういもを含む長芋のラベルに該当）。",
+      "labelPath": "野菜 > 長芋"
+    },
+    {
+      "foodNumber": "02023",
+      "foodName": "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 長芋」が存在するため（生の長芋に対応）。",
+      "labelPath": "野菜 > 長芋"
+    },
+    {
+      "foodNumber": "02024",
+      "foodName": "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 長芋」が存在するため（水煮の長芋も基底ラベルと一致）。",
+      "labelPath": "野菜 > 長芋"
+    }
+  ]
+}

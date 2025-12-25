@@ -1,0 +1,146 @@
+{
+  "batchNumber": 5,
+  "timestamp": "2025-12-25T00:50:59.740Z",
+  "results": [
+    {
+      "foodNumber": "01098",
+      "foodName": "こめ　［水稲おもゆ］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "水稲おもゆ（玄米粥）は実績リストの「おかゆ」ラベル（米粥・玄米粥を含む）に該当するため。",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01099",
+      "foodName": "こめ　［水稲おもゆ］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "おもゆ（半つき米）も粥類として実績リストの「おかゆ」ラベルに対応するため。",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01100",
+      "foodName": "こめ　［水稲おもゆ］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "おもゆ（七分つき米）も粥カテゴリに該当するため、実績リストの「おかゆ」に一致。",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01101",
+      "foodName": "こめ　［水稲おもゆ］　精白米",
+      "isRecipeIngredient": true,
+      "reason": "精白米のおもゆは実績リストの「おかゆ」ラベルに含まれるため。",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01102",
+      "foodName": "こめ　［陸稲穀粒］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "穀粒の玄米は実績リストにある「玄米」ラベルに該当するため。",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01103",
+      "foodName": "こめ　［陸稲穀粒］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "半つき米（穀粒）は半分だけ精白した玄米に近く、新規ラベル不可のため最も近い既存ラベルの「玄米」に割当。",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01104",
+      "foodName": "こめ　［陸稲穀粒］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "七分つき米（穀粒）は部分精白の玄米に相当するため、実績リストの「玄米」ラベルに該当と判断。",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01105",
+      "foodName": "こめ　［陸稲穀粒］　精白米",
+      "isRecipeIngredient": true,
+      "reason": "穀粒の精白米は実績リストの「白米」ラベル（ごはん・ご飯を含む）に該当するため。",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01106",
+      "foodName": "こめ　［陸稲めし］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "陸稲めしの玄米（炊いた玄米）は実績リストの「玄米」ラベルに該当するため。",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01107",
+      "foodName": "こめ　［陸稲めし］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "陸稲めし（半つき米・炊飯）は市販の半つきご飯に相当し、既存ラベルでは炊いた米を含む「白米」（ごはん）か「玄米」のいずれかになるため、実用上は「白米」系のごはんラベルを使用。",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01108",
+      "foodName": "こめ　［陸稲めし］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "七分つき米の炊いたご飯は部分精白だが実績リストに専用ラベルがないため、炊飯済み米を表す既存ラベル「白米」に割当（炊飯米ラベルとして扱える）。",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01109",
+      "foodName": "こめ　［陸稲めし］　精白米",
+      "isRecipeIngredient": true,
+      "reason": "陸稲めし（精白米・炊いたご飯）は実績リストの「白米」ラベル（ごはん・ご飯を含む）に一致するため。",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01110",
+      "foodName": "こめ　［うるち米製品］　アルファ化米　一般用",
+      "isRecipeIngredient": false,
+      "reason": "「アルファ化米（即席米）」の専用ラベルは実績リストに存在しないため（新規ラベル作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01156",
+      "foodName": "こめ　［うるち米製品］　アルファ化米　学校給食用強化品",
+      "isRecipeIngredient": false,
+      "reason": "学校給食用強化のアルファ米も実績リストに専用ラベルがなく、既存ラベルに明確に対応しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01214",
+      "foodName": "こめ　［うるち米製品］　水稲全かゆ　レトルト　玄米",
+      "isRecipeIngredient": true,
+      "reason": "レトルトの玄米粥は実績リストの「おかゆ」（玄米粥を含む）に該当するため。",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01215",
+      "foodName": "こめ　［うるち米製品］　水稲全かゆ　レトルト　精白米",
+      "isRecipeIngredient": true,
+      "reason": "レトルトの精白米粥は実績リストの「おかゆ」ラベルに該当するため。",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01111",
+      "foodName": "こめ　［うるち米製品］　おにぎり",
+      "isRecipeIngredient": false,
+      "reason": "おにぎり（おむすび）のラベルは実績リストに存在しないため（新規ラベル作成は不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01113",
+      "foodName": "こめ　［うるち米製品］　きりたんぽ",
+      "isRecipeIngredient": false,
+      "reason": "きりたんぽの専用ラベルは実績リストにないため（加工品ラベルが不足）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01114",
+      "foodName": "こめ　［うるち米製品］　上新粉",
+      "isRecipeIngredient": true,
+      "reason": "上新粉は実績リストに「上新粉」ラベルが存在するため一致。",
+      "labelPath": "穀物・麺類 > 上新粉"
+    },
+    {
+      "foodNumber": "01157",
+      "foodName": "こめ　［うるち米製品］　玄米粉",
+      "isRecipeIngredient": true,
+      "reason": "玄米粉は実績リストの玄米カテゴリ（玄米／玄米粉を含む表記）に該当するため。",
+      "labelPath": "穀物・麺類 > 玄米"
+    }
+  ]
+}

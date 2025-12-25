@@ -1,0 +1,146 @@
+{
+  "batchNumber": 33,
+  "timestamp": "2025-12-25T01:25:13.241Z",
+  "results": [
+    {
+      "foodNumber": "07097",
+      "foodName": "パインアップル　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「果実 > パイナップル」のラベルが存在するため（生の果実は該当）",
+      "labelPath": "果実 > パイナップル"
+    },
+    {
+      "foodNumber": "07177",
+      "foodName": "パインアップル　焼き",
+      "isRecipeIngredient": true,
+      "reason": "加工状態は異なるが基礎食材はパインアップルであり実績の「果実 > パイナップル」に該当すると判断",
+      "labelPath": "果実 > パイナップル"
+    },
+    {
+      "foodNumber": "07099",
+      "foodName": "パインアップル　果実飲料　濃縮還元ジュース",
+      "isRecipeIngredient": false,
+      "reason": "濃縮還元ジュース用の専用ラベル（パイナップルジュース等）が実績リストに見当たらないため新規ラベルの追加は不可",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07104",
+      "foodName": "ハスカップ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ハスカップ」に相当するラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07107",
+      "foodName": "バナナ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「果実 > バナナ」のラベルが存在するため（生バナナは該当）",
+      "labelPath": "果実 > バナナ"
+    },
+    {
+      "foodNumber": "07108",
+      "foodName": "バナナ　乾",
+      "isRecipeIngredient": true,
+      "reason": "専用の「ドライバナナ」ラベルは実績にないが基礎はバナナのため既存の「果実 > バナナ」で扱うのが適切と判断",
+      "labelPath": "果実 > バナナ"
+    },
+    {
+      "foodNumber": "07109",
+      "foodName": "パパイア　完熟　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「パパイア／パパイヤ」に対応するラベルが見当たらないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07114",
+      "foodName": "びわ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「びわ（枇杷）」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07115",
+      "foodName": "びわ　缶詰",
+      "isRecipeIngredient": false,
+      "reason": "缶詰を含む「びわ」系の実績ラベルが存在しないため（シロップ等の加工品ラベルもなし）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07124",
+      "foodName": "ブルーベリー　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「果実 > ブルーベリー」のラベルが存在するため（生ブルーベリーは該当）",
+      "labelPath": "果実 > ブルーベリー"
+    },
+    {
+      "foodNumber": "07172",
+      "foodName": "ブルーベリー　乾",
+      "isRecipeIngredient": true,
+      "reason": "専用の乾燥ラベルがなければ基礎のブルーベリーで扱うのが妥当なため（実績にブルーベリーあり）",
+      "labelPath": "果実 > ブルーベリー"
+    },
+    {
+      "foodNumber": "07128",
+      "foodName": "ホワイトサポテ　生",
+      "isRecipeIngredient": false,
+      "reason": "ホワイトサポテに対応するラベルが実績リストに存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07130",
+      "foodName": "まくわうり　黄肉種　生",
+      "isRecipeIngredient": false,
+      "reason": "まくわうり（マクワウリ）専用のラベルが実績リストにないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07173",
+      "foodName": "まくわうり　白肉種　生",
+      "isRecipeIngredient": false,
+      "reason": "白肉種も含めてまくわうり系のラベルが実績に存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07131",
+      "foodName": "マルメロ　生",
+      "isRecipeIngredient": false,
+      "reason": "マルメロ（クインス）に対応する実績ラベルが見当たらないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07132",
+      "foodName": "マンゴー　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「果実 > マンゴー」のラベルが存在するため（生マンゴーは該当）",
+      "labelPath": "果実 > マンゴー"
+    },
+    {
+      "foodNumber": "07179",
+      "foodName": "マンゴー　ドライマンゴー",
+      "isRecipeIngredient": true,
+      "reason": "専用のドライマンゴーラベルがなければ基礎のマンゴーで扱うのが妥当（実績にマンゴーあり）",
+      "labelPath": "果実 > マンゴー"
+    },
+    {
+      "foodNumber": "07133",
+      "foodName": "マンゴスチン　生",
+      "isRecipeIngredient": false,
+      "reason": "マンゴスチンに対応するラベルが実績リストに存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "07134",
+      "foodName": "メロン　温室メロン　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「果実 > メロン」のラベルが存在するため（温室メロンの果肉は該当）",
+      "labelPath": "果実 > メロン"
+    },
+    {
+      "foodNumber": "07135",
+      "foodName": "メロン　露地メロン　緑肉種　生",
+      "isRecipeIngredient": true,
+      "reason": "同上。露地メロン（緑肉種）の果肉は既存の「果実 > メロン」に該当すると判断",
+      "labelPath": "果実 > メロン"
+    }
+  ]
+}

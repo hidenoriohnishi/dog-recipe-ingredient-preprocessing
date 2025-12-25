@@ -1,0 +1,146 @@
+{
+  "batchNumber": 4,
+  "timestamp": "2025-12-25T00:49:27.313Z",
+  "results": [
+    {
+      "foodNumber": "01182",
+      "foodName": "こめ　［水稲穀粒］　黒米",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「黒米」やそれに対応するラベルが存在しないため（新規ラベル作成不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01085",
+      "foodName": "こめ　［水稲めし］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「穀物・麺類 > 玄米」があり該当するため",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01086",
+      "foodName": "こめ　［水稲めし］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに半つき米専用ラベルはないが、調理済み一般のご飯類として既存の「穀物・麺類 > 白米」に該当すると判断",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01087",
+      "foodName": "こめ　［水稲めし］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "七分つき米専用ラベルはないが、調理済みご飯類として「穀物・麺類 > 白米」に該当すると判断",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01168",
+      "foodName": "こめ　［水稲めし］　精白米　インディカ米",
+      "isRecipeIngredient": true,
+      "reason": "精白（炊飯）インディカは調理済み白米の一種として実績リストの「穀物・麺類 > 白米」に該当",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01088",
+      "foodName": "こめ　［水稲めし］　精白米　うるち米",
+      "isRecipeIngredient": true,
+      "reason": "精白（うるち）米は調理済み白米であり実績リストの「穀物・麺類 > 白米」に該当",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01154",
+      "foodName": "こめ　［水稲めし］　精白米　もち米",
+      "isRecipeIngredient": true,
+      "reason": "もち米は実績リストに「穀物・麺類 > もち米」として存在するため",
+      "labelPath": "穀物・麺類 > もち米"
+    },
+    {
+      "foodNumber": "01089",
+      "foodName": "こめ　［水稲めし］　はいが精米",
+      "isRecipeIngredient": true,
+      "reason": "胚芽米（はいが精米）は全粒に近い米で栄養性が玄米寄りのため、実績リストの「穀物・麺類 > 玄米」に該当すると判断",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01155",
+      "foodName": "こめ　［水稲めし］　発芽玄米",
+      "isRecipeIngredient": true,
+      "reason": "発芽玄米は実績リストの「穀物・麺類 > 玄米」に該当するため",
+      "labelPath": "穀物・麺類 > 玄米"
+    },
+    {
+      "foodNumber": "01183",
+      "foodName": "こめ　［水稲めし］　赤米",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「赤米」ラベルが存在しないため（新規ラベル作成不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01184",
+      "foodName": "こめ　［水稲めし］　黒米",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「黒米ご飯／黒米」ラベルが見当たらないため（新規ラベル作成不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01185",
+      "foodName": "こめ　［水稲軟めし］　精白米",
+      "isRecipeIngredient": true,
+      "reason": "軟らかめに炊いた白ご飯は実績リストの「穀物・麺類 > 白米」に該当するため",
+      "labelPath": "穀物・麺類 > 白米"
+    },
+    {
+      "foodNumber": "01090",
+      "foodName": "こめ　［水稲全かゆ］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "玄米のおかゆは実績リストの粥カテゴリ「穀物・麺類 > おかゆ」に該当するため",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01091",
+      "foodName": "こめ　［水稲全かゆ］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "半つき米の全がゆは粥カテゴリに該当するため実績リストの「穀物・麺類 > おかゆ」にマッチ",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01092",
+      "foodName": "こめ　［水稲全かゆ］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "七分つき米の全がゆは実績リストの粥カテゴリ「穀物・麺類 > おかゆ」に該当するため",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01093",
+      "foodName": "こめ　［水稲全かゆ］　精白米",
+      "isRecipeIngredient": true,
+      "reason": "白米の全がゆは実績リストの「穀物・麺類 > おかゆ」に該当するため",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01094",
+      "foodName": "こめ　［水稲五分かゆ］　玄米",
+      "isRecipeIngredient": true,
+      "reason": "玄米の五分がゆも粥形態のため実績リストの「穀物・麺類 > おかゆ」に該当",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01095",
+      "foodName": "こめ　［水稲五分かゆ］　半つき米",
+      "isRecipeIngredient": true,
+      "reason": "半つき米の五分がゆは粥カテゴリに該当するため実績リストの「穀物・麺類 > おかゆ」にマッチ",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01096",
+      "foodName": "こめ　［水稲五分かゆ］　七分つき米",
+      "isRecipeIngredient": true,
+      "reason": "七分つき米の五分がゆは実績リストの粥カテゴリ「穀物・麺類 > おかゆ」に該当するため",
+      "labelPath": "穀物・麺類 > おかゆ"
+    },
+    {
+      "foodNumber": "01097",
+      "foodName": "こめ　［水稲五分かゆ］　精白米",
+      "isRecipeIngredient": true,
+      "reason": "白米の五分がゆは実績リストの「穀物・麺類 > おかゆ」に該当するため",
+      "labelPath": "穀物・麺類 > おかゆ"
+    }
+  ]
+}

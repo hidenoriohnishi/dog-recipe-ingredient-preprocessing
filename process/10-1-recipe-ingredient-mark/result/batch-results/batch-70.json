@@ -1,0 +1,146 @@
+{
+  "batchNumber": 70,
+  "timestamp": "2025-12-25T02:31:17.499Z",
+  "results": [
+    {
+      "foodNumber": "11217",
+      "foodName": "＜鳥肉類＞　にわとり　［親・副品目］　ささみ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ささみ」があり、'ささみ（生）'のタグと一致するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏ささみ"
+    },
+    {
+      "foodNumber": "11218",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏手羽」があり、手羽（皮つき・生）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏手羽"
+    },
+    {
+      "foodNumber": "11285",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽さき　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏手羽先」があり、手羽先（皮つき・生）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏手羽先"
+    },
+    {
+      "foodNumber": "11286",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽もと　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏手羽元」があり、手羽もと（皮つき・生）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏手羽元"
+    },
+    {
+      "foodNumber": "11219",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏むね肉」があり、むね（皮つき・生）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏むね肉"
+    },
+    {
+      "foodNumber": "11287",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏むね肉」があり、むね（皮つき・焼き）も同カテゴリの調理状態として含まれるため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏むね肉"
+    },
+    {
+      "foodNumber": "11220",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏むね肉」があり、皮なしむね（生）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏むね肉"
+    },
+    {
+      "foodNumber": "11288",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏むね肉」があり、皮なしむね（焼き）も同カテゴリに含まれるため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏むね肉"
+    },
+    {
+      "foodNumber": "11221",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏もも肉」があり、もも（皮つき・生）と一致するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11223",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏もも肉」があり、もも（皮つき・ゆで）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11222",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏もも肉」があり、もも（皮つき・焼き）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11224",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏もも肉」があり、皮なしもも（生）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11226",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏もも肉」があり、皮なしもも（ゆで）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11225",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏もも肉」があり、皮なしもも（焼き）と対応するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11227",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ささみ」があり、ささみ（生）タグと一致するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏ささみ"
+    },
+    {
+      "foodNumber": "11229",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ささみ」があり、ささみ（ゆで）も同カテゴリとして含まれるため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏ささみ"
+    },
+    {
+      "foodNumber": "11228",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ささみ」があり、ささみ（焼き）も同カテゴリとして含まれるため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏ささみ"
+    },
+    {
+      "foodNumber": "11298",
+      "foodName": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　ソテー",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ささみ」があり、ささみ（ソテー）も加熱済みの同カテゴリとして対応可能なため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏ささみ"
+    },
+    {
+      "foodNumber": "11230",
+      "foodName": "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに鶏肉カテゴリ内で'鶏ひき肉'が登録されている（肉類 > 鶏肉 > 鶏肉（一般）に例示あり）ため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏肉（一般）"
+    },
+    {
+      "foodNumber": "11291",
+      "foodName": "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに鶏肉カテゴリ内で'鶏ひき肉'が登録されているため（焼きも同カテゴリの調理状態として扱える）。",
+      "labelPath": "肉類 > 鶏肉 > 鶏肉（一般）"
+    }
+  ]
+}

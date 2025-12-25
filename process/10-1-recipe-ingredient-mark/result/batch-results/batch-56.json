@@ -1,0 +1,146 @@
+{
+  "batchNumber": 56,
+  "timestamp": "2025-12-25T02:14:02.957Z",
+  "results": [
+    {
+      "foodNumber": "10327",
+      "foodName": "＜えび・かに類＞　（えび類）　大正えび　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は実績にないが一般的な「海老」として実績リストに存在するため該当。",
+      "labelPath": "魚介類 > 海老"
+    },
+    {
+      "foodNumber": "10328",
+      "foodName": "＜えび・かに類＞　（えび類）　しばえび　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は実績にないが一般的な「海老」として実績リストに存在するため該当。",
+      "labelPath": "魚介類 > 海老"
+    },
+    {
+      "foodNumber": "10415",
+      "foodName": "＜えび・かに類＞　（えび類）　バナメイえび　養殖　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は実績にないが一般的な「海老」として実績リストに存在するため該当。",
+      "labelPath": "魚介類 > 海老"
+    },
+    {
+      "foodNumber": "10329",
+      "foodName": "＜えび・かに類＞　（えび類）　ブラックタイガー　養殖　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は実績にないが一般的な「海老」として実績リストに存在するため該当。",
+      "labelPath": "魚介類 > 海老"
+    },
+    {
+      "foodNumber": "10330",
+      "foodName": "＜えび・かに類＞　（えび類）　加工品　干しえび",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「干し海老」のラベルがあり一致するため。",
+      "labelPath": "魚介類 > 干し海老"
+    },
+    {
+      "foodNumber": "10332",
+      "foodName": "＜えび・かに類＞　（かに類）　がざみ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「がざみ（渡り蟹）」の表記があるため一致する。",
+      "labelPath": "魚介類 > がざみ"
+    },
+    {
+      "foodNumber": "10333",
+      "foodName": "＜えび・かに類＞　（かに類）　毛がに　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「毛がに」のラベルがあり一致するため。",
+      "labelPath": "魚介類 > 毛がに"
+    },
+    {
+      "foodNumber": "10334",
+      "foodName": "＜えび・かに類＞　（かに類）　毛がに　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で/生いずれも実績リストの「毛がに」ラベルに該当するため。",
+      "labelPath": "魚介類 > 毛がに"
+    },
+    {
+      "foodNumber": "10335",
+      "foodName": "＜えび・かに類＞　（かに類）　ずわいがに　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「ずわいがに」のラベルがあり一致するため。",
+      "labelPath": "魚介類 > ずわいがに"
+    },
+    {
+      "foodNumber": "10336",
+      "foodName": "＜えび・かに類＞　（かに類）　ずわいがに　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で/生いずれも実績リストの「ずわいがに」ラベルに該当するため。",
+      "labelPath": "魚介類 > ずわいがに"
+    },
+    {
+      "foodNumber": "10337",
+      "foodName": "＜えび・かに類＞　（かに類）　ずわいがに　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "缶詰状態でも実績リストに「ずわいがに」があり該当するため。",
+      "labelPath": "魚介類 > ずわいがに"
+    },
+    {
+      "foodNumber": "10338",
+      "foodName": "＜えび・かに類＞　（かに類）　たらばがに　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「たらばがに」のラベルがあり一致するため。",
+      "labelPath": "魚介類 > たらばがに"
+    },
+    {
+      "foodNumber": "10339",
+      "foodName": "＜えび・かに類＞　（かに類）　たらばがに　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で/生いずれも実績リストの「たらばがに」ラベルに該当するため。",
+      "labelPath": "魚介類 > たらばがに"
+    },
+    {
+      "foodNumber": "10340",
+      "foodName": "＜えび・かに類＞　（かに類）　たらばがに　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "缶詰状態でも実績リストに「たらばがに」があり該当するため。",
+      "labelPath": "魚介類 > たらばがに"
+    },
+    {
+      "foodNumber": "10342",
+      "foodName": "＜いか・たこ類＞　（いか類）　あかいか　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は細分類だが実績リストに一般項目「イカ」があるため該当する。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10343",
+      "foodName": "＜いか・たこ類＞　（いか類）　けんさきいか　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は細分類だが実績リストの一般ラベル「イカ」に対応するため。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10344",
+      "foodName": "＜いか・たこ類＞　（いか類）　こういか　生",
+      "isRecipeIngredient": true,
+      "reason": "種名は細分類だが実績リストの一般ラベル「イカ」に対応するため。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10345",
+      "foodName": "＜いか・たこ類＞　（いか類）　するめいか　生",
+      "isRecipeIngredient": true,
+      "reason": "生のするめいかは実績リストの一般ラベル「イカ」に当てはまるため。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10346",
+      "foodName": "＜いか・たこ類＞　（いか類）　するめいか　水煮",
+      "isRecipeIngredient": true,
+      "reason": "加熱済（水煮）のするめいかも実績リストの「イカ」として該当。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10347",
+      "foodName": "＜いか・たこ類＞　（いか類）　するめいか　焼き",
+      "isRecipeIngredient": true,
+      "reason": "焼きのするめいかも実績リストの「イカ」ラベルに対応するため。",
+      "labelPath": "魚介類 > イカ"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batchNumber": 57,
+  "timestamp": "2025-12-25T02:15:00.506Z",
+  "results": [
+    {
+      "foodNumber": "10417",
+      "foodName": "＜いか・たこ類＞　（いか類）　するめいか　胴　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "するめいかは一般的な「イカ」に該当するため、実績リストの「魚介類 > イカ」にマッチします。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10418",
+      "foodName": "＜いか・たこ類＞　（いか類）　するめいか　胴　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "するめいか（胴・皮なし・生）もイカ類に該当するため、実績リストの「魚介類 > イカ」にマッチします。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10420",
+      "foodName": "＜いか・たこ類＞　（いか類）　するめいか　耳・足　生",
+      "isRecipeIngredient": true,
+      "reason": "するめいかの耳・足（足・ゲソ）はイカの部位に相当し、実績リストの「魚介類 > イカ」に該当します。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10348",
+      "foodName": "＜いか・たこ類＞　（いか類）　ほたるいか　生",
+      "isRecipeIngredient": true,
+      "reason": "ほたるいかは実績リストに「魚介類 > ホタルイカ」として登録されています。",
+      "labelPath": "魚介類 > ホタルイカ"
+    },
+    {
+      "foodNumber": "10349",
+      "foodName": "＜いか・たこ類＞　（いか類）　ほたるいか　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでほたるいかも基となる食材は同じくホタルイカのため、実績リストの「魚介類 > ホタルイカ」に該当します。",
+      "labelPath": "魚介類 > ホタルイカ"
+    },
+    {
+      "foodNumber": "10350",
+      "foodName": "＜いか・たこ類＞　（いか類）　ほたるいか　くん製",
+      "isRecipeIngredient": true,
+      "reason": "くん製のほたるいかも基材はホタルイカで、実績リストの「魚介類 > ホタルイカ」と対応します（加工状態の差は許容）。",
+      "labelPath": "魚介類 > ホタルイカ"
+    },
+    {
+      "foodNumber": "10352",
+      "foodName": "＜いか・たこ類＞　（いか類）　やりいか　生",
+      "isRecipeIngredient": true,
+      "reason": "やりいかはイカ類に該当するため、実績リストの「魚介類 > イカ」にマッチします。",
+      "labelPath": "魚介類 > イカ"
+    },
+    {
+      "foodNumber": "10353",
+      "foodName": "＜いか・たこ類＞　（いか類）　加工品　するめ",
+      "isRecipeIngredient": true,
+      "reason": "加工した『するめ』（乾燥するめ）は実績リストの「加工食材 > するめ」に登録されています。",
+      "labelPath": "加工食材 > するめ"
+    },
+    {
+      "foodNumber": "10360",
+      "foodName": "＜いか・たこ類＞　（たこ類）　いいだこ　生",
+      "isRecipeIngredient": true,
+      "reason": "いいだこはタコ類に該当するため、実績リストの汎用ラベル「魚介類 > タコ」に該当します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10361",
+      "foodName": "＜いか・たこ類＞　（たこ類）　まだこ　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "まだこ（皮つき・生）はタコ類に該当するため、実績リストの「魚介類 > タコ」に該当します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10471",
+      "foodName": "＜いか・たこ類＞　（たこ類）　まだこ　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "まだこ（皮なし・生）もタコ類に該当するため、実績リストの「魚介類 > タコ」に該当します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10362",
+      "foodName": "＜いか・たこ類＞　（たこ類）　まだこ　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹でたまだこ（加熱済）も基はタコで、実績リストの「魚介類 > タコ」に対応します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10472",
+      "foodName": "＜いか・たこ類＞　（たこ類）　まだこ　蒸しだこ",
+      "isRecipeIngredient": true,
+      "reason": "蒸しだこ（蒸したタコ）はタコ類の加工形態であり、実績リストの「魚介類 > タコ」に該当します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10473",
+      "foodName": "＜いか・たこ類＞　（たこ類）　まだこ　蒸しだこ　油いため",
+      "isRecipeIngredient": true,
+      "reason": "蒸しだこ（油いため）も基はタコであり、実績リストの「魚介類 > タコ」に該当します（調理法の差は許容）。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10474",
+      "foodName": "＜いか・たこ類＞　（たこ類）　まだこ　蒸しだこ　素揚げ",
+      "isRecipeIngredient": true,
+      "reason": "蒸しだこ（素揚げ）もタコ類に該当するため、実績リストの「魚介類 > タコ」に対応します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10432",
+      "foodName": "＜いか・たこ類＞　（たこ類）　みずだこ　生",
+      "isRecipeIngredient": true,
+      "reason": "みずだこ（生）はタコ類に該当するため、実績リストの「魚介類 > タコ」に該当します。",
+      "labelPath": "魚介類 > タコ"
+    },
+    {
+      "foodNumber": "10367",
+      "foodName": "＜その他＞　うに　練りうに",
+      "isRecipeIngredient": false,
+      "reason": "「練りうに（うに）」のラベルが実績リスト内に見つからないため、新規ラベル作成は不可です。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10369",
+      "foodName": "＜その他＞　おきあみ　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "おきあみ（ゆで）のラベルは実績リストに存在しないため該当ラベルがありません。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10370",
+      "foodName": "＜その他＞　くらげ　塩蔵　塩抜き",
+      "isRecipeIngredient": false,
+      "reason": "塩蔵くらげ（塩抜き）のラベルは実績リストに見当たらないため該当なしです。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10371",
+      "foodName": "＜その他＞　しゃこ　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "しゃこ（ゆで）は実績リストに該当するラベルが見つからないため該当なしです。",
+      "labelPath": ""
+    }
+  ]
+}

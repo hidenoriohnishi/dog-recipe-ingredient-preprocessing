@@ -1,0 +1,146 @@
+{
+  "batchNumber": 17,
+  "timestamp": "2025-12-25T01:08:56.265Z",
+  "results": [
+    {
+      "foodNumber": "06034",
+      "foodName": "かぶ　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > カブ」があり「カブの葉」等の表記が含まれているため一致します。",
+      "labelPath": "野菜 > カブ"
+    },
+    {
+      "foodNumber": "06035",
+      "foodName": "かぶ　葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "「野菜 > カブ」ラベルにかぶの葉（茹で／生を問わない表記揃い）が含まれるため一致します。",
+      "labelPath": "野菜 > カブ"
+    },
+    {
+      "foodNumber": "06036",
+      "foodName": "かぶ　根　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「野菜 > カブ」が根部（生・皮付き等）を含む一般ラベルとして該当します。",
+      "labelPath": "野菜 > カブ"
+    },
+    {
+      "foodNumber": "06037",
+      "foodName": "かぶ　根　皮つき　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆで・根・皮つきのかぶは実績リストの「野菜 > カブ」に対応します。",
+      "labelPath": "野菜 > カブ"
+    },
+    {
+      "foodNumber": "06038",
+      "foodName": "かぶ　根　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "皮なし・生のかぶも実績リストの「野菜 > カブ」に含まれる一般的な表記です。",
+      "labelPath": "野菜 > カブ"
+    },
+    {
+      "foodNumber": "06039",
+      "foodName": "かぶ　根　皮なし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "皮なし・ゆでのかぶも「野菜 > カブ」として実績リストに該当します。",
+      "labelPath": "野菜 > カブ"
+    },
+    {
+      "foodNumber": "06046",
+      "foodName": "（かぼちゃ類）　日本かぼちゃ　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "かぼちゃ類は実績リストの「野菜 > かぼちゃ」に含まれるため、日本かぼちゃ（生）も該当します。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06047",
+      "foodName": "（かぼちゃ類）　日本かぼちゃ　果実　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでた日本かぼちゃは実績リストの「野菜 > かぼちゃ」に対応します。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06048",
+      "foodName": "（かぼちゃ類）　西洋かぼちゃ　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "西洋かぼちゃ（生）は実績リストのかぼちゃ系ラベルに含まれるため一致します。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06049",
+      "foodName": "（かぼちゃ類）　西洋かぼちゃ　果実　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでた西洋かぼちゃも実績リストの「野菜 > かぼちゃ」に該当します。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06332",
+      "foodName": "（かぼちゃ類）　西洋かぼちゃ　果実　焼き",
+      "isRecipeIngredient": true,
+      "reason": "焼きの西洋かぼちゃもかぼちゃ類の一般ラベルに該当します（実績リストにかぼちゃが存在）。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06050",
+      "foodName": "（かぼちゃ類）　西洋かぼちゃ　果実　冷凍",
+      "isRecipeIngredient": true,
+      "reason": "冷凍の西洋かぼちゃも実績リストのかぼちゃ系ラベルでカバーされます。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06051",
+      "foodName": "（かぼちゃ類）　そうめんかぼちゃ　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "そうめんかぼちゃはかぼちゃ類に含められる一般的素材で、実績リストのかぼちゃ系ラベルに対応します。",
+      "labelPath": "野菜 > かぼちゃ"
+    },
+    {
+      "foodNumber": "06052",
+      "foodName": "からしな　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "からしな（葉）は実績リストの葉物野菜群に含まれる表記（からしな）に一致します。",
+      "labelPath": "野菜 > からしな"
+    },
+    {
+      "foodNumber": "06053",
+      "foodName": "からしな　塩漬",
+      "isRecipeIngredient": true,
+      "reason": "塩漬けにしたからしなも基礎ラベルとしての「からしな」で実績リストと対応可能です（塩漬けは調理状態）。",
+      "labelPath": "野菜 > からしな"
+    },
+    {
+      "foodNumber": "06054",
+      "foodName": "カリフラワー　花序　生",
+      "isRecipeIngredient": true,
+      "reason": "カリフラワー（生）は実績リストの「野菜 > カリフラワー」と一致します。",
+      "labelPath": "野菜 > カリフラワー"
+    },
+    {
+      "foodNumber": "06055",
+      "foodName": "カリフラワー　花序　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでたカリフラワーも実績リストのカリフラワーラベルでカバーされます。",
+      "labelPath": "野菜 > カリフラワー"
+    },
+    {
+      "foodNumber": "06056",
+      "foodName": "かんぴょう　乾",
+      "isRecipeIngredient": true,
+      "reason": "かんぴょう（乾燥）は実績リストに「野菜 > かんぴょう」として登録されています。",
+      "labelPath": "野菜 > かんぴょう"
+    },
+    {
+      "foodNumber": "06057",
+      "foodName": "かんぴょう　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでたかんぴょうも実績リストの「野菜 > かんぴょう」に対応します。",
+      "labelPath": "野菜 > かんぴょう"
+    },
+    {
+      "foodNumber": "06058",
+      "foodName": "きく　花びら　生",
+      "isRecipeIngredient": true,
+      "reason": "食用の菊の花びらは実績リストの食材ラベル（菊／食用菊に相当する葉菜系カテゴリ）でカバーできるため一致します。",
+      "labelPath": "野菜 > きく"
+    }
+  ]
+}

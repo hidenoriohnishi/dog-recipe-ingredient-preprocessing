@@ -1,0 +1,146 @@
+{
+  "batchNumber": 9,
+  "timestamp": "2025-12-25T00:57:58.812Z",
+  "results": [
+    {
+      "foodNumber": "02025",
+      "foodName": "＜いも類＞　（やまのいも類）　ながいも　やまといも　塊根　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 長芋」として存在するため一致。",
+      "labelPath": "野菜 > 長芋"
+    },
+    {
+      "foodNumber": "02026",
+      "foodName": "＜いも類＞　（やまのいも類）　じねんじょ　塊根　生",
+      "isRecipeIngredient": true,
+      "reason": "自然薯は山芋類に該当し、実績リストの「野菜 > 長芋」で包含可能なため一致と判断。",
+      "labelPath": "野菜 > 長芋"
+    },
+    {
+      "foodNumber": "02070",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　おおうばゆりでん粉",
+      "isRecipeIngredient": false,
+      "reason": "おおうばゆりでん粉を示す実績ラベルが存在しないため、新規ラベル作成は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02028",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　キャッサバでん粉",
+      "isRecipeIngredient": false,
+      "reason": "キャッサバでん粉（コーンでなくタピオカ系）の実績ラベルはリストにないため一致なし。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02029",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　くずでん粉",
+      "isRecipeIngredient": true,
+      "reason": "葛（くず）由来のでん粉は実績の「粉類 > 葛粉」で近しいため一致と判断。",
+      "labelPath": "粉類 > 葛粉"
+    },
+    {
+      "foodNumber": "02030",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　米でん粉",
+      "isRecipeIngredient": false,
+      "reason": "米でん粉に対応する明確な実績ラベルがないため新規ラベルは作れない。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02031",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　小麦でん粉",
+      "isRecipeIngredient": false,
+      "reason": "小麦でん粉を示す既存ラベルは実績リストに見当たらないため一致しない。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02032",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　サゴでん粉",
+      "isRecipeIngredient": false,
+      "reason": "サゴでん粉に対応する実績ラベルがリストにないため一致なし。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02033",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　さつまいもでん粉",
+      "isRecipeIngredient": false,
+      "reason": "さつまいもでん粉専用の実績ラベルは無く、原料の「野菜 > さつまいも」とは異なる粒度のため新規不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02034",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　じゃがいもでん粉",
+      "isRecipeIngredient": true,
+      "reason": "じゃがいもでん粉は実績での呼称「片栗粉」に対応しているため一致。",
+      "labelPath": "穀物・麺類 > 片栗粉"
+    },
+    {
+      "foodNumber": "02035",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉類）　とうもろこしでん粉",
+      "isRecipeIngredient": false,
+      "reason": "とうもろこしでん粉（コーンスターチ）に対応する実績ラベルが見当たらないため一致なし。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02036",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　くずきり　乾",
+      "isRecipeIngredient": true,
+      "reason": "くずきり（でん粉由来の葛製品）は原料の葛粉に対応すると判断し、実績の「粉類 > 葛粉」と対応。",
+      "labelPath": "粉類 > 葛粉"
+    },
+    {
+      "foodNumber": "02037",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　くずきり　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "ゆでたくずきりも同様に葛由来の製品で実績の「粉類 > 葛粉」に対応可能なため一致。",
+      "labelPath": "粉類 > 葛粉"
+    },
+    {
+      "foodNumber": "02038",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　タピオカパール　乾",
+      "isRecipeIngredient": false,
+      "reason": "タピオカパール（乾）は実績リストに該当ラベルがないため一致しない。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02057",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　タピオカパール　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "ゆでタピオカパールも実績ラベルがないため新規ラベル化は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02059",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　でん粉めん　乾",
+      "isRecipeIngredient": true,
+      "reason": "汎用のでん粉めん（乾）は実績で扱われている麺類の中では春雨に相当すると判断し、実績の「穀物・麺類 > 春雨」に対応。",
+      "labelPath": "穀物・麺類 > 春雨"
+    },
+    {
+      "foodNumber": "02039",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　緑豆はるさめ　乾",
+      "isRecipeIngredient": true,
+      "reason": "緑豆はるさめ（乾）は実績の「穀物・麺類 > 春雨」と明確に一致するため一致。",
+      "labelPath": "穀物・麺類 > 春雨"
+    },
+    {
+      "foodNumber": "02061",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　緑豆はるさめ　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "緑豆はるさめ（ゆで）も実績の春雨カテゴリに対応するため一致。",
+      "labelPath": "穀物・麺類 > 春雨"
+    },
+    {
+      "foodNumber": "02040",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　普通はるさめ　乾",
+      "isRecipeIngredient": true,
+      "reason": "普通はるさめ（乾）は実績の「穀物・麺類 > 春雨」と一致するため一致。",
+      "labelPath": "穀物・麺類 > 春雨"
+    },
+    {
+      "foodNumber": "02062",
+      "foodName": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　普通はるさめ　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "普通はるさめ（ゆで）も実績の春雨ラベルに対応するため一致。",
+      "labelPath": "穀物・麺類 > 春雨"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batchNumber": 16,
+  "timestamp": "2025-12-25T01:07:34.224Z",
+  "results": [
+    {
+      "foodNumber": "06018",
+      "foodName": "エンダイブ　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「エンダイブ（アンディーブ／チコリ）」を示すラベルが存在しないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06019",
+      "foodName": "（えんどう類）　トウミョウ　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 豆苗」が存在するため一致。",
+      "labelPath": "野菜 > 豆苗"
+    },
+    {
+      "foodNumber": "06329",
+      "foodName": "（えんどう類）　トウミョウ　芽ばえ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 豆苗」が存在するため（芽ばえも同ラベルで扱えると判断）一致。",
+      "labelPath": "野菜 > 豆苗"
+    },
+    {
+      "foodNumber": "06330",
+      "foodName": "（えんどう類）　トウミョウ　芽ばえ　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 豆苗」が存在するため（ゆでも同ラベルに包含）一致。",
+      "labelPath": "野菜 > 豆苗"
+    },
+    {
+      "foodNumber": "06331",
+      "foodName": "（えんどう類）　トウミョウ　芽ばえ　油いため",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 豆苗」が存在するため（油いためも同ラベルに包含）一致。",
+      "labelPath": "野菜 > 豆苗"
+    },
+    {
+      "foodNumber": "06020",
+      "foodName": "（えんどう類）　さやえんどう　若ざや　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さやえんどう」が存在するため一致。",
+      "labelPath": "野菜 > さやえんどう"
+    },
+    {
+      "foodNumber": "06021",
+      "foodName": "（えんどう類）　さやえんどう　若ざや　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さやえんどう」が存在するため（ゆでも同ラベルに包含）一致。",
+      "labelPath": "野菜 > さやえんどう"
+    },
+    {
+      "foodNumber": "06022",
+      "foodName": "（えんどう類）　スナップえんどう　若ざや　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > スナップエンドウ」が存在するため一致。",
+      "labelPath": "野菜 > スナップエンドウ"
+    },
+    {
+      "foodNumber": "06023",
+      "foodName": "（えんどう類）　グリンピース　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「グリンピース」を示すラベルが見当たらないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06024",
+      "foodName": "（えんどう類）　グリンピース　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「グリンピース（ゆで）」等のラベルが見当たらないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06025",
+      "foodName": "（えんどう類）　グリンピース　冷凍",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「グリンピース（冷凍）」等のラベルが見当たらないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06374",
+      "foodName": "（えんどう類）　グリンピース　冷凍　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「グリンピース（冷凍・ゆで）」等のラベルが見当たらないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06375",
+      "foodName": "（えんどう類）　グリンピース　冷凍　油いため",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「グリンピース（冷凍・油いため）」等のラベルが見当たらないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06026",
+      "foodName": "（えんどう類）　グリンピース　水煮缶詰",
+      "isRecipeIngredient": false,
+      "reason": "実績リスト内に「グリンピース（水煮缶詰）」等のラベルが見当たらないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06027",
+      "foodName": "おおさかしろな　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「おおさかしろな」または同義ラベルが存在しないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06028",
+      "foodName": "おおさかしろな　葉　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「おおさかしろな（ゆで）」等のラベルが存在しないため。新規ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06030",
+      "foodName": "おかひじき　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > おかひじき」が存在するため一致。",
+      "labelPath": "野菜 > おかひじき"
+    },
+    {
+      "foodNumber": "06031",
+      "foodName": "おかひじき　茎葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > おかひじき」が存在するため（ゆでも同ラベルに包含）一致。",
+      "labelPath": "野菜 > おかひじき"
+    },
+    {
+      "foodNumber": "06032",
+      "foodName": "オクラ　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > オクラ」が存在するため一致。",
+      "labelPath": "野菜 > オクラ"
+    },
+    {
+      "foodNumber": "06033",
+      "foodName": "オクラ　果実　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > オクラ」が存在するため（ゆでも同ラベルに包含）一致。",
+      "labelPath": "野菜 > オクラ"
+    }
+  ]
+}

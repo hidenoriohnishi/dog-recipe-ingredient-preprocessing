@@ -1,0 +1,146 @@
+{
+  "batchNumber": 37,
+  "timestamp": "2025-12-25T01:29:38.140Z",
+  "results": [
+    {
+      "foodNumber": "08031",
+      "foodName": "マッシュルーム　生",
+      "isRecipeIngredient": true,
+      "reason": "「マッシュルーム」の汎用ラベルが実績リストに存在するため（状態差異は許容）。",
+      "labelPath": "野菜 > マッシュルーム"
+    },
+    {
+      "foodNumber": "08032",
+      "foodName": "マッシュルーム　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "「マッシュルーム」の汎用ラベルが実績リストに存在するため（ゆで状態でも同ラベルに該当）。",
+      "labelPath": "野菜 > マッシュルーム"
+    },
+    {
+      "foodNumber": "08052",
+      "foodName": "マッシュルーム　油いため",
+      "isRecipeIngredient": true,
+      "reason": "「マッシュルーム」の汎用ラベルが実績リストに存在するため（油いためでも基ラベルで対応）。",
+      "labelPath": "野菜 > マッシュルーム"
+    },
+    {
+      "foodNumber": "08059",
+      "foodName": "マッシュルーム　ブラウン種　生",
+      "isRecipeIngredient": true,
+      "reason": "ブラウン種もマッシュルームの一種で、実績リストの「マッシュルーム」ラベルでカバーされる。 ",
+      "labelPath": "野菜 > マッシュルーム"
+    },
+    {
+      "foodNumber": "08033",
+      "foodName": "マッシュルーム　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "水煮缶もマッシュルーム類に該当し、実績リストの「マッシュルーム」ラベルで対応可能。",
+      "labelPath": "野菜 > マッシュルーム"
+    },
+    {
+      "foodNumber": "08034",
+      "foodName": "まつたけ　生",
+      "isRecipeIngredient": false,
+      "reason": "「まつたけ」単独のラベルが実績リストに見当たらないため（新規ラベル作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "08036",
+      "foodName": "やなぎまつたけ　生",
+      "isRecipeIngredient": false,
+      "reason": "「やなぎまつたけ」名のラベルは実績リストに存在しないため（新規ラベル作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "09001",
+      "foodName": "あおさ　素干し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「あおさ」のラベルが存在するため一致。",
+      "labelPath": "野菜 > あおさ"
+    },
+    {
+      "foodNumber": "09002",
+      "foodName": "あおのり　素干し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「青のり」のラベルが存在するため一致。",
+      "labelPath": "野菜 > 青のり"
+    },
+    {
+      "foodNumber": "09003",
+      "foodName": "あまのり　ほしのり",
+      "isRecipeIngredient": true,
+      "reason": "あまのり（乾燥のり）は実績リストの海苔系ラベルでカバーされるため（最も近い既存ラベルを使用）。",
+      "labelPath": "野菜 > 焼き海苔"
+    },
+    {
+      "foodNumber": "09004",
+      "foodName": "あまのり　焼きのり",
+      "isRecipeIngredient": true,
+      "reason": "「焼きのり」は実績リストに同名ラベルが存在するため一致。",
+      "labelPath": "野菜 > 焼き海苔"
+    },
+    {
+      "foodNumber": "09005",
+      "foodName": "あまのり　味付けのり",
+      "isRecipeIngredient": true,
+      "reason": "「味付けのり」は実績リストに同名ラベルが存在するため一致。",
+      "labelPath": "野菜 > 味付けのり"
+    },
+    {
+      "foodNumber": "09006",
+      "foodName": "あらめ　蒸し干し",
+      "isRecipeIngredient": true,
+      "reason": "「あらめ」のラベルが実績リストに存在するため一致。",
+      "labelPath": "野菜 > あらめ"
+    },
+    {
+      "foodNumber": "09007",
+      "foodName": "いわのり　素干し",
+      "isRecipeIngredient": true,
+      "reason": "「いわのり（素干し）」は実績リストに同名ラベルが存在するため一致。",
+      "labelPath": "野菜 > いわのり"
+    },
+    {
+      "foodNumber": "09012",
+      "foodName": "うみぶどう　生",
+      "isRecipeIngredient": true,
+      "reason": "「うみぶどう（生）」は実績リストに同名ラベルが存在するため一致。",
+      "labelPath": "野菜 > うみぶどう"
+    },
+    {
+      "foodNumber": "09008",
+      "foodName": "えごのり　素干し",
+      "isRecipeIngredient": true,
+      "reason": "「えごのり（素干し）」は実績リストに同名ラベルが存在するため一致。",
+      "labelPath": "野菜 > えごのり"
+    },
+    {
+      "foodNumber": "09009",
+      "foodName": "えごのり　おきうと",
+      "isRecipeIngredient": true,
+      "reason": "「おきうと（えごのり）」に相当するラベルが実績リストに存在するため一致。",
+      "labelPath": "野菜 > えごのり　おきうと"
+    },
+    {
+      "foodNumber": "09010",
+      "foodName": "おごのり　塩蔵　塩抜き",
+      "isRecipeIngredient": true,
+      "reason": "「おごのり（塩蔵・塩抜き）」は実績リストに相当ラベルが存在するため一致。",
+      "labelPath": "野菜 > おごのり"
+    },
+    {
+      "foodNumber": "09011",
+      "foodName": "かわのり　素干し",
+      "isRecipeIngredient": true,
+      "reason": "「かわのり（素干し）」は実績リストに同名ラベルが存在するため一致。",
+      "labelPath": "野菜 > かわのり"
+    },
+    {
+      "foodNumber": "09013",
+      "foodName": "（こんぶ類）　えながおにこんぶ　素干し",
+      "isRecipeIngredient": true,
+      "reason": "（昆布類）の一種であり、実績リストの「昆布」ラベルでカバーされるため一致（新規ラベル不要）。",
+      "labelPath": "野菜 > 昆布"
+    }
+  ]
+}

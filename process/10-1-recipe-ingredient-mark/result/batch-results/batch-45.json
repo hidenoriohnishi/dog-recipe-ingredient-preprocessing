@@ -1,0 +1,146 @@
+{
+  "batchNumber": 45,
+  "timestamp": "2025-12-25T02:03:47.303Z",
+  "results": [
+    {
+      "foodNumber": "10111",
+      "foodName": "＜魚類＞　きびなご　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「きびなご」のラベルが存在しないため（該当する汎化ラベルも明示されていない）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10114",
+      "foodName": "＜魚類＞　キングクリップ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「キングクリップ」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10115",
+      "foodName": "＜魚類＞　ぎんだら　生",
+      "isRecipeIngredient": true,
+      "reason": "同名ラベルが実績リストに存在するため（魚介類 > 銀だら）",
+      "labelPath": "魚介類 > 銀だら"
+    },
+    {
+      "foodNumber": "10401",
+      "foodName": "＜魚類＞　ぎんだら　水煮",
+      "isRecipeIngredient": true,
+      "reason": "同名ラベルが実績リストに存在するため（魚介類 > 銀だら）",
+      "labelPath": "魚介類 > 銀だら"
+    },
+    {
+      "foodNumber": "10116",
+      "foodName": "＜魚類＞　きんめだい　生",
+      "isRecipeIngredient": true,
+      "reason": "同名ラベルが実績リストに存在するため（魚介類 > 金目鯛）",
+      "labelPath": "魚介類 > 金目鯛"
+    },
+    {
+      "foodNumber": "10117",
+      "foodName": "＜魚類＞　ぐち　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ぐち（こち）」のラベルが無いため（種としての該当ラベルがない）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10118",
+      "foodName": "＜魚類＞　ぐち　焼き",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ぐち（焼き）」等のラベルが無いため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10119",
+      "foodName": "＜魚類＞　こい　養殖　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「鯉」のラベルが存在するため（養殖・生も種として該当）",
+      "labelPath": "魚介類 > 鯉"
+    },
+    {
+      "foodNumber": "10120",
+      "foodName": "＜魚類＞　こい　養殖　水煮",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「鯉」のラベルが存在するため（養殖・水煮も種として該当）",
+      "labelPath": "魚介類 > 鯉"
+    },
+    {
+      "foodNumber": "10121",
+      "foodName": "＜魚類＞　こい　養殖　内臓　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「鯉」のラベルが存在するため（内臓を含む鯉関連は鯉ラベルに該当）",
+      "labelPath": "魚介類 > 鯉"
+    },
+    {
+      "foodNumber": "10122",
+      "foodName": "＜魚類＞　（こち類）　まごち　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「まごち」のラベルが存在しないため（同種ラベルなし）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10123",
+      "foodName": "＜魚類＞　（こち類）　めごち　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「めごち」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10124",
+      "foodName": "＜魚類＞　このしろ　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「このしろ」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "10126",
+      "foodName": "＜魚類＞　（さけ・ます類）　からふとます　生",
+      "isRecipeIngredient": true,
+      "reason": "成魚群（さけ・ます類）に対する実績ラベルが『鮭』で存在するため（からふとますはさけ・ます類に含まれる）",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10127",
+      "foodName": "＜魚類＞　（さけ・ます類）　からふとます　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績ラベル『鮭』が存在するため（からふとます・焼きはさけ・ます類に該当）",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10128",
+      "foodName": "＜魚類＞　（さけ・ます類）　からふとます　塩ます",
+      "isRecipeIngredient": true,
+      "reason": "実績ラベル『鮭』が存在するため（塩ますもさけ・ます類の加工形態として『鮭』に紐づけ可能）",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10129",
+      "foodName": "＜魚類＞　（さけ・ます類）　からふとます　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "実績ラベルに同等の水煮缶詰ラベルは無いが種としては『鮭』ラベルが該当するため",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10130",
+      "foodName": "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに『鮭』ラベルが存在するため（ぎんざけは鮭類に該当）",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10131",
+      "foodName": "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　焼き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに『鮭』ラベルが存在するため（ぎんざけ・焼きは鮭類に該当）",
+      "labelPath": "魚介類 > 鮭"
+    },
+    {
+      "foodNumber": "10132",
+      "foodName": "＜魚類＞　（さけ・ます類）　さくらます　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに『鮭』ラベルが存在するため（さくらますはさけ・ます類に該当）",
+      "labelPath": "魚介類 > 鮭"
+    }
+  ]
+}

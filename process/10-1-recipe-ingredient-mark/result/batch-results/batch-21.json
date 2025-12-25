@@ -1,0 +1,146 @@
+{
+  "batchNumber": 21,
+  "timestamp": "2025-12-25T01:14:20.562Z",
+  "results": [
+    {
+      "foodNumber": "06132",
+      "foodName": "（だいこん類）　だいこん　根　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 大根」があり、生・皮つきの大根も該当するため。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06133",
+      "foodName": "（だいこん類）　だいこん　根　皮つき　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で・皮つきの状態でも基本的に大根カテゴリに含まれるため、実績ラベルに該当。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06134",
+      "foodName": "（だいこん類）　だいこん　根　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "皮なし・生の大根も実績の「野菜 > 大根」に該当するため。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06367",
+      "foodName": "（だいこん類）　だいこん　根　皮なし　生　おろし",
+      "isRecipeIngredient": true,
+      "reason": "おろしは大根の加工形態だが実績リストに大根ラベルがあるため同一ラベルに含められる。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06368",
+      "foodName": "（だいこん類）　だいこん　根　皮なし　生　おろし汁",
+      "isRecipeIngredient": true,
+      "reason": "おろし汁も大根由来の形態で、実績の「野菜 > 大根」に該当すると判断。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06369",
+      "foodName": "（だいこん類）　だいこん　根　皮なし　生　おろし水洗い",
+      "isRecipeIngredient": true,
+      "reason": "おろし（水洗い）も大根の一形態として実績ラベルの大根に含まれるため。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06135",
+      "foodName": "（だいこん類）　だいこん　根　皮なし　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "皮なしで茹でた大根も実績の「野菜 > 大根」に該当するため。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06136",
+      "foodName": "（だいこん類）　切干しだいこん　乾",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > 切り干し大根」が明記されているため一致。",
+      "labelPath": "野菜 > 切り干し大根"
+    },
+    {
+      "foodNumber": "06334",
+      "foodName": "（だいこん類）　切干しだいこん　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹でた切り干し大根も「野菜 > 切り干し大根」に該当するため。",
+      "labelPath": "野菜 > 切り干し大根"
+    },
+    {
+      "foodNumber": "06144",
+      "foodName": "（たいさい類）　つまみな　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > つまみな」があるため一致。",
+      "labelPath": "野菜 > つまみな"
+    },
+    {
+      "foodNumber": "06145",
+      "foodName": "（たいさい類）　たいさい　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "表記揺れ（たいさい／タアサイ）と判断し、実績の「野菜 > タアサイ」に該当するため。",
+      "labelPath": "野菜 > タアサイ"
+    },
+    {
+      "foodNumber": "06147",
+      "foodName": "たかな　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > たかな」が存在するため一致。",
+      "labelPath": "野菜 > たかな"
+    },
+    {
+      "foodNumber": "06149",
+      "foodName": "たけのこ　若茎　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > たけのこ」があり、生のたけのこは該当するため。",
+      "labelPath": "野菜 > たけのこ"
+    },
+    {
+      "foodNumber": "06150",
+      "foodName": "たけのこ　若茎　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹でたたけのこも実績の「野菜 > たけのこ」に含まれるため。",
+      "labelPath": "野菜 > たけのこ"
+    },
+    {
+      "foodNumber": "06151",
+      "foodName": "たけのこ　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "水煮缶もたけのこ由来で、実績の「野菜 > たけのこ」に該当すると判断。",
+      "labelPath": "野菜 > たけのこ"
+    },
+    {
+      "foodNumber": "06157",
+      "foodName": "たらのめ　若芽　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「たらのめ」などのラベルが存在しないため（流通が限定的で新ラベル作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06158",
+      "foodName": "たらのめ　若芽　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "同上：ゆでの表記違いのみだが、実績リストに該当するラベルがないため新規作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06159",
+      "foodName": "チコリ　若芽　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「チコリ」ラベルが見当たらないため（一般流通は限定的）、新ラベルは作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06376",
+      "foodName": "ちぢみゆきな　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ちぢみゆきな」等のラベルがないため（表記/流通が限定的）、新規ラベル作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06377",
+      "foodName": "ちぢみゆきな　葉　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "同上：茹で状態でも実績に該当するラベルがないため新規ラベル作成不可。",
+      "labelPath": ""
+    }
+  ]
+}

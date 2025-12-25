@@ -1,0 +1,146 @@
+{
+  "batchNumber": 39,
+  "timestamp": "2025-12-25T01:31:49.717Z",
+  "results": [
+    {
+      "foodNumber": "09035",
+      "foodName": "まつも　素干し",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「まつも」相当のラベルがないため（新規ラベル作成不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "09036",
+      "foodName": "むかでのり　塩蔵　塩抜き",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「むかでのり」相当のラベルがないため（焼き海苔等はあるが別種）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "09037",
+      "foodName": "（もずく類）　おきなわもずく　塩蔵　塩抜き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もずく」があり、おきなわもずくは該当するため",
+      "labelPath": "野菜 > もずく"
+    },
+    {
+      "foodNumber": "09038",
+      "foodName": "（もずく類）　もずく　塩蔵　塩抜き",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > もずく」があり（塩蔵・塩抜きももずくとして扱える）",
+      "labelPath": "野菜 > もずく"
+    },
+    {
+      "foodNumber": "09039",
+      "foodName": "わかめ　原藻　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > わかめ」があり（原藻・生のわかめに対応）",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09040",
+      "foodName": "わかめ　乾燥わかめ　素干し",
+      "isRecipeIngredient": true,
+      "reason": "乾燥わかめは実績リストの「野菜 > カットわかめ」（例に乾燥わかめを含む）に該当",
+      "labelPath": "野菜 > カットわかめ"
+    },
+    {
+      "foodNumber": "09041",
+      "foodName": "わかめ　乾燥わかめ　素干し　水戻し",
+      "isRecipeIngredient": true,
+      "reason": "水戻しした乾燥わかめは実績リストの「野菜 > カットわかめ」に該当",
+      "labelPath": "野菜 > カットわかめ"
+    },
+    {
+      "foodNumber": "09060",
+      "foodName": "わかめ　乾燥わかめ　素干し　水戻し　水煮",
+      "isRecipeIngredient": true,
+      "reason": "水煮にした乾燥わかめも実績リストの「野菜 > カットわかめ」に該当",
+      "labelPath": "野菜 > カットわかめ"
+    },
+    {
+      "foodNumber": "09042",
+      "foodName": "わかめ　乾燥わかめ　板わかめ",
+      "isRecipeIngredient": true,
+      "reason": "板わかめはわかめの形態の一種として実績リストの「野菜 > わかめ」に該当",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09043",
+      "foodName": "わかめ　乾燥わかめ　灰干し　水戻し",
+      "isRecipeIngredient": true,
+      "reason": "灰干しわかめもわかめ類として実績リストの「野菜 > わかめ」に該当",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09044",
+      "foodName": "わかめ　カットわかめ　乾",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > カットわかめ」ラベルがあり（乾燥カットわかめに対応）",
+      "labelPath": "野菜 > カットわかめ"
+    },
+    {
+      "foodNumber": "09058",
+      "foodName": "わかめ　カットわかめ　水煮　（沸騰水で短時間加熱したもの）",
+      "isRecipeIngredient": true,
+      "reason": "実績リストの「野菜 > カットわかめ」に対応（カットわかめの水煮含む）",
+      "labelPath": "野菜 > カットわかめ"
+    },
+    {
+      "foodNumber": "09059",
+      "foodName": "わかめ　カットわかめ　水煮の汁",
+      "isRecipeIngredient": true,
+      "reason": "わかめの汁は専用ラベルがないため母ラベルの「野菜 > わかめ」に準拠",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09045",
+      "foodName": "わかめ　湯通し塩蔵わかめ　塩抜き　生",
+      "isRecipeIngredient": true,
+      "reason": "塩抜きした湯通し塩蔵わかめは実績の「野菜 > わかめ」に該当",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09057",
+      "foodName": "わかめ　湯通し塩蔵わかめ　塩抜き　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "塩抜きしてゆでた湯通し塩蔵わかめも実績の「野菜 > わかめ」に該当",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09046",
+      "foodName": "わかめ　くきわかめ　湯通し塩蔵　塩抜き",
+      "isRecipeIngredient": true,
+      "reason": "くきわかめ（茎わかめ）はわかめ類として実績の「野菜 > わかめ」に該当（専用ラベルなし）",
+      "labelPath": "野菜 > わかめ"
+    },
+    {
+      "foodNumber": "09047",
+      "foodName": "わかめ　めかぶわかめ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > めかぶ」があり該当するため",
+      "labelPath": "野菜 > めかぶ"
+    },
+    {
+      "foodNumber": "10001",
+      "foodName": "＜魚類＞　あいなめ　生",
+      "isRecipeIngredient": true,
+      "reason": "あいなめ固有ラベルはないが一般的な白身魚として実績の「魚介類 > 白身魚」に該当",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10002",
+      "foodName": "＜魚類＞　あこうだい　生",
+      "isRecipeIngredient": true,
+      "reason": "あこうだいも個別ラベルはないが白身魚として実績の「魚介類 > 白身魚」に該当",
+      "labelPath": "魚介類 > 白身魚"
+    },
+    {
+      "foodNumber": "10003",
+      "foodName": "＜魚類＞　（あじ類）　まあじ　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「魚介類 > あじ」があり（まあじ＝鯵）該当するため",
+      "labelPath": "魚介類 > あじ"
+    }
+  ]
+}

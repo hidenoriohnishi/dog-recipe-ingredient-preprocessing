@@ -1,0 +1,146 @@
+{
+  "batchNumber": 71,
+  "timestamp": "2025-12-25T02:32:54.307Z",
+  "results": [
+    {
+      "foodNumber": "11231",
+      "foodName": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ハツ」のラベルがあり（鶏ハツ／鶏心臓に該当）",
+      "labelPath": "肉類 > 鶏肉 > 鶏ハツ"
+    },
+    {
+      "foodNumber": "11232",
+      "foodName": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏レバー」のラベルがあるため（鶏肝臓＝鶏レバー）",
+      "labelPath": "肉類 > 鶏肉 > 鶏レバー"
+    },
+    {
+      "foodNumber": "11233",
+      "foodName": "＜鳥肉類＞　にわとり　［副品目］　すなぎも　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏砂肝（砂肝）」のラベルがあるため",
+      "labelPath": "肉類 > 鶏肉 > 鶏砂肝"
+    },
+    {
+      "foodNumber": "11235",
+      "foodName": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「鶏皮」相当のラベルがなく（近いのは鶏もも肉だが“鶏皮”は別項目になるため新規作成不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11236",
+      "foodName": "＜鳥肉類＞　にわとり　［副品目］　なんこつ（胸肉）　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「肉類 > 鶏肉 > 鶏ナンコツ（鶏軟骨）」のラベルがあるため",
+      "labelPath": "肉類 > 鶏肉 > 鶏ナンコツ"
+    },
+    {
+      "foodNumber": "11293",
+      "foodName": "＜鳥肉類＞　にわとり　［その他］　つくね",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「つくね」単独のラベルが見当たらないため（加工品ラベルは無ければ新規不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11238",
+      "foodName": "＜鳥肉類＞　はと　肉　皮なし　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「鳩肉／はと」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11240",
+      "foodName": "＜鳥肉類＞　ほろほろちょう　肉　皮なし　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ほろほろ鳥（ほろほろちょう）」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11242",
+      "foodName": "＜その他＞　かえる　肉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「かえる肉（蛙肉）」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11243",
+      "foodName": "＜その他＞　すっぽん　肉　生",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「すっぽん肉」のラベルが存在しないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11244",
+      "foodName": "＜その他＞　はち　はちの子缶詰",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「蜂の子／はちの子缶詰」等の昆虫由来食材ラベルがないため",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "12002",
+      "foodName": "うずら卵　全卵　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「卵 > うずら卵」のラベルがあるため（うずら卵・生に該当）",
+      "labelPath": "卵 > うずら卵"
+    },
+    {
+      "foodNumber": "12003",
+      "foodName": "うずら卵　水煮缶詰",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「うずら卵の水煮缶詰」等の缶詰バリエーションのラベルが確認できないため（新規作成不可）",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "12004",
+      "foodName": "鶏卵　全卵　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「卵 > 卵（鶏卵）」の基本ラベルがあり（全卵・生は該当）",
+      "labelPath": "卵 > 卵"
+    },
+    {
+      "foodNumber": "12005",
+      "foodName": "鶏卵　全卵　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で・ゆで卵も実績上は卵の調理形態として扱われるため基本ラベル「卵 > 卵」に対応可能",
+      "labelPath": "卵 > 卵"
+    },
+    {
+      "foodNumber": "12006",
+      "foodName": "鶏卵　全卵　ポーチドエッグ",
+      "isRecipeIngredient": true,
+      "reason": "ポーチド等の調理形態も基底は鶏卵であり、実績リストの「卵」ラベルで対応可能",
+      "labelPath": "卵 > 卵"
+    },
+    {
+      "foodNumber": "12021",
+      "foodName": "鶏卵　全卵　目玉焼き",
+      "isRecipeIngredient": true,
+      "reason": "目玉焼きは卵の調理形態であり、実績リストの卵ラベルに該当すると判断",
+      "labelPath": "卵 > 卵"
+    },
+    {
+      "foodNumber": "12022",
+      "foodName": "鶏卵　全卵　いり",
+      "isRecipeIngredient": true,
+      "reason": "炒り卵（いり卵）も卵の調理形態として実績リストの卵ラベルで対応可能",
+      "labelPath": "卵 > 卵"
+    },
+    {
+      "foodNumber": "12023",
+      "foodName": "鶏卵　全卵　素揚げ",
+      "isRecipeIngredient": true,
+      "reason": "素揚げ等の調理法により脂質量が異なるが基材は鶏卵のため実績リストの卵ラベルで対応可能",
+      "labelPath": "卵 > 卵"
+    },
+    {
+      "foodNumber": "12007",
+      "foodName": "鶏卵　全卵　水煮缶詰",
+      "isRecipeIngredient": true,
+      "reason": "鶏卵の缶詰は実績リストで明確な缶詰ラベルがない場合でも基底の「卵」ラベルで対応可能と判断",
+      "labelPath": "卵 > 卵"
+    }
+  ]
+}

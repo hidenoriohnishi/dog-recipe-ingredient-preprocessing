@@ -1,0 +1,146 @@
+{
+  "batchNumber": 20,
+  "timestamp": "2025-12-25T01:13:08.039Z",
+  "results": [
+    {
+      "foodNumber": "06365",
+      "foodName": "（しょうが類）　しょうが　根茎　皮なし　生　おろし",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「スパイス > しょうが」があり（例: しょうが、おろし等）、該当するため。",
+      "labelPath": "スパイス > しょうが"
+    },
+    {
+      "foodNumber": "06366",
+      "foodName": "（しょうが類）　しょうが　根茎　皮なし　生　おろし汁",
+      "isRecipeIngredient": true,
+      "reason": "生姜（しょうが）は実績ラベル「スパイス > しょうが」に該当（おろし/汁も例として含まれる）。",
+      "labelPath": "スパイス > しょうが"
+    },
+    {
+      "foodNumber": "06386",
+      "foodName": "（しょうが類）　新しょうが　根茎　生",
+      "isRecipeIngredient": true,
+      "reason": "新しょうがもしょうがの変種として実績リストの「スパイス > しょうが」に該当。",
+      "labelPath": "スパイス > しょうが"
+    },
+    {
+      "foodNumber": "06106",
+      "foodName": "しろうり　果実　生",
+      "isRecipeIngredient": false,
+      "reason": "「白瓜（しろうり）」は実績リストに該当するラベルが見当たらないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06110",
+      "foodName": "ずいき　生ずいき　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "ずいき（芋茎）は実績リスト内に該当ラベルがないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06112",
+      "foodName": "ずいき　干しずいき　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "干しずいき（ゆで）も実績リストに該当ラベルがないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06387",
+      "foodName": "すいぜんじな　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "水前寺菜のラベルは実績リストに存在しないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06113",
+      "foodName": "すぐきな　葉　生",
+      "isRecipeIngredient": false,
+      "reason": "すぐき菜（葉）は実績リストに該当ラベルがないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06114",
+      "foodName": "すぐきな　根　生",
+      "isRecipeIngredient": false,
+      "reason": "すぐき菜（根）も実績リストに該当ラベルがないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06116",
+      "foodName": "ズッキーニ　果実　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > ズッキーニ」があり一致するため。",
+      "labelPath": "野菜 > ズッキーニ"
+    },
+    {
+      "foodNumber": "06117",
+      "foodName": "せり　茎葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > せり」があり一致するため。",
+      "labelPath": "野菜 > せり"
+    },
+    {
+      "foodNumber": "06118",
+      "foodName": "せり　茎葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で・生の差はあるが素材は同じで実績リストの「野菜 > せり」に該当するため。",
+      "labelPath": "野菜 > せり"
+    },
+    {
+      "foodNumber": "06119",
+      "foodName": "セロリ　葉柄　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > セロリ」（セロリの葉等の表記あり）があり該当するため。",
+      "labelPath": "野菜 > セロリ"
+    },
+    {
+      "foodNumber": "06125",
+      "foodName": "そらまめ　未熟豆　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "ゆでたそらまめ（空豆）のラベルは実績リストに見当たらないため。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "06126",
+      "foodName": "タアサイ　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > タアサイ」があり一致するため。",
+      "labelPath": "野菜 > タアサイ"
+    },
+    {
+      "foodNumber": "06127",
+      "foodName": "タアサイ　葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹で・生の差はあるが素材として実績リストの「野菜 > タアサイ」に該当するため。",
+      "labelPath": "野菜 > タアサイ"
+    },
+    {
+      "foodNumber": "06128",
+      "foodName": "（だいこん類）　かいわれだいこん　芽ばえ　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > カイワレ大根」があり一致するため。",
+      "labelPath": "野菜 > カイワレ大根"
+    },
+    {
+      "foodNumber": "06129",
+      "foodName": "（だいこん類）　葉だいこん　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "大根葉は実績リストの「野菜 > 大根」に例示（大根葉）として含まれているため該当。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06130",
+      "foodName": "（だいこん類）　だいこん　葉　生",
+      "isRecipeIngredient": true,
+      "reason": "同上。大根の葉は実績リストの「野菜 > 大根」に該当。",
+      "labelPath": "野菜 > 大根"
+    },
+    {
+      "foodNumber": "06131",
+      "foodName": "（だいこん類）　だいこん　葉　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "茹でた大根葉も素材として実績リストの「野菜 > 大根」に該当するため。",
+      "labelPath": "野菜 > 大根"
+    }
+  ]
+}

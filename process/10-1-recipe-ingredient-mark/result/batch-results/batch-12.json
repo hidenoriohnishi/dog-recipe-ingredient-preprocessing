@@ -1,0 +1,146 @@
+{
+  "batchNumber": 12,
+  "timestamp": "2025-12-25T01:01:25.198Z",
+  "results": [
+    {
+      "foodNumber": "04099",
+      "foodName": "だいず　［豆腐・油揚げ類］　絹ごし豆腐　（凝固剤：塩化マグネシウム）",
+      "isRecipeIngredient": true,
+      "reason": "絹ごし豆腐は実績リストの汎用ラベル「豆腐」に対応するため既存ラベルに該当します。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04100",
+      "foodName": "だいず　［豆腐・油揚げ類］　絹ごし豆腐　（凝固剤：硫酸カルシウム）",
+      "isRecipeIngredient": true,
+      "reason": "凝固剤の違いはラベル粒度より細かいため、実績リストの「豆腐」に対応します。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04034",
+      "foodName": "だいず　［豆腐・油揚げ類］　ソフト豆腐",
+      "isRecipeIngredient": true,
+      "reason": "ソフト豆腐も豆腐類の一種で、実績リストの「豆腐」に該当します。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04035",
+      "foodName": "だいず　［豆腐・油揚げ類］　充てん豆腐",
+      "isRecipeIngredient": true,
+      "reason": "充てん（充填）豆腐は豆腐の一種として実績の「豆腐」に対応します。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04036",
+      "foodName": "だいず　［豆腐・油揚げ類］　沖縄豆腐",
+      "isRecipeIngredient": true,
+      "reason": "沖縄豆腐（島豆腐等）も豆腐カテゴリに含まれるため実績の「豆腐」に対応可能です。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04037",
+      "foodName": "だいず　［豆腐・油揚げ類］　ゆし豆腐",
+      "isRecipeIngredient": true,
+      "reason": "ゆし豆腐も豆腐類の一種で、実績リストの「豆腐」に該当します。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04038",
+      "foodName": "だいず　［豆腐・油揚げ類］　焼き豆腐",
+      "isRecipeIngredient": true,
+      "reason": "「焼き豆腐」は実績リストに明示的に存在するラベルです。",
+      "labelPath": "豆・ごま > 焼き豆腐"
+    },
+    {
+      "foodNumber": "04113",
+      "foodName": "だいず　［豆腐・油揚げ類］　絹生揚げ",
+      "isRecipeIngredient": true,
+      "reason": "絹生揚げは油揚げ／厚揚げに近い加工品のため、実績リストの「厚揚げ」に該当します。",
+      "labelPath": "豆・ごま > 厚揚げ"
+    },
+    {
+      "foodNumber": "04040",
+      "foodName": "だいず　［豆腐・油揚げ類］　油揚げ　生",
+      "isRecipeIngredient": true,
+      "reason": "生の油揚げは実績リストの薄揚げ／油揚げ相当ラベルに対応するため該当します（薄揚げ）。",
+      "labelPath": "豆・ごま > 薄揚げ"
+    },
+    {
+      "foodNumber": "04084",
+      "foodName": "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　生",
+      "isRecipeIngredient": true,
+      "reason": "油抜き生の油揚げも同様に実績リストの薄揚げ相当ラベルに該当します。",
+      "labelPath": "豆・ごま > 薄揚げ"
+    },
+    {
+      "foodNumber": "04086",
+      "foodName": "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "油抜きゆでの油揚げも加工状態の差はあるが実績の薄揚げラベルに対応します。",
+      "labelPath": "豆・ごま > 薄揚げ"
+    },
+    {
+      "foodNumber": "04095",
+      "foodName": "だいず　［豆腐・油揚げ類］　油揚げ　甘煮",
+      "isRecipeIngredient": true,
+      "reason": "甘煮は調理済の差はあるが原材料は油揚げ（薄揚げ）で、実績リストの薄揚げに該当します。",
+      "labelPath": "豆・ごま > 薄揚げ"
+    },
+    {
+      "foodNumber": "04042",
+      "foodName": "だいず　［豆腐・油揚げ類］　凍り豆腐　乾",
+      "isRecipeIngredient": true,
+      "reason": "凍り豆腐（高野豆腐）は実績リストに「高野豆腐」として存在します。",
+      "labelPath": "豆・ごま > 高野豆腐"
+    },
+    {
+      "foodNumber": "04087",
+      "foodName": "だいず　［豆腐・油揚げ類］　凍り豆腐　水煮",
+      "isRecipeIngredient": true,
+      "reason": "凍り豆腐（水煮）も同じく実績の「高野豆腐」に該当します。",
+      "labelPath": "豆・ごま > 高野豆腐"
+    },
+    {
+      "foodNumber": "04044",
+      "foodName": "だいず　［豆腐・油揚げ類］　豆腐竹輪　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "豆腐竹輪（豆腐ちくわ）はちくわ等の加工食材に該当するため、実績リストの「加工食材 > ちくわ」に対応します。",
+      "labelPath": "加工食材 > ちくわ"
+    },
+    {
+      "foodNumber": "04088",
+      "foodName": "だいず　［豆腐・油揚げ類］　ろくじょう豆腐",
+      "isRecipeIngredient": true,
+      "reason": "ろくじょう豆腐は豆腐類の一種のため実績リストの「豆腐」に該当します。",
+      "labelPath": "豆・ごま > 豆腐"
+    },
+    {
+      "foodNumber": "04046",
+      "foodName": "だいず　［納豆類］　糸引き納豆",
+      "isRecipeIngredient": true,
+      "reason": "糸引き納豆は実績リストにある「納豆」ラベルに該当します。",
+      "labelPath": "豆・ごま > 納豆"
+    },
+    {
+      "foodNumber": "04047",
+      "foodName": "だいず　［納豆類］　挽きわり納豆",
+      "isRecipeIngredient": true,
+      "reason": "挽きわり納豆も納豆類に含まれ、実績の「納豆」に対応します。",
+      "labelPath": "豆・ごま > 納豆"
+    },
+    {
+      "foodNumber": "04048",
+      "foodName": "だいず　［納豆類］　五斗納豆",
+      "isRecipeIngredient": true,
+      "reason": "五斗納豆は納豆の品種名であり、実績リストの「納豆」に該当します。",
+      "labelPath": "豆・ごま > 納豆"
+    },
+    {
+      "foodNumber": "04114",
+      "foodName": "だいず　［納豆類］　塩納豆",
+      "isRecipeIngredient": true,
+      "reason": "塩納豆は納豆の変種だが実績リストの「納豆」ラベルに該当します。",
+      "labelPath": "豆・ごま > 納豆"
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "batchNumber": 69,
+  "timestamp": "2025-12-25T02:29:41.624Z",
+  "results": [
+    {
+      "foodNumber": "11202",
+      "foodName": "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "ラム肉は実績リストに「肉類 > ラム肉」として存在するため。部位差は実績の粒度より細かいが同ラベルで対応可能。",
+      "labelPath": "肉類 > ラム肉"
+    },
+    {
+      "foodNumber": "11282",
+      "foodName": "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "焼き／生の違いはあるがラム肉自体は実績リストの「肉類 > ラム肉」に該当するため。",
+      "labelPath": "肉類 > ラム肉"
+    },
+    {
+      "foodNumber": "11246",
+      "foodName": "＜畜肉類＞　めんよう　［ラム］　ロース　皮下脂肪なし　生",
+      "isRecipeIngredient": true,
+      "reason": "脂の有無などは実績リストの粒度より細かいが、ラム肉として「肉類 > ラム肉」に対応可能。",
+      "labelPath": "肉類 > ラム肉"
+    },
+    {
+      "foodNumber": "11203",
+      "foodName": "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　生",
+      "isRecipeIngredient": true,
+      "reason": "ラムのもも部位も実績リストの「肉類 > ラム肉」でカバー可能なため。",
+      "labelPath": "肉類 > ラム肉"
+    },
+    {
+      "foodNumber": "11283",
+      "foodName": "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　焼き",
+      "isRecipeIngredient": true,
+      "reason": "焼き済みのももも同様に実績リスト上は「肉類 > ラム肉」に該当するため。",
+      "labelPath": "肉類 > ラム肉"
+    },
+    {
+      "foodNumber": "11204",
+      "foodName": "＜畜肉類＞　やぎ　肉　赤肉　生",
+      "isRecipeIngredient": false,
+      "reason": "やぎ／山羊肉のラベルが実績リストに見当たらないため（新規ラベル作成不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11207",
+      "foodName": "＜鳥肉類＞　うずら　肉　皮つき　生",
+      "isRecipeIngredient": false,
+      "reason": "うずら肉（肉）のラベルは実績リストに見当たらないため。卵はあるが肉は未登録。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11208",
+      "foodName": "＜鳥肉類＞　かも　まがも　肉　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "鴨は実績リストに「肉類 > 鴨肉」として存在するため（皮の有無は粒度の差だが同ラベルで対応可能）。",
+      "labelPath": "肉類 > 鴨肉"
+    },
+    {
+      "foodNumber": "11205",
+      "foodName": "＜鳥肉類＞　かも　あいがも　肉　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "合鴨（鴨）は実績リストの「肉類 > 鴨肉」でカバーされるため。",
+      "labelPath": "肉類 > 鴨肉"
+    },
+    {
+      "foodNumber": "11206",
+      "foodName": "＜鳥肉類＞　かも　あひる　肉　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "あひる（鴨）も実績リストの「肉類 > 鴨肉」に該当するため。",
+      "labelPath": "肉類 > 鴨肉"
+    },
+    {
+      "foodNumber": "11247",
+      "foodName": "＜鳥肉類＞　かも　あひる　肉　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "皮なしのあひる肉も実績リスト上は「肉類 > 鴨肉」で対応可能。",
+      "labelPath": "肉類 > 鴨肉"
+    },
+    {
+      "foodNumber": "11284",
+      "foodName": "＜鳥肉類＞　かも　あひる　皮　生",
+      "isRecipeIngredient": true,
+      "reason": "鴨の皮は専用ラベルは無いが原材料としては鴨由来のため実績の「肉類 > 鴨肉」で代替可能。",
+      "labelPath": "肉類 > 鴨肉"
+    },
+    {
+      "foodNumber": "11209",
+      "foodName": "＜鳥肉類＞　きじ　肉　皮なし　生",
+      "isRecipeIngredient": false,
+      "reason": "きじ（雉）肉のラベルが実績リストに見当たらないため（ゲーム系鳥は未登録）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11210",
+      "foodName": "＜鳥肉類＞　しちめんちょう　肉　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "七面鳥は実績リストに「肉類 > 七面鳥」として存在するため。",
+      "labelPath": "肉類 > 七面鳥"
+    },
+    {
+      "foodNumber": "11211",
+      "foodName": "＜鳥肉類＞　すずめ　肉　骨・皮つき　生",
+      "isRecipeIngredient": false,
+      "reason": "すずめ肉のラベルは実績リストに見当たらないため（小鳥の肉は未登録）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "11212",
+      "foodName": "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "鶏手羽は実績リストに「肉類 > 鶏肉 > 鶏手羽」として登録されているため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏手羽"
+    },
+    {
+      "foodNumber": "11213",
+      "foodName": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "鶏むね肉は実績リストに「肉類 > 鶏肉 > 鶏むね肉」として存在するため（皮つき／皮なしの詳細は粒度差）。",
+      "labelPath": "肉類 > 鶏肉 > 鶏むね肉"
+    },
+    {
+      "foodNumber": "11214",
+      "foodName": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "皮なしの鶏むねも実績リストの「肉類 > 鶏肉 > 鶏むね肉」で対応可能。",
+      "labelPath": "肉類 > 鶏肉 > 鶏むね肉"
+    },
+    {
+      "foodNumber": "11215",
+      "foodName": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "鶏もも肉は実績リストに「肉類 > 鶏肉 > 鶏もも肉」として存在するため。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    },
+    {
+      "foodNumber": "11216",
+      "foodName": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮なし　生",
+      "isRecipeIngredient": true,
+      "reason": "皮なしの鶏ももも実績リストの「肉類 > 鶏肉 > 鶏もも肉」で代替可能。",
+      "labelPath": "肉類 > 鶏肉 > 鶏もも肉"
+    }
+  ]
+}

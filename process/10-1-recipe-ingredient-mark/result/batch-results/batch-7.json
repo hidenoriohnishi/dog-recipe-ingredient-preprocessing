@@ -1,0 +1,146 @@
+{
+  "batchNumber": 7,
+  "timestamp": "2025-12-25T00:54:27.139Z",
+  "results": [
+    {
+      "foodNumber": "01163",
+      "foodName": "とうもろこし　コーンミール　白色種",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > とうもろこし」があり、コーンミールはとうもろこしの加工品として該当するため。",
+      "labelPath": "野菜 > とうもろこし"
+    },
+    {
+      "foodNumber": "01133",
+      "foodName": "とうもろこし　コーングリッツ　黄色種",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > とうもろこし」があり、コーングリッツはとうもろこしの加工品として該当するため。",
+      "labelPath": "野菜 > とうもろこし"
+    },
+    {
+      "foodNumber": "01164",
+      "foodName": "とうもろこし　コーングリッツ　白色種",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > とうもろこし」があり、白色のコーングリッツもとうもろこし製品として該当するため。",
+      "labelPath": "野菜 > とうもろこし"
+    },
+    {
+      "foodNumber": "01134",
+      "foodName": "とうもろこし　コーンフラワー　黄色種",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > とうもろこし」があり、コーンフラワーはとうもろこし由来の粉類として該当するため。",
+      "labelPath": "野菜 > とうもろこし"
+    },
+    {
+      "foodNumber": "01136",
+      "foodName": "とうもろこし　ポップコーン",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > とうもろこし」があり、ポップコーン用とうもろこしもとうもろこしカテゴリに含められるため。",
+      "labelPath": "野菜 > とうもろこし"
+    },
+    {
+      "foodNumber": "01138",
+      "foodName": "はとむぎ　精白粒",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「はとむぎ」単独のラベルが存在しないため（はと麦茶はあるが穀粒ラベルは無く、新規ラベル作成は不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01139",
+      "foodName": "ひえ　精白粒",
+      "isRecipeIngredient": false,
+      "reason": "実績リストに「ひえ（ミレット）」の個別ラベルが無いため（新規ラベル作成は不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01140",
+      "foodName": "もろこし　玄穀",
+      "isRecipeIngredient": false,
+      "reason": "MEXTの‘もろこし’（ソルガム）を示す個別ラベルは実績リストに無く、とうもろこし（corn）とは別物のため新規作成不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01141",
+      "foodName": "もろこし　精白粒",
+      "isRecipeIngredient": false,
+      "reason": "精白粒の‘もろこし’（sorghum）も実績リストに該当ラベルが無いため、新規ラベル作成は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "01142",
+      "foodName": "ライむぎ　全粒粉",
+      "isRecipeIngredient": false,
+      "reason": "ライ麦（ライむぎ）個別のラベルが実績リストに存在しないため（小麦粉とは別素材で新規ラベル不可）。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02068",
+      "foodName": "＜いも類＞　アメリカほどいも　塊根　生",
+      "isRecipeIngredient": false,
+      "reason": "アメリカほどいも（ホドイモ）のラベルは実績リストに無いため、新規ラベル作成は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02069",
+      "foodName": "＜いも類＞　アメリカほどいも　塊根　ゆで",
+      "isRecipeIngredient": false,
+      "reason": "茹でたアメリカほどいもも実績リストにラベルが無いため、新規ラベル作成は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02001",
+      "foodName": "＜いも類＞　きくいも　塊茎　生",
+      "isRecipeIngredient": false,
+      "reason": "きくいも（Jerusalem artichoke）のラベルは実績リストに存在しないため、新規ラベル作成は不可。",
+      "labelPath": ""
+    },
+    {
+      "foodNumber": "02002",
+      "foodName": "＜いも類＞　こんにゃく　精粉",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > こんにゃく」があり、こんにゃく粉はこんにゃくカテゴリに該当するため。",
+      "labelPath": "野菜 > こんにゃく"
+    },
+    {
+      "foodNumber": "02003",
+      "foodName": "＜いも類＞　こんにゃく　板こんにゃく　精粉こんにゃく",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > こんにゃく」があり、板こんにゃくも同カテゴリに含まれるため。",
+      "labelPath": "野菜 > こんにゃく"
+    },
+    {
+      "foodNumber": "02042",
+      "foodName": "＜いも類＞　こんにゃく　赤こんにゃく",
+      "isRecipeIngredient": true,
+      "reason": "赤こんにゃくは着色違いであり、実績リストの「野菜 > こんにゃく」に含められるため。",
+      "labelPath": "野菜 > こんにゃく"
+    },
+    {
+      "foodNumber": "02044",
+      "foodName": "＜いも類＞　こんにゃく　凍みこんにゃく　ゆで",
+      "isRecipeIngredient": true,
+      "reason": "凍みこんにゃく（茹で）もこんにゃくの加工品であり、実績リストの「野菜 > こんにゃく」に該当するため。",
+      "labelPath": "野菜 > こんにゃく"
+    },
+    {
+      "foodNumber": "02005",
+      "foodName": "＜いも類＞　こんにゃく　しらたき",
+      "isRecipeIngredient": true,
+      "reason": "しらたきはこんにゃく由来の製品で、実績リストの「野菜 > こんにゃく」に含められるため。",
+      "labelPath": "野菜 > こんにゃく"
+    },
+    {
+      "foodNumber": "02045",
+      "foodName": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　生",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さつまいも」があり、生の皮つきさつまいもは該当するため。",
+      "labelPath": "野菜 > さつまいも"
+    },
+    {
+      "foodNumber": "02046",
+      "foodName": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　蒸し",
+      "isRecipeIngredient": true,
+      "reason": "実績リストに「野菜 > さつまいも」があり、蒸したさつまいもも同ラベルに該当するため。",
+      "labelPath": "野菜 > さつまいも"
+    }
+  ]
+}
