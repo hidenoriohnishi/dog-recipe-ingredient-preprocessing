@@ -1,0 +1,9430 @@
+{
+  "あいがも肉": [
+    {
+      "food_number": "11205",
+      "food_name": "＜鳥肉類＞　かも　あいがも　肉　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "あいなめ": [
+    {
+      "food_number": "10001",
+      "food_name": "＜魚類＞　あいなめ　生",
+      "is_canonical": true
+    }
+  ],
+  "あおさ": [
+    {
+      "food_number": "09001",
+      "food_name": "あおさ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "あおのり": [
+    {
+      "food_number": "09002",
+      "food_name": "あおのり　素干し",
+      "is_canonical": true
+    }
+  ],
+  "あかいか": [
+    {
+      "food_number": "10342",
+      "food_name": "＜いか・たこ類＞　（いか類）　あかいか　生",
+      "is_canonical": true
+    }
+  ],
+  "あかがい": [
+    {
+      "food_number": "10279",
+      "food_name": "＜貝類＞　あかがい　生",
+      "is_canonical": true
+    }
+  ],
+  "あけび": [
+    {
+      "food_number": "07001",
+      "food_name": "あけび　果肉　生",
+      "is_canonical": true
+    }
+  ],
+  "あげまき": [
+    {
+      "food_number": "10280",
+      "food_name": "＜貝類＞　あげまき　生",
+      "is_canonical": true
+    }
+  ],
+  "あこうだい": [
+    {
+      "food_number": "10002",
+      "food_name": "＜魚類＞　あこうだい　生",
+      "is_canonical": true
+    }
+  ],
+  "あさ": [
+    {
+      "food_number": "05003",
+      "food_name": "あさ　乾",
+      "is_canonical": true
+    }
+  ],
+  "あさり": [
+    {
+      "food_number": "10281",
+      "food_name": "＜貝類＞　あさり　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10466",
+      "food_name": "＜貝類＞　あさり　蒸し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10283",
+      "food_name": "＜貝類＞　あさり　缶詰　水煮",
+      "is_canonical": false
+    }
+  ],
+  "あしたば": [
+    {
+      "food_number": "06005",
+      "food_name": "あしたば　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06006",
+      "food_name": "あしたば　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "あずき（ゆで）": [
+    {
+      "food_number": "04002",
+      "food_name": "あずき　全粒　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "あなご": [
+    {
+      "food_number": "10015",
+      "food_name": "＜魚類＞　あなご　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10016",
+      "food_name": "＜魚類＞　あなご　蒸し",
+      "is_canonical": false
+    }
+  ],
+  "あひる皮": [
+    {
+      "food_number": "11284",
+      "food_name": "＜鳥肉類＞　かも　あひる　皮　生",
+      "is_canonical": true
+    }
+  ],
+  "あひる肉": [
+    {
+      "food_number": "11206",
+      "food_name": "＜鳥肉類＞　かも　あひる　肉　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11247",
+      "food_name": "＜鳥肉類＞　かも　あひる　肉　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "あぶらつのざめ": [
+    {
+      "food_number": "10167",
+      "food_name": "＜魚類＞　（さめ類）　あぶらつのざめ　生",
+      "is_canonical": true
+    }
+  ],
+  "あまえび": [
+    {
+      "food_number": "10319",
+      "food_name": "＜えび・かに類＞　（えび類）　あまえび　生",
+      "is_canonical": true
+    }
+  ],
+  "あまご（養殖）": [
+    {
+      "food_number": "10017",
+      "food_name": "＜魚類＞　あまご　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "あまだい": [
+    {
+      "food_number": "10018",
+      "food_name": "＜魚類＞　あまだい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10019",
+      "food_name": "＜魚類＞　あまだい　水煮",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10020",
+      "food_name": "＜魚類＞　あまだい　焼き",
+      "is_canonical": false
+    }
+  ],
+  "あまに": [
+    {
+      "food_number": "05041",
+      "food_name": "あまに　いり",
+      "is_canonical": true
+    }
+  ],
+  "あまに油": [
+    {
+      "food_number": "14023",
+      "food_name": "（植物油脂類）　あまに油",
+      "is_canonical": true
+    }
+  ],
+  "あまのり": [
+    {
+      "food_number": "09003",
+      "food_name": "あまのり　ほしのり",
+      "is_canonical": true
+    }
+  ],
+  "あゆ（天然）": [
+    {
+      "food_number": "10021",
+      "food_name": "＜魚類＞　あゆ　天然　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10022",
+      "food_name": "＜魚類＞　あゆ　天然　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10023",
+      "food_name": "＜魚類＞　あゆ　天然　内臓　生",
+      "is_canonical": false
+    }
+  ],
+  "あゆ（養殖）": [
+    {
+      "food_number": "10025",
+      "food_name": "＜魚類＞　あゆ　養殖　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10026",
+      "food_name": "＜魚類＞　あゆ　養殖　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10027",
+      "food_name": "＜魚類＞　あゆ　養殖　内臓　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10028",
+      "food_name": "＜魚類＞　あゆ　養殖　内臓　焼き",
+      "is_canonical": false
+    }
+  ],
+  "あらげきくらげ": [
+    {
+      "food_number": "08054",
+      "food_name": "（きくらげ類）　あらげきくらげ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08004",
+      "food_name": "（きくらげ類）　あらげきくらげ　乾",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08005",
+      "food_name": "（きくらげ類）　あらげきくらげ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08038",
+      "food_name": "（きくらげ類）　あらげきくらげ　油いため",
+      "is_canonical": true
+    }
+  ],
+  "あらめ": [
+    {
+      "food_number": "09006",
+      "food_name": "あらめ　蒸し干し",
+      "is_canonical": true
+    }
+  ],
+  "あわび": [
+    {
+      "food_number": "10428",
+      "food_name": "＜貝類＞　あわび　まだかあわび　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10429",
+      "food_name": "＜貝類＞　あわび　めがいあわび　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10286",
+      "food_name": "＜貝類＞　あわび　干し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10288",
+      "food_name": "＜貝類＞　あわび　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "あわ（精白粒）": [
+    {
+      "food_number": "01002",
+      "food_name": "あわ　精白粒",
+      "is_canonical": true
+    }
+  ],
+  "あんこう": [
+    {
+      "food_number": "10031",
+      "food_name": "＜魚類＞　あんこう　生",
+      "is_canonical": true
+    }
+  ],
+  "あんず": [
+    {
+      "food_number": "07007",
+      "food_name": "あんず　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07008",
+      "food_name": "あんず　乾",
+      "is_canonical": false
+    },
+    {
+      "food_number": "07009",
+      "food_name": "あんず　缶詰",
+      "is_canonical": false
+    }
+  ],
+  "いいだこ": [
+    {
+      "food_number": "10360",
+      "food_name": "＜いか・たこ類＞　（たこ類）　いいだこ　生",
+      "is_canonical": true
+    }
+  ],
+  "いかなご": [
+    {
+      "food_number": "10033",
+      "food_name": "＜魚類＞　いかなご　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10034",
+      "food_name": "＜魚類＞　いかなご　煮干し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10035",
+      "food_name": "＜魚類＞　いかなご　つくだ煮",
+      "is_canonical": false
+    }
+  ],
+  "いがい": [
+    {
+      "food_number": "10289",
+      "food_name": "＜貝類＞　いがい　生",
+      "is_canonical": true
+    }
+  ],
+  "いさき": [
+    {
+      "food_number": "10037",
+      "food_name": "＜魚類＞　いさき　生",
+      "is_canonical": true
+    }
+  ],
+  "いしだい": [
+    {
+      "food_number": "10038",
+      "food_name": "＜魚類＞　いしだい　生",
+      "is_canonical": true
+    }
+  ],
+  "いせえび": [
+    {
+      "food_number": "10320",
+      "food_name": "＜えび・かに類＞　（えび類）　いせえび　生",
+      "is_canonical": true
+    }
+  ],
+  "いたやがい": [
+    {
+      "food_number": "10290",
+      "food_name": "＜貝類＞　いたやがい　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "いちご": [
+    {
+      "food_number": "07012",
+      "food_name": "いちご　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07160",
+      "food_name": "いちご　乾",
+      "is_canonical": false
+    }
+  ],
+  "いちょういも": [
+    {
+      "food_number": "02022",
+      "food_name": "＜いも類＞　（やまのいも類）　ながいも　いちょういも　塊根　生",
+      "is_canonical": true
+    }
+  ],
+  "いとよりだい": [
+    {
+      "food_number": "10039",
+      "food_name": "＜魚類＞　いとよりだい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10040",
+      "food_name": "＜魚類＞　いとよりだい　すり身",
+      "is_canonical": false
+    }
+  ],
+  "いのしし肉": [
+    {
+      "food_number": "11001",
+      "food_name": "＜畜肉類＞　いのしし　肉　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "いのぶた肉": [
+    {
+      "food_number": "11002",
+      "food_name": "＜畜肉類＞　いのぶた　肉　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "いぼだい": [
+    {
+      "food_number": "10041",
+      "food_name": "＜魚類＞　いぼだい　生",
+      "is_canonical": true
+    }
+  ],
+  "いよかん": [
+    {
+      "food_number": "07018",
+      "food_name": "（かんきつ類）　いよかん　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "いり大豆（青大豆）": [
+    {
+      "food_number": "04080",
+      "food_name": "だいず　［全粒・全粒製品］　いり大豆　青大豆",
+      "is_canonical": true
+    }
+  ],
+  "いり大豆（黄大豆）": [
+    {
+      "food_number": "04078",
+      "food_name": "だいず　［全粒・全粒製品］　いり大豆　黄大豆",
+      "is_canonical": true
+    }
+  ],
+  "いり大豆（黒大豆）": [
+    {
+      "food_number": "04079",
+      "food_name": "だいず　［全粒・全粒製品］　いり大豆　黒大豆",
+      "is_canonical": true
+    }
+  ],
+  "いわし缶詰（トマト漬）": [
+    {
+      "food_number": "10062",
+      "food_name": "＜魚類＞　（いわし類）　缶詰　トマト漬",
+      "is_canonical": true
+    }
+  ],
+  "いわし缶詰（水煮）": [
+    {
+      "food_number": "10060",
+      "food_name": "＜魚類＞　（いわし類）　缶詰　水煮",
+      "is_canonical": true
+    }
+  ],
+  "いわな（養殖）": [
+    {
+      "food_number": "10065",
+      "food_name": "＜魚類＞　いわな　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "いわのり": [
+    {
+      "food_number": "09007",
+      "food_name": "いわのり　素干し",
+      "is_canonical": true
+    }
+  ],
+  "いんげんまめこし生あん": [
+    {
+      "food_number": "04010",
+      "food_name": "いんげんまめ　こし生あん",
+      "is_canonical": true
+    }
+  ],
+  "いんげんまめ豆きんとん": [
+    {
+      "food_number": "04011",
+      "food_name": "いんげんまめ　豆きんとん",
+      "is_canonical": true
+    }
+  ],
+  "いんげんまめ（ゆで）": [
+    {
+      "food_number": "04008",
+      "food_name": "いんげんまめ　全粒　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "うぐい": [
+    {
+      "food_number": "10066",
+      "food_name": "＜魚類＞　うぐい　生",
+      "is_canonical": true
+    }
+  ],
+  "うぐいす豆": [
+    {
+      "food_number": "04016",
+      "food_name": "えんどう　うぐいす豆",
+      "is_canonical": true
+    }
+  ],
+  "うさぎ肉": [
+    {
+      "food_number": "11003",
+      "food_name": "＜畜肉類＞　うさぎ　肉　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "うすくちしょうゆ": [
+    {
+      "food_number": "17139",
+      "food_name": "＜調味料類＞　（しょうゆ類）　うすくちしょうゆ　低塩",
+      "is_canonical": true
+    }
+  ],
+  "うすひらたけ": [
+    {
+      "food_number": "08024",
+      "food_name": "（ひらたけ類）　うすひらたけ　生",
+      "is_canonical": true
+    }
+  ],
+  "うずら卵": [
+    {
+      "food_number": "12002",
+      "food_name": "うずら卵　全卵　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "12003",
+      "food_name": "うずら卵　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "うずら肉": [
+    {
+      "food_number": "11207",
+      "food_name": "＜鳥肉類＞　うずら　肉　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "うずら豆": [
+    {
+      "food_number": "04009",
+      "food_name": "いんげんまめ　うずら豆",
+      "is_canonical": true
+    }
+  ],
+  "うどん": [
+    {
+      "food_number": "01039",
+      "food_name": "こむぎ　［うどん・そうめん類］　うどん　ゆで",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01186",
+      "food_name": "こむぎ　［うどん・そうめん類］　うどん　半生うどん",
+      "is_canonical": false
+    }
+  ],
+  "うど（茎）": [
+    {
+      "food_number": "06012",
+      "food_name": "（うど類）　うど　茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06013",
+      "food_name": "（うど類）　うど　茎　水さらし",
+      "is_canonical": false
+    }
+  ],
+  "うなぎ": [
+    {
+      "food_number": "10067",
+      "food_name": "＜魚類＞　うなぎ　養殖　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10069",
+      "food_name": "＜魚類＞　うなぎ　白焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10070",
+      "food_name": "＜魚類＞　うなぎ　かば焼",
+      "is_canonical": false
+    }
+  ],
+  "うまづらはぎ": [
+    {
+      "food_number": "10071",
+      "food_name": "＜魚類＞　うまづらはぎ　生",
+      "is_canonical": true
+    }
+  ],
+  "うみぶどう": [
+    {
+      "food_number": "09012",
+      "food_name": "うみぶどう　生",
+      "is_canonical": true
+    }
+  ],
+  "うるい（葉）": [
+    {
+      "food_number": "06363",
+      "food_name": "うるい　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "うるめいわし": [
+    {
+      "food_number": "10042",
+      "food_name": "＜魚類＞　（いわし類）　うるめいわし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10043",
+      "food_name": "＜魚類＞　（いわし類）　うるめいわし　丸干し",
+      "is_canonical": true
+    }
+  ],
+  "うんしゅうみかんジュース": [
+    {
+      "food_number": "07031",
+      "food_name": "（かんきつ類）　うんしゅうみかん　果実飲料　濃縮還元ジュース",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07032",
+      "food_name": "（かんきつ類）　うんしゅうみかん　果実飲料　果粒入りジュース",
+      "is_canonical": false
+    }
+  ],
+  "うんしゅうみかん缶詰": [
+    {
+      "food_number": "07035",
+      "food_name": "（かんきつ類）　うんしゅうみかん　缶詰　果肉",
+      "is_canonical": true
+    }
+  ],
+  "うんしゅうみかん（じょうのう）": [
+    {
+      "food_number": "07026",
+      "food_name": "（かんきつ類）　うんしゅうみかん　じょうのう　早生　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07027",
+      "food_name": "（かんきつ類）　うんしゅうみかん　じょうのう　普通　生",
+      "is_canonical": false
+    }
+  ],
+  "うんしゅうみかん（砂じょう）": [
+    {
+      "food_number": "07028",
+      "food_name": "（かんきつ類）　うんしゅうみかん　砂じょう　早生　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07029",
+      "food_name": "（かんきつ類）　うんしゅうみかん　砂じょう　普通　生",
+      "is_canonical": false
+    }
+  ],
+  "えい": [
+    {
+      "food_number": "10073",
+      "food_name": "＜魚類＞　えい　生",
+      "is_canonical": true
+    }
+  ],
+  "えごのり": [
+    {
+      "food_number": "09008",
+      "food_name": "えごのり　素干し",
+      "is_canonical": true
+    },
+    {
+      "food_number": "09009",
+      "food_name": "えごのり　おきうと",
+      "is_canonical": false
+    }
+  ],
+  "えごま": [
+    {
+      "food_number": "05004",
+      "food_name": "えごま　乾",
+      "is_canonical": true
+    }
+  ],
+  "えごま油": [
+    {
+      "food_number": "14024",
+      "food_name": "（植物油脂類）　えごま油",
+      "is_canonical": true
+    }
+  ],
+  "えそ": [
+    {
+      "food_number": "10074",
+      "food_name": "＜魚類＞　えそ　生",
+      "is_canonical": true
+    }
+  ],
+  "えだまめ": [
+    {
+      "food_number": "06015",
+      "food_name": "えだまめ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06016",
+      "food_name": "えだまめ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06017",
+      "food_name": "えだまめ　冷凍",
+      "is_canonical": false
+    }
+  ],
+  "えながおにこんぶ": [
+    {
+      "food_number": "09013",
+      "food_name": "（こんぶ類）　えながおにこんぶ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "えのきたけ": [
+    {
+      "food_number": "08001",
+      "food_name": "えのきたけ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08002",
+      "food_name": "えのきたけ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08037",
+      "food_name": "えのきたけ　油いため",
+      "is_canonical": false
+    }
+  ],
+  "おいかわ": [
+    {
+      "food_number": "10075",
+      "food_name": "＜魚類＞　おいかわ　生",
+      "is_canonical": true
+    }
+  ],
+  "おおうばゆりでん粉": [
+    {
+      "food_number": "02070",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　おおうばゆりでん粉",
+      "is_canonical": true
+    }
+  ],
+  "おおさが": [
+    {
+      "food_number": "10076",
+      "food_name": "＜魚類＞　おおさが　生",
+      "is_canonical": true
+    }
+  ],
+  "おかひじき": [
+    {
+      "food_number": "06030",
+      "food_name": "おかひじき　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06031",
+      "food_name": "おかひじき　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "おから": [
+    {
+      "food_number": "04051",
+      "food_name": "だいず　［その他］　おから　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04089",
+      "food_name": "だいず　［その他］　おから　乾燥",
+      "is_canonical": false
+    }
+  ],
+  "おきあみ": [
+    {
+      "food_number": "10369",
+      "food_name": "＜その他＞　おきあみ　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "おきなわもずく": [
+    {
+      "food_number": "09037",
+      "food_name": "（もずく類）　おきなわもずく　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "おこぜ": [
+    {
+      "food_number": "10077",
+      "food_name": "＜魚類＞　おこぜ　生",
+      "is_canonical": true
+    }
+  ],
+  "おごのり": [
+    {
+      "food_number": "09010",
+      "food_name": "おごのり　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "おたふく豆": [
+    {
+      "food_number": "04021",
+      "food_name": "そらまめ　おたふく豆",
+      "is_canonical": true
+    }
+  ],
+  "おにぎり": [
+    {
+      "food_number": "01111",
+      "food_name": "こめ　［うるち米製品］　おにぎり",
+      "is_canonical": true
+    }
+  ],
+  "おひょう": [
+    {
+      "food_number": "10078",
+      "food_name": "＜魚類＞　おひょう　生",
+      "is_canonical": true
+    }
+  ],
+  "おもゆ（七分つき米）": [
+    {
+      "food_number": "01100",
+      "food_name": "こめ　［水稲おもゆ］　七分つき米",
+      "is_canonical": true
+    }
+  ],
+  "おもゆ（半つき米）": [
+    {
+      "food_number": "01099",
+      "food_name": "こめ　［水稲おもゆ］　半つき米",
+      "is_canonical": true
+    }
+  ],
+  "おもゆ（玄米）": [
+    {
+      "food_number": "01098",
+      "food_name": "こめ　［水稲おもゆ］　玄米",
+      "is_canonical": true
+    }
+  ],
+  "おもゆ（精白米）": [
+    {
+      "food_number": "01101",
+      "food_name": "こめ　［水稲おもゆ］　精白米",
+      "is_canonical": true
+    }
+  ],
+  "かいわれだいこん": [
+    {
+      "food_number": "06128",
+      "food_name": "（だいこん類）　かいわれだいこん　芽ばえ　生",
+      "is_canonical": true
+    }
+  ],
+  "かえる肉": [
+    {
+      "food_number": "11242",
+      "food_name": "＜その他＞　かえる　肉　生",
+      "is_canonical": true
+    }
+  ],
+  "かき": [
+    {
+      "food_number": "10293",
+      "food_name": "＜貝類＞　かき　養殖　水煮",
+      "is_canonical": true
+    }
+  ],
+  "かき（渋抜きがき）": [
+    {
+      "food_number": "07050",
+      "food_name": "かき　渋抜きがき　生",
+      "is_canonical": true
+    }
+  ],
+  "かき（甘がき）": [
+    {
+      "food_number": "07049",
+      "food_name": "かき　甘がき　生",
+      "is_canonical": true
+    }
+  ],
+  "かさご": [
+    {
+      "food_number": "10079",
+      "food_name": "＜魚類＞　かさご　生",
+      "is_canonical": true
+    }
+  ],
+  "かじか": [
+    {
+      "food_number": "10080",
+      "food_name": "＜魚類＞　かじか　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10081",
+      "food_name": "＜魚類＞　かじか　水煮",
+      "is_canonical": false
+    }
+  ],
+  "かずのこ": [
+    {
+      "food_number": "10222",
+      "food_name": "＜魚類＞　にしん　かずのこ　生",
+      "is_canonical": true
+    }
+  ],
+  "かたくちいわし": [
+    {
+      "food_number": "10044",
+      "food_name": "＜魚類＞　（いわし類）　かたくちいわし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10045",
+      "food_name": "＜魚類＞　（いわし類）　かたくちいわし　煮干し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10046",
+      "food_name": "＜魚類＞　（いわし類）　かたくちいわし　田作り",
+      "is_canonical": false
+    }
+  ],
+  "かつお": [
+    {
+      "food_number": "10086",
+      "food_name": "＜魚類＞　（かつお類）　かつお　春獲り　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10087",
+      "food_name": "＜魚類＞　（かつお類）　かつお　秋獲り　生",
+      "is_canonical": false
+    }
+  ],
+  "かつおだし": [
+    {
+      "food_number": "17019",
+      "food_name": "＜調味料類＞　（だし類）　かつおだし　荒節",
+      "is_canonical": true
+    },
+    {
+      "food_number": "17131",
+      "food_name": "＜調味料類＞　（だし類）　かつおだし　本枯れ節",
+      "is_canonical": false
+    }
+  ],
+  "かつお・昆布だし": [
+    {
+      "food_number": "17021",
+      "food_name": "＜調味料類＞　（だし類）　かつお・昆布だし　荒節・昆布だし",
+      "is_canonical": true
+    },
+    {
+      "food_number": "17148",
+      "food_name": "＜調味料類＞　（だし類）　かつお・昆布だし　本枯れ節・昆布だし",
+      "is_canonical": false
+    }
+  ],
+  "かつお油漬フレーク（缶詰）": [
+    {
+      "food_number": "10097",
+      "food_name": "＜魚類＞　（かつお類）　缶詰　油漬　フレーク",
+      "is_canonical": true
+    }
+  ],
+  "かつお節": [
+    {
+      "food_number": "10091",
+      "food_name": "＜魚類＞　（かつお類）　加工品　かつお節",
+      "is_canonical": true
+    }
+  ],
+  "かぶの根（皮つき）": [
+    {
+      "food_number": "06036",
+      "food_name": "かぶ　根　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06037",
+      "food_name": "かぶ　根　皮つき　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "かぶの根（皮なし）": [
+    {
+      "food_number": "06038",
+      "food_name": "かぶ　根　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06039",
+      "food_name": "かぶ　根　皮なし　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "かぶの葉": [
+    {
+      "food_number": "06034",
+      "food_name": "かぶ　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06035",
+      "food_name": "かぶ　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "かます": [
+    {
+      "food_number": "10098",
+      "food_name": "＜魚類＞　かます　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10099",
+      "food_name": "＜魚類＞　かます　焼き",
+      "is_canonical": false
+    }
+  ],
+  "からしな": [
+    {
+      "food_number": "06052",
+      "food_name": "からしな　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06053",
+      "food_name": "からしな　塩漬",
+      "is_canonical": false
+    }
+  ],
+  "からふとししゃも": [
+    {
+      "food_number": "10182",
+      "food_name": "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10183",
+      "food_name": "＜魚類＞　（ししゃも類）　からふとししゃも　生干し　焼き",
+      "is_canonical": false
+    }
+  ],
+  "からふとます": [
+    {
+      "food_number": "10126",
+      "food_name": "＜魚類＞　（さけ・ます類）　からふとます　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10127",
+      "food_name": "＜魚類＞　（さけ・ます類）　からふとます　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10128",
+      "food_name": "＜魚類＞　（さけ・ます類）　からふとます　塩ます",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10129",
+      "food_name": "＜魚類＞　（さけ・ます類）　からふとます　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "かりん": [
+    {
+      "food_number": "07053",
+      "food_name": "かりん　生",
+      "is_canonical": true
+    }
+  ],
+  "かわちばんかん": [
+    {
+      "food_number": "07162",
+      "food_name": "（かんきつ類）　かわちばんかん　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "かわのり": [
+    {
+      "food_number": "09011",
+      "food_name": "かわのり　素干し",
+      "is_canonical": true
+    }
+  ],
+  "かわはぎ": [
+    {
+      "food_number": "10107",
+      "food_name": "＜魚類＞　かわはぎ　生",
+      "is_canonical": true
+    }
+  ],
+  "かんぱち": [
+    {
+      "food_number": "10108",
+      "food_name": "＜魚類＞　かんぱち　三枚おろし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10424",
+      "food_name": "＜魚類＞　かんぱち　背側　生",
+      "is_canonical": false
+    }
+  ],
+  "かんぴょう": [
+    {
+      "food_number": "06056",
+      "food_name": "かんぴょう　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06057",
+      "food_name": "かんぴょう　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "がごめこんぶ": [
+    {
+      "food_number": "09014",
+      "food_name": "（こんぶ類）　がごめこんぶ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "がざみ": [
+    {
+      "food_number": "10332",
+      "food_name": "＜えび・かに類＞　（かに類）　がざみ　生",
+      "is_canonical": true
+    }
+  ],
+  "きくいも": [
+    {
+      "food_number": "02001",
+      "food_name": "＜いも類＞　きくいも　塊茎　生",
+      "is_canonical": true
+    }
+  ],
+  "きくらげ": [
+    {
+      "food_number": "08006",
+      "food_name": "（きくらげ類）　きくらげ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08007",
+      "food_name": "（きくらげ類）　きくらげ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "きく（花びら）": [
+    {
+      "food_number": "06058",
+      "food_name": "きく　花びら　生",
+      "is_canonical": true
+    }
+  ],
+  "きじ肉": [
+    {
+      "food_number": "11209",
+      "food_name": "＜鳥肉類＞　きじ　肉　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "きす": [
+    {
+      "food_number": "10109",
+      "food_name": "＜魚類＞　きす　生",
+      "is_canonical": true
+    }
+  ],
+  "きだい": [
+    {
+      "food_number": "10189",
+      "food_name": "＜魚類＞　（たい類）　きだい　生",
+      "is_canonical": true
+    }
+  ],
+  "きちじ": [
+    {
+      "food_number": "10110",
+      "food_name": "＜魚類＞　きちじ　生",
+      "is_canonical": true
+    }
+  ],
+  "きな粉（青大豆）": [
+    {
+      "food_number": "04082",
+      "food_name": "だいず　［全粒・全粒製品］　きな粉　青大豆　全粒大豆",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04096",
+      "food_name": "だいず　［全粒・全粒製品］　きな粉　青大豆　脱皮大豆",
+      "is_canonical": false
+    }
+  ],
+  "きな粉（黄大豆）": [
+    {
+      "food_number": "04029",
+      "food_name": "だいず　［全粒・全粒製品］　きな粉　黄大豆　全粒大豆",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04030",
+      "food_name": "だいず　［全粒・全粒製品］　きな粉　黄大豆　脱皮大豆",
+      "is_canonical": false
+    }
+  ],
+  "きはだ": [
+    {
+      "food_number": "07183",
+      "food_name": "きはだ　実　乾",
+      "is_canonical": true
+    }
+  ],
+  "きはだまぐろ": [
+    {
+      "food_number": "10252",
+      "food_name": "＜魚類＞　（まぐろ類）　きはだ　生",
+      "is_canonical": true
+    }
+  ],
+  "きびなご": [
+    {
+      "food_number": "10111",
+      "food_name": "＜魚類＞　きびなご　生",
+      "is_canonical": true
+    }
+  ],
+  "きび（精白粒）": [
+    {
+      "food_number": "01011",
+      "food_name": "きび　精白粒",
+      "is_canonical": true
+    }
+  ],
+  "きゅうり": [
+    {
+      "food_number": "06065",
+      "food_name": "きゅうり　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "きゅうりぬか漬け": [
+    {
+      "food_number": "06068",
+      "food_name": "きゅうり　漬物　ぬかみそ漬",
+      "is_canonical": true
+    }
+  ],
+  "きよみ": [
+    {
+      "food_number": "07163",
+      "food_name": "（かんきつ類）　きよみ　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "きりたんぽ": [
+    {
+      "food_number": "01113",
+      "food_name": "こめ　［うるち米製品］　きりたんぽ",
+      "is_canonical": true
+    }
+  ],
+  "きんときにんじん": [
+    {
+      "food_number": "06218",
+      "food_name": "（にんじん類）　きんとき　根　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06219",
+      "food_name": "（にんじん類）　きんとき　根　皮つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06220",
+      "food_name": "（にんじん類）　きんとき　根　皮なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06221",
+      "food_name": "（にんじん類）　きんとき　根　皮なし　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "きんめだい": [
+    {
+      "food_number": "10116",
+      "food_name": "＜魚類＞　きんめだい　生",
+      "is_canonical": true
+    }
+  ],
+  "ぎょうざの皮": [
+    {
+      "food_number": "01074",
+      "food_name": "こむぎ　［その他］　ぎょうざの皮　生",
+      "is_canonical": true
+    }
+  ],
+  "ぎんざけ（養殖）": [
+    {
+      "food_number": "10130",
+      "food_name": "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10131",
+      "food_name": "＜魚類＞　（さけ・ます類）　ぎんざけ　養殖　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ぎんだら": [
+    {
+      "food_number": "10115",
+      "food_name": "＜魚類＞　ぎんだら　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10401",
+      "food_name": "＜魚類＞　ぎんだら　水煮",
+      "is_canonical": false
+    }
+  ],
+  "くきわかめ（湯通し塩蔵・塩抜き）": [
+    {
+      "food_number": "09046",
+      "food_name": "わかめ　くきわかめ　湯通し塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "くずきり": [
+    {
+      "food_number": "02036",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　くずきり　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02037",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　くずきり　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "くずでん粉": [
+    {
+      "food_number": "02029",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　くずでん粉",
+      "is_canonical": true
+    }
+  ],
+  "くらげ（塩蔵・塩抜き）": [
+    {
+      "food_number": "10370",
+      "food_name": "＜その他＞　くらげ　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "くるまえび": [
+    {
+      "food_number": "10321",
+      "food_name": "＜えび・かに類＞　（えび類）　くるまえび　養殖　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10322",
+      "food_name": "＜えび・かに類＞　（えび類）　くるまえび　養殖　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10323",
+      "food_name": "＜えび・かに類＞　（えび類）　くるまえび　養殖　焼き",
+      "is_canonical": false
+    }
+  ],
+  "くろあわび": [
+    {
+      "food_number": "10427",
+      "food_name": "＜貝類＞　あわび　くろあわび　生",
+      "is_canonical": true
+    }
+  ],
+  "くろあわびたけ": [
+    {
+      "food_number": "08010",
+      "food_name": "くろあわびたけ　生",
+      "is_canonical": true
+    }
+  ],
+  "くろかじき": [
+    {
+      "food_number": "10083",
+      "food_name": "＜魚類＞　（かじき類）　くろかじき　生",
+      "is_canonical": true
+    }
+  ],
+  "くろだい": [
+    {
+      "food_number": "10190",
+      "food_name": "＜魚類＞　（たい類）　くろだい　生",
+      "is_canonical": true
+    }
+  ],
+  "くろまぐろ脂身": [
+    {
+      "food_number": "10459",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10460",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10461",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　蒸し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10462",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　電子レンジ調理",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10463",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10464",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　ソテー",
+      "is_canonical": false
+    }
+  ],
+  "くろまぐろ赤身": [
+    {
+      "food_number": "10452",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　蒸し",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10453",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　電子レンジ調理",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10454",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10455",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　ソテー",
+      "is_canonical": false
+    }
+  ],
+  "くろまぐろ（脂身・天然）": [
+    {
+      "food_number": "10254",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "くろまぐろ（赤身・天然）": [
+    {
+      "food_number": "10253",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生",
+      "is_canonical": true
+    }
+  ],
+  "くろまぐろ（赤身・養殖）": [
+    {
+      "food_number": "10450",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10451",
+      "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　水煮",
+      "is_canonical": false
+    }
+  ],
+  "くわい": [
+    {
+      "food_number": "06078",
+      "food_name": "くわい　塊茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06079",
+      "food_name": "くわい　塊茎　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ぐち": [
+    {
+      "food_number": "10117",
+      "food_name": "＜魚類＞　ぐち　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10118",
+      "food_name": "＜魚類＞　ぐち　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ぐみ": [
+    {
+      "food_number": "07061",
+      "food_name": "ぐみ　生",
+      "is_canonical": true
+    }
+  ],
+  "けんさきいか": [
+    {
+      "food_number": "10343",
+      "food_name": "＜いか・たこ類＞　（いか類）　けんさきいか　生",
+      "is_canonical": true
+    }
+  ],
+  "こい（養殖・内臓）": [
+    {
+      "food_number": "10121",
+      "food_name": "＜魚類＞　こい　養殖　内臓　生",
+      "is_canonical": true
+    }
+  ],
+  "こい（養殖）": [
+    {
+      "food_number": "10119",
+      "food_name": "＜魚類＞　こい　養殖　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10120",
+      "food_name": "＜魚類＞　こい　養殖　水煮",
+      "is_canonical": false
+    }
+  ],
+  "こういか": [
+    {
+      "food_number": "10344",
+      "food_name": "＜いか・たこ類＞　（いか類）　こういか　生",
+      "is_canonical": true
+    }
+  ],
+  "このしろ": [
+    {
+      "food_number": "10124",
+      "food_name": "＜魚類＞　このしろ　生",
+      "is_canonical": true
+    }
+  ],
+  "こまつな": [
+    {
+      "food_number": "06086",
+      "food_name": "こまつな　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06087",
+      "food_name": "こまつな　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "こんにゃく精粉": [
+    {
+      "food_number": "02002",
+      "food_name": "＜いも類＞　こんにゃく　精粉",
+      "is_canonical": true
+    }
+  ],
+  "ごはん（七分つき米）": [
+    {
+      "food_number": "01108",
+      "food_name": "こめ　［陸稲めし］　七分つき米",
+      "is_canonical": true
+    }
+  ],
+  "ごはん（精白米・うるち米）": [
+    {
+      "food_number": "01088",
+      "food_name": "こめ　［水稲めし］　精白米　うるち米",
+      "is_canonical": true
+    }
+  ],
+  "ごはん（精白米・もち米）": [
+    {
+      "food_number": "01154",
+      "food_name": "こめ　［水稲めし］　精白米　もち米",
+      "is_canonical": true
+    }
+  ],
+  "ごはん（精白米・インディカ米）": [
+    {
+      "food_number": "01168",
+      "food_name": "こめ　［水稲めし］　精白米　インディカ米",
+      "is_canonical": true
+    }
+  ],
+  "ごはん（精白米）": [
+    {
+      "food_number": "01109",
+      "food_name": "こめ　［陸稲めし］　精白米",
+      "is_canonical": true
+    }
+  ],
+  "ごぼう": [
+    {
+      "food_number": "06084",
+      "food_name": "（ごぼう類）　ごぼう　根　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06085",
+      "food_name": "（ごぼう類）　ごぼう　根　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "ごま": [
+    {
+      "food_number": "05017",
+      "food_name": "ごま　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "05018",
+      "food_name": "ごま　いり",
+      "is_canonical": false
+    },
+    {
+      "food_number": "05019",
+      "food_name": "ごま　むき",
+      "is_canonical": false
+    }
+  ],
+  "ごまさば": [
+    {
+      "food_number": "10404",
+      "food_name": "＜魚類＞　（さば類）　ごまさば　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10405",
+      "food_name": "＜魚類＞　（さば類）　ごまさば　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10406",
+      "food_name": "＜魚類＞　（さば類）　ごまさば　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ごまさば節": [
+    {
+      "food_number": "10157",
+      "food_name": "＜魚類＞　（さば類）　ごまさば　さば節",
+      "is_canonical": true
+    }
+  ],
+  "ごま油": [
+    {
+      "food_number": "14002",
+      "food_name": "（植物油脂類）　ごま油",
+      "is_canonical": true
+    }
+  ],
+  "さくらえび": [
+    {
+      "food_number": "10431",
+      "food_name": "＜えび・かに類＞　（えび類）　さくらえび　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10324",
+      "food_name": "＜えび・かに類＞　（えび類）　さくらえび　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10326",
+      "food_name": "＜えび・かに類＞　（えび類）　さくらえび　煮干し",
+      "is_canonical": false
+    }
+  ],
+  "さくらます": [
+    {
+      "food_number": "10132",
+      "food_name": "＜魚類＞　（さけ・ます類）　さくらます　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10133",
+      "food_name": "＜魚類＞　（さけ・ます類）　さくらます　焼き",
+      "is_canonical": true
+    }
+  ],
+  "さくらんぼ": [
+    {
+      "food_number": "07070",
+      "food_name": "さくらんぼ　国産　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07071",
+      "food_name": "さくらんぼ　米国産　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "07072",
+      "food_name": "さくらんぼ　米国産　缶詰",
+      "is_canonical": false
+    }
+  ],
+  "ささげ（全粒）": [
+    {
+      "food_number": "04017",
+      "food_name": "ささげ　全粒　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04018",
+      "food_name": "ささげ　全粒　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "さざえ": [
+    {
+      "food_number": "10295",
+      "food_name": "＜貝類＞　さざえ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10296",
+      "food_name": "＜貝類＞　さざえ　焼き",
+      "is_canonical": false
+    }
+  ],
+  "さつまいも": [
+    {
+      "food_number": "02006",
+      "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02007",
+      "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　蒸し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "02008",
+      "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮なし　焼き",
+      "is_canonical": false
+    }
+  ],
+  "さつまいもでん粉": [
+    {
+      "food_number": "02033",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　さつまいもでん粉",
+      "is_canonical": true
+    }
+  ],
+  "さつまいも（皮つき）": [
+    {
+      "food_number": "02045",
+      "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02046",
+      "food_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　蒸し",
+      "is_canonical": false
+    }
+  ],
+  "さつまいも（蒸し切干）": [
+    {
+      "food_number": "02009",
+      "food_name": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
+      "is_canonical": true
+    }
+  ],
+  "さといも": [
+    {
+      "food_number": "02011",
+      "food_name": "＜いも類＞　（さといも類）　さといも　球茎　水煮",
+      "is_canonical": true
+    }
+  ],
+  "さば水煮缶": [
+    {
+      "food_number": "10164",
+      "food_name": "＜魚類＞　（さば類）　缶詰　水煮",
+      "is_canonical": true
+    }
+  ],
+  "さば開き干し": [
+    {
+      "food_number": "10162",
+      "food_name": "＜魚類＞　（さば類）　加工品　開き干し",
+      "is_canonical": true
+    }
+  ],
+  "さやいんげん": [
+    {
+      "food_number": "06010",
+      "food_name": "いんげんまめ　さやいんげん　若ざや　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06011",
+      "food_name": "いんげんまめ　さやいんげん　若ざや　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "さやえんどう": [
+    {
+      "food_number": "06020",
+      "food_name": "（えんどう類）　さやえんどう　若ざや　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06021",
+      "food_name": "（えんどう類）　さやえんどう　若ざや　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "さより": [
+    {
+      "food_number": "10170",
+      "food_name": "＜魚類＞　さより　生",
+      "is_canonical": true
+    }
+  ],
+  "さらしくじら": [
+    {
+      "food_number": "11113",
+      "food_name": "＜畜肉類＞　くじら　さらしくじら",
+      "is_canonical": true
+    }
+  ],
+  "さわら": [
+    {
+      "food_number": "10171",
+      "food_name": "＜魚類＞　さわら　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10172",
+      "food_name": "＜魚類＞　さわら　焼き",
+      "is_canonical": false
+    }
+  ],
+  "さんとうさい": [
+    {
+      "food_number": "06089",
+      "food_name": "さんとうさい　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06090",
+      "food_name": "さんとうさい　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "さんま": [
+    {
+      "food_number": "10407",
+      "food_name": "＜魚類＞　さんま　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10174",
+      "food_name": "＜魚類＞　さんま　皮つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "さんま（皮つき）": [
+    {
+      "food_number": "10173",
+      "food_name": "＜魚類＞　さんま　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "しいたけだし": [
+    {
+      "food_number": "17022",
+      "food_name": "＜調味料類＞　（だし類）　しいたけだし",
+      "is_canonical": true
+    }
+  ],
+  "しいら": [
+    {
+      "food_number": "10179",
+      "food_name": "＜魚類＞　しいら　生",
+      "is_canonical": true
+    }
+  ],
+  "しかくまめ": [
+    {
+      "food_number": "06092",
+      "food_name": "しかくまめ　若ざや　生",
+      "is_canonical": true
+    }
+  ],
+  "ししとう": [
+    {
+      "food_number": "06093",
+      "food_name": "（ししとう類）　ししとう　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06094",
+      "food_name": "（ししとう類）　ししとう　果実　油いため",
+      "is_canonical": false
+    }
+  ],
+  "ししゃも": [
+    {
+      "food_number": "10181",
+      "food_name": "＜魚類＞　（ししゃも類）　ししゃも　生干し　焼き",
+      "is_canonical": true
+    }
+  ],
+  "しじみ": [
+    {
+      "food_number": "10297",
+      "food_name": "＜貝類＞　しじみ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10413",
+      "food_name": "＜貝類＞　しじみ　水煮",
+      "is_canonical": false
+    }
+  ],
+  "しそ（実）": [
+    {
+      "food_number": "06096",
+      "food_name": "しそ　実　生",
+      "is_canonical": true
+    }
+  ],
+  "しそ（葉）": [
+    {
+      "food_number": "06095",
+      "food_name": "しそ　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "したびらめ": [
+    {
+      "food_number": "10184",
+      "food_name": "＜魚類＞　したびらめ　生",
+      "is_canonical": true
+    }
+  ],
+  "しちめんちょう肉": [
+    {
+      "food_number": "11210",
+      "food_name": "＜鳥肉類＞　しちめんちょう　肉　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "しばえび": [
+    {
+      "food_number": "10328",
+      "food_name": "＜えび・かに類＞　（えび類）　しばえび　生",
+      "is_canonical": true
+    }
+  ],
+  "しまあじ": [
+    {
+      "food_number": "10185",
+      "food_name": "＜魚類＞　しまあじ　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "しゃこ": [
+    {
+      "food_number": "10371",
+      "food_name": "＜その他＞　しゃこ　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "しゅんぎく（葉）": [
+    {
+      "food_number": "06099",
+      "food_name": "しゅんぎく　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06100",
+      "food_name": "しゅんぎく　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "しょうが": [
+    {
+      "food_number": "06103",
+      "food_name": "（しょうが類）　しょうが　根茎　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06365",
+      "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06366",
+      "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし汁",
+      "is_canonical": false
+    }
+  ],
+  "しらうお": [
+    {
+      "food_number": "10186",
+      "food_name": "＜魚類＞　しらうお　生",
+      "is_canonical": true
+    }
+  ],
+  "しらす": [
+    {
+      "food_number": "10396",
+      "food_name": "＜魚類＞　（いわし類）　しらす　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10445",
+      "food_name": "＜魚類＞　（いわし類）　しらす　釜揚げしらす",
+      "is_canonical": false
+    }
+  ],
+  "しらす干し": [
+    {
+      "food_number": "10055",
+      "food_name": "＜魚類＞　（いわし類）　しらす干し　微乾燥品",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10056",
+      "food_name": "＜魚類＞　（いわし類）　しらす干し　半乾燥品",
+      "is_canonical": false
+    }
+  ],
+  "しらたき": [
+    {
+      "food_number": "02005",
+      "food_name": "＜いも類＞　こんにゃく　しらたき",
+      "is_canonical": true
+    }
+  ],
+  "しらぬひ": [
+    {
+      "food_number": "07165",
+      "food_name": "（かんきつ類）　しらぬひ　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "しろうり": [
+    {
+      "food_number": "06106",
+      "food_name": "しろうり　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "しろきくらげ": [
+    {
+      "food_number": "08008",
+      "food_name": "（きくらげ類）　しろきくらげ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08009",
+      "food_name": "（きくらげ類）　しろきくらげ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "しろさけ": [
+    {
+      "food_number": "10134",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10135",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10136",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　焼き",
+      "is_canonical": false
+    }
+  ],
+  "しろさけ（新巻き）": [
+    {
+      "food_number": "10137",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10138",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　新巻き　焼き",
+      "is_canonical": false
+    }
+  ],
+  "しろさけ（水煮缶詰）": [
+    {
+      "food_number": "10143",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　水煮缶詰",
+      "is_canonical": true
+    }
+  ],
+  "じねんじょ": [
+    {
+      "food_number": "02026",
+      "food_name": "＜いも類＞　（やまのいも類）　じねんじょ　塊根　生",
+      "is_canonical": true
+    }
+  ],
+  "じゃがいも": [
+    {
+      "food_number": "02064",
+      "food_name": "＜いも類＞　じゃがいも　塊茎　皮つき　電子レンジ調理",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02019",
+      "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "02018",
+      "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　蒸し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "02066",
+      "food_name": "＜いも類＞　じゃがいも　塊茎　皮なし　電子レンジ調理",
+      "is_canonical": false
+    }
+  ],
+  "じゃがいもでん粉": [
+    {
+      "food_number": "02034",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　じゃがいもでん粉",
+      "is_canonical": true
+    }
+  ],
+  "じゅうろくささげ（若ざや）": [
+    {
+      "food_number": "06097",
+      "food_name": "じゅうろくささげ　若ざや　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06098",
+      "food_name": "じゅうろくささげ　若ざや　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "じゅんさい（水煮）": [
+    {
+      "food_number": "06101",
+      "food_name": "じゅんさい　若葉　水煮びん詰",
+      "is_canonical": true
+    }
+  ],
+  "すいか": [
+    {
+      "food_number": "07077",
+      "food_name": "すいか　赤肉種　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07171",
+      "food_name": "すいか　黄肉種　生",
+      "is_canonical": false
+    }
+  ],
+  "すいぜんじな": [
+    {
+      "food_number": "06387",
+      "food_name": "すいぜんじな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "すいぜんじのり": [
+    {
+      "food_number": "09024",
+      "food_name": "すいぜんじのり　素干し　水戻し",
+      "is_canonical": true
+    }
+  ],
+  "すぐきな（葉）": [
+    {
+      "food_number": "06113",
+      "food_name": "すぐきな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "すけとうだら": [
+    {
+      "food_number": "10199",
+      "food_name": "＜魚類＞　（たら類）　すけとうだら　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10200",
+      "food_name": "＜魚類＞　（たら類）　すけとうだら　すり身",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10201",
+      "food_name": "＜魚類＞　（たら類）　すけとうだら　すきみだら",
+      "is_canonical": false
+    }
+  ],
+  "すし酢": [
+    {
+      "food_number": "17102",
+      "food_name": "＜調味料類＞　（調味ソース類）　すし酢　にぎり用",
+      "is_canonical": true
+    }
+  ],
+  "すずき": [
+    {
+      "food_number": "10188",
+      "food_name": "＜魚類＞　すずき　生",
+      "is_canonical": true
+    }
+  ],
+  "すずめ肉": [
+    {
+      "food_number": "11211",
+      "food_name": "＜鳥肉類＞　すずめ　肉　骨・皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "すっぽん肉": [
+    {
+      "food_number": "11243",
+      "food_name": "＜その他＞　すっぽん　肉　生",
+      "is_canonical": true
+    }
+  ],
+  "するめ": [
+    {
+      "food_number": "10353",
+      "food_name": "＜いか・たこ類＞　（いか類）　加工品　するめ",
+      "is_canonical": true
+    }
+  ],
+  "するめいか": [
+    {
+      "food_number": "10345",
+      "food_name": "＜いか・たこ類＞　（いか類）　するめいか　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10346",
+      "food_name": "＜いか・たこ類＞　（いか類）　するめいか　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10347",
+      "food_name": "＜いか・たこ類＞　（いか類）　するめいか　焼き",
+      "is_canonical": false
+    }
+  ],
+  "するめいか（耳・足）": [
+    {
+      "food_number": "10420",
+      "food_name": "＜いか・たこ類＞　（いか類）　するめいか　耳・足　生",
+      "is_canonical": true
+    }
+  ],
+  "するめいか（胴）": [
+    {
+      "food_number": "10417",
+      "food_name": "＜いか・たこ類＞　（いか類）　するめいか　胴　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10418",
+      "food_name": "＜いか・たこ類＞　（いか類）　するめいか　胴　皮なし　生",
+      "is_canonical": false
+    }
+  ],
+  "す巻きかまぼこ": [
+    {
+      "food_number": "10378",
+      "food_name": "＜水産練り製品＞　す巻きかまぼこ",
+      "is_canonical": true
+    }
+  ],
+  "ずいき（干しずいき）": [
+    {
+      "food_number": "06112",
+      "food_name": "ずいき　干しずいき　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "ずいき（生ずいき）": [
+    {
+      "food_number": "06110",
+      "food_name": "ずいき　生ずいき　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "ずわいがに": [
+    {
+      "food_number": "10335",
+      "food_name": "＜えび・かに類＞　（かに類）　ずわいがに　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10336",
+      "food_name": "＜えび・かに類＞　（かに類）　ずわいがに　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10337",
+      "food_name": "＜えび・かに類＞　（かに類）　ずわいがに　水煮缶詰",
+      "is_canonical": true
+    }
+  ],
+  "せとか": [
+    {
+      "food_number": "07166",
+      "food_name": "（かんきつ類）　せとか　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "せり": [
+    {
+      "food_number": "06117",
+      "food_name": "せり　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06118",
+      "food_name": "せり　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "そうだがつお": [
+    {
+      "food_number": "10088",
+      "food_name": "＜魚類＞　（かつお類）　そうだがつお　生",
+      "is_canonical": true
+    }
+  ],
+  "そうめんかぼちゃ": [
+    {
+      "food_number": "06051",
+      "food_name": "（かぼちゃ類）　そうめんかぼちゃ　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "そうめん・ひやむぎ": [
+    {
+      "food_number": "01043",
+      "food_name": "こむぎ　［うどん・そうめん類］　そうめん・ひやむぎ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01044",
+      "food_name": "こむぎ　［うどん・そうめん類］　そうめん・ひやむぎ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "そば米": [
+    {
+      "food_number": "01126",
+      "food_name": "そば　そば米",
+      "is_canonical": true
+    }
+  ],
+  "そば粉（中層粉）": [
+    {
+      "food_number": "01124",
+      "food_name": "そば　そば粉　中層粉",
+      "is_canonical": true
+    }
+  ],
+  "そば粉（全層粉）": [
+    {
+      "food_number": "01122",
+      "food_name": "そば　そば粉　全層粉",
+      "is_canonical": true
+    }
+  ],
+  "そば粉（内層粉）": [
+    {
+      "food_number": "01123",
+      "food_name": "そば　そば粉　内層粉",
+      "is_canonical": true
+    }
+  ],
+  "そば粉（表層粉）": [
+    {
+      "food_number": "01125",
+      "food_name": "そば　そば粉　表層粉",
+      "is_canonical": true
+    }
+  ],
+  "そば（ゆで）": [
+    {
+      "food_number": "01128",
+      "food_name": "そば　そば　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "そば（生）": [
+    {
+      "food_number": "01127",
+      "food_name": "そば　そば　生",
+      "is_canonical": true
+    }
+  ],
+  "そらまめ（全粒）": [
+    {
+      "food_number": "04019",
+      "food_name": "そらまめ　全粒　乾",
+      "is_canonical": true
+    }
+  ],
+  "そらまめ（未熟豆）": [
+    {
+      "food_number": "06114",
+      "food_name": "すぐきな　根　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06125",
+      "food_name": "そらまめ　未熟豆　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "たいさい": [
+    {
+      "food_number": "06145",
+      "food_name": "（たいさい類）　たいさい　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "たいせいようさけ（皮つき・養殖）": [
+    {
+      "food_number": "10144",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "たいせいようさけ（養殖・皮つき）": [
+    {
+      "food_number": "10433",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10434",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　蒸し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10435",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　電子レンジ調理",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10145",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　焼き",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10436",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　ソテー",
+      "is_canonical": false
+    }
+  ],
+  "たいせいようさけ（養殖・皮なし）": [
+    {
+      "food_number": "10438",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10439",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10440",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　蒸し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10441",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　電子レンジ調理",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10442",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　焼き",
+      "is_canonical": false
+    }
+  ],
+  "たいせいようさば": [
+    {
+      "food_number": "10158",
+      "food_name": "＜魚類＞　（さば類）　たいせいようさば　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10159",
+      "food_name": "＜魚類＞　（さば類）　たいせいようさば　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10160",
+      "food_name": "＜魚類＞　（さば類）　たいせいようさば　焼き",
+      "is_canonical": false
+    }
+  ],
+  "たいらがい（貝柱）": [
+    {
+      "food_number": "10298",
+      "food_name": "＜貝類＞　たいらがい　貝柱　生",
+      "is_canonical": true
+    }
+  ],
+  "たかさご": [
+    {
+      "food_number": "10196",
+      "food_name": "＜魚類＞　たかさご　生",
+      "is_canonical": true
+    }
+  ],
+  "たかな": [
+    {
+      "food_number": "06147",
+      "food_name": "たかな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "たかべ": [
+    {
+      "food_number": "10197",
+      "food_name": "＜魚類＞　たかべ　生",
+      "is_canonical": true
+    }
+  ],
+  "たけのこ": [
+    {
+      "food_number": "06149",
+      "food_name": "たけのこ　若茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06150",
+      "food_name": "たけのこ　若茎　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06151",
+      "food_name": "たけのこ　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "たけのこいも": [
+    {
+      "food_number": "02053",
+      "food_name": "＜いも類＞　（さといも類）　たけのこいも　球茎　水煮",
+      "is_canonical": true
+    }
+  ],
+  "たたみいわし": [
+    {
+      "food_number": "10057",
+      "food_name": "＜魚類＞　（いわし類）　たたみいわし",
+      "is_canonical": true
+    }
+  ],
+  "たちうお": [
+    {
+      "food_number": "10198",
+      "food_name": "＜魚類＞　たちうお　生",
+      "is_canonical": true
+    }
+  ],
+  "たにし": [
+    {
+      "food_number": "10299",
+      "food_name": "＜貝類＞　たにし　生",
+      "is_canonical": true
+    }
+  ],
+  "たまご豆腐": [
+    {
+      "food_number": "12017",
+      "food_name": "鶏卵　たまご豆腐",
+      "is_canonical": true
+    }
+  ],
+  "たもぎたけ": [
+    {
+      "food_number": "08019",
+      "food_name": "たもぎたけ　生",
+      "is_canonical": true
+    }
+  ],
+  "たらこ": [
+    {
+      "food_number": "10202",
+      "food_name": "＜魚類＞　（たら類）　すけとうだら　たらこ　生",
+      "is_canonical": true
+    }
+  ],
+  "たらのあぶら": [
+    {
+      "food_number": "14032",
+      "food_name": "（動物油脂類）　たらのあぶら",
+      "is_canonical": true
+    }
+  ],
+  "たらのめ": [
+    {
+      "food_number": "06157",
+      "food_name": "たらのめ　若芽　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06158",
+      "food_name": "たらのめ　若芽　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "たらばがに": [
+    {
+      "food_number": "10338",
+      "food_name": "＜えび・かに類＞　（かに類）　たらばがに　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10339",
+      "food_name": "＜えび・かに類＞　（かに類）　たらばがに　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10340",
+      "food_name": "＜えび・かに類＞　（かに類）　たらばがに　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "だいこん": [
+    {
+      "food_number": "06132",
+      "food_name": "（だいこん類）　だいこん　根　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06133",
+      "food_name": "（だいこん類）　だいこん　根　皮つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06134",
+      "food_name": "（だいこん類）　だいこん　根　皮なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06367",
+      "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06368",
+      "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし汁",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06369",
+      "food_name": "（だいこん類）　だいこん　根　皮なし　生　おろし水洗い",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06135",
+      "food_name": "（だいこん類）　だいこん　根　皮なし　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "だいこん葉": [
+    {
+      "food_number": "06130",
+      "food_name": "（だいこん類）　だいこん　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06131",
+      "food_name": "（だいこん類）　だいこん　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "だいずもやし": [
+    {
+      "food_number": "06287",
+      "food_name": "（もやし類）　だいずもやし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06288",
+      "food_name": "（もやし類）　だいずもやし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06412",
+      "food_name": "（もやし類）　だいずもやし　油いため",
+      "is_canonical": true
+    }
+  ],
+  "だし巻きたまご": [
+    {
+      "food_number": "12019",
+      "food_name": "鶏卵　たまご焼　だし巻きたまご",
+      "is_canonical": true
+    }
+  ],
+  "ちか": [
+    {
+      "food_number": "10211",
+      "food_name": "＜魚類＞　ちか　生",
+      "is_canonical": true
+    }
+  ],
+  "ちだい": [
+    {
+      "food_number": "10191",
+      "food_name": "＜魚類＞　（たい類）　ちだい　生",
+      "is_canonical": true
+    }
+  ],
+  "ちぢみゆきな": [
+    {
+      "food_number": "06376",
+      "food_name": "ちぢみゆきな　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06377",
+      "food_name": "ちぢみゆきな　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "つくし": [
+    {
+      "food_number": "06163",
+      "food_name": "つくし　胞子茎　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "つぶ": [
+    {
+      "food_number": "10300",
+      "food_name": "＜貝類＞　つぶ　生",
+      "is_canonical": true
+    }
+  ],
+  "つまみな": [
+    {
+      "food_number": "06144",
+      "food_name": "（たいさい類）　つまみな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "つるあずき（全粒）": [
+    {
+      "food_number": "04064",
+      "food_name": "つるあずき　全粒　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04092",
+      "food_name": "つるあずき　全粒　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "つるな": [
+    {
+      "food_number": "06164",
+      "food_name": "つるな　茎葉　生",
+      "is_canonical": true
+    }
+  ],
+  "つるにんじん": [
+    {
+      "food_number": "06390",
+      "food_name": "つるにんじん　根　生",
+      "is_canonical": true
+    }
+  ],
+  "つるむらさき": [
+    {
+      "food_number": "06165",
+      "food_name": "つるむらさき　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06166",
+      "food_name": "つるむらさき　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "てんぐさ": [
+    {
+      "food_number": "09025",
+      "food_name": "てんぐさ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "でん粉めん": [
+    {
+      "food_number": "02059",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　でん粉めん　乾",
+      "is_canonical": true
+    }
+  ],
+  "とうがん": [
+    {
+      "food_number": "06173",
+      "food_name": "とうがん　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06174",
+      "food_name": "とうがん　果実　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "とうびし": [
+    {
+      "food_number": "05048",
+      "food_name": "（ひし類）　とうびし　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "とうもろこしでん粉": [
+    {
+      "food_number": "02035",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　とうもろこしでん粉",
+      "is_canonical": true
+    }
+  ],
+  "とうもろこし油": [
+    {
+      "food_number": "14007",
+      "food_name": "（植物油脂類）　とうもろこし油",
+      "is_canonical": true
+    }
+  ],
+  "とうもろこし（玄穀）": [
+    {
+      "food_number": "01131",
+      "food_name": "とうもろこし　玄穀　黄色種",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01162",
+      "food_name": "とうもろこし　玄穀　白色種",
+      "is_canonical": false
+    }
+  ],
+  "とこぶし": [
+    {
+      "food_number": "10301",
+      "food_name": "＜貝類＞　とこぶし　生",
+      "is_canonical": true
+    }
+  ],
+  "ところてん": [
+    {
+      "food_number": "09026",
+      "food_name": "てんぐさ　ところてん",
+      "is_canonical": true
+    }
+  ],
+  "とちの実": [
+    {
+      "food_number": "05022",
+      "food_name": "とち　蒸し",
+      "is_canonical": true
+    }
+  ],
+  "とびうお": [
+    {
+      "food_number": "10215",
+      "food_name": "＜魚類＞　とびうお　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10421",
+      "food_name": "＜魚類＞　とびうお　煮干し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10422",
+      "food_name": "＜魚類＞　とびうお　焼き干し",
+      "is_canonical": false
+    }
+  ],
+  "とりがい（斧足）": [
+    {
+      "food_number": "10303",
+      "food_name": "＜貝類＞　とりがい　斧足　生",
+      "is_canonical": true
+    }
+  ],
+  "とんぶり": [
+    {
+      "food_number": "06188",
+      "food_name": "とんぶり　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "どじょう": [
+    {
+      "food_number": "10213",
+      "food_name": "＜魚類＞　どじょう　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10214",
+      "food_name": "＜魚類＞　どじょう　水煮",
+      "is_canonical": false
+    }
+  ],
+  "ながいも": [
+    {
+      "food_number": "02023",
+      "food_name": "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02024",
+      "food_name": "＜いも類＞　（やまのいも類）　ながいも　ながいも　塊根　水煮",
+      "is_canonical": false
+    }
+  ],
+  "ながこんぶ": [
+    {
+      "food_number": "09015",
+      "food_name": "（こんぶ類）　ながこんぶ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "ながさきはくさい": [
+    {
+      "food_number": "06189",
+      "food_name": "ながさきはくさい　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06190",
+      "food_name": "ながさきはくさい　葉　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "なす": [
+    {
+      "food_number": "06191",
+      "food_name": "（なす類）　なす　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06192",
+      "food_name": "（なす類）　なす　果実　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06342",
+      "food_name": "（なす類）　なす　果実　油いため",
+      "is_canonical": false
+    }
+  ],
+  "なずな": [
+    {
+      "food_number": "06200",
+      "food_name": "なずな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "なたね油": [
+    {
+      "food_number": "14008",
+      "food_name": "（植物油脂類）　なたね油",
+      "is_canonical": true
+    }
+  ],
+  "なつみかん": [
+    {
+      "food_number": "07093",
+      "food_name": "（かんきつ類）　なつみかん　砂じょう　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07094",
+      "food_name": "（かんきつ類）　なつみかん　缶詰",
+      "is_canonical": false
+    }
+  ],
+  "なつめ": [
+    {
+      "food_number": "07095",
+      "food_name": "なつめ　乾",
+      "is_canonical": true
+    }
+  ],
+  "なつめやし": [
+    {
+      "food_number": "07096",
+      "food_name": "なつめやし　乾",
+      "is_canonical": true
+    }
+  ],
+  "なまこ": [
+    {
+      "food_number": "10372",
+      "food_name": "＜その他＞　なまこ　生",
+      "is_canonical": true
+    }
+  ],
+  "なまず": [
+    {
+      "food_number": "10216",
+      "food_name": "＜魚類＞　なまず　生",
+      "is_canonical": true
+    }
+  ],
+  "なまり節": [
+    {
+      "food_number": "10089",
+      "food_name": "＜魚類＞　（かつお類）　加工品　なまり",
+      "is_canonical": true
+    }
+  ],
+  "なめこ（カット）": [
+    {
+      "food_number": "08058",
+      "food_name": "なめこ　カットなめこ　生",
+      "is_canonical": true
+    }
+  ],
+  "なめこ（株採り）": [
+    {
+      "food_number": "08020",
+      "food_name": "なめこ　株採り　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08021",
+      "food_name": "なめこ　株採り　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "なめこ（水煮缶詰）": [
+    {
+      "food_number": "08022",
+      "food_name": "なめこ　水煮缶詰",
+      "is_canonical": true
+    }
+  ],
+  "にがうり": [
+    {
+      "food_number": "06206",
+      "food_name": "にがうり　果実　油いため",
+      "is_canonical": true
+    }
+  ],
+  "にぎす": [
+    {
+      "food_number": "10217",
+      "food_name": "＜魚類＞　にぎす　生",
+      "is_canonical": true
+    }
+  ],
+  "にしまあじ": [
+    {
+      "food_number": "10008",
+      "food_name": "＜魚類＞　（あじ類）　にしまあじ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10009",
+      "food_name": "＜魚類＞　（あじ類）　にしまあじ　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10010",
+      "food_name": "＜魚類＞　（あじ類）　にしまあじ　焼き",
+      "is_canonical": true
+    }
+  ],
+  "にしまあじ開き干し": [
+    {
+      "food_number": "10457",
+      "food_name": "＜魚類＞　（あじ類）　にしまあじ　開き干し　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10458",
+      "food_name": "＜魚類＞　（あじ類）　にしまあじ　開き干し　焼き",
+      "is_canonical": false
+    }
+  ],
+  "にしん": [
+    {
+      "food_number": "10218",
+      "food_name": "＜魚類＞　にしん　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10220",
+      "food_name": "＜魚類＞　にしん　開き干し",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10221",
+      "food_name": "＜魚類＞　にしん　くん製",
+      "is_canonical": false
+    }
+  ],
+  "にんじん": [
+    {
+      "food_number": "06408",
+      "food_name": "（にんじん類）　にんじん　根　皮なし　カット　次亜塩素酸洗浄",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06347",
+      "food_name": "（にんじん類）　にんじん　根　皮　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06216",
+      "food_name": "（にんじん類）　にんじん　根　冷凍",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06380",
+      "food_name": "（にんじん類）　にんじん　根　冷凍　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06381",
+      "food_name": "（にんじん類）　にんじん　根　冷凍　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06348",
+      "food_name": "（にんじん類）　にんじん　グラッセ",
+      "is_canonical": false
+    }
+  ],
+  "にんじんジュース": [
+    {
+      "food_number": "06217",
+      "food_name": "（にんじん類）　にんじん　ジュース　缶詰",
+      "is_canonical": true
+    }
+  ],
+  "にんじん（根・皮つき）": [
+    {
+      "food_number": "06212",
+      "food_name": "（にんじん類）　にんじん　根　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06213",
+      "food_name": "（にんじん類）　にんじん　根　皮つき　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "にんじん（根・皮なし）": [
+    {
+      "food_number": "06214",
+      "food_name": "（にんじん類）　にんじん　根　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06215",
+      "food_name": "（にんじん類）　にんじん　根　皮なし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06345",
+      "food_name": "（にんじん類）　にんじん　根　皮なし　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06346",
+      "food_name": "（にんじん類）　にんじん　根　皮なし　素揚げ",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06407",
+      "food_name": "（にんじん類）　にんじん　根　皮なし　カット　常法洗浄",
+      "is_canonical": false
+    }
+  ],
+  "ぬめりすぎたけ": [
+    {
+      "food_number": "08023",
+      "food_name": "ぬめりすぎたけ　生",
+      "is_canonical": true
+    }
+  ],
+  "のざわな": [
+    {
+      "food_number": "06229",
+      "food_name": "のざわな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "はいが精米": [
+    {
+      "food_number": "01084",
+      "food_name": "こめ　［水稲穀粒］　はいが精米",
+      "is_canonical": true
+    }
+  ],
+  "はいが精米ごはん": [
+    {
+      "food_number": "01089",
+      "food_name": "こめ　［水稲めし］　はいが精米",
+      "is_canonical": true
+    }
+  ],
+  "はくさい": [
+    {
+      "food_number": "06233",
+      "food_name": "はくさい　結球葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06234",
+      "food_name": "はくさい　結球葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "はすの実（成熟）": [
+    {
+      "food_number": "05024",
+      "food_name": "はす　成熟　乾",
+      "is_canonical": true
+    }
+  ],
+  "はすの実（未熟）": [
+    {
+      "food_number": "05023",
+      "food_name": "はす　未熟　生",
+      "is_canonical": true
+    }
+  ],
+  "はぜ": [
+    {
+      "food_number": "10225",
+      "food_name": "＜魚類＞　はぜ　生",
+      "is_canonical": true
+    }
+  ],
+  "はたけしめじ": [
+    {
+      "food_number": "08015",
+      "food_name": "（しめじ類）　はたけしめじ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08045",
+      "food_name": "（しめじ類）　はたけしめじ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "はたはた": [
+    {
+      "food_number": "10228",
+      "food_name": "＜魚類＞　はたはた　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10229",
+      "food_name": "＜魚類＞　はたはた　生干し",
+      "is_canonical": false
+    }
+  ],
+  "はちの子缶詰": [
+    {
+      "food_number": "11244",
+      "food_name": "＜その他＞　はち　はちの子缶詰",
+      "is_canonical": true
+    }
+  ],
+  "はちみつ": [
+    {
+      "food_number": "03022",
+      "food_name": "（その他）　はちみつ",
+      "is_canonical": true
+    },
+    {
+      "food_number": "03033",
+      "food_name": "（その他）　はちみつ　国産品　",
+      "is_canonical": false
+    }
+  ],
+  "はっさく": [
+    {
+      "food_number": "07105",
+      "food_name": "（かんきつ類）　はっさく　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "はつかだいこん": [
+    {
+      "food_number": "06240",
+      "food_name": "はつかだいこん　根　生",
+      "is_canonical": true
+    }
+  ],
+  "はとむぎ（精白粒）": [
+    {
+      "food_number": "01138",
+      "food_name": "はとむぎ　精白粒",
+      "is_canonical": true
+    }
+  ],
+  "はと肉": [
+    {
+      "food_number": "11238",
+      "food_name": "＜鳥肉類＞　はと　肉　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "はなっこりー": [
+    {
+      "food_number": "06392",
+      "food_name": "はなっこりー　生",
+      "is_canonical": true
+    }
+  ],
+  "はまぐり": [
+    {
+      "food_number": "10306",
+      "food_name": "＜貝類＞　（はまぐり類）　はまぐり　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10307",
+      "food_name": "＜貝類＞　（はまぐり類）　はまぐり　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10308",
+      "food_name": "＜貝類＞　（はまぐり類）　はまぐり　焼き",
+      "is_canonical": true
+    }
+  ],
+  "はまち（養殖）": [
+    {
+      "food_number": "10243",
+      "food_name": "＜魚類＞　ぶり　はまち　養殖　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10411",
+      "food_name": "＜魚類＞　ぶり　はまち　養殖　皮なし　生",
+      "is_canonical": false
+    }
+  ],
+  "はまふえふき": [
+    {
+      "food_number": "10230",
+      "food_name": "＜魚類＞　はまふえふき　生",
+      "is_canonical": true
+    }
+  ],
+  "はも": [
+    {
+      "food_number": "10231",
+      "food_name": "＜魚類＞　はも　生",
+      "is_canonical": true
+    }
+  ],
+  "はやとうり（白色種）": [
+    {
+      "food_number": "06241",
+      "food_name": "はやとうり　果実　白色種　生",
+      "is_canonical": true
+    }
+  ],
+  "はやとうり（緑色種）": [
+    {
+      "food_number": "06353",
+      "food_name": "はやとうり　果実　緑色種　生",
+      "is_canonical": true
+    }
+  ],
+  "はるみ": [
+    {
+      "food_number": "07167",
+      "food_name": "（かんきつ類）　はるみ　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "ばい": [
+    {
+      "food_number": "10304",
+      "food_name": "＜貝類＞　ばい　生",
+      "is_canonical": true
+    }
+  ],
+  "ひえ（精白粒）": [
+    {
+      "food_number": "01139",
+      "food_name": "ひえ　精白粒",
+      "is_canonical": true
+    }
+  ],
+  "ひとえぐさ": [
+    {
+      "food_number": "09032",
+      "food_name": "ひとえぐさ　素干し",
+      "is_canonical": true
+    },
+    {
+      "food_number": "09033",
+      "food_name": "ひとえぐさ　つくだ煮",
+      "is_canonical": false
+    }
+  ],
+  "ひのな": [
+    {
+      "food_number": "06252",
+      "food_name": "ひのな　根・茎葉　生",
+      "is_canonical": true
+    }
+  ],
+  "ひまわり油": [
+    {
+      "food_number": "14011",
+      "food_name": "（植物油脂類）　ひまわり油　ハイリノール",
+      "is_canonical": true
+    },
+    {
+      "food_number": "14026",
+      "food_name": "（植物油脂類）　ひまわり油　ミッドオレイック",
+      "is_canonical": false
+    },
+    {
+      "food_number": "14027",
+      "food_name": "（植物油脂類）　ひまわり油　ハイオレイック",
+      "is_canonical": false
+    }
+  ],
+  "ひゅうがなつ": [
+    {
+      "food_number": "07113",
+      "food_name": "（かんきつ類）　ひゅうがなつ　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "ひよこまめ（全粒）": [
+    {
+      "food_number": "04065",
+      "food_name": "ひよこまめ　全粒　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04066",
+      "food_name": "ひよこまめ　全粒　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ひらたけ": [
+    {
+      "food_number": "08026",
+      "food_name": "（ひらたけ類）　ひらたけ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08027",
+      "food_name": "（ひらたけ類）　ひらたけ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ひらまさ": [
+    {
+      "food_number": "10233",
+      "food_name": "＜魚類＞　ひらまさ　生",
+      "is_canonical": true
+    }
+  ],
+  "ひらめ": [
+    {
+      "food_number": "10234",
+      "food_name": "＜魚類＞　ひらめ　天然　生",
+      "is_canonical": true
+    }
+  ],
+  "ひらめ（養殖）": [
+    {
+      "food_number": "10235",
+      "food_name": "＜魚類＞　ひらめ　養殖　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10410",
+      "food_name": "＜魚類＞　ひらめ　養殖　皮なし　生",
+      "is_canonical": false
+    }
+  ],
+  "ひろしまな": [
+    {
+      "food_number": "06254",
+      "food_name": "ひろしまな　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06255",
+      "food_name": "ひろしまな　塩漬",
+      "is_canonical": false
+    }
+  ],
+  "びわ": [
+    {
+      "food_number": "07114",
+      "food_name": "びわ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07115",
+      "food_name": "びわ　缶詰",
+      "is_canonical": false
+    }
+  ],
+  "びんながまぐろ": [
+    {
+      "food_number": "10255",
+      "food_name": "＜魚類＞　（まぐろ類）　びんなが　生",
+      "is_canonical": true
+    }
+  ],
+  "ふかひれ": [
+    {
+      "food_number": "10169",
+      "food_name": "＜魚類＞　（さめ類）　ふかひれ",
+      "is_canonical": true
+    }
+  ],
+  "ふき": [
+    {
+      "food_number": "06256",
+      "food_name": "（ふき類）　ふき　葉柄　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06257",
+      "food_name": "（ふき類）　ふき　葉柄　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ふきのとう": [
+    {
+      "food_number": "06258",
+      "food_name": "（ふき類）　ふきのとう　花序　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06259",
+      "food_name": "（ふき類）　ふきのとう　花序　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "ふじまめ（若ざや）": [
+    {
+      "food_number": "06260",
+      "food_name": "ふじまめ　若ざや　生",
+      "is_canonical": true
+    }
+  ],
+  "ふだんそう": [
+    {
+      "food_number": "06261",
+      "food_name": "ふだんそう　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06262",
+      "food_name": "ふだんそう　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ふな": [
+    {
+      "food_number": "10238",
+      "food_name": "＜魚類＞　ふな　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10239",
+      "food_name": "＜魚類＞　ふな　水煮",
+      "is_canonical": false
+    }
+  ],
+  "ふのり": [
+    {
+      "food_number": "09034",
+      "food_name": "ふのり　素干し",
+      "is_canonical": true
+    }
+  ],
+  "ぶどう油": [
+    {
+      "food_number": "14028",
+      "food_name": "（植物油脂類）　ぶどう油",
+      "is_canonical": true
+    }
+  ],
+  "ぶなしめじ": [
+    {
+      "food_number": "08016",
+      "food_name": "（しめじ類）　ぶなしめじ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08017",
+      "food_name": "（しめじ類）　ぶなしめじ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08046",
+      "food_name": "（しめじ類）　ぶなしめじ　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08055",
+      "food_name": "（しめじ類）　ぶなしめじ　素揚げ",
+      "is_canonical": true
+    }
+  ],
+  "ぶり（成魚）": [
+    {
+      "food_number": "10241",
+      "food_name": "＜魚類＞　ぶり　成魚　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10242",
+      "food_name": "＜魚類＞　ぶり　成魚　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ぶんたん": [
+    {
+      "food_number": "07126",
+      "food_name": "（かんきつ類）　ぶんたん　砂じょう　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07127",
+      "food_name": "（かんきつ類）　ぶんたん　ざぼん漬",
+      "is_canonical": false
+    }
+  ],
+  "へちま": [
+    {
+      "food_number": "06265",
+      "food_name": "へちま　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06266",
+      "food_name": "へちま　果実　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "べいなす": [
+    {
+      "food_number": "06193",
+      "food_name": "（なす類）　べいなす　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06194",
+      "food_name": "（なす類）　べいなす　果実　素揚げ",
+      "is_canonical": false
+    }
+  ],
+  "べにばないんげん（全粒）": [
+    {
+      "food_number": "04068",
+      "food_name": "べにばないんげん　全粒　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04069",
+      "food_name": "べにばないんげん　全粒　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ほうぼう": [
+    {
+      "food_number": "10244",
+      "food_name": "＜魚類＞　ほうぼう　生",
+      "is_canonical": true
+    }
+  ],
+  "ほうれんそう": [
+    {
+      "food_number": "06267",
+      "food_name": "ほうれんそう　葉　通年平均　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06359",
+      "food_name": "ほうれんそう　葉　通年平均　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06355",
+      "food_name": "ほうれんそう　葉　夏採り　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06357",
+      "food_name": "ほうれんそう　葉　夏採り　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06356",
+      "food_name": "ほうれんそう　葉　冬採り　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06358",
+      "food_name": "ほうれんそう　葉　冬採り　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06269",
+      "food_name": "ほうれんそう　葉　冷凍",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06372",
+      "food_name": "ほうれんそう　葉　冷凍　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ほそめこんぶ": [
+    {
+      "food_number": "09016",
+      "food_name": "（こんぶ類）　ほそめこんぶ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "ほたてがい": [
+    {
+      "food_number": "10311",
+      "food_name": "＜貝類＞　ほたてがい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10312",
+      "food_name": "＜貝類＞　ほたてがい　水煮",
+      "is_canonical": false
+    }
+  ],
+  "ほたてがい貝柱": [
+    {
+      "food_number": "10313",
+      "food_name": "＜貝類＞　ほたてがい　貝柱　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10414",
+      "food_name": "＜貝類＞　ほたてがい　貝柱　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10314",
+      "food_name": "＜貝類＞　ほたてがい　貝柱　煮干し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10315",
+      "food_name": "＜貝類＞　ほたてがい　貝柱　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "ほたるいか": [
+    {
+      "food_number": "10348",
+      "food_name": "＜いか・たこ類＞　（いか類）　ほたるいか　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10349",
+      "food_name": "＜いか・たこ類＞　（いか類）　ほたるいか　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10350",
+      "food_name": "＜いか・たこ類＞　（いか類）　ほたるいか　くん製",
+      "is_canonical": false
+    }
+  ],
+  "ほっきがい": [
+    {
+      "food_number": "10316",
+      "food_name": "＜貝類＞　ほっきがい　生",
+      "is_canonical": true
+    }
+  ],
+  "ほっけ": [
+    {
+      "food_number": "10246",
+      "food_name": "＜魚類＞　ほっけ　生",
+      "is_canonical": true
+    }
+  ],
+  "ほっけ（開き干し）": [
+    {
+      "food_number": "10248",
+      "food_name": "＜魚類＞　ほっけ　開き干し　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10412",
+      "food_name": "＜魚類＞　ほっけ　開き干し　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ほろほろ鳥肉": [
+    {
+      "food_number": "11240",
+      "food_name": "＜鳥肉類＞　ほろほろちょう　肉　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "ほんしめじ": [
+    {
+      "food_number": "08018",
+      "food_name": "（しめじ類）　ほんしめじ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08047",
+      "food_name": "（しめじ類）　ほんしめじ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ほんもろこ": [
+    {
+      "food_number": "10251",
+      "food_name": "＜魚類＞　ほんもろこ　生",
+      "is_canonical": true
+    }
+  ],
+  "ぼら": [
+    {
+      "food_number": "10249",
+      "food_name": "＜魚類＞　ぼら　生",
+      "is_canonical": true
+    }
+  ],
+  "ぽんかん": [
+    {
+      "food_number": "07129",
+      "food_name": "（かんきつ類）　ぽんかん　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "まあじ": [
+    {
+      "food_number": "10003",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10389",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10004",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10005",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　皮つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "まあじ（小型・骨付き）": [
+    {
+      "food_number": "10391",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　小型　骨付き　生",
+      "is_canonical": true
+    }
+  ],
+  "まあじ（開き干し）": [
+    {
+      "food_number": "10006",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　開き干し　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10007",
+      "food_name": "＜魚類＞　（あじ類）　まあじ　開き干し　焼き",
+      "is_canonical": false
+    }
+  ],
+  "まいたけ": [
+    {
+      "food_number": "08028",
+      "food_name": "まいたけ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08029",
+      "food_name": "まいたけ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08051",
+      "food_name": "まいたけ　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08030",
+      "food_name": "まいたけ　乾",
+      "is_canonical": false
+    }
+  ],
+  "まいわし": [
+    {
+      "food_number": "10047",
+      "food_name": "＜魚類＞　（いわし類）　まいわし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10048",
+      "food_name": "＜魚類＞　（いわし類）　まいわし　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10049",
+      "food_name": "＜魚類＞　（いわし類）　まいわし　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10050",
+      "food_name": "＜魚類＞　（いわし類）　まいわし　塩いわし",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10051",
+      "food_name": "＜魚類＞　（いわし類）　まいわし　生干し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10052",
+      "food_name": "＜魚類＞　（いわし類）　まいわし　丸干し",
+      "is_canonical": false
+    }
+  ],
+  "まかじき": [
+    {
+      "food_number": "10084",
+      "food_name": "＜魚類＞　（かじき類）　まかじき　生",
+      "is_canonical": true
+    }
+  ],
+  "まがも肉": [
+    {
+      "food_number": "11208",
+      "food_name": "＜鳥肉類＞　かも　まがも　肉　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "まがれい": [
+    {
+      "food_number": "10100",
+      "food_name": "＜魚類＞　（かれい類）　まがれい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10101",
+      "food_name": "＜魚類＞　（かれい類）　まがれい　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10102",
+      "food_name": "＜魚類＞　（かれい類）　まがれい　焼き",
+      "is_canonical": false
+    }
+  ],
+  "まくわうり（白肉種）": [
+    {
+      "food_number": "07173",
+      "food_name": "まくわうり　白肉種　生",
+      "is_canonical": true
+    }
+  ],
+  "まくわうり（黄肉種）": [
+    {
+      "food_number": "07130",
+      "food_name": "まくわうり　黄肉種　生",
+      "is_canonical": true
+    }
+  ],
+  "まぐろ缶詰（水煮フレーク・ホワイト）": [
+    {
+      "food_number": "10261",
+      "food_name": "＜魚類＞　（まぐろ類）　缶詰　水煮　フレーク　ホワイト",
+      "is_canonical": true
+    }
+  ],
+  "まぐろ缶詰（水煮フレーク・ライト）": [
+    {
+      "food_number": "10260",
+      "food_name": "＜魚類＞　（まぐろ類）　缶詰　水煮　フレーク　ライト",
+      "is_canonical": true
+    }
+  ],
+  "まぐろ缶詰（油漬フレーク・ホワイト）": [
+    {
+      "food_number": "10264",
+      "food_name": "＜魚類＞　（まぐろ類）　缶詰　油漬　フレーク　ホワイト",
+      "is_canonical": true
+    }
+  ],
+  "まぐろ缶詰（油漬フレーク・ライト）": [
+    {
+      "food_number": "10263",
+      "food_name": "＜魚類＞　（まぐろ類）　缶詰　油漬　フレーク　ライト",
+      "is_canonical": true
+    }
+  ],
+  "まこがれい": [
+    {
+      "food_number": "10103",
+      "food_name": "＜魚類＞　（かれい類）　まこがれい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10399",
+      "food_name": "＜魚類＞　（かれい類）　まこがれい　焼き",
+      "is_canonical": false
+    }
+  ],
+  "まこも（茎）": [
+    {
+      "food_number": "06271",
+      "food_name": "まこも　茎　生",
+      "is_canonical": true
+    }
+  ],
+  "まこんぶ": [
+    {
+      "food_number": "09017",
+      "food_name": "（こんぶ類）　まこんぶ　素干し　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "09056",
+      "food_name": "（こんぶ類）　まこんぶ　素干し　水煮",
+      "is_canonical": false
+    }
+  ],
+  "まごち": [
+    {
+      "food_number": "10122",
+      "food_name": "＜魚類＞　（こち類）　まごち　生",
+      "is_canonical": true
+    }
+  ],
+  "まさば": [
+    {
+      "food_number": "10155",
+      "food_name": "＜魚類＞　（さば類）　まさば　水煮",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10156",
+      "food_name": "＜魚類＞　（さば類）　まさば　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10403",
+      "food_name": "＜魚類＞　（さば類）　まさば　フライ",
+      "is_canonical": false
+    }
+  ],
+  "まだい": [
+    {
+      "food_number": "10192",
+      "food_name": "＜魚類＞　（たい類）　まだい　天然　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10193",
+      "food_name": "＜魚類＞　（たい類）　まだい　養殖　皮つき　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10194",
+      "food_name": "＜魚類＞　（たい類）　まだい　養殖　皮つき　水煮",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10195",
+      "food_name": "＜魚類＞　（たい類）　まだい　養殖　皮つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10408",
+      "food_name": "＜魚類＞　（たい類）　まだい　養殖　皮なし　生",
+      "is_canonical": false
+    }
+  ],
+  "まだこ": [
+    {
+      "food_number": "10361",
+      "food_name": "＜いか・たこ類＞　（たこ類）　まだこ　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10471",
+      "food_name": "＜いか・たこ類＞　（たこ類）　まだこ　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10362",
+      "food_name": "＜いか・たこ類＞　（たこ類）　まだこ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10472",
+      "food_name": "＜いか・たこ類＞　（たこ類）　まだこ　蒸しだこ",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10473",
+      "food_name": "＜いか・たこ類＞　（たこ類）　まだこ　蒸しだこ　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10474",
+      "food_name": "＜いか・たこ類＞　（たこ類）　まだこ　蒸しだこ　素揚げ",
+      "is_canonical": false
+    }
+  ],
+  "まだら": [
+    {
+      "food_number": "10205",
+      "food_name": "＜魚類＞　（たら類）　まだら　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10206",
+      "food_name": "＜魚類＞　（たら類）　まだら　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10209",
+      "food_name": "＜魚類＞　（たら類）　まだら　干しだら",
+      "is_canonical": false
+    }
+  ],
+  "まだらのしらこ": [
+    {
+      "food_number": "10207",
+      "food_name": "＜魚類＞　（たら類）　まだら　しらこ　生",
+      "is_canonical": true
+    }
+  ],
+  "まつたけ": [
+    {
+      "food_number": "08034",
+      "food_name": "まつたけ　生",
+      "is_canonical": true
+    }
+  ],
+  "まつも": [
+    {
+      "food_number": "09035",
+      "food_name": "まつも　素干し",
+      "is_canonical": true
+    }
+  ],
+  "まながつお": [
+    {
+      "food_number": "10266",
+      "food_name": "＜魚類＞　まながつお　生",
+      "is_canonical": true
+    }
+  ],
+  "まるあじ": [
+    {
+      "food_number": "10393",
+      "food_name": "＜魚類＞　（あじ類）　まるあじ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10394",
+      "food_name": "＜魚類＞　（あじ類）　まるあじ　焼き",
+      "is_canonical": false
+    }
+  ],
+  "みずいも": [
+    {
+      "food_number": "02014",
+      "food_name": "＜いも類＞　（さといも類）　みずいも　球茎　水煮",
+      "is_canonical": true
+    }
+  ],
+  "みずかけな（葉）": [
+    {
+      "food_number": "06272",
+      "food_name": "みずかけな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "みずだこ": [
+    {
+      "food_number": "10432",
+      "food_name": "＜いか・たこ類＞　（たこ類）　みずだこ　生",
+      "is_canonical": true
+    }
+  ],
+  "みずな（葉）": [
+    {
+      "food_number": "06072",
+      "food_name": "みずな　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06073",
+      "food_name": "みずな　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "みついしこんぶ": [
+    {
+      "food_number": "09018",
+      "food_name": "（こんぶ類）　みついしこんぶ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "みなみくろたち": [
+    {
+      "food_number": "10232",
+      "food_name": "＜魚類＞　みなみくろたち　生",
+      "is_canonical": true
+    }
+  ],
+  "みなみだら": [
+    {
+      "food_number": "10267",
+      "food_name": "＜魚類＞　みなみだら　生",
+      "is_canonical": true
+    }
+  ],
+  "みなみまぐろ（脂身）": [
+    {
+      "food_number": "10257",
+      "food_name": "＜魚類＞　（まぐろ類）　みなみまぐろ　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "みなみまぐろ（赤身）": [
+    {
+      "food_number": "10256",
+      "food_name": "＜魚類＞　（まぐろ類）　みなみまぐろ　赤身　生",
+      "is_canonical": true
+    }
+  ],
+  "みぶな": [
+    {
+      "food_number": "06360",
+      "food_name": "みぶな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "みょうがたけ": [
+    {
+      "food_number": "06281",
+      "food_name": "（みょうが類）　みょうがたけ　茎葉　生",
+      "is_canonical": true
+    }
+  ],
+  "みょうが（花穂）": [
+    {
+      "food_number": "06280",
+      "food_name": "（みょうが類）　みょうが　花穂　生",
+      "is_canonical": true
+    }
+  ],
+  "みるがい水管": [
+    {
+      "food_number": "10317",
+      "food_name": "＜貝類＞　みるがい　水管　生",
+      "is_canonical": true
+    }
+  ],
+  "むかご": [
+    {
+      "food_number": "06282",
+      "food_name": "むかご　肉芽　生",
+      "is_canonical": true
+    }
+  ],
+  "むかでのり": [
+    {
+      "food_number": "09036",
+      "food_name": "むかでのり　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "むつ": [
+    {
+      "food_number": "10268",
+      "food_name": "＜魚類＞　むつ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10269",
+      "food_name": "＜魚類＞　むつ　水煮",
+      "is_canonical": false
+    }
+  ],
+  "むらさきいも": [
+    {
+      "food_number": "02048",
+      "food_name": "＜いも類＞　（さつまいも類）　むらさきいも　塊根　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02049",
+      "food_name": "＜いも類＞　（さつまいも類）　むらさきいも　塊根　皮なし　蒸し",
+      "is_canonical": false
+    }
+  ],
+  "むろあじ": [
+    {
+      "food_number": "10011",
+      "food_name": "＜魚類＞　（あじ類）　むろあじ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10012",
+      "food_name": "＜魚類＞　（あじ類）　むろあじ　焼き",
+      "is_canonical": false
+    }
+  ],
+  "むろあじ開き干し": [
+    {
+      "food_number": "10013",
+      "food_name": "＜魚類＞　（あじ類）　むろあじ　開き干し",
+      "is_canonical": true
+    }
+  ],
+  "めかじき": [
+    {
+      "food_number": "10398",
+      "food_name": "＜魚類＞　（かじき類）　めかじき　焼き",
+      "is_canonical": true
+    }
+  ],
+  "めかぶわかめ": [
+    {
+      "food_number": "09047",
+      "food_name": "わかめ　めかぶわかめ　生",
+      "is_canonical": true
+    }
+  ],
+  "めごち": [
+    {
+      "food_number": "10123",
+      "food_name": "＜魚類＞　（こち類）　めごち　生",
+      "is_canonical": true
+    }
+  ],
+  "めざし": [
+    {
+      "food_number": "10053",
+      "food_name": "＜魚類＞　（いわし類）　めざし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10054",
+      "food_name": "＜魚類＞　（いわし類）　めざし　焼き",
+      "is_canonical": false
+    }
+  ],
+  "めじな": [
+    {
+      "food_number": "10270",
+      "food_name": "＜魚類＞　めじな　生",
+      "is_canonical": true
+    }
+  ],
+  "めじまぐろ": [
+    {
+      "food_number": "10258",
+      "food_name": "＜魚類＞　（まぐろ類）　めじまぐろ　生",
+      "is_canonical": true
+    }
+  ],
+  "めたで": [
+    {
+      "food_number": "06285",
+      "food_name": "めたで　芽ばえ　生",
+      "is_canonical": true
+    }
+  ],
+  "めばちまぐろ（脂身）": [
+    {
+      "food_number": "10426",
+      "food_name": "＜魚類＞　（まぐろ類） めばち　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "めばちまぐろ（赤身）": [
+    {
+      "food_number": "10425",
+      "food_name": "＜魚類＞　（まぐろ類） めばち　赤身　生",
+      "is_canonical": true
+    }
+  ],
+  "めばる": [
+    {
+      "food_number": "10271",
+      "food_name": "＜魚類＞　めばる　生",
+      "is_canonical": true
+    }
+  ],
+  "めキャベツ": [
+    {
+      "food_number": "06283",
+      "food_name": "めキャベツ　結球葉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06284",
+      "food_name": "めキャベツ　結球葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "もずく": [
+    {
+      "food_number": "09038",
+      "food_name": "（もずく類）　もずく　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "もも缶詰（果肉）": [
+    {
+      "food_number": "07138",
+      "food_name": "（もも類）　もも　缶詰　白肉種　果肉",
+      "is_canonical": true
+    }
+  ],
+  "もも缶詰（液汁）": [
+    {
+      "food_number": "07139",
+      "food_name": "（もも類）　もも　缶詰　液汁",
+      "is_canonical": true
+    }
+  ],
+  "もも（白肉種）": [
+    {
+      "food_number": "07136",
+      "food_name": "（もも類）　もも　白肉種　生",
+      "is_canonical": true
+    }
+  ],
+  "もも（黄肉種）": [
+    {
+      "food_number": "07184",
+      "food_name": "（もも類）　もも　黄肉種　生",
+      "is_canonical": true
+    }
+  ],
+  "もろこし（玄穀）": [
+    {
+      "food_number": "01140",
+      "food_name": "もろこし　玄穀",
+      "is_canonical": true
+    }
+  ],
+  "もろこし（精白粒）": [
+    {
+      "food_number": "01141",
+      "food_name": "もろこし　精白粒",
+      "is_canonical": true
+    }
+  ],
+  "やぎチーズ": [
+    {
+      "food_number": "13057",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　やぎ",
+      "is_canonical": true
+    }
+  ],
+  "やぎ乳": [
+    {
+      "food_number": "13052",
+      "food_name": "＜その他＞　やぎ乳",
+      "is_canonical": true
+    }
+  ],
+  "やぎ肉": [
+    {
+      "food_number": "11204",
+      "food_name": "＜畜肉類＞　やぎ　肉　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "やし油": [
+    {
+      "food_number": "14013",
+      "food_name": "（植物油脂類）　やし油",
+      "is_canonical": true
+    }
+  ],
+  "やつがしら": [
+    {
+      "food_number": "02016",
+      "food_name": "＜いも類＞　（さといも類）　やつがしら　球茎　水煮",
+      "is_canonical": true
+    }
+  ],
+  "やつめうなぎ": [
+    {
+      "food_number": "10273",
+      "food_name": "＜魚類＞　やつめうなぎ　生",
+      "is_canonical": true
+    }
+  ],
+  "やなぎまつたけ": [
+    {
+      "food_number": "08036",
+      "food_name": "やなぎまつたけ　生",
+      "is_canonical": true
+    }
+  ],
+  "やぶまめ": [
+    {
+      "food_number": "04108",
+      "food_name": "やぶまめ　乾",
+      "is_canonical": true
+    }
+  ],
+  "やまうど（茎）": [
+    {
+      "food_number": "06014",
+      "food_name": "（うど類）　やまうど　茎　生",
+      "is_canonical": true
+    }
+  ],
+  "やまといも": [
+    {
+      "food_number": "02025",
+      "food_name": "＜いも類＞　（やまのいも類）　ながいも　やまといも　塊根　生",
+      "is_canonical": true
+    }
+  ],
+  "やまめ": [
+    {
+      "food_number": "10275",
+      "food_name": "＜魚類＞　やまめ　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "やまもも": [
+    {
+      "food_number": "07141",
+      "food_name": "やまもも　生",
+      "is_canonical": true
+    }
+  ],
+  "やりいか": [
+    {
+      "food_number": "10352",
+      "food_name": "＜いか・たこ類＞　（いか類）　やりいか　生",
+      "is_canonical": true
+    }
+  ],
+  "やわらかごはん（精白米）": [
+    {
+      "food_number": "01185",
+      "food_name": "こめ　［水稲軟めし］　精白米",
+      "is_canonical": true
+    }
+  ],
+  "ゆし豆腐": [
+    {
+      "food_number": "04037",
+      "food_name": "だいず　［豆腐・油揚げ類］　ゆし豆腐",
+      "is_canonical": true
+    }
+  ],
+  "ゆりね": [
+    {
+      "food_number": "06297",
+      "food_name": "ゆりね　りん茎　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "ようさい": [
+    {
+      "food_number": "06298",
+      "food_name": "ようさい　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06299",
+      "food_name": "ようさい　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "よしきりざめ": [
+    {
+      "food_number": "10168",
+      "food_name": "＜魚類＞　（さめ類）　よしきりざめ　生",
+      "is_canonical": true
+    }
+  ],
+  "よめな": [
+    {
+      "food_number": "06300",
+      "food_name": "よめな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "よもぎ": [
+    {
+      "food_number": "06302",
+      "food_name": "よもぎ　葉　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "らいまめ": [
+    {
+      "food_number": "04093",
+      "food_name": "らいまめ　全粒　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "りしりこんぶ": [
+    {
+      "food_number": "09019",
+      "food_name": "（こんぶ類）　りしりこんぶ　素干し",
+      "is_canonical": true
+    }
+  ],
+  "りゅうがん": [
+    {
+      "food_number": "07147",
+      "food_name": "りゅうがん　乾",
+      "is_canonical": true
+    }
+  ],
+  "りょくとう": [
+    {
+      "food_number": "04071",
+      "food_name": "りょくとう　全粒　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04072",
+      "food_name": "りょくとう　全粒　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "りょくとうもやし": [
+    {
+      "food_number": "06291",
+      "food_name": "（もやし類）　りょくとうもやし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06292",
+      "food_name": "（もやし類）　りょくとうもやし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06413",
+      "food_name": "（もやし類）　りょくとうもやし　油いため",
+      "is_canonical": false
+    }
+  ],
+  "りんご": [
+    {
+      "food_number": "07148",
+      "food_name": "りんご　皮なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "07176",
+      "food_name": "りんご　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07180",
+      "food_name": "りんご　皮つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "りんごジュース": [
+    {
+      "food_number": "07149",
+      "food_name": "りんご　果実飲料　ストレートジュース",
+      "is_canonical": true
+    }
+  ],
+  "りんご缶詰": [
+    {
+      "food_number": "07153",
+      "food_name": "りんご　缶詰",
+      "is_canonical": true
+    }
+  ],
+  "れんこん": [
+    {
+      "food_number": "05043",
+      "food_name": "はす　成熟　ゆで",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06317",
+      "food_name": "れんこん　根茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06318",
+      "food_name": "れんこん　根茎　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ろくじょう豆腐": [
+    {
+      "food_number": "04088",
+      "food_name": "だいず　［豆腐・油揚げ類］　ろくじょう豆腐",
+      "is_canonical": true
+    }
+  ],
+  "わかさぎ": [
+    {
+      "food_number": "10276",
+      "food_name": "＜魚類＞　わかさぎ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10278",
+      "food_name": "＜魚類＞　わかさぎ　あめ煮",
+      "is_canonical": false
+    }
+  ],
+  "わかめ（生）": [
+    {
+      "food_number": "09039",
+      "food_name": "わかめ　原藻　生",
+      "is_canonical": true
+    }
+  ],
+  "アイスプラント": [
+    {
+      "food_number": "06402",
+      "food_name": "アイスプラント　生",
+      "is_canonical": true
+    }
+  ],
+  "アサイー": [
+    {
+      "food_number": "07181",
+      "food_name": "アサイー　冷凍　無糖",
+      "is_canonical": true
+    }
+  ],
+  "アスパラガス": [
+    {
+      "food_number": "06007",
+      "food_name": "アスパラガス　若茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06008",
+      "food_name": "アスパラガス　若茎　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06327",
+      "food_name": "アスパラガス　若茎　油いため",
+      "is_canonical": false
+    }
+  ],
+  "アスパラガス（水煮缶詰）": [
+    {
+      "food_number": "06009",
+      "food_name": "アスパラガス　水煮缶詰",
+      "is_canonical": true
+    }
+  ],
+  "アセロラ": [
+    {
+      "food_number": "07159",
+      "food_name": "アセロラ　甘味種　生",
+      "is_canonical": true
+    }
+  ],
+  "アセロラ（酸味種）": [
+    {
+      "food_number": "07003",
+      "food_name": "アセロラ　酸味種　生",
+      "is_canonical": true
+    }
+  ],
+  "アテモヤ": [
+    {
+      "food_number": "07005",
+      "food_name": "アテモヤ　生",
+      "is_canonical": true
+    }
+  ],
+  "アマランサス（玄穀）": [
+    {
+      "food_number": "01001",
+      "food_name": "アマランサス　玄穀",
+      "is_canonical": true
+    }
+  ],
+  "アメリカほどいも": [
+    {
+      "food_number": "02068",
+      "food_name": "＜いも類＞　アメリカほどいも　塊根　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02069",
+      "food_name": "＜いも類＞　アメリカほどいも　塊根　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "アラスカめぬけ": [
+    {
+      "food_number": "10030",
+      "food_name": "＜魚類＞　アラスカめぬけ　生",
+      "is_canonical": true
+    }
+  ],
+  "アルゼンチンあかえび": [
+    {
+      "food_number": "10467",
+      "food_name": "＜えび・かに類＞　（えび類）　アルゼンチンあかえび　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10468",
+      "food_name": "＜えび・かに類＞　（えび類）　アルゼンチンあかえび　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10469",
+      "food_name": "＜えび・かに類＞　（えび類）　アルゼンチンあかえび　焼き",
+      "is_canonical": false
+    }
+  ],
+  "アルファルファもやし": [
+    {
+      "food_number": "06286",
+      "food_name": "（もやし類）　アルファルファもやし　生",
+      "is_canonical": true
+    }
+  ],
+  "アルファ化米": [
+    {
+      "food_number": "01110",
+      "food_name": "こめ　［うるち米製品］　アルファ化米　一般用",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01156",
+      "food_name": "こめ　［うるち米製品］　アルファ化米　学校給食用強化品",
+      "is_canonical": false
+    }
+  ],
+  "アーティチョーク": [
+    {
+      "food_number": "06001",
+      "food_name": "アーティチョーク　花らい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06002",
+      "food_name": "アーティチョーク　花らい　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "エスカルゴ": [
+    {
+      "food_number": "10291",
+      "food_name": "＜貝類＞　エスカルゴ　水煮缶詰",
+      "is_canonical": true
+    }
+  ],
+  "エメンタールチーズ": [
+    {
+      "food_number": "13032",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　エメンタール",
+      "is_canonical": true
+    }
+  ],
+  "エリンギ": [
+    {
+      "food_number": "08025",
+      "food_name": "（ひらたけ類）　エリンギ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08048",
+      "food_name": "（ひらたけ類）　エリンギ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08049",
+      "food_name": "（ひらたけ類）　エリンギ　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08050",
+      "food_name": "（ひらたけ類）　エリンギ　油いため",
+      "is_canonical": false
+    }
+  ],
+  "エンダイブ": [
+    {
+      "food_number": "06018",
+      "food_name": "エンダイブ　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "オクラ": [
+    {
+      "food_number": "06032",
+      "food_name": "オクラ　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06033",
+      "food_name": "オクラ　果実　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "オリーブ油": [
+    {
+      "food_number": "14001",
+      "food_name": "（植物油脂類）　オリーブ油",
+      "is_canonical": true
+    }
+  ],
+  "オリーブ（グリーンオリーブ塩漬）": [
+    {
+      "food_number": "07037",
+      "food_name": "オリーブ　塩漬　グリーンオリーブ",
+      "is_canonical": true
+    }
+  ],
+  "オレンジピーマン": [
+    {
+      "food_number": "06393",
+      "food_name": "（ピーマン類）　オレンジピーマン　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06394",
+      "food_name": "（ピーマン類）　オレンジピーマン　果実　油いため",
+      "is_canonical": true
+    }
+  ],
+  "オートミール": [
+    {
+      "food_number": "01004",
+      "food_name": "えんばく　オートミール",
+      "is_canonical": true
+    }
+  ],
+  "カシス": [
+    {
+      "food_number": "07182",
+      "food_name": "（すぐり類）　カシス　冷凍",
+      "is_canonical": true
+    }
+  ],
+  "カゼイン": [
+    {
+      "food_number": "13048",
+      "food_name": "＜牛乳及び乳製品＞　（その他）　カゼイン",
+      "is_canonical": true
+    }
+  ],
+  "カッテージチーズ": [
+    {
+      "food_number": "13033",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　カテージ",
+      "is_canonical": true
+    }
+  ],
+  "カットわかめ": [
+    {
+      "food_number": "09044",
+      "food_name": "わかめ　カットわかめ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "09058",
+      "food_name": "わかめ　カットわかめ　水煮　（沸騰水で短時間加熱したもの）",
+      "is_canonical": false
+    },
+    {
+      "food_number": "09059",
+      "food_name": "わかめ　カットわかめ　水煮の汁",
+      "is_canonical": false
+    }
+  ],
+  "カマンベールチーズ": [
+    {
+      "food_number": "13034",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　カマンベール",
+      "is_canonical": true
+    }
+  ],
+  "カリフラワー": [
+    {
+      "food_number": "06054",
+      "food_name": "カリフラワー　花序　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06055",
+      "food_name": "カリフラワー　花序　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "キウイフルーツ": [
+    {
+      "food_number": "07054",
+      "food_name": "キウイフルーツ　緑肉種　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07168",
+      "food_name": "キウイフルーツ　黄肉種　生",
+      "is_canonical": false
+    }
+  ],
+  "キヌア（玄穀）": [
+    {
+      "food_number": "01167",
+      "food_name": "キヌア　玄穀",
+      "is_canonical": true
+    }
+  ],
+  "キャッサバでん粉": [
+    {
+      "food_number": "02028",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　キャッサバでん粉",
+      "is_canonical": true
+    }
+  ],
+  "キャベツ": [
+    {
+      "food_number": "06061",
+      "food_name": "（キャベツ類）　キャベツ　結球葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06062",
+      "food_name": "（キャベツ類）　キャベツ　結球葉　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06333",
+      "food_name": "（キャベツ類）　キャベツ　結球葉　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06403",
+      "food_name": "（キャベツ類）　キャベツ　結球葉　カット　常法洗浄",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06404",
+      "food_name": "（キャベツ類）　キャベツ　結球葉　カット　次亜塩素酸洗浄",
+      "is_canonical": false
+    }
+  ],
+  "キワノ": [
+    {
+      "food_number": "07055",
+      "food_name": "キワノ　生",
+      "is_canonical": true
+    }
+  ],
+  "キングクリップ": [
+    {
+      "food_number": "10114",
+      "food_name": "＜魚類＞　キングクリップ　生",
+      "is_canonical": true
+    }
+  ],
+  "キンサイ": [
+    {
+      "food_number": "06075",
+      "food_name": "キンサイ　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06076",
+      "food_name": "キンサイ　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "クレソン": [
+    {
+      "food_number": "06077",
+      "food_name": "クレソン　茎葉　生",
+      "is_canonical": true
+    }
+  ],
+  "グァバ": [
+    {
+      "food_number": "07057",
+      "food_name": "グァバ　赤肉種　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07169",
+      "food_name": "グァバ　白肉種　生",
+      "is_canonical": false
+    }
+  ],
+  "グリンピース": [
+    {
+      "food_number": "04014",
+      "food_name": "えんどう　グリンピース（揚げ豆）",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06023",
+      "food_name": "（えんどう類）　グリンピース　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06024",
+      "food_name": "（えんどう類）　グリンピース　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "グリンピース（冷凍）": [
+    {
+      "food_number": "06025",
+      "food_name": "（えんどう類）　グリンピース　冷凍",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06374",
+      "food_name": "（えんどう類）　グリンピース　冷凍　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06375",
+      "food_name": "（えんどう類）　グリンピース　冷凍　油いため",
+      "is_canonical": false
+    }
+  ],
+  "グリンピース（水煮缶詰）": [
+    {
+      "food_number": "06026",
+      "food_name": "（えんどう類）　グリンピース　水煮缶詰",
+      "is_canonical": true
+    }
+  ],
+  "グリーンボール": [
+    {
+      "food_number": "06063",
+      "food_name": "（キャベツ類）　グリーンボール　結球葉　生",
+      "is_canonical": true
+    }
+  ],
+  "グーズベリー": [
+    {
+      "food_number": "07060",
+      "food_name": "（すぐり類）　グーズベリー　生",
+      "is_canonical": true
+    }
+  ],
+  "ケール": [
+    {
+      "food_number": "06080",
+      "food_name": "ケール　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "ココナッツウォーター": [
+    {
+      "food_number": "07157",
+      "food_name": "ココナッツ　ココナッツウォーター",
+      "is_canonical": true
+    }
+  ],
+  "コスレタス": [
+    {
+      "food_number": "06316",
+      "food_name": "（レタス類）　コスレタス　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "コリアンダー": [
+    {
+      "food_number": "06385",
+      "food_name": "コリアンダー　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "コールラビ": [
+    {
+      "food_number": "06081",
+      "food_name": "コールラビ　球茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06082",
+      "food_name": "コールラビ　球茎　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "コーングリッツ": [
+    {
+      "food_number": "01133",
+      "food_name": "とうもろこし　コーングリッツ　黄色種",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01164",
+      "food_name": "とうもろこし　コーングリッツ　白色種",
+      "is_canonical": false
+    }
+  ],
+  "コーンフラワー": [
+    {
+      "food_number": "01134",
+      "food_name": "とうもろこし　コーンフラワー　黄色種",
+      "is_canonical": true
+    }
+  ],
+  "コーンミール": [
+    {
+      "food_number": "01132",
+      "food_name": "とうもろこし　コーンミール　黄色種",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01163",
+      "food_name": "とうもろこし　コーンミール　白色種",
+      "is_canonical": true
+    }
+  ],
+  "ゴーダチーズ": [
+    {
+      "food_number": "13036",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　ゴーダ",
+      "is_canonical": true
+    }
+  ],
+  "サケ節（削り節）": [
+    {
+      "food_number": "10447",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　サケ節　削り節",
+      "is_canonical": true
+    }
+  ],
+  "サゴでん粉": [
+    {
+      "food_number": "02032",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　サゴでん粉",
+      "is_canonical": true
+    }
+  ],
+  "サニーレタス": [
+    {
+      "food_number": "06315",
+      "food_name": "（レタス類）　サニーレタス　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "サフラワー油": [
+    {
+      "food_number": "14004",
+      "food_name": "（植物油脂類）　サフラワー油　ハイオレイック",
+      "is_canonical": true
+    },
+    {
+      "food_number": "14025",
+      "food_name": "（植物油脂類）　サフラワー油　ハイリノール",
+      "is_canonical": false
+    }
+  ],
+  "サラダな": [
+    {
+      "food_number": "06313",
+      "food_name": "（レタス類）　サラダな　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "サンチュ": [
+    {
+      "food_number": "06362",
+      "food_name": "（レタス類）　サンチュ　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "シルバー": [
+    {
+      "food_number": "10187",
+      "food_name": "＜魚類＞　シルバー　生",
+      "is_canonical": true
+    }
+  ],
+  "スイートコーン（未熟種子）": [
+    {
+      "food_number": "06175",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06176",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06339",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　電子レンジ調理",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06177",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　穂軸つき　冷凍",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06178",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　カーネル　冷凍",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06378",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　カーネル　冷凍　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06379",
+      "food_name": "（とうもろこし類）　スイートコーン　未熟種子　カーネル　冷凍　油いため",
+      "is_canonical": false
+    }
+  ],
+  "スイートコーン（缶詰）": [
+    {
+      "food_number": "06180",
+      "food_name": "（とうもろこし類）　スイートコーン　缶詰　ホールカーネルスタイル",
+      "is_canonical": true
+    }
+  ],
+  "スナップえんどう": [
+    {
+      "food_number": "06022",
+      "food_name": "（えんどう類）　スナップえんどう　若ざや　生",
+      "is_canonical": true
+    }
+  ],
+  "スモークタン": [
+    {
+      "food_number": "11108",
+      "food_name": "＜畜肉類＞　うし　［加工品］　スモークタン",
+      "is_canonical": true
+    }
+  ],
+  "スモークレバー": [
+    {
+      "food_number": "11197",
+      "food_name": "＜畜肉類＞　ぶた　［その他］　スモークレバー",
+      "is_canonical": true
+    }
+  ],
+  "ズッキーニ": [
+    {
+      "food_number": "06116",
+      "food_name": "ズッキーニ　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "セミノール": [
+    {
+      "food_number": "07085",
+      "food_name": "（かんきつ類）　セミノール　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "セレベス": [
+    {
+      "food_number": "02051",
+      "food_name": "＜いも類＞　（さといも類）　セレベス　球茎　水煮",
+      "is_canonical": true
+    }
+  ],
+  "セロリ": [
+    {
+      "food_number": "06119",
+      "food_name": "セロリ　葉柄　生",
+      "is_canonical": true
+    }
+  ],
+  "ゼラチン": [
+    {
+      "food_number": "11198",
+      "food_name": "＜畜肉類＞　ぶた　［その他］　ゼラチン",
+      "is_canonical": true
+    }
+  ],
+  "ソフト豆腐": [
+    {
+      "food_number": "04034",
+      "food_name": "だいず　［豆腐・油揚げ類］　ソフト豆腐",
+      "is_canonical": true
+    }
+  ],
+  "タアサイ": [
+    {
+      "food_number": "06126",
+      "food_name": "タアサイ　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06127",
+      "food_name": "タアサイ　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "タイセイヨウサケ": [
+    {
+      "food_number": "10443",
+      "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　ソテー",
+      "is_canonical": true
+    }
+  ],
+  "タイム（粉）": [
+    {
+      "food_number": "17071",
+      "food_name": "＜香辛料類＞　タイム　粉",
+      "is_canonical": true
+    }
+  ],
+  "タピオカパール": [
+    {
+      "food_number": "02038",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　タピオカパール　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02057",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　タピオカパール　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "チアシード": [
+    {
+      "food_number": "05046",
+      "food_name": "チアシード　乾",
+      "is_canonical": true
+    }
+  ],
+  "チェダーチーズ": [
+    {
+      "food_number": "13037",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　チェダー",
+      "is_canonical": true
+    }
+  ],
+  "チェリモヤ": [
+    {
+      "food_number": "07086",
+      "food_name": "チェリモヤ　生",
+      "is_canonical": true
+    }
+  ],
+  "チキンハンバーグ": [
+    {
+      "food_number": "18051",
+      "food_name": "洋風料理　ハンバーグステーキ類　チキンハンバーグ",
+      "is_canonical": true
+    }
+  ],
+  "チコリ": [
+    {
+      "food_number": "06159",
+      "food_name": "チコリ　若芽　生",
+      "is_canonical": true
+    }
+  ],
+  "チンゲンサイ": [
+    {
+      "food_number": "06160",
+      "food_name": "チンゲンサイ　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06161",
+      "food_name": "チンゲンサイ　葉　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06338",
+      "food_name": "チンゲンサイ　葉　油いため",
+      "is_canonical": false
+    }
+  ],
+  "チーズスプレッド": [
+    {
+      "food_number": "13041",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　チーズスプレッド",
+      "is_canonical": true
+    }
+  ],
+  "チーズホエーパウダー": [
+    {
+      "food_number": "13050",
+      "food_name": "＜牛乳及び乳製品＞　（その他）　チーズホエーパウダー",
+      "is_canonical": true
+    }
+  ],
+  "テンペ": [
+    {
+      "food_number": "04063",
+      "food_name": "だいず　［その他］　テンペ",
+      "is_canonical": true
+    }
+  ],
+  "トウミョウ": [
+    {
+      "food_number": "06019",
+      "food_name": "（えんどう類）　トウミョウ　茎葉　生",
+      "is_canonical": true
+    }
+  ],
+  "トウミョウ芽ばえ": [
+    {
+      "food_number": "06329",
+      "food_name": "（えんどう類）　トウミョウ　芽ばえ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06330",
+      "food_name": "（えんどう類）　トウミョウ　芽ばえ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06331",
+      "food_name": "（えんどう類）　トウミョウ　芽ばえ　油いため",
+      "is_canonical": false
+    }
+  ],
+  "トマトジュース": [
+    {
+      "food_number": "06185",
+      "food_name": "（トマト類）　加工品　トマトジュース　食塩添加",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06340",
+      "food_name": "（トマト類）　加工品　トマトジュース　食塩無添加",
+      "is_canonical": false
+    }
+  ],
+  "トマトピューレ": [
+    {
+      "food_number": "17034",
+      "food_name": "＜調味料類＞　（トマト加工品類）　トマトピューレー",
+      "is_canonical": true
+    }
+  ],
+  "トマトペースト": [
+    {
+      "food_number": "17035",
+      "food_name": "＜調味料類＞　（トマト加工品類）　トマトペースト",
+      "is_canonical": true
+    }
+  ],
+  "トマピー": [
+    {
+      "food_number": "06251",
+      "food_name": "（ピーマン類）　トマピー　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "トレビス": [
+    {
+      "food_number": "06187",
+      "food_name": "トレビス　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "ドライトマト": [
+    {
+      "food_number": "06370",
+      "food_name": "（トマト類）　ドライトマト",
+      "is_canonical": true
+    }
+  ],
+  "ドラゴンフルーツ": [
+    {
+      "food_number": "07111",
+      "food_name": "ドラゴンフルーツ　生",
+      "is_canonical": true
+    }
+  ],
+  "ドリアン": [
+    {
+      "food_number": "07087",
+      "food_name": "ドリアン　生",
+      "is_canonical": true
+    }
+  ],
+  "ナイルティラピア": [
+    {
+      "food_number": "10212",
+      "food_name": "＜魚類＞　ナイルティラピア　生",
+      "is_canonical": true
+    }
+  ],
+  "ナン": [
+    {
+      "food_number": "01037",
+      "food_name": "こむぎ　［パン類］　ナン",
+      "is_canonical": true
+    }
+  ],
+  "ニジマス": [
+    {
+      "food_number": "10146",
+      "food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10402",
+      "food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10147",
+      "food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "10148",
+      "food_name": "＜魚類＞　（さけ・ます類）　にじます　淡水養殖　皮つき　生",
+      "is_canonical": false
+    }
+  ],
+  "ネクタリン": [
+    {
+      "food_number": "07140",
+      "food_name": "（もも類）　ネクタリン　生",
+      "is_canonical": true
+    }
+  ],
+  "ネーブルオレンジ": [
+    {
+      "food_number": "07040",
+      "food_name": "（かんきつ類）　オレンジ　ネーブル　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "ハスカップ": [
+    {
+      "food_number": "07104",
+      "food_name": "ハスカップ　生",
+      "is_canonical": true
+    }
+  ],
+  "バジル": [
+    {
+      "food_number": "06238",
+      "food_name": "バジル　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "バジル（粉）": [
+    {
+      "food_number": "17077",
+      "food_name": "＜香辛料類＞　バジル　粉",
+      "is_canonical": true
+    }
+  ],
+  "バナナ": [
+    {
+      "food_number": "07107",
+      "food_name": "バナナ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07108",
+      "food_name": "バナナ　乾",
+      "is_canonical": false
+    }
+  ],
+  "バナメイえび": [
+    {
+      "food_number": "10415",
+      "food_name": "＜えび・かに類＞　（えび類）　バナメイえび　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "バレンシアオレンジ": [
+    {
+      "food_number": "07041",
+      "food_name": "（かんきつ類）　オレンジ　バレンシア　米国産　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "パインアップル": [
+    {
+      "food_number": "07097",
+      "food_name": "パインアップル　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07177",
+      "food_name": "パインアップル　焼き",
+      "is_canonical": false
+    }
+  ],
+  "パインアップルジュース": [
+    {
+      "food_number": "07099",
+      "food_name": "パインアップル　果実飲料　濃縮還元ジュース",
+      "is_canonical": true
+    }
+  ],
+  "パクチョイ": [
+    {
+      "food_number": "06237",
+      "food_name": "パクチョイ　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "パセリ": [
+    {
+      "food_number": "06239",
+      "food_name": "パセリ　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "パセリ（乾）": [
+    {
+      "food_number": "17078",
+      "food_name": "＜香辛料類＞　パセリ　乾",
+      "is_canonical": true
+    }
+  ],
+  "パパイア": [
+    {
+      "food_number": "07109",
+      "food_name": "パパイア　完熟　生",
+      "is_canonical": true
+    }
+  ],
+  "パルメザンチーズ": [
+    {
+      "food_number": "13038",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　パルメザン",
+      "is_canonical": true
+    }
+  ],
+  "パン粉": [
+    {
+      "food_number": "01077",
+      "food_name": "こむぎ　［その他］　パン粉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01078",
+      "food_name": "こむぎ　［その他］　パン粉　半生",
+      "is_canonical": false
+    }
+  ],
+  "パン酵母（乾燥）": [
+    {
+      "food_number": "17083",
+      "food_name": "＜その他＞　酵母　パン酵母　乾燥",
+      "is_canonical": true
+    }
+  ],
+  "パーム油": [
+    {
+      "food_number": "14009",
+      "food_name": "（植物油脂類）　パーム油",
+      "is_canonical": true
+    }
+  ],
+  "ビーツ（根）": [
+    {
+      "food_number": "06243",
+      "food_name": "ビーツ　根　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06244",
+      "food_name": "ビーツ　根　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ビーフン": [
+    {
+      "food_number": "01115",
+      "food_name": "こめ　［うるち米製品］　ビーフン",
+      "is_canonical": true
+    }
+  ],
+  "フランスパン": [
+    {
+      "food_number": "01031",
+      "food_name": "こむぎ　［パン類］　フランスパン",
+      "is_canonical": true
+    }
+  ],
+  "ブラックタイガー": [
+    {
+      "food_number": "10329",
+      "food_name": "＜えび・かに類＞　（えび類）　ブラックタイガー　養殖　生",
+      "is_canonical": true
+    }
+  ],
+  "ブラックマッペもやし": [
+    {
+      "food_number": "06289",
+      "food_name": "（もやし類）　ブラックマッペもやし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06290",
+      "food_name": "（もやし類）　ブラックマッペもやし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06398",
+      "food_name": "（もやし類）　ブラックマッペもやし　油いため",
+      "is_canonical": false
+    }
+  ],
+  "ブルーベリー": [
+    {
+      "food_number": "07124",
+      "food_name": "ブルーベリー　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07172",
+      "food_name": "ブルーベリー　乾",
+      "is_canonical": true
+    }
+  ],
+  "ブロッコリースプラウト": [
+    {
+      "food_number": "06354",
+      "food_name": "ブロッコリー　芽ばえ　生",
+      "is_canonical": true
+    }
+  ],
+  "ブロッコリー（花序）": [
+    {
+      "food_number": "06263",
+      "food_name": "ブロッコリー　花序　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06264",
+      "food_name": "ブロッコリー　花序　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06395",
+      "food_name": "ブロッコリー　花序　電子レンジ調理",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06396",
+      "food_name": "ブロッコリー　花序　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06397",
+      "food_name": "ブロッコリー　花序　油いため",
+      "is_canonical": false
+    }
+  ],
+  "プロセスチーズ": [
+    {
+      "food_number": "13040",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　プロセスチーズ",
+      "is_canonical": true
+    }
+  ],
+  "ベニザケ": [
+    {
+      "food_number": "10149",
+      "food_name": "＜魚類＞　（さけ・ます類）　べにざけ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10150",
+      "food_name": "＜魚類＞　（さけ・ます類）　べにざけ　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ホキ": [
+    {
+      "food_number": "10245",
+      "food_name": "＜魚類＞　ホキ　生",
+      "is_canonical": true
+    }
+  ],
+  "ホワイトサポテ": [
+    {
+      "food_number": "07128",
+      "food_name": "ホワイトサポテ　生",
+      "is_canonical": true
+    }
+  ],
+  "ホールトマト（食塩無添加）": [
+    {
+      "food_number": "06184",
+      "food_name": "（トマト類）　加工品　ホール　食塩無添加",
+      "is_canonical": true
+    }
+  ],
+  "ポップコーン": [
+    {
+      "food_number": "01136",
+      "food_name": "とうもろこし　ポップコーン",
+      "is_canonical": true
+    }
+  ],
+  "マカロニ・スパゲッティ": [
+    {
+      "food_number": "01063",
+      "food_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　乾",
+      "is_canonical": true
+    }
+  ],
+  "マカロニ・スパゲッティ（ゆで）": [
+    {
+      "food_number": "01064",
+      "food_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "マサバ": [
+    {
+      "food_number": "10154",
+      "food_name": "＜魚類＞　（さば類）　まさば　生",
+      "is_canonical": true
+    }
+  ],
+  "マジェランあいなめ": [
+    {
+      "food_number": "10265",
+      "food_name": "＜魚類＞　マジェランあいなめ　生",
+      "is_canonical": true
+    }
+  ],
+  "マスノスケ": [
+    {
+      "food_number": "10152",
+      "food_name": "＜魚類＞　（さけ・ます類）　ますのすけ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10153",
+      "food_name": "＜魚類＞　（さけ・ます類）　ますのすけ　焼き",
+      "is_canonical": false
+    }
+  ],
+  "マッシュルーム": [
+    {
+      "food_number": "08031",
+      "food_name": "マッシュルーム　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08032",
+      "food_name": "マッシュルーム　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08052",
+      "food_name": "マッシュルーム　油いため",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08033",
+      "food_name": "マッシュルーム　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "マッシュルーム（ブラウン種）": [
+    {
+      "food_number": "08059",
+      "food_name": "マッシュルーム　ブラウン種　生",
+      "is_canonical": true
+    }
+  ],
+  "マトンもも（脂身つき）": [
+    {
+      "food_number": "11200",
+      "food_name": "＜畜肉類＞　めんよう　［マトン］　もも　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "マトンロース（皮下脂肪なし）": [
+    {
+      "food_number": "11245",
+      "food_name": "＜畜肉類＞　めんよう　［マトン］　ロース　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "マトンロース（脂身つき）": [
+    {
+      "food_number": "11199",
+      "food_name": "＜畜肉類＞　めんよう　［マトン］　ロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11281",
+      "food_name": "＜畜肉類＞　めんよう　［マトン］　ロース　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "マルメロ": [
+    {
+      "food_number": "07131",
+      "food_name": "マルメロ　生",
+      "is_canonical": true
+    }
+  ],
+  "マンゴスチン": [
+    {
+      "food_number": "07133",
+      "food_name": "マンゴスチン　生",
+      "is_canonical": true
+    }
+  ],
+  "マンゴー": [
+    {
+      "food_number": "07132",
+      "food_name": "マンゴー　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "07179",
+      "food_name": "マンゴー　ドライマンゴー",
+      "is_canonical": false
+    }
+  ],
+  "ミックスジュース（トマト入り）": [
+    {
+      "food_number": "06341",
+      "food_name": "（トマト類）　加工品　ミックスジュース　食塩無添加",
+      "is_canonical": true
+    }
+  ],
+  "ミックスベジタブル": [
+    {
+      "food_number": "06382",
+      "food_name": "（その他）　ミックスベジタブル　冷凍",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06383",
+      "food_name": "（その他）　ミックスベジタブル　冷凍　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06384",
+      "food_name": "（その他）　ミックスベジタブル　冷凍　油いため",
+      "is_canonical": false
+    }
+  ],
+  "ミニキャロット": [
+    {
+      "food_number": "06222",
+      "food_name": "（にんじん類）　ミニキャロット　根　生",
+      "is_canonical": true
+    }
+  ],
+  "メルルーサ": [
+    {
+      "food_number": "10272",
+      "food_name": "＜魚類＞　メルルーサ　生",
+      "is_canonical": true
+    }
+  ],
+  "モッツァレラチーズ": [
+    {
+      "food_number": "13056",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　モッツァレラ",
+      "is_canonical": true
+    }
+  ],
+  "モロヘイヤ": [
+    {
+      "food_number": "06293",
+      "food_name": "モロヘイヤ　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06294",
+      "food_name": "モロヘイヤ　茎葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ヤングコーン": [
+    {
+      "food_number": "06181",
+      "food_name": "（とうもろこし類）　ヤングコーン　幼雌穂　生",
+      "is_canonical": true
+    }
+  ],
+  "ヤーコン": [
+    {
+      "food_number": "02054",
+      "food_name": "＜いも類＞　ヤーコン　塊根　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02055",
+      "food_name": "＜いも類＞　ヤーコン　塊根　水煮",
+      "is_canonical": false
+    }
+  ],
+  "ヨーグルト": [
+    {
+      "food_number": "13025",
+      "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　全脂無糖",
+      "is_canonical": true
+    },
+    {
+      "food_number": "13053",
+      "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　低脂肪無糖",
+      "is_canonical": false
+    },
+    {
+      "food_number": "13054",
+      "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　無脂肪無糖",
+      "is_canonical": false
+    },
+    {
+      "food_number": "13026",
+      "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　ヨーグルト　脱脂加糖",
+      "is_canonical": false
+    }
+  ],
+  "ライスペーパー": [
+    {
+      "food_number": "01169",
+      "food_name": "こめ　［うるち米製品］　ライスペーパー",
+      "is_canonical": true
+    }
+  ],
+  "ライ麦全粒粉": [
+    {
+      "food_number": "01142",
+      "food_name": "ライむぎ　全粒粉",
+      "is_canonical": true
+    }
+  ],
+  "ラズベリー": [
+    {
+      "food_number": "07146",
+      "food_name": "ラズベリー　生",
+      "is_canonical": true
+    }
+  ],
+  "ラムかた（脂身つき）": [
+    {
+      "food_number": "11201",
+      "food_name": "＜畜肉類＞　めんよう　［ラム］　かた　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "ラムもも肉": [
+    {
+      "food_number": "11203",
+      "food_name": "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11283",
+      "food_name": "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "ラムロース肉": [
+    {
+      "food_number": "11202",
+      "food_name": "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11282",
+      "food_name": "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11246",
+      "food_name": "＜畜肉類＞　めんよう　［ラム］　ロース　皮下脂肪なし　生",
+      "is_canonical": false
+    }
+  ],
+  "ラード": [
+    {
+      "food_number": "14016",
+      "food_name": "（動物油脂類）　ラード",
+      "is_canonical": true
+    }
+  ],
+  "リコッタチーズ": [
+    {
+      "food_number": "13058",
+      "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　リコッタ",
+      "is_canonical": true
+    }
+  ],
+  "リーフレタス": [
+    {
+      "food_number": "06314",
+      "food_name": "（レタス類）　リーフレタス　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "ルッコラ": [
+    {
+      "food_number": "06319",
+      "food_name": "ルッコラ　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "レタス": [
+    {
+      "food_number": "06312",
+      "food_name": "（レタス類）　レタス　土耕栽培　結球葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06361",
+      "food_name": "（レタス類）　レタス　水耕栽培　結球葉　生",
+      "is_canonical": false
+    }
+  ],
+  "レッドキャベツ": [
+    {
+      "food_number": "06064",
+      "food_name": "（キャベツ類）　レッドキャベツ　結球葉　生",
+      "is_canonical": true
+    }
+  ],
+  "レンズまめ": [
+    {
+      "food_number": "04073",
+      "food_name": "レンズまめ　全粒　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04094",
+      "food_name": "レンズまめ　全粒　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "ローストビーフ": [
+    {
+      "food_number": "11104",
+      "food_name": "＜畜肉類＞　うし　［加工品］　ローストビーフ",
+      "is_canonical": true
+    }
+  ],
+  "七分つき押麦": [
+    {
+      "food_number": "01005",
+      "food_name": "おおむぎ　七分つき押麦",
+      "is_canonical": true
+    }
+  ],
+  "七分つき米": [
+    {
+      "food_number": "01082",
+      "food_name": "こめ　［水稲穀粒］　七分つき米",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01087",
+      "food_name": "こめ　［水稲めし］　七分つき米",
+      "is_canonical": true
+    }
+  ],
+  "七分つき米（穀粒）": [
+    {
+      "food_number": "01104",
+      "food_name": "こめ　［陸稲穀粒］　七分つき米",
+      "is_canonical": false
+    }
+  ],
+  "万願寺とうがらし": [
+    {
+      "food_number": "06406",
+      "food_name": "（ししとう類）　万願寺とうがらし　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "上新粉": [
+    {
+      "food_number": "01114",
+      "food_name": "こめ　［うるち米製品］　上新粉",
+      "is_canonical": true
+    }
+  ],
+  "中力粉": [
+    {
+      "food_number": "01018",
+      "food_name": "こむぎ　［小麦粉］　中力粉　1等",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01019",
+      "food_name": "こむぎ　［小麦粉］　中力粉　2等",
+      "is_canonical": false
+    }
+  ],
+  "中国ぐり": [
+    {
+      "food_number": "05013",
+      "food_name": "（くり類）　中国ぐり　甘ぐり",
+      "is_canonical": true
+    }
+  ],
+  "中国なし": [
+    {
+      "food_number": "07090",
+      "food_name": "（なし類）　中国なし　生",
+      "is_canonical": true
+    }
+  ],
+  "中華まんじゅう（あんまん）": [
+    {
+      "food_number": "15034",
+      "food_name": "＜和生菓子・和半生菓子類＞　まんじゅう　中華まんじゅう　あんまん　こしあん入り",
+      "is_canonical": true
+    }
+  ],
+  "中華めん": [
+    {
+      "food_number": "01047",
+      "food_name": "こむぎ　［中華めん類］　中華めん　生",
+      "is_canonical": true
+    }
+  ],
+  "乳児用調製粉乳": [
+    {
+      "food_number": "13011",
+      "food_name": "＜牛乳及び乳製品＞　（粉乳類）　乳児用調製粉乳",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かたロース皮下脂肪なし": [
+    {
+      "food_number": "11035",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かたロース　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かたロース脂身つき": [
+    {
+      "food_number": "11034",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かたロース　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かたロース赤肉": [
+    {
+      "food_number": "11036",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かたロース　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かた肉（皮下脂肪なし）": [
+    {
+      "food_number": "11031",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かた肉（脂身つき）": [
+    {
+      "food_number": "11030",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11309",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11310",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "乳用肥育牛かた肉（赤肉）": [
+    {
+      "food_number": "11032",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かた脂身": [
+    {
+      "food_number": "11033",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛かた赤肉": [
+    {
+      "food_number": "11301",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　ゆで",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11302",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　焼き",
+      "is_canonical": false
+    }
+  ],
+  "乳用肥育牛ばら肉": [
+    {
+      "food_number": "11046",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ばら　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11252",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ばら　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "乳用肥育牛もも肉": [
+    {
+      "food_number": "11047",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11048",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11050",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "乳用肥育牛サーロイン肉": [
+    {
+      "food_number": "11043",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　サーロイン　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11044",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　サーロイン　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11045",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　サーロイン　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "乳用肥育牛リブロース皮下脂肪なし": [
+    {
+      "food_number": "11040",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "乳用肥育牛リブロース肉": [
+    {
+      "food_number": "11041",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　赤肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11042",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "乳用肥育牛リブロース脂身つき": [
+    {
+      "food_number": "11037",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11039",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11038",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　リブロース　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "乳酸菌飲料": [
+    {
+      "food_number": "13029",
+      "food_name": "＜牛乳及び乳製品＞　（発酵乳・乳酸菌飲料）　乳酸菌飲料　殺菌乳製品",
+      "is_canonical": true
+    }
+  ],
+  "乾しいたけ": [
+    {
+      "food_number": "08013",
+      "food_name": "しいたけ　乾しいたけ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08014",
+      "food_name": "しいたけ　乾しいたけ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08053",
+      "food_name": "しいたけ　乾しいたけ　甘煮",
+      "is_canonical": false
+    }
+  ],
+  "乾パン": [
+    {
+      "food_number": "01030",
+      "food_name": "こむぎ　［パン類］　乾パン",
+      "is_canonical": true
+    }
+  ],
+  "乾燥わかめ（板わかめ）": [
+    {
+      "food_number": "09042",
+      "food_name": "わかめ　乾燥わかめ　板わかめ",
+      "is_canonical": true
+    }
+  ],
+  "乾燥わかめ（灰干し）": [
+    {
+      "food_number": "09043",
+      "food_name": "わかめ　乾燥わかめ　灰干し　水戻し",
+      "is_canonical": true
+    }
+  ],
+  "乾燥わかめ（素干し）": [
+    {
+      "food_number": "09040",
+      "food_name": "わかめ　乾燥わかめ　素干し",
+      "is_canonical": true
+    },
+    {
+      "food_number": "09041",
+      "food_name": "わかめ　乾燥わかめ　素干し　水戻し",
+      "is_canonical": false
+    },
+    {
+      "food_number": "09060",
+      "food_name": "わかめ　乾燥わかめ　素干し　水戻し　水煮",
+      "is_canonical": false
+    }
+  ],
+  "乾燥全卵": [
+    {
+      "food_number": "12009",
+      "food_name": "鶏卵　全卵　乾燥全卵",
+      "is_canonical": true
+    }
+  ],
+  "五分がゆ（七分つき米）": [
+    {
+      "food_number": "01096",
+      "food_name": "こめ　［水稲五分かゆ］　七分つき米",
+      "is_canonical": true
+    }
+  ],
+  "五分がゆ（半つき米）": [
+    {
+      "food_number": "01095",
+      "food_name": "こめ　［水稲五分かゆ］　半つき米",
+      "is_canonical": true
+    }
+  ],
+  "五分がゆ（玄米）": [
+    {
+      "food_number": "01094",
+      "food_name": "こめ　［水稲五分かゆ］　玄米",
+      "is_canonical": true
+    }
+  ],
+  "五分がゆ（精白米）": [
+    {
+      "food_number": "01097",
+      "food_name": "こめ　［水稲五分かゆ］　精白米",
+      "is_canonical": true
+    }
+  ],
+  "五斗納豆": [
+    {
+      "food_number": "04048",
+      "food_name": "だいず　［納豆類］　五斗納豆",
+      "is_canonical": true
+    }
+  ],
+  "交雑牛もも肉": [
+    {
+      "food_number": "11264",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11263",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11265",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　赤肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11266",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "交雑牛ヒレ肉": [
+    {
+      "food_number": "11267",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　ヒレ　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "充てん豆腐": [
+    {
+      "food_number": "04035",
+      "food_name": "だいず　［豆腐・油揚げ類］　充てん豆腐",
+      "is_canonical": true
+    }
+  ],
+  "全がゆ（七分つき米）": [
+    {
+      "food_number": "01092",
+      "food_name": "こめ　［水稲全かゆ］　七分つき米",
+      "is_canonical": true
+    }
+  ],
+  "全がゆ（半つき米）": [
+    {
+      "food_number": "01091",
+      "food_name": "こめ　［水稲全かゆ］　半つき米",
+      "is_canonical": true
+    }
+  ],
+  "全がゆ（玄米）": [
+    {
+      "food_number": "01090",
+      "food_name": "こめ　［水稲全かゆ］　玄米",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01214",
+      "food_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　玄米",
+      "is_canonical": true
+    }
+  ],
+  "全がゆ（精白米）": [
+    {
+      "food_number": "01093",
+      "food_name": "こめ　［水稲全かゆ］　精白米",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01215",
+      "food_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　精白米",
+      "is_canonical": true
+    }
+  ],
+  "全粉乳": [
+    {
+      "food_number": "13009",
+      "food_name": "＜牛乳及び乳製品＞　（粉乳類）　全粉乳",
+      "is_canonical": true
+    }
+  ],
+  "冷めん": [
+    {
+      "food_number": "01150",
+      "food_name": "こむぎ　［その他］　冷めん　生",
+      "is_canonical": true
+    }
+  ],
+  "凍みこんにゃく": [
+    {
+      "food_number": "02044",
+      "food_name": "＜いも類＞　こんにゃく　凍みこんにゃく　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "凍り豆腐": [
+    {
+      "food_number": "04042",
+      "food_name": "だいず　［豆腐・油揚げ類］　凍り豆腐　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04087",
+      "food_name": "だいず　［豆腐・油揚げ類］　凍り豆腐　水煮",
+      "is_canonical": false
+    }
+  ],
+  "分離大豆たんぱく": [
+    {
+      "food_number": "04057",
+      "food_name": "だいず　［その他］　大豆たんぱく　分離大豆たんぱく　塩分無調整タイプ",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04090",
+      "food_name": "だいず　［その他］　大豆たんぱく　分離大豆たんぱく　塩分調整タイプ",
+      "is_canonical": false
+    }
+  ],
+  "切りみつば（葉）": [
+    {
+      "food_number": "06274",
+      "food_name": "（みつば類）　切りみつば　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06275",
+      "food_name": "（みつば類）　切りみつば　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "切干しだいこん": [
+    {
+      "food_number": "06136",
+      "food_name": "（だいこん類）　切干しだいこん　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06334",
+      "food_name": "（だいこん類）　切干しだいこん　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "刻み昆布": [
+    {
+      "food_number": "09020",
+      "food_name": "（こんぶ類）　刻み昆布",
+      "is_canonical": true
+    }
+  ],
+  "削り昆布": [
+    {
+      "food_number": "09021",
+      "food_name": "（こんぶ類）　削り昆布",
+      "is_canonical": true
+    }
+  ],
+  "削り節": [
+    {
+      "food_number": "10092",
+      "food_name": "＜魚類＞　（かつお類）　加工品　削り節",
+      "is_canonical": true
+    }
+  ],
+  "加糖全卵": [
+    {
+      "food_number": "12008",
+      "food_name": "鶏卵　全卵　加糖全卵",
+      "is_canonical": true
+    }
+  ],
+  "半つき米": [
+    {
+      "food_number": "01081",
+      "food_name": "こめ　［水稲穀粒］　半つき米",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01086",
+      "food_name": "こめ　［水稲めし］　半つき米",
+      "is_canonical": true
+    }
+  ],
+  "半つき米ごはん": [
+    {
+      "food_number": "01107",
+      "food_name": "こめ　［陸稲めし］　半つき米",
+      "is_canonical": true
+    }
+  ],
+  "半つき米（穀粒）": [
+    {
+      "food_number": "01103",
+      "food_name": "こめ　［陸稲穀粒］　半つき米",
+      "is_canonical": false
+    }
+  ],
+  "即席中華めん（非油揚げ）": [
+    {
+      "food_number": "01190",
+      "food_name": "こむぎ　［即席めん類］　即席中華めん　非油揚げ　ゆで　（添付調味料等を含まないもの）",
+      "is_canonical": true
+    }
+  ],
+  "卵白": [
+    {
+      "food_number": "12015",
+      "food_name": "鶏卵　卵白　ゆで",
+      "is_canonical": true
+    },
+    {
+      "food_number": "12016",
+      "food_name": "鶏卵　卵白　乾燥卵白",
+      "is_canonical": false
+    }
+  ],
+  "卵黄": [
+    {
+      "food_number": "12010",
+      "food_name": "鶏卵　卵黄　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "12011",
+      "food_name": "鶏卵　卵黄　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12012",
+      "food_name": "鶏卵　卵黄　加糖卵黄",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12013",
+      "food_name": "鶏卵　卵黄　乾燥卵黄",
+      "is_canonical": false
+    }
+  ],
+  "厚焼きたまご": [
+    {
+      "food_number": "12018",
+      "food_name": "鶏卵　たまご焼　厚焼きたまご",
+      "is_canonical": true
+    }
+  ],
+  "味付けすいかの種": [
+    {
+      "food_number": "05021",
+      "food_name": "すいか　いり　味付け",
+      "is_canonical": true
+    }
+  ],
+  "味付けのり": [
+    {
+      "food_number": "09005",
+      "food_name": "あまのり　味付けのり",
+      "is_canonical": true
+    }
+  ],
+  "和牛かたロース肉": [
+    {
+      "food_number": "11008",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11009",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11010",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "和牛かた肉": [
+    {
+      "food_number": "11004",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　かた　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11005",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　かた　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11006",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　かた　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "和牛そともも肉": [
+    {
+      "food_number": "11023",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11024",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11025",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "和牛ばら肉": [
+    {
+      "food_number": "11018",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　ばら　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "和牛もも肉": [
+    {
+      "food_number": "11019",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11020",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11251",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11250",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11021",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11022",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "和牛サーロイン": [
+    {
+      "food_number": "11017",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　サーロイン　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "和牛サーロイン肉": [
+    {
+      "food_number": "11015",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　サーロイン　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11016",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　サーロイン　皮下脂肪なし　生",
+      "is_canonical": false
+    }
+  ],
+  "和牛ヒレ肉": [
+    {
+      "food_number": "11029",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　ヒレ　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "和牛ランプ肉": [
+    {
+      "food_number": "11026",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　ランプ　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11027",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　ランプ　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11028",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　ランプ　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "和牛リブロース肉": [
+    {
+      "food_number": "11011",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11249",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11248",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11012",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　リブロース　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11013",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　リブロース　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11014",
+      "food_name": "＜畜肉類＞　うし　［和牛肉］　リブロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "和種なばな": [
+    {
+      "food_number": "06201",
+      "food_name": "（なばな類）　和種なばな　花らい・茎　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06202",
+      "food_name": "（なばな類）　和種なばな　花らい・茎　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "堀川ごぼう": [
+    {
+      "food_number": "06405",
+      "food_name": "（ごぼう類）　堀川ごぼう　根　生",
+      "is_canonical": true
+    }
+  ],
+  "塩さば": [
+    {
+      "food_number": "10161",
+      "food_name": "＜魚類＞　（さば類）　加工品　塩さば",
+      "is_canonical": true
+    }
+  ],
+  "塩ざけ": [
+    {
+      "food_number": "10139",
+      "food_name": "＜魚類＞　（さけ・ます類）　しろさけ　塩ざけ",
+      "is_canonical": true
+    }
+  ],
+  "塩納豆": [
+    {
+      "food_number": "04114",
+      "food_name": "だいず　［納豆類］　塩納豆",
+      "is_canonical": true
+    }
+  ],
+  "大正えび": [
+    {
+      "food_number": "10327",
+      "food_name": "＜えび・かに類＞　（えび類）　大正えび　生",
+      "is_canonical": true
+    }
+  ],
+  "大豆はいが": [
+    {
+      "food_number": "04083",
+      "food_name": "だいず　［全粒・全粒製品］　大豆はいが",
+      "is_canonical": true
+    }
+  ],
+  "大豆油": [
+    {
+      "food_number": "14005",
+      "food_name": "（植物油脂類）　大豆油",
+      "is_canonical": true
+    }
+  ],
+  "大阪しろな（葉）": [
+    {
+      "food_number": "06027",
+      "food_name": "おおさかしろな　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06028",
+      "food_name": "おおさかしろな　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "大麦めん": [
+    {
+      "food_number": "01008",
+      "food_name": "おおむぎ　大麦めん　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01009",
+      "food_name": "おおむぎ　大麦めん　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "子持ちがれい": [
+    {
+      "food_number": "10104",
+      "food_name": "＜魚類＞　（かれい類）　子持ちがれい　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10105",
+      "food_name": "＜魚類＞　（かれい類）　子持ちがれい　水煮",
+      "is_canonical": false
+    }
+  ],
+  "子牛ばら肉": [
+    {
+      "food_number": "11087",
+      "food_name": "＜畜肉類＞　うし　［子牛肉］　ばら　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "子牛もも肉": [
+    {
+      "food_number": "11088",
+      "food_name": "＜畜肉類＞　うし　［子牛肉］　もも　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "子牛リブロース肉": [
+    {
+      "food_number": "11086",
+      "food_name": "＜畜肉類＞　うし　［子牛肉］　リブロース　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "寒天": [
+    {
+      "food_number": "09028",
+      "food_name": "てんぐさ　寒天",
+      "is_canonical": true
+    }
+  ],
+  "寺納豆": [
+    {
+      "food_number": "04049",
+      "food_name": "だいず　［納豆類］　寺納豆",
+      "is_canonical": true
+    }
+  ],
+  "小麦たんぱく（粉末状）": [
+    {
+      "food_number": "01071",
+      "food_name": "こむぎ　［その他］　小麦たんぱく　粉末状",
+      "is_canonical": true
+    }
+  ],
+  "小麦でん粉": [
+    {
+      "food_number": "02031",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　小麦でん粉",
+      "is_canonical": true
+    }
+  ],
+  "小麦（玄穀）": [
+    {
+      "food_number": "01012",
+      "food_name": "こむぎ　［玄穀］　国産　普通",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01013",
+      "food_name": "こむぎ　［玄穀］　輸入　軟質",
+      "is_canonical": false
+    },
+    {
+      "food_number": "01014",
+      "food_name": "こむぎ　［玄穀］　輸入　硬質",
+      "is_canonical": false
+    }
+  ],
+  "島にんじん": [
+    {
+      "food_number": "06409",
+      "food_name": "（にんじん類）　島にんじん　根　皮なし　生",
+      "is_canonical": true
+    }
+  ],
+  "干しうどん": [
+    {
+      "food_number": "01041",
+      "food_name": "こむぎ　［うどん・そうめん類］　干しうどん　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01042",
+      "food_name": "こむぎ　［うどん・そうめん類］　干しうどん　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "干しえび": [
+    {
+      "food_number": "10330",
+      "food_name": "＜えび・かに類＞　（えび類）　加工品　干しえび",
+      "is_canonical": true
+    }
+  ],
+  "干しかれい": [
+    {
+      "food_number": "10106",
+      "food_name": "＜魚類＞　（かれい類）　干しかれい",
+      "is_canonical": true
+    }
+  ],
+  "干しがき": [
+    {
+      "food_number": "07051",
+      "food_name": "かき　干しがき",
+      "is_canonical": true
+    }
+  ],
+  "干しそば": [
+    {
+      "food_number": "01129",
+      "food_name": "そば　干しそば　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01130",
+      "food_name": "そば　干しそば　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "干しやつめうなぎ": [
+    {
+      "food_number": "10274",
+      "food_name": "＜魚類＞　やつめうなぎ　干しやつめ",
+      "is_canonical": true
+    }
+  ],
+  "干し中華めん": [
+    {
+      "food_number": "01050",
+      "food_name": "こむぎ　［中華めん類］　干し中華めん　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01051",
+      "food_name": "こむぎ　［中華めん類］　干し中華めん　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "干し納豆": [
+    {
+      "food_number": "04115",
+      "food_name": "だいず　［納豆類］　干し納豆",
+      "is_canonical": true
+    }
+  ],
+  "強力粉": [
+    {
+      "food_number": "01020",
+      "food_name": "こむぎ　［小麦粉］　強力粉　1等",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01021",
+      "food_name": "こむぎ　［小麦粉］　強力粉　2等",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01023",
+      "food_name": "こむぎ　［小麦粉］　強力粉　全粒粉",
+      "is_canonical": false
+    }
+  ],
+  "手延そうめん・手延ひやむぎ": [
+    {
+      "food_number": "01045",
+      "food_name": "こむぎ　［うどん・そうめん類］　手延そうめん・手延ひやむぎ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01046",
+      "food_name": "こむぎ　［うどん・そうめん類］　手延そうめん・手延ひやむぎ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "押麦": [
+    {
+      "food_number": "01006",
+      "food_name": "おおむぎ　押麦　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01170",
+      "food_name": "おおむぎ　押麦　めし",
+      "is_canonical": false
+    }
+  ],
+  "挽きわり納豆": [
+    {
+      "food_number": "04047",
+      "food_name": "だいず　［納豆類］　挽きわり納豆",
+      "is_canonical": true
+    }
+  ],
+  "新しょうが": [
+    {
+      "food_number": "06386",
+      "food_name": "（しょうが類）　新しょうが　根茎　生",
+      "is_canonical": true
+    }
+  ],
+  "日本かぼちゃ": [
+    {
+      "food_number": "06046",
+      "food_name": "（かぼちゃ類）　日本かぼちゃ　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06047",
+      "food_name": "（かぼちゃ類）　日本かぼちゃ　果実　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "日本ぐり": [
+    {
+      "food_number": "05010",
+      "food_name": "（くり類）　日本ぐり　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "05011",
+      "food_name": "（くり類）　日本ぐり　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "日本なし": [
+    {
+      "food_number": "07088",
+      "food_name": "（なし類）　日本なし　生",
+      "is_canonical": true
+    }
+  ],
+  "昆布だし": [
+    {
+      "food_number": "17020",
+      "food_name": "＜調味料類＞　（だし類）　昆布だし　水出し",
+      "is_canonical": true
+    },
+    {
+      "food_number": "17132",
+      "food_name": "＜調味料類＞　（だし類）　昆布だし　煮出し",
+      "is_canonical": false
+    }
+  ],
+  "昆布茶": [
+    {
+      "food_number": "16051",
+      "food_name": "＜その他＞　昆布茶",
+      "is_canonical": true
+    }
+  ],
+  "春巻きの皮": [
+    {
+      "food_number": "01179",
+      "food_name": "こむぎ　［その他］　春巻きの皮　生",
+      "is_canonical": true
+    }
+  ],
+  "普通はるさめ": [
+    {
+      "food_number": "02040",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　普通はるさめ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02062",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　普通はるさめ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "木綿豆腐": [
+    {
+      "food_number": "04032",
+      "food_name": "だいず　［豆腐・油揚げ類］　木綿豆腐",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04097",
+      "food_name": "だいず　［豆腐・油揚げ類］　木綿豆腐　（凝固剤：塩化マグネシウム）",
+      "is_canonical": false
+    },
+    {
+      "food_number": "04098",
+      "food_name": "だいず　［豆腐・油揚げ類］　木綿豆腐　（凝固剤：硫酸カルシウム）",
+      "is_canonical": false
+    }
+  ],
+  "板こんにゃく": [
+    {
+      "food_number": "02003",
+      "food_name": "＜いも類＞　こんにゃく　板こんにゃく　精粉こんにゃく",
+      "is_canonical": true
+    }
+  ],
+  "根みつば（葉）": [
+    {
+      "food_number": "06276",
+      "food_name": "（みつば類）　根みつば　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06277",
+      "food_name": "（みつば類）　根みつば　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "毛がに": [
+    {
+      "food_number": "10333",
+      "food_name": "＜えび・かに類＞　（かに類）　毛がに　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "10334",
+      "food_name": "＜えび・かに類＞　（かに類）　毛がに　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "水煮大豆（黄大豆）": [
+    {
+      "food_number": "04028",
+      "food_name": "だいず　［全粒・全粒製品］　水煮缶詰　黄大豆",
+      "is_canonical": true
+    }
+  ],
+  "沖縄豆腐": [
+    {
+      "food_number": "04036",
+      "food_name": "だいず　［豆腐・油揚げ類］　沖縄豆腐",
+      "is_canonical": true
+    }
+  ],
+  "油揚げ": [
+    {
+      "food_number": "04040",
+      "food_name": "だいず　［豆腐・油揚げ類］　油揚げ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04084",
+      "food_name": "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "04086",
+      "food_name": "だいず　［豆腐・油揚げ類］　油揚げ　油抜き　ゆで",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04095",
+      "food_name": "だいず　［豆腐・油揚げ類］　油揚げ　甘煮",
+      "is_canonical": false
+    }
+  ],
+  "洋種なばな": [
+    {
+      "food_number": "06203",
+      "food_name": "（なばな類）　洋種なばな　茎葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06204",
+      "food_name": "（なばな類）　洋種なばな　茎葉　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "減塩みそ": [
+    {
+      "food_number": "17119",
+      "food_name": "＜調味料類＞　（みそ類）　減塩みそ",
+      "is_canonical": true
+    }
+  ],
+  "温室メロン": [
+    {
+      "food_number": "07134",
+      "food_name": "メロン　温室メロン　生",
+      "is_canonical": true
+    }
+  ],
+  "湯葉": [
+    {
+      "food_number": "04059",
+      "food_name": "だいず　［その他］　湯葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04060",
+      "food_name": "だいず　［その他］　湯葉　干し　乾",
+      "is_canonical": false
+    },
+    {
+      "food_number": "04091",
+      "food_name": "だいず　［その他］　湯葉　干し　湯戻し",
+      "is_canonical": false
+    }
+  ],
+  "湯通し塩蔵わかめ（塩抜き）": [
+    {
+      "food_number": "09045",
+      "food_name": "わかめ　湯通し塩蔵わかめ　塩抜き　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "09057",
+      "food_name": "わかめ　湯通し塩蔵わかめ　塩抜き　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "濃縮大豆たんぱく": [
+    {
+      "food_number": "04056",
+      "food_name": "だいず　［その他］　大豆たんぱく　濃縮大豆たんぱく",
+      "is_canonical": true
+    }
+  ],
+  "焼きのり": [
+    {
+      "food_number": "09004",
+      "food_name": "あまのり　焼きのり",
+      "is_canonical": true
+    }
+  ],
+  "焼きふ（板ふ）": [
+    {
+      "food_number": "01067",
+      "food_name": "こむぎ　［ふ類］　焼きふ　板ふ",
+      "is_canonical": true
+    }
+  ],
+  "焼きふ（車ふ）": [
+    {
+      "food_number": "01068",
+      "food_name": "こむぎ　［ふ類］　焼きふ　車ふ",
+      "is_canonical": true
+    }
+  ],
+  "焼きふ（釜焼きふ）": [
+    {
+      "food_number": "01066",
+      "food_name": "こむぎ　［ふ類］　焼きふ　釜焼きふ",
+      "is_canonical": true
+    }
+  ],
+  "焼き抜きかまぼこ": [
+    {
+      "food_number": "10380",
+      "food_name": "＜水産練り製品＞　焼き抜きかまぼこ",
+      "is_canonical": true
+    }
+  ],
+  "焼き豆腐": [
+    {
+      "food_number": "04038",
+      "food_name": "だいず　［豆腐・油揚げ類］　焼き豆腐",
+      "is_canonical": true
+    }
+  ],
+  "煮干しだし": [
+    {
+      "food_number": "17023",
+      "food_name": "＜調味料類＞　（だし類）　煮干しだし",
+      "is_canonical": true
+    }
+  ],
+  "牛かたロース肉（輸入）": [
+    {
+      "food_number": "11065",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11066",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "牛そともも肉": [
+    {
+      "food_number": "11079",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11080",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11081",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "牛そともも肉（乳用肥育牛）": [
+    {
+      "food_number": "11053",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11054",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11055",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "牛ばら肉": [
+    {
+      "food_number": "11074",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　ばら　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "牛ばら肉（交雑牛）脂身つき": [
+    {
+      "food_number": "11260",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　ばら　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "牛ひき肉": [
+    {
+      "food_number": "11089",
+      "food_name": "＜畜肉類＞　うし　［ひき肉］　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11272",
+      "food_name": "＜畜肉類＞　うし　［ひき肉］　焼き",
+      "is_canonical": false
+    }
+  ],
+  "牛もも肉": [
+    {
+      "food_number": "11075",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11076",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11271",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11270",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11077",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "牛もも肉（乳用肥育牛）": [
+    {
+      "food_number": "11049",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11051",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　赤肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11052",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "牛もも肉（交雑牛）皮下脂肪なし": [
+    {
+      "food_number": "11262",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "牛もも肉（交雑牛）脂身つき": [
+    {
+      "food_number": "11261",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "牛もも脂身": [
+    {
+      "food_number": "11078",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "牛ギアラ（第四胃）": [
+    {
+      "food_number": "11097",
+      "food_name": "＜畜肉類＞　うし　［副生物］　第四胃　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "牛サーロイン肉": [
+    {
+      "food_number": "11073",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "牛サーロイン肉（輸入）": [
+    {
+      "food_number": "11071",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11072",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　皮下脂肪なし　生",
+      "is_canonical": false
+    }
+  ],
+  "牛センマイ（第三胃）": [
+    {
+      "food_number": "11096",
+      "food_name": "＜畜肉類＞　うし　［副生物］　第三胃　生",
+      "is_canonical": true
+    }
+  ],
+  "牛タン": [
+    {
+      "food_number": "11090",
+      "food_name": "＜畜肉類＞　うし　［副生物］　舌　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11273",
+      "food_name": "＜畜肉類＞　うし　［副生物］　舌　焼き",
+      "is_canonical": false
+    }
+  ],
+  "牛ハチノス（第二胃）": [
+    {
+      "food_number": "11095",
+      "food_name": "＜畜肉類＞　うし　［副生物］　第二胃　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "牛ハツ": [
+    {
+      "food_number": "11091",
+      "food_name": "＜畜肉類＞　うし　［副生物］　心臓　生",
+      "is_canonical": true
+    }
+  ],
+  "牛ヒレ肉": [
+    {
+      "food_number": "11085",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　ヒレ　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "牛ヒレ肉（乳用肥育牛）": [
+    {
+      "food_number": "11059",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11253",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　焼き",
+      "is_canonical": true
+    }
+  ],
+  "牛ミノ（第一胃）": [
+    {
+      "food_number": "11094",
+      "food_name": "＜畜肉類＞　うし　［副生物］　第一胃　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "牛ランプ肉": [
+    {
+      "food_number": "11082",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　ランプ　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11083",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　ランプ　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11084",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　ランプ　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "牛ランプ肉（乳用肥育牛）": [
+    {
+      "food_number": "11056",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11057",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11058",
+      "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "牛リブロース肉（輸入）": [
+    {
+      "food_number": "11067",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11269",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11268",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11068",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11069",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11070",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "牛リブロース（交雑牛）皮下脂肪なし": [
+    {
+      "food_number": "11257",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　皮下脂肪なし　生",
+      "is_canonical": true
+    }
+  ],
+  "牛リブロース（交雑牛）脂身": [
+    {
+      "food_number": "11259",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "牛リブロース（交雑牛）脂身つき": [
+    {
+      "food_number": "11254",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11256",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11255",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "牛リブロース（交雑牛）赤肉": [
+    {
+      "food_number": "11258",
+      "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "牛レバー": [
+    {
+      "food_number": "11092",
+      "food_name": "＜畜肉類＞　うし　［副生物］　肝臓　生",
+      "is_canonical": true
+    }
+  ],
+  "牛乳": [
+    {
+      "food_number": "13003",
+      "food_name": "＜牛乳及び乳製品＞　（液状乳類）　普通牛乳",
+      "is_canonical": true
+    }
+  ],
+  "牛大腸": [
+    {
+      "food_number": "11099",
+      "food_name": "＜畜肉類＞　うし　［副生物］　大腸　生",
+      "is_canonical": true
+    }
+  ],
+  "牛子宮": [
+    {
+      "food_number": "11102",
+      "food_name": "＜畜肉類＞　うし　［副生物］　子宮　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "牛小腸": [
+    {
+      "food_number": "11098",
+      "food_name": "＜畜肉類＞　うし　［副生物］　小腸　生",
+      "is_canonical": true
+    }
+  ],
+  "牛尾": [
+    {
+      "food_number": "11103",
+      "food_name": "＜畜肉類＞　うし　［副生物］　尾　生",
+      "is_canonical": true
+    }
+  ],
+  "牛横隔膜": [
+    {
+      "food_number": "11274",
+      "food_name": "＜畜肉類＞　うし　［副生物］　横隔膜　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11296",
+      "food_name": "＜畜肉類＞　うし　［副生物］　横隔膜　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11297",
+      "food_name": "＜畜肉類＞　うし　［副生物］　横隔膜　焼き",
+      "is_canonical": false
+    }
+  ],
+  "牛直腸": [
+    {
+      "food_number": "11100",
+      "food_name": "＜畜肉類＞　うし　［副生物］　直腸　生",
+      "is_canonical": true
+    }
+  ],
+  "牛脂": [
+    {
+      "food_number": "14015",
+      "food_name": "（動物油脂類）　牛脂",
+      "is_canonical": true
+    }
+  ],
+  "牛腎臓": [
+    {
+      "food_number": "11093",
+      "food_name": "＜畜肉類＞　うし　［副生物］　じん臓　生",
+      "is_canonical": true
+    }
+  ],
+  "牛腱": [
+    {
+      "food_number": "11101",
+      "food_name": "＜畜肉類＞　うし　［副生物］　腱　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "玄米": [
+    {
+      "food_number": "01080",
+      "food_name": "こめ　［水稲穀粒］　玄米",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01085",
+      "food_name": "こめ　［水稲めし］　玄米",
+      "is_canonical": true
+    }
+  ],
+  "玄米ごはん": [
+    {
+      "food_number": "01106",
+      "food_name": "こめ　［陸稲めし］　玄米",
+      "is_canonical": true
+    }
+  ],
+  "玄米粉": [
+    {
+      "food_number": "01157",
+      "food_name": "こめ　［うるち米製品］　玄米粉",
+      "is_canonical": true
+    }
+  ],
+  "玄米（穀粒）": [
+    {
+      "food_number": "01102",
+      "food_name": "こめ　［陸稲穀粒］　玄米",
+      "is_canonical": false
+    }
+  ],
+  "生しいたけ": [
+    {
+      "food_number": "08043",
+      "food_name": "しいたけ　生しいたけ　原木栽培　ゆで",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08044",
+      "food_name": "しいたけ　生しいたけ　原木栽培　油いため",
+      "is_canonical": false
+    }
+  ],
+  "生しいたけ（原木栽培）": [
+    {
+      "food_number": "08042",
+      "food_name": "しいたけ　生しいたけ　原木栽培　生",
+      "is_canonical": true
+    }
+  ],
+  "生しいたけ（菌床栽培）": [
+    {
+      "food_number": "08039",
+      "food_name": "しいたけ　生しいたけ　菌床栽培　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "08040",
+      "food_name": "しいたけ　生しいたけ　菌床栽培　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "08041",
+      "food_name": "しいたけ　生しいたけ　菌床栽培　油いため",
+      "is_canonical": false
+    }
+  ],
+  "生パスタ": [
+    {
+      "food_number": "01149",
+      "food_name": "こむぎ　［マカロニ・スパゲッティ類］　生パスタ　生",
+      "is_canonical": true
+    }
+  ],
+  "発芽玄米": [
+    {
+      "food_number": "01153",
+      "food_name": "こめ　［水稲穀粒］　発芽玄米",
+      "is_canonical": true
+    }
+  ],
+  "発芽玄米ごはん": [
+    {
+      "food_number": "01155",
+      "food_name": "こめ　［水稲めし］　発芽玄米",
+      "is_canonical": true
+    }
+  ],
+  "白玉粉": [
+    {
+      "food_number": "01120",
+      "food_name": "こめ　［もち米製品］　白玉粉",
+      "is_canonical": true
+    }
+  ],
+  "福原オレンジ": [
+    {
+      "food_number": "07161",
+      "food_name": "（かんきつ類）　オレンジ　福原オレンジ　砂じょう　生",
+      "is_canonical": true
+    }
+  ],
+  "米こうじ": [
+    {
+      "food_number": "01116",
+      "food_name": "こめ　［うるち米製品］　米こうじ",
+      "is_canonical": true
+    }
+  ],
+  "米でん粉": [
+    {
+      "food_number": "02030",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉類）　米でん粉",
+      "is_canonical": true
+    }
+  ],
+  "米ぬか油": [
+    {
+      "food_number": "14003",
+      "food_name": "（植物油脂類）　米ぬか油",
+      "is_canonical": true
+    }
+  ],
+  "米みそ（甘みそ）": [
+    {
+      "food_number": "17044",
+      "food_name": "＜調味料類＞　（みそ類）　米みそ　甘みそ",
+      "is_canonical": true
+    }
+  ],
+  "米粉": [
+    {
+      "food_number": "01158",
+      "food_name": "こめ　［うるち米製品］　米粉",
+      "is_canonical": true
+    }
+  ],
+  "米粉めん": [
+    {
+      "food_number": "01160",
+      "food_name": "こめ　［うるち米製品］　米粉めん",
+      "is_canonical": true
+    }
+  ],
+  "米粉パン": [
+    {
+      "food_number": "01212",
+      "food_name": "こめ　［うるち米製品］　米粉パン　ロールパン",
+      "is_canonical": true
+    }
+  ],
+  "米粒麦": [
+    {
+      "food_number": "01007",
+      "food_name": "おおむぎ　米粒麦",
+      "is_canonical": true
+    }
+  ],
+  "米酢": [
+    {
+      "food_number": "17016",
+      "food_name": "＜調味料類＞　（食酢類）　米酢",
+      "is_canonical": true
+    }
+  ],
+  "粉寒天": [
+    {
+      "food_number": "09049",
+      "food_name": "てんぐさ　粉寒天",
+      "is_canonical": true
+    }
+  ],
+  "粒状大豆たんぱく": [
+    {
+      "food_number": "04055",
+      "food_name": "だいず　［その他］　大豆たんぱく　粒状大豆たんぱく",
+      "is_canonical": true
+    }
+  ],
+  "精白米（うるち米）": [
+    {
+      "food_number": "01083",
+      "food_name": "こめ　［水稲穀粒］　精白米　うるち米",
+      "is_canonical": true
+    }
+  ],
+  "精白米（もち米）": [
+    {
+      "food_number": "01151",
+      "food_name": "こめ　［水稲穀粒］　精白米　もち米",
+      "is_canonical": true
+    }
+  ],
+  "精白米（インディカ米）": [
+    {
+      "food_number": "01152",
+      "food_name": "こめ　［水稲穀粒］　精白米　インディカ米",
+      "is_canonical": true
+    }
+  ],
+  "精白米（穀粒）": [
+    {
+      "food_number": "01105",
+      "food_name": "こめ　［陸稲穀粒］　精白米",
+      "is_canonical": false
+    }
+  ],
+  "糸みつば（葉）": [
+    {
+      "food_number": "06278",
+      "food_name": "（みつば類）　糸みつば　葉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06279",
+      "food_name": "（みつば類）　糸みつば　葉　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "糸引き納豆": [
+    {
+      "food_number": "04046",
+      "food_name": "だいず　［納豆類］　糸引き納豆",
+      "is_canonical": true
+    }
+  ],
+  "絹ごし豆腐": [
+    {
+      "food_number": "04033",
+      "food_name": "だいず　［豆腐・油揚げ類］　絹ごし豆腐",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04099",
+      "food_name": "だいず　［豆腐・油揚げ類］　絹ごし豆腐　（凝固剤：塩化マグネシウム）",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04100",
+      "food_name": "だいず　［豆腐・油揚げ類］　絹ごし豆腐　（凝固剤：硫酸カルシウム）",
+      "is_canonical": false
+    }
+  ],
+  "絹生揚げ": [
+    {
+      "food_number": "04113",
+      "food_name": "だいず　［豆腐・油揚げ類］　絹生揚げ",
+      "is_canonical": true
+    }
+  ],
+  "綿実油": [
+    {
+      "food_number": "14012",
+      "food_name": "（植物油脂類）　綿実油",
+      "is_canonical": true
+    }
+  ],
+  "緑豆はるさめ": [
+    {
+      "food_number": "02039",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　緑豆はるさめ　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "02061",
+      "food_name": "＜でん粉・でん粉製品＞　（でん粉製品）　はるさめ　緑豆はるさめ　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "練りうに": [
+    {
+      "food_number": "10367",
+      "food_name": "＜その他＞　うに　練りうに",
+      "is_canonical": true
+    }
+  ],
+  "繊維状大豆たんぱく": [
+    {
+      "food_number": "04058",
+      "food_name": "だいず　［その他］　大豆たんぱく　繊維状大豆たんぱく",
+      "is_canonical": true
+    }
+  ],
+  "菊のり": [
+    {
+      "food_number": "06060",
+      "food_name": "きく　菊のり",
+      "is_canonical": true
+    }
+  ],
+  "菊の花びら": [
+    {
+      "food_number": "06059",
+      "food_name": "きく　花びら　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "葉しょうが": [
+    {
+      "food_number": "06102",
+      "food_name": "（しょうが類）　葉しょうが　根茎　生",
+      "is_canonical": true
+    }
+  ],
+  "葉だいこん": [
+    {
+      "food_number": "06129",
+      "food_name": "（だいこん類）　葉だいこん　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "葉にんじん": [
+    {
+      "food_number": "06211",
+      "food_name": "（にんじん類）　葉にんじん　葉　生",
+      "is_canonical": true
+    }
+  ],
+  "蒸しまんじゅう": [
+    {
+      "food_number": "15165",
+      "food_name": "＜和生菓子・和半生菓子類＞　まんじゅう　蒸しまんじゅう　つぶしあん入り",
+      "is_canonical": true
+    }
+  ],
+  "蒸し大豆": [
+    {
+      "food_number": "04081",
+      "food_name": "だいず　［全粒・全粒製品］　蒸し大豆　黄大豆",
+      "is_canonical": true
+    }
+  ],
+  "薄力粉": [
+    {
+      "food_number": "01015",
+      "food_name": "こむぎ　［小麦粉］　薄力粉　1等",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01016",
+      "food_name": "こむぎ　［小麦粉］　薄力粉　2等",
+      "is_canonical": false
+    }
+  ],
+  "裸節": [
+    {
+      "food_number": "10446",
+      "food_name": "＜魚類＞　（かつお類）　加工品　裸節",
+      "is_canonical": true
+    }
+  ],
+  "西洋かぼちゃ": [
+    {
+      "food_number": "06048",
+      "food_name": "（かぼちゃ類）　西洋かぼちゃ　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06049",
+      "food_name": "（かぼちゃ類）　西洋かぼちゃ　果実　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06332",
+      "food_name": "（かぼちゃ類）　西洋かぼちゃ　果実　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "06050",
+      "food_name": "（かぼちゃ類）　西洋かぼちゃ　果実　冷凍",
+      "is_canonical": true
+    }
+  ],
+  "西洋なし": [
+    {
+      "food_number": "07091",
+      "food_name": "（なし類）　西洋なし　生",
+      "is_canonical": true
+    }
+  ],
+  "角寒天": [
+    {
+      "food_number": "09027",
+      "food_name": "てんぐさ　角寒天",
+      "is_canonical": true
+    }
+  ],
+  "調合油": [
+    {
+      "food_number": "14006",
+      "food_name": "（植物油脂類）　調合油",
+      "is_canonical": true
+    }
+  ],
+  "豆乳": [
+    {
+      "food_number": "04052",
+      "food_name": "だいず　［その他］　豆乳　豆乳",
+      "is_canonical": true
+    }
+  ],
+  "豆腐竹輪": [
+    {
+      "food_number": "04044",
+      "food_name": "だいず　［豆腐・油揚げ類］　豆腐竹輪　蒸し",
+      "is_canonical": true
+    }
+  ],
+  "豚かたロース肉": [
+    {
+      "food_number": "11145",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11146",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11147",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11148",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かたロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚かたロース肉（大型種）": [
+    {
+      "food_number": "11119",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11120",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11121",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11122",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かたロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚かた肉": [
+    {
+      "food_number": "11144",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "豚かた肉（中型種）": [
+    {
+      "food_number": "11141",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11142",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11143",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "豚かた肉（大型種）": [
+    {
+      "food_number": "11115",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11116",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11117",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "豚じん臓": [
+    {
+      "food_number": "11167",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　じん臓　生",
+      "is_canonical": true
+    }
+  ],
+  "豚そともも肉": [
+    {
+      "food_number": "11158",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11159",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11160",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11161",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚そともも肉（大型種）": [
+    {
+      "food_number": "11136",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11137",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11138",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11139",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚ばら肉": [
+    {
+      "food_number": "11153",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ばら　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "豚ばら肉（大型種）": [
+    {
+      "food_number": "11129",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ばら　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11277",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ばら　脂身つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "豚ひき肉": [
+    {
+      "food_number": "11163",
+      "food_name": "＜畜肉類＞　ぶた　［ひき肉］　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11280",
+      "food_name": "＜畜肉類＞　ぶた　［ひき肉］　焼き",
+      "is_canonical": true
+    }
+  ],
+  "豚もも肉": [
+    {
+      "food_number": "11154",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11155",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11156",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11157",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　もも　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚もも肉（大型種）": [
+    {
+      "food_number": "11130",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11131",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11133",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11132",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　皮下脂肪なし　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11134",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11135",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生",
+      "is_canonical": true
+    }
+  ],
+  "豚ジョウルミート": [
+    {
+      "food_number": "11312",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　頭部　ジョウルミート　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11313",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　頭部　ジョウルミート　焼き",
+      "is_canonical": false
+    }
+  ],
+  "豚タン": [
+    {
+      "food_number": "11164",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　舌　生",
+      "is_canonical": true
+    }
+  ],
+  "豚ハツ": [
+    {
+      "food_number": "11165",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　心臓　生",
+      "is_canonical": true
+    }
+  ],
+  "豚ヒレ肉": [
+    {
+      "food_number": "11162",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ヒレ　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "豚ヒレ肉（大型種）": [
+    {
+      "food_number": "11140",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11278",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　焼き",
+      "is_canonical": false
+    }
+  ],
+  "豚レバー": [
+    {
+      "food_number": "11166",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　肝臓　生",
+      "is_canonical": true
+    }
+  ],
+  "豚ロース肉": [
+    {
+      "food_number": "11149",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11150",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11151",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11152",
+      "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚ロース肉（大型種）": [
+    {
+      "food_number": "11123",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11125",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11124",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11126",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　皮下脂肪なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11127",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11128",
+      "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ロース　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "豚大腸": [
+    {
+      "food_number": "11170",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　大腸　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "豚子宮": [
+    {
+      "food_number": "11171",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　子宮　生",
+      "is_canonical": true
+    }
+  ],
+  "豚小腸": [
+    {
+      "food_number": "11169",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　小腸　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "豚胃": [
+    {
+      "food_number": "11168",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　胃　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "豚足": [
+    {
+      "food_number": "11172",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　豚足　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "豚軟骨": [
+    {
+      "food_number": "11173",
+      "food_name": "＜畜肉類＞　ぶた　［副生物］　軟骨　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "赤えんどう": [
+    {
+      "food_number": "04074",
+      "food_name": "えんどう　全粒　赤えんどう　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04075",
+      "food_name": "えんどう　全粒　赤えんどう　ゆで",
+      "is_canonical": true
+    }
+  ],
+  "赤こんにゃく": [
+    {
+      "food_number": "02042",
+      "food_name": "＜いも類＞　こんにゃく　赤こんにゃく",
+      "is_canonical": true
+    }
+  ],
+  "赤すぐり": [
+    {
+      "food_number": "07186",
+      "food_name": "（すぐり類）　赤すぐり　冷凍",
+      "is_canonical": true
+    }
+  ],
+  "赤とさかのり": [
+    {
+      "food_number": "09029",
+      "food_name": "とさかのり　赤とさか　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "赤ピーマン": [
+    {
+      "food_number": "06247",
+      "food_name": "（ピーマン類）　赤ピーマン　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06248",
+      "food_name": "（ピーマン類）　赤ピーマン　果実　油いため",
+      "is_canonical": false
+    }
+  ],
+  "赤米": [
+    {
+      "food_number": "01181",
+      "food_name": "こめ　［水稲穀粒］　赤米",
+      "is_canonical": true
+    }
+  ],
+  "赤米ごはん": [
+    {
+      "food_number": "01183",
+      "food_name": "こめ　［水稲めし］　赤米",
+      "is_canonical": true
+    }
+  ],
+  "赤色トマト": [
+    {
+      "food_number": "06182",
+      "food_name": "（トマト類）　赤色トマト　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "赤色ミニトマト": [
+    {
+      "food_number": "06183",
+      "food_name": "（トマト類）　赤色ミニトマト　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "輸入牛かたロース肉": [
+    {
+      "food_number": "11064",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　脂身つき　生",
+      "is_canonical": true
+    }
+  ],
+  "輸入牛かた肉": [
+    {
+      "food_number": "11060",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11061",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　皮下脂肪なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11062",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11063",
+      "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身　生",
+      "is_canonical": false
+    }
+  ],
+  "道明寺粉": [
+    {
+      "food_number": "01121",
+      "food_name": "こめ　［もち米製品］　道明寺粉",
+      "is_canonical": true
+    }
+  ],
+  "露地メロン（緑肉種）": [
+    {
+      "food_number": "07135",
+      "food_name": "メロン　露地メロン　緑肉種　生",
+      "is_canonical": true
+    }
+  ],
+  "露地メロン（赤肉種）": [
+    {
+      "food_number": "07174",
+      "food_name": "メロン　露地メロン　赤肉種　生",
+      "is_canonical": true
+    }
+  ],
+  "青えんどう": [
+    {
+      "food_number": "04012",
+      "food_name": "えんどう　全粒　青えんどう　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04013",
+      "food_name": "えんどう　全粒　青えんどう　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "青とさかのり": [
+    {
+      "food_number": "09030",
+      "food_name": "とさかのり　青とさか　塩蔵　塩抜き",
+      "is_canonical": true
+    }
+  ],
+  "青ピーマン": [
+    {
+      "food_number": "06245",
+      "food_name": "（ピーマン類）　青ピーマン　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06246",
+      "food_name": "（ピーマン類）　青ピーマン　果実　油いため",
+      "is_canonical": false
+    }
+  ],
+  "青大豆（全粒）": [
+    {
+      "food_number": "04104",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　青大豆　国産　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04105",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　青大豆　国産　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "食パン": [
+    {
+      "food_number": "01026",
+      "food_name": "こむぎ　［パン類］　角形食パン　食パン",
+      "is_canonical": true
+    },
+    {
+      "food_number": "01174",
+      "food_name": "こむぎ　［パン類］　角形食パン　焼き",
+      "is_canonical": false
+    }
+  ],
+  "馬肉": [
+    {
+      "food_number": "11109",
+      "food_name": "＜畜肉類＞　うま　肉　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "鯨うねす": [
+    {
+      "food_number": "11111",
+      "food_name": "＜畜肉類＞　くじら　うねす　生",
+      "is_canonical": true
+    }
+  ],
+  "鯨本皮": [
+    {
+      "food_number": "11112",
+      "food_name": "＜畜肉類＞　くじら　本皮　生",
+      "is_canonical": true
+    }
+  ],
+  "鯨肉（赤肉）": [
+    {
+      "food_number": "11110",
+      "food_name": "＜畜肉類＞　くじら　肉　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏がらだし": [
+    {
+      "food_number": "17024",
+      "food_name": "＜調味料類＞　（だし類）　鶏がらだし",
+      "is_canonical": true
+    }
+  ],
+  "鶏ささみ肉": [
+    {
+      "food_number": "11217",
+      "food_name": "＜鳥肉類＞　にわとり　［親・副品目］　ささみ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11227",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11229",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11228",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11298",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　ソテー",
+      "is_canonical": false
+    }
+  ],
+  "鶏つくね": [
+    {
+      "food_number": "11293",
+      "food_name": "＜鳥肉類＞　にわとり　［その他］　つくね",
+      "is_canonical": true
+    }
+  ],
+  "鶏ひき肉": [
+    {
+      "food_number": "11230",
+      "food_name": "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11291",
+      "food_name": "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　焼き",
+      "is_canonical": false
+    }
+  ],
+  "鶏むね肉": [
+    {
+      "food_number": "11213",
+      "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11214",
+      "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮なし　生",
+      "is_canonical": false
+    }
+  ],
+  "鶏むね肉（皮つき）": [
+    {
+      "food_number": "11219",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11287",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮つき　焼き",
+      "is_canonical": false
+    }
+  ],
+  "鶏むね肉（皮なし）": [
+    {
+      "food_number": "11220",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11288",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　むね　皮なし　焼き",
+      "is_canonical": false
+    }
+  ],
+  "鶏もも肉": [
+    {
+      "food_number": "11215",
+      "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11216",
+      "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮なし　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11222",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11224",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11226",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11225",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　焼き",
+      "is_canonical": false
+    }
+  ],
+  "鶏もも肉（皮つき）": [
+    {
+      "food_number": "11221",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11223",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "鶏ハツ": [
+    {
+      "food_number": "11231",
+      "food_name": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏レバー": [
+    {
+      "food_number": "11232",
+      "food_name": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏卵（全卵）": [
+    {
+      "food_number": "12004",
+      "food_name": "鶏卵　全卵　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "12005",
+      "food_name": "鶏卵　全卵　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12006",
+      "food_name": "鶏卵　全卵　ポーチドエッグ",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12021",
+      "food_name": "鶏卵　全卵　目玉焼き",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12022",
+      "food_name": "鶏卵　全卵　いり",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12023",
+      "food_name": "鶏卵　全卵　素揚げ",
+      "is_canonical": false
+    },
+    {
+      "food_number": "12007",
+      "food_name": "鶏卵　全卵　水煮缶詰",
+      "is_canonical": false
+    }
+  ],
+  "鶏卵（殻付き）": [
+    {
+      "food_number": "12024",
+      "food_name": "鶏卵　殻",
+      "is_canonical": true
+    }
+  ],
+  "鶏手羽元肉": [
+    {
+      "food_number": "11286",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽もと　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏手羽先肉": [
+    {
+      "food_number": "11285",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽さき　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏手羽肉": [
+    {
+      "food_number": "11212",
+      "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11218",
+      "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽　皮つき　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏皮（もも）": [
+    {
+      "food_number": "11235",
+      "food_name": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏砂肝": [
+    {
+      "food_number": "11233",
+      "food_name": "＜鳥肉類＞　にわとり　［副品目］　すなぎも　生",
+      "is_canonical": true
+    }
+  ],
+  "鶏軟骨（胸肉）": [
+    {
+      "food_number": "11236",
+      "food_name": "＜鳥肉類＞　にわとり　［副品目］　なんこつ（胸肉）　生",
+      "is_canonical": true
+    }
+  ],
+  "鹿肉（ニホンジカ）": [
+    {
+      "food_number": "11275",
+      "food_name": "＜畜肉類＞　しか　にほんじか　赤肉　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "11294",
+      "food_name": "＜畜肉類＞　しか　にほんじか　えぞしか　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11295",
+      "food_name": "＜畜肉類＞　しか　にほんじか　きゅうしゅうじか　赤肉　生",
+      "is_canonical": false
+    },
+    {
+      "food_number": "11311",
+      "food_name": "＜畜肉類＞　しか　にほんじか　ほんしゅうじか　赤肉　生",
+      "is_canonical": false
+    }
+  ],
+  "鹿肉（赤鹿）": [
+    {
+      "food_number": "11114",
+      "food_name": "＜畜肉類＞　しか　あかしか　赤肉　生",
+      "is_canonical": true
+    }
+  ],
+  "麦こがし": [
+    {
+      "food_number": "01010",
+      "food_name": "おおむぎ　麦こがし",
+      "is_canonical": true
+    }
+  ],
+  "麦茶": [
+    {
+      "food_number": "16055",
+      "food_name": "＜その他＞　麦茶　浸出液",
+      "is_canonical": true
+    }
+  ],
+  "黄ピーマン": [
+    {
+      "food_number": "06249",
+      "food_name": "（ピーマン類）　黄ピーマン　果実　生",
+      "is_canonical": true
+    },
+    {
+      "food_number": "06250",
+      "food_name": "（ピーマン類）　黄ピーマン　果実　油いため",
+      "is_canonical": false
+    }
+  ],
+  "黄大豆（全粒）": [
+    {
+      "food_number": "04023",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　国産　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04024",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　国産　ゆで",
+      "is_canonical": false
+    },
+    {
+      "food_number": "04025",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　米国産　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04026",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　中国産　乾",
+      "is_canonical": false
+    },
+    {
+      "food_number": "04027",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黄大豆　ブラジル産　乾",
+      "is_canonical": false
+    }
+  ],
+  "黄色トマト": [
+    {
+      "food_number": "06391",
+      "food_name": "（トマト類）　黄色トマト　果実　生",
+      "is_canonical": true
+    }
+  ],
+  "黒大豆（全粒）": [
+    {
+      "food_number": "04077",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黒大豆　国産　乾",
+      "is_canonical": true
+    },
+    {
+      "food_number": "04106",
+      "food_name": "だいず　［全粒・全粒製品］　全粒　黒大豆　国産　ゆで",
+      "is_canonical": false
+    }
+  ],
+  "黒米ごはん": [
+    {
+      "food_number": "01184",
+      "food_name": "こめ　［水稲めし］　黒米",
+      "is_canonical": true
+    }
+  ],
+  "黒米（穀粒）": [
+    {
+      "food_number": "01182",
+      "food_name": "こめ　［水稲穀粒］　黒米",
+      "is_canonical": true
+    }
+  ]
+}

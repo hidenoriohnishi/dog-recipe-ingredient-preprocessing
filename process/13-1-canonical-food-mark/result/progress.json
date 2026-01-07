@@ -173,11 +173,11 @@
       "is_canonical": false
     },
     "10006": {
-      "canonical_name": "まあじ開き干し",
+      "canonical_name": "まあじ（開き干し）",
       "is_canonical": true
     },
     "10007": {
-      "canonical_name": "まあじ開き干し",
+      "canonical_name": "まあじ（開き干し）",
       "is_canonical": false
     },
     "10008": {
@@ -237,8 +237,8 @@
       "is_canonical": false
     },
     "10023": {
-      "canonical_name": "あゆ（天然・内臓）",
-      "is_canonical": true
+      "canonical_name": "あゆ（天然）",
+      "is_canonical": false
     },
     "10025": {
       "canonical_name": "あゆ（養殖）",
@@ -249,11 +249,11 @@
       "is_canonical": false
     },
     "10027": {
-      "canonical_name": "あゆ（養殖・内臓）",
-      "is_canonical": true
+      "canonical_name": "あゆ（養殖）",
+      "is_canonical": false
     },
     "10028": {
-      "canonical_name": "あゆ（養殖・内臓）",
+      "canonical_name": "あゆ（養殖）",
       "is_canonical": false
     },
     "10030": {
@@ -361,12 +361,12 @@
       "is_canonical": true
     },
     "10060": {
-      "canonical_name": "いわし缶詰",
+      "canonical_name": "いわし缶詰（水煮）",
       "is_canonical": true
     },
     "10062": {
-      "canonical_name": "いわし缶詰",
-      "is_canonical": false
+      "canonical_name": "いわし缶詰（トマト漬）",
+      "is_canonical": true
     },
     "10065": {
       "canonical_name": "いわな（養殖）",
@@ -449,7 +449,7 @@
       "is_canonical": true
     },
     "10089": {
-      "canonical_name": "なまり節（かつお）",
+      "canonical_name": "なまり節",
       "is_canonical": true
     },
     "10091": {
@@ -457,7 +457,7 @@
       "is_canonical": true
     },
     "10092": {
-      "canonical_name": "削り節（かつお）",
+      "canonical_name": "削り節",
       "is_canonical": true
     },
     "10097": {
@@ -625,24 +625,24 @@
       "is_canonical": true
     },
     "10144": {
-      "canonical_name": "たいせいようさけ（養殖・皮つき）",
-      "is_canonical": true
-    },
-    "10145": {
       "canonical_name": "たいせいようさけ（皮つき・養殖）",
       "is_canonical": true
     },
+    "10145": {
+      "canonical_name": "たいせいようさけ（養殖・皮つき）",
+      "is_canonical": true
+    },
     "10146": {
-      "canonical_name": "ニジマス（海面養殖・皮つき）",
+      "canonical_name": "ニジマス",
       "is_canonical": true
     },
     "10147": {
-      "canonical_name": "ニジマス（海面養殖・皮つき）",
+      "canonical_name": "ニジマス",
       "is_canonical": false
     },
     "10148": {
-      "canonical_name": "ニジマス（淡水養殖・皮つき）",
-      "is_canonical": true
+      "canonical_name": "ニジマス",
+      "is_canonical": false
     },
     "10149": {
       "canonical_name": "ベニザケ",
@@ -693,11 +693,11 @@
       "is_canonical": true
     },
     "10162": {
-      "canonical_name": "さば 開き干し",
+      "canonical_name": "さば開き干し",
       "is_canonical": true
     },
     "10164": {
-      "canonical_name": "さば 水煮缶",
+      "canonical_name": "さば水煮缶",
       "is_canonical": true
     },
     "10167": {
@@ -821,7 +821,7 @@
       "is_canonical": false
     },
     "10202": {
-      "canonical_name": "たらこ（すけとうだら卵）",
+      "canonical_name": "たらこ",
       "is_canonical": true
     },
     "10205": {
@@ -833,7 +833,7 @@
       "is_canonical": false
     },
     "10207": {
-      "canonical_name": "しらこ（まだら）",
+      "canonical_name": "まだらのしらこ",
       "is_canonical": true
     },
     "10209": {
@@ -953,7 +953,7 @@
       "is_canonical": true
     },
     "10248": {
-      "canonical_name": "ほっけ開き干し",
+      "canonical_name": "ほっけ（開き干し）",
       "is_canonical": true
     },
     "10249": {
@@ -969,23 +969,23 @@
       "is_canonical": true
     },
     "10253": {
-      "canonical_name": "くろまぐろ赤身（天然）",
+      "canonical_name": "くろまぐろ（赤身・天然）",
       "is_canonical": true
     },
     "10254": {
-      "canonical_name": "くろまぐろ脂身（天然）",
+      "canonical_name": "くろまぐろ（脂身・天然）",
       "is_canonical": true
     },
     "10255": {
-      "canonical_name": "びんなが",
+      "canonical_name": "びんながまぐろ",
       "is_canonical": true
     },
     "10256": {
-      "canonical_name": "みなみまぐろ 赤身",
+      "canonical_name": "みなみまぐろ（赤身）",
       "is_canonical": true
     },
     "10257": {
-      "canonical_name": "みなみまぐろ 脂身",
+      "canonical_name": "みなみまぐろ（脂身）",
       "is_canonical": true
     },
     "10258": {
@@ -993,19 +993,19 @@
       "is_canonical": true
     },
     "10260": {
-      "canonical_name": "まぐろ缶詰（水煮フレーク ライト）",
+      "canonical_name": "まぐろ缶詰（水煮フレーク・ライト）",
       "is_canonical": true
     },
     "10261": {
-      "canonical_name": "まぐろ缶詰（水煮フレーク ホワイト）",
+      "canonical_name": "まぐろ缶詰（水煮フレーク・ホワイト）",
       "is_canonical": true
     },
     "10263": {
-      "canonical_name": "まぐろ缶詰（油漬フレーク ライト）",
+      "canonical_name": "まぐろ缶詰（油漬フレーク・ライト）",
       "is_canonical": true
     },
     "10264": {
-      "canonical_name": "まぐろ缶詰（油漬フレーク ホワイト）",
+      "canonical_name": "まぐろ缶詰（油漬フレーク・ホワイト）",
       "is_canonical": true
     },
     "10265": {
@@ -1045,7 +1045,7 @@
       "is_canonical": true
     },
     "10274": {
-      "canonical_name": "やつめうなぎ（干しやつめ）",
+      "canonical_name": "干しやつめうなぎ",
       "is_canonical": true
     },
     "10275": {
@@ -1113,7 +1113,7 @@
       "is_canonical": true
     },
     "10298": {
-      "canonical_name": "たいらがい貝柱",
+      "canonical_name": "たいらがい（貝柱）",
       "is_canonical": true
     },
     "10299": {
@@ -1129,7 +1129,7 @@
       "is_canonical": true
     },
     "10303": {
-      "canonical_name": "とりがい斧足",
+      "canonical_name": "とりがい（斧足）",
       "is_canonical": true
     },
     "10304": {
@@ -1185,15 +1185,15 @@
       "is_canonical": true
     },
     "10321": {
-      "canonical_name": "くるまえび（養殖）",
+      "canonical_name": "くるまえび",
       "is_canonical": true
     },
     "10322": {
-      "canonical_name": "くるまえび（養殖）",
+      "canonical_name": "くるまえび",
       "is_canonical": false
     },
     "10323": {
-      "canonical_name": "くるまえび（養殖）",
+      "canonical_name": "くるまえび",
       "is_canonical": false
     },
     "10324": {
@@ -1373,8 +1373,8 @@
       "is_canonical": false
     },
     "10402": {
-      "canonical_name": "ニジマス（海面養殖・皮なし）",
-      "is_canonical": true
+      "canonical_name": "ニジマス",
+      "is_canonical": false
     },
     "10403": {
       "canonical_name": "まさば",
@@ -1409,7 +1409,7 @@
       "is_canonical": false
     },
     "10412": {
-      "canonical_name": "ほっけ開き干し",
+      "canonical_name": "ほっけ（開き干し）",
       "is_canonical": false
     },
     "10413": {
@@ -1449,15 +1449,15 @@
       "is_canonical": false
     },
     "10425": {
-      "canonical_name": "めばちまぐろ 赤身",
+      "canonical_name": "めばちまぐろ（赤身）",
       "is_canonical": true
     },
     "10426": {
-      "canonical_name": "めばちまぐろ 脂身",
+      "canonical_name": "めばちまぐろ（脂身）",
       "is_canonical": true
     },
     "10427": {
-      "canonical_name": "あわび（くろあわび）",
+      "canonical_name": "くろあわび",
       "is_canonical": true
     },
     "10428": {
@@ -1477,39 +1477,39 @@
       "is_canonical": true
     },
     "10433": {
-      "canonical_name": "たいせいようさけ（皮つき・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮つき）",
       "is_canonical": false
     },
     "10434": {
-      "canonical_name": "たいせいようさけ（皮つき・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮つき）",
       "is_canonical": false
     },
     "10435": {
-      "canonical_name": "たいせいようさけ（皮つき・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮つき）",
       "is_canonical": false
     },
     "10436": {
-      "canonical_name": "たいせいようさけ（皮つき・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮つき）",
       "is_canonical": false
     },
     "10438": {
-      "canonical_name": "たいせいようさけ（皮なし・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮なし）",
       "is_canonical": true
     },
     "10439": {
-      "canonical_name": "たいせいようさけ（皮なし・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮なし）",
       "is_canonical": false
     },
     "10440": {
-      "canonical_name": "たいせいようさけ（皮なし・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮なし）",
       "is_canonical": false
     },
     "10441": {
-      "canonical_name": "たいせいようさけ（皮なし・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮なし）",
       "is_canonical": false
     },
     "10442": {
-      "canonical_name": "たいせいようさけ（皮なし・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮なし）",
       "is_canonical": false
     },
     "10443": {
@@ -1521,7 +1521,7 @@
       "is_canonical": false
     },
     "10446": {
-      "canonical_name": "裸節（かつお）",
+      "canonical_name": "裸節",
       "is_canonical": true
     },
     "10447": {
@@ -1529,27 +1529,27 @@
       "is_canonical": true
     },
     "10450": {
-      "canonical_name": "くろまぐろ赤身（養殖）",
+      "canonical_name": "くろまぐろ（赤身・養殖）",
       "is_canonical": true
     },
     "10451": {
-      "canonical_name": "くろまぐろ赤身（養殖）",
+      "canonical_name": "くろまぐろ（赤身・養殖）",
       "is_canonical": false
     },
     "10452": {
-      "canonical_name": "くろまぐろ（養殖・赤身）",
+      "canonical_name": "くろまぐろ赤身",
       "is_canonical": true
     },
     "10453": {
-      "canonical_name": "くろまぐろ（養殖・赤身）",
+      "canonical_name": "くろまぐろ赤身",
       "is_canonical": false
     },
     "10454": {
-      "canonical_name": "くろまぐろ（養殖・赤身）",
+      "canonical_name": "くろまぐろ赤身",
       "is_canonical": false
     },
     "10455": {
-      "canonical_name": "くろまぐろ（養殖・赤身）",
+      "canonical_name": "くろまぐろ赤身",
       "is_canonical": false
     },
     "10457": {
@@ -1561,27 +1561,27 @@
       "is_canonical": false
     },
     "10459": {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ脂身",
       "is_canonical": true
     },
     "10460": {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ脂身",
       "is_canonical": false
     },
     "10461": {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ脂身",
       "is_canonical": false
     },
     "10462": {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ脂身",
       "is_canonical": false
     },
     "10463": {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ脂身",
       "is_canonical": false
     },
     "10464": {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ脂身",
       "is_canonical": false
     },
     "10466": {
@@ -1629,19 +1629,19 @@
       "is_canonical": true
     },
     "11004": {
-      "canonical_name": "和牛 かた肉",
+      "canonical_name": "和牛かた肉",
       "is_canonical": true
     },
     "11005": {
-      "canonical_name": "和牛 かた肉",
+      "canonical_name": "和牛かた肉",
       "is_canonical": false
     },
     "11006": {
-      "canonical_name": "和牛 かた肉",
+      "canonical_name": "和牛かた肉",
       "is_canonical": false
     },
     "11008": {
-      "canonical_name": "和牛 かたロース肉",
+      "canonical_name": "和牛かたロース肉",
       "is_canonical": true
     },
     "11009": {
@@ -1685,28 +1685,28 @@
       "is_canonical": true
     },
     "11019": {
-      "canonical_name": "和牛もも肉（脂身つき）",
+      "canonical_name": "和牛もも肉",
       "is_canonical": true
     },
     "11020": {
-      "canonical_name": "和牛もも肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "和牛もも肉",
+      "is_canonical": false
     },
     "11021": {
-      "canonical_name": "和牛もも肉（赤肉）",
-      "is_canonical": true
+      "canonical_name": "和牛もも肉",
+      "is_canonical": false
     },
     "11022": {
-      "canonical_name": "和牛もも脂身",
-      "is_canonical": true
+      "canonical_name": "和牛もも肉",
+      "is_canonical": false
     },
     "11023": {
-      "canonical_name": "和牛そともも肉（脂身つき）",
+      "canonical_name": "和牛そともも肉",
       "is_canonical": true
     },
     "11024": {
-      "canonical_name": "和牛そともも肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "和牛そともも肉",
+      "is_canonical": false
     },
     "11025": {
       "canonical_name": "和牛そともも肉",
@@ -1737,7 +1737,7 @@
       "is_canonical": true
     },
     "11032": {
-      "canonical_name": "乳用肥育牛かた赤肉",
+      "canonical_name": "乳用肥育牛かた肉（赤肉）",
       "is_canonical": true
     },
     "11033": {
@@ -1805,7 +1805,7 @@
       "is_canonical": false
     },
     "11049": {
-      "canonical_name": "乳用肥育牛もも肉",
+      "canonical_name": "牛もも肉（乳用肥育牛）",
       "is_canonical": false
     },
     "11050": {
@@ -1813,92 +1813,92 @@
       "is_canonical": false
     },
     "11051": {
-      "canonical_name": "乳用肥育牛もも肉",
+      "canonical_name": "牛もも肉（乳用肥育牛）",
       "is_canonical": true
     },
     "11052": {
-      "canonical_name": "乳用肥育牛もも肉",
+      "canonical_name": "牛もも肉（乳用肥育牛）",
       "is_canonical": false
     },
     "11053": {
-      "canonical_name": "乳用肥育牛そともも肉",
+      "canonical_name": "牛そともも肉（乳用肥育牛）",
       "is_canonical": true
     },
     "11054": {
-      "canonical_name": "乳用肥育牛そともも肉",
+      "canonical_name": "牛そともも肉（乳用肥育牛）",
       "is_canonical": false
     },
     "11055": {
-      "canonical_name": "乳用肥育牛そともも肉",
+      "canonical_name": "牛そともも肉（乳用肥育牛）",
       "is_canonical": false
     },
     "11056": {
-      "canonical_name": "乳用肥育牛ランプ肉",
+      "canonical_name": "牛ランプ肉（乳用肥育牛）",
       "is_canonical": true
     },
     "11057": {
-      "canonical_name": "乳用肥育牛ランプ肉",
+      "canonical_name": "牛ランプ肉（乳用肥育牛）",
       "is_canonical": false
     },
     "11058": {
-      "canonical_name": "乳用肥育牛ランプ肉",
+      "canonical_name": "牛ランプ肉（乳用肥育牛）",
       "is_canonical": false
     },
     "11059": {
-      "canonical_name": "乳用肥育牛ヒレ肉",
+      "canonical_name": "牛ヒレ肉（乳用肥育牛）",
       "is_canonical": true
     },
     "11060": {
-      "canonical_name": "輸入牛かた肉（脂身つき）",
+      "canonical_name": "輸入牛かた肉",
       "is_canonical": true
     },
     "11061": {
-      "canonical_name": "輸入牛かた肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "輸入牛かた肉",
+      "is_canonical": false
     },
     "11062": {
-      "canonical_name": "輸入牛かた赤肉",
-      "is_canonical": true
+      "canonical_name": "輸入牛かた肉",
+      "is_canonical": false
     },
     "11063": {
-      "canonical_name": "輸入牛かた脂身",
-      "is_canonical": true
+      "canonical_name": "輸入牛かた肉",
+      "is_canonical": false
     },
     "11064": {
-      "canonical_name": "輸入牛かたロース（脂身つき）",
+      "canonical_name": "輸入牛かたロース肉",
       "is_canonical": true
     },
     "11065": {
-      "canonical_name": "輸入牛かたロース肉",
+      "canonical_name": "牛かたロース肉（輸入）",
       "is_canonical": true
     },
     "11066": {
-      "canonical_name": "輸入牛かたロース肉",
+      "canonical_name": "牛かたロース肉（輸入）",
       "is_canonical": false
     },
     "11067": {
-      "canonical_name": "輸入牛リブロース肉（脂身つき）",
+      "canonical_name": "牛リブロース肉（輸入）",
       "is_canonical": true
     },
     "11068": {
-      "canonical_name": "輸入牛リブロース肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "牛リブロース肉（輸入）",
+      "is_canonical": false
     },
     "11069": {
-      "canonical_name": "輸入牛リブロース肉（赤肉）",
-      "is_canonical": true
+      "canonical_name": "牛リブロース肉（輸入）",
+      "is_canonical": false
     },
     "11070": {
-      "canonical_name": "輸入牛リブロース脂身",
-      "is_canonical": true
+      "canonical_name": "牛リブロース肉（輸入）",
+      "is_canonical": false
     },
     "11071": {
-      "canonical_name": "輸入牛サーロイン肉（脂身つき）",
+      "canonical_name": "牛サーロイン肉（輸入）",
       "is_canonical": true
     },
     "11072": {
-      "canonical_name": "輸入牛サーロイン肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "牛サーロイン肉（輸入）",
+      "is_canonical": false
     },
     "11073": {
       "canonical_name": "牛サーロイン肉",
@@ -1909,28 +1909,28 @@
       "is_canonical": true
     },
     "11075": {
-      "canonical_name": "牛もも肉（脂身つき）",
+      "canonical_name": "牛もも肉",
       "is_canonical": true
     },
     "11076": {
-      "canonical_name": "牛もも肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "牛もも肉",
+      "is_canonical": false
     },
     "11077": {
-      "canonical_name": "牛もも肉（赤肉）",
-      "is_canonical": true
+      "canonical_name": "牛もも肉",
+      "is_canonical": false
     },
     "11078": {
       "canonical_name": "牛もも脂身",
       "is_canonical": true
     },
     "11079": {
-      "canonical_name": "牛そともも肉（脂身つき）",
+      "canonical_name": "牛そともも肉",
       "is_canonical": true
     },
     "11080": {
-      "canonical_name": "牛そともも肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "牛そともも肉",
+      "is_canonical": false
     },
     "11081": {
       "canonical_name": "牛そともも肉",
@@ -2033,7 +2033,7 @@
       "is_canonical": true
     },
     "11109": {
-      "canonical_name": "馬肉（赤肉）",
+      "canonical_name": "馬肉",
       "is_canonical": true
     },
     "11110": {
@@ -2053,7 +2053,7 @@
       "is_canonical": true
     },
     "11114": {
-      "canonical_name": "鹿肉（赤鹿・赤肉）",
+      "canonical_name": "鹿肉（赤鹿）",
       "is_canonical": true
     },
     "11115": {
@@ -2133,40 +2133,40 @@
       "is_canonical": false
     },
     "11135": {
-      "canonical_name": "豚もも脂身",
+      "canonical_name": "豚もも肉（大型種）",
       "is_canonical": true
     },
     "11136": {
-      "canonical_name": "豚そともも脂身つき",
+      "canonical_name": "豚そともも肉（大型種）",
       "is_canonical": true
     },
     "11137": {
-      "canonical_name": "豚そともも皮下脂肪なし",
-      "is_canonical": true
+      "canonical_name": "豚そともも肉（大型種）",
+      "is_canonical": false
     },
     "11138": {
-      "canonical_name": "豚そともも赤肉",
-      "is_canonical": true
+      "canonical_name": "豚そともも肉（大型種）",
+      "is_canonical": false
     },
     "11139": {
-      "canonical_name": "豚そともも脂身",
-      "is_canonical": true
+      "canonical_name": "豚そともも肉（大型種）",
+      "is_canonical": false
     },
     "11140": {
-      "canonical_name": "豚ヒレ肉",
+      "canonical_name": "豚ヒレ肉（大型種）",
       "is_canonical": true
     },
     "11141": {
-      "canonical_name": "豚かた脂身つき",
+      "canonical_name": "豚かた肉（中型種）",
       "is_canonical": true
     },
     "11142": {
-      "canonical_name": "豚かた皮下脂肪なし",
-      "is_canonical": true
+      "canonical_name": "豚かた肉（中型種）",
+      "is_canonical": false
     },
     "11143": {
-      "canonical_name": "豚かた赤肉",
-      "is_canonical": true
+      "canonical_name": "豚かた肉（中型種）",
+      "is_canonical": false
     },
     "11144": {
       "canonical_name": "豚かた肉",
@@ -2249,15 +2249,15 @@
       "is_canonical": true
     },
     "11164": {
-      "canonical_name": "豚舌",
+      "canonical_name": "豚タン",
       "is_canonical": true
     },
     "11165": {
-      "canonical_name": "豚心臓",
+      "canonical_name": "豚ハツ",
       "is_canonical": true
     },
     "11166": {
-      "canonical_name": "豚肝臓",
+      "canonical_name": "豚レバー",
       "is_canonical": true
     },
     "11167": {
@@ -2309,31 +2309,31 @@
       "is_canonical": true
     },
     "11202": {
-      "canonical_name": "ラムロース肉（脂身つき）",
+      "canonical_name": "ラムロース肉",
       "is_canonical": true
     },
     "11203": {
-      "canonical_name": "ラムもも肉（脂身つき）",
+      "canonical_name": "ラムもも肉",
       "is_canonical": true
     },
     "11204": {
-      "canonical_name": "やぎ肉（赤肉）",
+      "canonical_name": "やぎ肉",
       "is_canonical": true
     },
     "11205": {
-      "canonical_name": "あいがも肉（皮つき）",
+      "canonical_name": "あいがも肉",
       "is_canonical": true
     },
     "11206": {
-      "canonical_name": "あひる肉（皮つき）",
+      "canonical_name": "あひる肉",
       "is_canonical": true
     },
     "11207": {
-      "canonical_name": "うずら肉（皮つき）",
+      "canonical_name": "うずら肉",
       "is_canonical": true
     },
     "11208": {
-      "canonical_name": "まがも肉（皮なし）",
+      "canonical_name": "まがも肉",
       "is_canonical": true
     },
     "11209": {
@@ -2349,28 +2349,28 @@
       "is_canonical": true
     },
     "11212": {
-      "canonical_name": "鶏手羽肉（親鶏）",
+      "canonical_name": "鶏手羽肉",
       "is_canonical": true
     },
     "11213": {
-      "canonical_name": "鶏むね肉（親鶏）",
-      "is_canonical": true
+      "canonical_name": "鶏むね肉",
+      "is_canonical": false
     },
     "11214": {
-      "canonical_name": "鶏むね肉（親鶏）",
+      "canonical_name": "鶏むね肉",
       "is_canonical": false
     },
     "11215": {
-      "canonical_name": "鶏もも肉（親鶏）",
-      "is_canonical": true
+      "canonical_name": "鶏もも肉",
+      "is_canonical": false
     },
     "11216": {
-      "canonical_name": "鶏もも肉（親鶏）",
+      "canonical_name": "鶏もも肉",
       "is_canonical": false
     },
     "11217": {
       "canonical_name": "鶏ささみ肉",
-      "is_canonical": false
+      "is_canonical": true
     },
     "11218": {
       "canonical_name": "鶏手羽肉",
@@ -2409,15 +2409,15 @@
       "is_canonical": false
     },
     "11227": {
-      "canonical_name": "鶏ささみ",
+      "canonical_name": "鶏ささみ肉",
       "is_canonical": true
     },
     "11228": {
-      "canonical_name": "鶏ささみ",
+      "canonical_name": "鶏ささみ肉",
       "is_canonical": false
     },
     "11229": {
-      "canonical_name": "鶏ささみ",
+      "canonical_name": "鶏ささみ肉",
       "is_canonical": false
     },
     "11230": {
@@ -2425,11 +2425,11 @@
       "is_canonical": true
     },
     "11231": {
-      "canonical_name": "鶏心臓",
+      "canonical_name": "鶏ハツ",
       "is_canonical": true
     },
     "11232": {
-      "canonical_name": "鶏肝臓",
+      "canonical_name": "鶏レバー",
       "is_canonical": true
     },
     "11233": {
@@ -2437,15 +2437,15 @@
       "is_canonical": true
     },
     "11235": {
-      "canonical_name": "鶏もも皮",
+      "canonical_name": "鶏皮（もも）",
       "is_canonical": true
     },
     "11236": {
-      "canonical_name": "鶏胸軟骨",
+      "canonical_name": "鶏軟骨（胸肉）",
       "is_canonical": true
     },
     "11238": {
-      "canonical_name": "鳩肉",
+      "canonical_name": "はと肉",
       "is_canonical": true
     },
     "11240": {
@@ -2469,8 +2469,8 @@
       "is_canonical": true
     },
     "11246": {
-      "canonical_name": "ラムロース肉（皮下脂肪なし）",
-      "is_canonical": true
+      "canonical_name": "ラムロース肉",
+      "is_canonical": false
     },
     "11247": {
       "canonical_name": "あひる肉",
@@ -2485,11 +2485,11 @@
       "is_canonical": false
     },
     "11250": {
-      "canonical_name": "和牛もも肉（皮下脂肪なし）",
+      "canonical_name": "和牛もも肉",
       "is_canonical": false
     },
     "11251": {
-      "canonical_name": "和牛もも肉（皮下脂肪なし）",
+      "canonical_name": "和牛もも肉",
       "is_canonical": false
     },
     "11252": {
@@ -2497,79 +2497,79 @@
       "is_canonical": false
     },
     "11253": {
-      "canonical_name": "乳用肥育牛ヒレ肉（赤肉）",
+      "canonical_name": "牛ヒレ肉（乳用肥育牛）",
       "is_canonical": true
     },
     "11254": {
-      "canonical_name": "交雑牛リブロース（脂身つき）",
+      "canonical_name": "牛リブロース（交雑牛）脂身つき",
       "is_canonical": true
     },
     "11255": {
-      "canonical_name": "交雑牛リブロース（脂身つき）",
+      "canonical_name": "牛リブロース（交雑牛）脂身つき",
       "is_canonical": false
     },
     "11256": {
-      "canonical_name": "交雑牛リブロース（脂身つき）",
+      "canonical_name": "牛リブロース（交雑牛）脂身つき",
       "is_canonical": false
     },
     "11257": {
-      "canonical_name": "交雑牛リブロース（皮下脂肪なし）",
+      "canonical_name": "牛リブロース（交雑牛）皮下脂肪なし",
       "is_canonical": true
     },
     "11258": {
-      "canonical_name": "交雑牛リブロース（赤肉）",
+      "canonical_name": "牛リブロース（交雑牛）赤肉",
       "is_canonical": true
     },
     "11259": {
-      "canonical_name": "交雑牛リブロース（脂身）",
+      "canonical_name": "牛リブロース（交雑牛）脂身",
       "is_canonical": true
     },
     "11260": {
-      "canonical_name": "交雑牛ばら肉（脂身つき）",
+      "canonical_name": "牛ばら肉（交雑牛）脂身つき",
       "is_canonical": true
     },
     "11261": {
-      "canonical_name": "交雑牛もも肉（脂身つき）",
+      "canonical_name": "牛もも肉（交雑牛）脂身つき",
       "is_canonical": true
     },
     "11262": {
-      "canonical_name": "交雑牛もも肉（皮下脂肪なし）",
+      "canonical_name": "牛もも肉（交雑牛）皮下脂肪なし",
       "is_canonical": true
     },
     "11263": {
-      "canonical_name": "交雑牛もも肉（皮下脂肪なし）",
+      "canonical_name": "交雑牛もも肉",
       "is_canonical": false
     },
     "11264": {
-      "canonical_name": "交雑牛もも肉（皮下脂肪なし）",
+      "canonical_name": "交雑牛もも肉",
       "is_canonical": false
     },
     "11265": {
-      "canonical_name": "交雑牛もも肉（皮下脂肪なし）",
+      "canonical_name": "交雑牛もも肉",
       "is_canonical": true
     },
     "11266": {
-      "canonical_name": "交雑牛もも脂身",
-      "is_canonical": true
+      "canonical_name": "交雑牛もも肉",
+      "is_canonical": false
     },
     "11267": {
       "canonical_name": "交雑牛ヒレ肉",
       "is_canonical": true
     },
     "11268": {
-      "canonical_name": "輸入牛リブロース肉（脂身つき）",
+      "canonical_name": "牛リブロース肉（輸入）",
       "is_canonical": false
     },
     "11269": {
-      "canonical_name": "輸入牛リブロース肉（脂身つき）",
+      "canonical_name": "牛リブロース肉（輸入）",
       "is_canonical": false
     },
     "11270": {
-      "canonical_name": "牛もも肉（皮下脂肪なし）",
+      "canonical_name": "牛もも肉",
       "is_canonical": false
     },
     "11271": {
-      "canonical_name": "牛もも肉（皮下脂肪なし）",
+      "canonical_name": "牛もも肉",
       "is_canonical": false
     },
     "11272": {
@@ -2585,7 +2585,7 @@
       "is_canonical": true
     },
     "11275": {
-      "canonical_name": "鹿肉（ニホンジカ・赤肉）",
+      "canonical_name": "鹿肉（ニホンジカ）",
       "is_canonical": true
     },
     "11277": {
@@ -2593,7 +2593,7 @@
       "is_canonical": false
     },
     "11278": {
-      "canonical_name": "豚ヒレ肉",
+      "canonical_name": "豚ヒレ肉（大型種）",
       "is_canonical": false
     },
     "11280": {
@@ -2605,11 +2605,11 @@
       "is_canonical": false
     },
     "11282": {
-      "canonical_name": "ラムロース肉（脂身つき）",
+      "canonical_name": "ラムロース肉",
       "is_canonical": false
     },
     "11283": {
-      "canonical_name": "ラムもも肉（脂身つき）",
+      "canonical_name": "ラムもも肉",
       "is_canonical": false
     },
     "11284": {
@@ -2641,11 +2641,11 @@
       "is_canonical": true
     },
     "11294": {
-      "canonical_name": "鹿肉（ニホンジカ・赤肉）",
+      "canonical_name": "鹿肉（ニホンジカ）",
       "is_canonical": false
     },
     "11295": {
-      "canonical_name": "鹿肉（ニホンジカ・赤肉）",
+      "canonical_name": "鹿肉（ニホンジカ）",
       "is_canonical": false
     },
     "11296": {
@@ -2657,7 +2657,7 @@
       "is_canonical": false
     },
     "11298": {
-      "canonical_name": "鶏ささみ",
+      "canonical_name": "鶏ささみ肉",
       "is_canonical": false
     },
     "11301": {
@@ -2677,7 +2677,7 @@
       "is_canonical": false
     },
     "11311": {
-      "canonical_name": "鹿肉（ニホンジカ・赤肉）",
+      "canonical_name": "鹿肉（ニホンジカ）",
       "is_canonical": false
     },
     "11312": {
@@ -2801,7 +2801,7 @@
       "is_canonical": true
     },
     "13033": {
-      "canonical_name": "カテージチーズ",
+      "canonical_name": "カッテージチーズ",
       "is_canonical": true
     },
     "13034": {
@@ -2945,7 +2945,7 @@
       "is_canonical": true
     },
     "15034": {
-      "canonical_name": "あんまん",
+      "canonical_name": "中華まんじゅう（あんまん）",
       "is_canonical": true
     },
     "15165": {
@@ -2989,7 +2989,7 @@
       "is_canonical": true
     },
     "17034": {
-      "canonical_name": "トマトピューレー",
+      "canonical_name": "トマトピューレ",
       "is_canonical": true
     },
     "17035": {
@@ -3133,11 +3133,11 @@
       "is_canonical": false
     },
     "01026": {
-      "canonical_name": "角形食パン",
+      "canonical_name": "食パン",
       "is_canonical": true
     },
     "01174": {
-      "canonical_name": "角形食パン",
+      "canonical_name": "食パン",
       "is_canonical": false
     },
     "01030": {
@@ -3177,11 +3177,11 @@
       "is_canonical": false
     },
     "01045": {
-      "canonical_name": "手延そうめん",
+      "canonical_name": "手延そうめん・手延ひやむぎ",
       "is_canonical": true
     },
     "01046": {
-      "canonical_name": "手延そうめん",
+      "canonical_name": "手延そうめん・手延ひやむぎ",
       "is_canonical": false
     },
     "01047": {
@@ -3205,7 +3205,7 @@
       "is_canonical": true
     },
     "01064": {
-      "canonical_name": "マカロニ・スパゲッティ",
+      "canonical_name": "マカロニ・スパゲッティ（ゆで）",
       "is_canonical": true
     },
     "01149": {
@@ -3225,7 +3225,7 @@
       "is_canonical": true
     },
     "01071": {
-      "canonical_name": "小麦たんぱく",
+      "canonical_name": "小麦たんぱく（粉末状）",
       "is_canonical": true
     },
     "01074": {
@@ -3285,139 +3285,139 @@
       "is_canonical": true
     },
     "01182": {
-      "canonical_name": "黒米（玄米）",
+      "canonical_name": "黒米（穀粒）",
       "is_canonical": true
     },
     "01085": {
-      "canonical_name": "玄米ごはん（水稲）",
+      "canonical_name": "玄米",
       "is_canonical": true
     },
     "01086": {
-      "canonical_name": "半つき米ごはん（水稲）",
+      "canonical_name": "半つき米",
       "is_canonical": true
     },
     "01087": {
-      "canonical_name": "七分つき米ごはん（水稲）",
+      "canonical_name": "七分つき米",
       "is_canonical": true
     },
     "01168": {
-      "canonical_name": "インディカ米ごはん（精白米・水稲）",
+      "canonical_name": "ごはん（精白米・インディカ米）",
       "is_canonical": true
     },
     "01088": {
-      "canonical_name": "精白米ごはん（うるち米・水稲）",
+      "canonical_name": "ごはん（精白米・うるち米）",
       "is_canonical": true
     },
     "01154": {
-      "canonical_name": "精白米ごはん（もち米・水稲）",
+      "canonical_name": "ごはん（精白米・もち米）",
       "is_canonical": true
     },
     "01089": {
-      "canonical_name": "はいが精米ごはん（水稲）",
+      "canonical_name": "はいが精米ごはん",
       "is_canonical": true
     },
     "01155": {
-      "canonical_name": "発芽玄米ごはん（水稲）",
+      "canonical_name": "発芽玄米ごはん",
       "is_canonical": true
     },
     "01183": {
-      "canonical_name": "赤米ごはん（水稲）",
+      "canonical_name": "赤米ごはん",
       "is_canonical": true
     },
     "01090": {
-      "canonical_name": "玄米全がゆ",
+      "canonical_name": "全がゆ（玄米）",
       "is_canonical": true
     },
     "01094": {
-      "canonical_name": "玄米五分がゆ",
+      "canonical_name": "五分がゆ（玄米）",
       "is_canonical": true
     },
     "01091": {
-      "canonical_name": "半つき米全がゆ",
+      "canonical_name": "全がゆ（半つき米）",
       "is_canonical": true
     },
     "01095": {
-      "canonical_name": "半つき米五分がゆ",
+      "canonical_name": "五分がゆ（半つき米）",
       "is_canonical": true
     },
     "01092": {
-      "canonical_name": "七分つき米全がゆ",
+      "canonical_name": "全がゆ（七分つき米）",
       "is_canonical": true
     },
     "01096": {
-      "canonical_name": "七分つき米五分がゆ",
+      "canonical_name": "五分がゆ（七分つき米）",
       "is_canonical": true
     },
     "01093": {
-      "canonical_name": "精白米全がゆ",
+      "canonical_name": "全がゆ（精白米）",
       "is_canonical": true
     },
     "01097": {
-      "canonical_name": "精白米五分がゆ",
+      "canonical_name": "五分がゆ（精白米）",
       "is_canonical": true
     },
     "01185": {
-      "canonical_name": "精白米ごはん（軟飯）",
+      "canonical_name": "やわらかごはん（精白米）",
       "is_canonical": true
     },
     "01184": {
       "canonical_name": "黒米ごはん",
       "is_canonical": true
     },
+    "01106": {
+      "canonical_name": "玄米ごはん",
+      "is_canonical": true
+    },
+    "01107": {
+      "canonical_name": "半つき米ごはん",
+      "is_canonical": true
+    },
     "01098": {
-      "canonical_name": "水稲おもゆ",
-      "is_canonical": false
+      "canonical_name": "おもゆ（玄米）",
+      "is_canonical": true
     },
     "01099": {
-      "canonical_name": "水稲おもゆ",
-      "is_canonical": false
+      "canonical_name": "おもゆ（半つき米）",
+      "is_canonical": true
     },
     "01100": {
-      "canonical_name": "水稲おもゆ",
-      "is_canonical": false
+      "canonical_name": "おもゆ（七分つき米）",
+      "is_canonical": true
     },
     "01101": {
-      "canonical_name": "水稲おもゆ",
+      "canonical_name": "おもゆ（精白米）",
       "is_canonical": true
     },
     "01102": {
-      "canonical_name": "陸稲穀粒",
+      "canonical_name": "玄米（穀粒）",
       "is_canonical": false
     },
     "01103": {
-      "canonical_name": "陸稲穀粒",
+      "canonical_name": "半つき米（穀粒）",
       "is_canonical": false
     },
     "01104": {
-      "canonical_name": "陸稲穀粒",
+      "canonical_name": "七分つき米（穀粒）",
       "is_canonical": false
     },
     "01105": {
-      "canonical_name": "陸稲穀粒",
-      "is_canonical": true
-    },
-    "01106": {
-      "canonical_name": "陸稲めし",
-      "is_canonical": false
-    },
-    "01107": {
-      "canonical_name": "陸稲めし",
+      "canonical_name": "精白米（穀粒）",
       "is_canonical": false
     },
     "01214": {
-      "canonical_name": "水稲全かゆ",
-      "is_canonical": false
+      "canonical_name": "全がゆ（玄米）",
+      "is_canonical": true
     },
     "01215": {
-      "canonical_name": "水稲全かゆ",
+      "canonical_name": "全がゆ（精白米）",
       "is_canonical": true
     },
     "01108": {
-      "canonical_name": "陸稲ご飯",
-      "is_canonical": false
+      "canonical_name": "ごはん（七分つき米）",
+      "is_canonical": true
     },
     "01109": {
-      "canonical_name": "陸稲ご飯",
+      "canonical_name": "ごはん（精白米）",
       "is_canonical": true
     },
     "01110": {
@@ -3477,32 +3477,32 @@
       "is_canonical": true
     },
     "01122": {
-      "canonical_name": "そば粉",
+      "canonical_name": "そば粉（全層粉）",
       "is_canonical": true
     },
     "01123": {
-      "canonical_name": "そば粉",
-      "is_canonical": false
+      "canonical_name": "そば粉（内層粉）",
+      "is_canonical": true
     },
     "01124": {
-      "canonical_name": "そば粉",
+      "canonical_name": "そば粉（中層粉）",
       "is_canonical": true
     },
     "01125": {
-      "canonical_name": "そば粉",
-      "is_canonical": false
+      "canonical_name": "そば粉（表層粉）",
+      "is_canonical": true
     },
     "01126": {
       "canonical_name": "そば米",
       "is_canonical": true
     },
     "01127": {
-      "canonical_name": "生そば",
+      "canonical_name": "そば（生）",
       "is_canonical": true
     },
     "01128": {
-      "canonical_name": "生そば",
-      "is_canonical": false
+      "canonical_name": "そば（ゆで）",
+      "is_canonical": true
     },
     "01129": {
       "canonical_name": "干しそば",
@@ -3617,7 +3617,7 @@
       "is_canonical": false
     },
     "02009": {
-      "canonical_name": "さつまいも蒸し切干",
+      "canonical_name": "さつまいも（蒸し切干）",
       "is_canonical": true
     },
     "02048": {
@@ -3773,11 +3773,11 @@
       "is_canonical": false
     },
     "04002": {
-      "canonical_name": "あずき（全粒）",
+      "canonical_name": "あずき（ゆで）",
       "is_canonical": true
     },
     "04008": {
-      "canonical_name": "いんげんまめ（全粒）",
+      "canonical_name": "いんげんまめ（ゆで）",
       "is_canonical": true
     },
     "04009": {
@@ -3793,15 +3793,15 @@
       "is_canonical": true
     },
     "04012": {
-      "canonical_name": "青えんどう（全粒）",
+      "canonical_name": "青えんどう",
       "is_canonical": true
     },
     "04013": {
-      "canonical_name": "青えんどう（全粒）",
+      "canonical_name": "青えんどう",
       "is_canonical": false
     },
     "04074": {
-      "canonical_name": "赤えんどう（全粒）",
+      "canonical_name": "赤えんどう",
       "is_canonical": true
     },
     "04075": {
@@ -3817,11 +3817,11 @@
       "is_canonical": true
     },
     "04017": {
-      "canonical_name": "ささげ",
+      "canonical_name": "ささげ（全粒）",
       "is_canonical": true
     },
     "04018": {
-      "canonical_name": "ささげ",
+      "canonical_name": "ささげ（全粒）",
       "is_canonical": false
     },
     "04019": {
@@ -3974,11 +3974,11 @@
     },
     "04042": {
       "canonical_name": "凍り豆腐",
-      "is_canonical": false
+      "is_canonical": true
     },
     "04087": {
       "canonical_name": "凍り豆腐",
-      "is_canonical": true
+      "is_canonical": false
     },
     "04044": {
       "canonical_name": "豆腐竹輪",
@@ -4061,27 +4061,27 @@
       "is_canonical": true
     },
     "04064": {
-      "canonical_name": "つるあずき",
+      "canonical_name": "つるあずき（全粒）",
       "is_canonical": true
     },
     "04092": {
-      "canonical_name": "つるあずき",
+      "canonical_name": "つるあずき（全粒）",
       "is_canonical": false
     },
     "04065": {
-      "canonical_name": "ひよこまめ",
+      "canonical_name": "ひよこまめ（全粒）",
       "is_canonical": true
     },
     "04066": {
-      "canonical_name": "ひよこまめ",
+      "canonical_name": "ひよこまめ（全粒）",
       "is_canonical": false
     },
     "04068": {
-      "canonical_name": "べにばないんげん",
+      "canonical_name": "べにばないんげん（全粒）",
       "is_canonical": true
     },
     "04069": {
-      "canonical_name": "べにばないんげん",
+      "canonical_name": "べにばないんげん（全粒）",
       "is_canonical": false
     },
     "04108": {
@@ -4157,15 +4157,15 @@
       "is_canonical": true
     },
     "05023": {
-      "canonical_name": "はす（未熟）",
+      "canonical_name": "はすの実（未熟）",
       "is_canonical": true
     },
     "05024": {
-      "canonical_name": "はす（成熟）",
+      "canonical_name": "はすの実（成熟）",
       "is_canonical": true
     },
     "05043": {
-      "canonical_name": "はす",
+      "canonical_name": "れんこん",
       "is_canonical": true
     },
     "05048": {
@@ -4249,19 +4249,19 @@
       "is_canonical": true
     },
     "06019": {
-      "canonical_name": "トウミョウ（茎葉）",
+      "canonical_name": "トウミョウ",
       "is_canonical": true
     },
     "06329": {
-      "canonical_name": "トウミョウ（芽ばえ）",
+      "canonical_name": "トウミョウ芽ばえ",
       "is_canonical": true
     },
     "06330": {
-      "canonical_name": "トウミョウ（芽ばえ）",
+      "canonical_name": "トウミョウ芽ばえ",
       "is_canonical": false
     },
     "06331": {
-      "canonical_name": "トウミョウ（芽ばえ）",
+      "canonical_name": "トウミョウ芽ばえ",
       "is_canonical": false
     },
     "06020": {
@@ -4309,43 +4309,43 @@
       "is_canonical": false
     },
     "06030": {
-      "canonical_name": "おかひじき（茎葉）",
+      "canonical_name": "おかひじき",
       "is_canonical": true
     },
     "06031": {
-      "canonical_name": "おかひじき（茎葉）",
+      "canonical_name": "おかひじき",
       "is_canonical": false
     },
     "06032": {
-      "canonical_name": "オクラ（果実）",
+      "canonical_name": "オクラ",
       "is_canonical": true
     },
     "06033": {
-      "canonical_name": "オクラ（果実）",
+      "canonical_name": "オクラ",
       "is_canonical": false
     },
     "06034": {
-      "canonical_name": "かぶ葉",
+      "canonical_name": "かぶの葉",
       "is_canonical": true
     },
     "06035": {
-      "canonical_name": "かぶ葉",
+      "canonical_name": "かぶの葉",
       "is_canonical": false
     },
     "06036": {
-      "canonical_name": "かぶ根（皮つき）",
+      "canonical_name": "かぶの根（皮つき）",
       "is_canonical": true
     },
     "06037": {
-      "canonical_name": "かぶ根（皮つき）",
+      "canonical_name": "かぶの根（皮つき）",
       "is_canonical": false
     },
     "06038": {
-      "canonical_name": "かぶ根（皮なし）",
+      "canonical_name": "かぶの根（皮なし）",
       "is_canonical": true
     },
     "06039": {
-      "canonical_name": "かぶ根（皮なし）",
+      "canonical_name": "かぶの根（皮なし）",
       "is_canonical": false
     },
     "06046": {
@@ -4401,11 +4401,11 @@
       "is_canonical": false
     },
     "06058": {
-      "canonical_name": "きくの花びら",
+      "canonical_name": "きく（花びら）",
       "is_canonical": true
     },
     "06059": {
-      "canonical_name": "菊の花",
+      "canonical_name": "菊の花びら",
       "is_canonical": true
     },
     "06060": {
@@ -4445,7 +4445,7 @@
       "is_canonical": true
     },
     "06068": {
-      "canonical_name": "きゅうり（ぬかみそ漬）",
+      "canonical_name": "きゅうりぬか漬け",
       "is_canonical": true
     },
     "06075": {
@@ -4501,7 +4501,7 @@
       "is_canonical": false
     },
     "06385": {
-      "canonical_name": "コリアンダー（葉）",
+      "canonical_name": "コリアンダー",
       "is_canonical": true
     },
     "06089": {
@@ -4561,7 +4561,7 @@
       "is_canonical": true
     },
     "06103": {
-      "canonical_name": "しょうが（根茎・皮なし）",
+      "canonical_name": "しょうが",
       "is_canonical": true
     },
     "06365": {
@@ -4793,7 +4793,7 @@
       "is_canonical": false
     },
     "06180": {
-      "canonical_name": "スイートコーン缶詰（ホールカーネルスタイル）",
+      "canonical_name": "スイートコーン（缶詰）",
       "is_canonical": true
     },
     "06181": {
@@ -4829,7 +4829,7 @@
       "is_canonical": false
     },
     "06341": {
-      "canonical_name": "ミックスジュース（トマト類）",
+      "canonical_name": "ミックスジュース（トマト入り）",
       "is_canonical": true
     },
     "06187": {
@@ -4977,15 +4977,15 @@
       "is_canonical": true
     },
     "06229": {
-      "canonical_name": "野沢菜",
+      "canonical_name": "のざわな",
       "is_canonical": true
     },
     "06233": {
-      "canonical_name": "白菜",
+      "canonical_name": "はくさい",
       "is_canonical": true
     },
     "06234": {
-      "canonical_name": "白菜",
+      "canonical_name": "はくさい",
       "is_canonical": false
     },
     "06237": {
@@ -5073,11 +5073,11 @@
       "is_canonical": false
     },
     "06256": {
-      "canonical_name": "ふき（葉柄）",
+      "canonical_name": "ふき",
       "is_canonical": true
     },
     "06257": {
-      "canonical_name": "ふき（葉柄）",
+      "canonical_name": "ふき",
       "is_canonical": false
     },
     "06258": {
@@ -5134,7 +5134,7 @@
     },
     "06267": {
       "canonical_name": "ほうれんそう",
-      "is_canonical": false
+      "is_canonical": true
     },
     "06359": {
       "canonical_name": "ほうれんそう",
@@ -5142,7 +5142,7 @@
     },
     "06355": {
       "canonical_name": "ほうれんそう",
-      "is_canonical": true
+      "is_canonical": false
     },
     "06357": {
       "canonical_name": "ほうれんそう",
@@ -5245,7 +5245,7 @@
       "is_canonical": false
     },
     "06412": {
-      "canonical_name": "大豆もやし",
+      "canonical_name": "だいずもやし",
       "is_canonical": true
     },
     "06289": {
@@ -5261,15 +5261,15 @@
       "is_canonical": false
     },
     "06291": {
-      "canonical_name": "緑豆もやし",
+      "canonical_name": "りょくとうもやし",
       "is_canonical": true
     },
     "06292": {
-      "canonical_name": "緑豆もやし",
+      "canonical_name": "りょくとうもやし",
       "is_canonical": false
     },
     "06413": {
-      "canonical_name": "緑豆もやし",
+      "canonical_name": "りょくとうもやし",
       "is_canonical": false
     },
     "06293": {
@@ -5305,11 +5305,11 @@
       "is_canonical": true
     },
     "06312": {
-      "canonical_name": "レタス（結球）",
+      "canonical_name": "レタス",
       "is_canonical": true
     },
     "06361": {
-      "canonical_name": "レタス（結球）",
+      "canonical_name": "レタス",
       "is_canonical": false
     },
     "06313": {
@@ -5417,20 +5417,20 @@
       "is_canonical": true
     },
     "07026": {
-      "canonical_name": "うんしゅうみかん",
-      "is_canonical": false
+      "canonical_name": "うんしゅうみかん（じょうのう）",
+      "is_canonical": true
     },
     "07027": {
-      "canonical_name": "うんしゅうみかん",
+      "canonical_name": "うんしゅうみかん（じょうのう）",
       "is_canonical": false
     },
     "07028": {
-      "canonical_name": "うんしゅうみかん",
-      "is_canonical": false
+      "canonical_name": "うんしゅうみかん（砂じょう）",
+      "is_canonical": true
     },
     "07029": {
-      "canonical_name": "うんしゅうみかん",
-      "is_canonical": true
+      "canonical_name": "うんしゅうみかん（砂じょう）",
+      "is_canonical": false
     },
     "07031": {
       "canonical_name": "うんしゅうみかんジュース",
@@ -5693,11 +5693,11 @@
       "is_canonical": true
     },
     "07138": {
-      "canonical_name": "もも（白肉種）",
-      "is_canonical": false
+      "canonical_name": "もも缶詰（果肉）",
+      "is_canonical": true
     },
     "07139": {
-      "canonical_name": "もも缶詰液汁",
+      "canonical_name": "もも缶詰（液汁）",
       "is_canonical": true
     },
     "07184": {
@@ -5721,8 +5721,8 @@
       "is_canonical": true
     },
     "07148": {
-      "canonical_name": "りんご（皮なし）",
-      "is_canonical": true
+      "canonical_name": "りんご",
+      "is_canonical": false
     },
     "07176": {
       "canonical_name": "りんご",
@@ -5805,11 +5805,11 @@
       "is_canonical": true
     },
     "08043": {
-      "canonical_name": "生しいたけ（原木栽培）",
+      "canonical_name": "生しいたけ",
       "is_canonical": true
     },
     "08044": {
-      "canonical_name": "生しいたけ（原木栽培）",
+      "canonical_name": "生しいたけ",
       "is_canonical": false
     },
     "08013": {
@@ -5869,7 +5869,7 @@
       "is_canonical": false
     },
     "08058": {
-      "canonical_name": "カットなめこ",
+      "canonical_name": "なめこ（カット）",
       "is_canonical": true
     },
     "08022": {
@@ -5941,8 +5941,8 @@
       "is_canonical": true
     },
     "08033": {
-      "canonical_name": "マッシュルーム（水煮缶詰）",
-      "is_canonical": true
+      "canonical_name": "マッシュルーム",
+      "is_canonical": false
     },
     "08034": {
       "canonical_name": "まつたけ",
@@ -6132,16 +6132,16 @@
       "canonical_name": "カットわかめ",
       "is_canonical": false
     },
-    "09059": {
-      "canonical_name": "カットわかめ",
-      "is_canonical": false
-    },
     "09045": {
       "canonical_name": "湯通し塩蔵わかめ（塩抜き）",
       "is_canonical": true
     },
     "09057": {
       "canonical_name": "湯通し塩蔵わかめ（塩抜き）",
+      "is_canonical": false
+    },
+    "09059": {
+      "canonical_name": "カットわかめ",
       "is_canonical": false
     },
     "09046": {

@@ -1,7 +1,7 @@
 {
   "totalFoods": 1500,
   "mappedFoods": 1500,
-  "groupCount": 987,
+  "groupCount": 964,
   "groups": [
     {
       "canonical_name": "アーティチョーク",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "canonical_name": "あいがも肉（皮つき）",
+      "canonical_name": "あいがも肉",
       "representative": "11205",
       "representative_name": "＜鳥肉類＞　かも　あいがも　肉　皮つき　生",
       "members": [
@@ -204,7 +204,7 @@
       ]
     },
     {
-      "canonical_name": "あずき（全粒）",
+      "canonical_name": "あずき（ゆで）",
       "representative": "04002",
       "representative_name": "あずき　全粒　ゆで",
       "members": [
@@ -320,20 +320,13 @@
       "representative_name": "＜鳥肉類＞　かも　あひる　肉　皮なし　生",
       "members": [
         {
-          "food_number": "11247",
-          "food_name": "＜鳥肉類＞　かも　あひる　肉　皮なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "あひる肉（皮つき）",
-      "representative": "11206",
-      "representative_name": "＜鳥肉類＞　かも　あひる　肉　皮つき　生",
-      "members": [
-        {
           "food_number": "11206",
           "food_name": "＜鳥肉類＞　かも　あひる　肉　皮つき　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11247",
+          "food_name": "＜鳥肉類＞　かも　あひる　肉　皮なし　生",
           "is_canonical": true
         }
       ]
@@ -462,18 +455,6 @@
       ]
     },
     {
-      "canonical_name": "あゆ（天然・内臓）",
-      "representative": "10023",
-      "representative_name": "＜魚類＞　あゆ　天然　内臓　生",
-      "members": [
-        {
-          "food_number": "10023",
-          "food_name": "＜魚類＞　あゆ　天然　内臓　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "あゆ（天然）",
       "representative": "10021",
       "representative_name": "＜魚類＞　あゆ　天然　生",
@@ -487,22 +468,10 @@
           "food_number": "10022",
           "food_name": "＜魚類＞　あゆ　天然　焼き",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "あゆ（養殖・内臓）",
-      "representative": "10027",
-      "representative_name": "＜魚類＞　あゆ　養殖　内臓　生",
-      "members": [
-        {
-          "food_number": "10027",
-          "food_name": "＜魚類＞　あゆ　養殖　内臓　生",
-          "is_canonical": true
         },
         {
-          "food_number": "10028",
-          "food_name": "＜魚類＞　あゆ　養殖　内臓　焼き",
+          "food_number": "10023",
+          "food_name": "＜魚類＞　あゆ　天然　内臓　生",
           "is_canonical": false
         }
       ]
@@ -520,6 +489,16 @@
         {
           "food_number": "10026",
           "food_name": "＜魚類＞　あゆ　養殖　焼き",
+          "is_canonical": false
+        },
+        {
+          "food_number": "10027",
+          "food_name": "＜魚類＞　あゆ　養殖　内臓　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "10028",
+          "food_name": "＜魚類＞　あゆ　養殖　内臓　焼き",
           "is_canonical": false
         }
       ]
@@ -666,18 +645,6 @@
       ]
     },
     {
-      "canonical_name": "あわび（くろあわび）",
-      "representative": "10427",
-      "representative_name": "＜貝類＞　あわび　くろあわび　生",
-      "members": [
-        {
-          "food_number": "10427",
-          "food_name": "＜貝類＞　あわび　くろあわび　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "あんこう",
       "representative": "10031",
       "representative_name": "＜魚類＞　あんこう　生",
@@ -708,18 +675,6 @@
           "food_number": "07009",
           "food_name": "あんず　缶詰",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "あんまん",
-      "representative": "15034",
-      "representative_name": "＜和生菓子・和半生菓子類＞　まんじゅう　中華まんじゅう　あんまん　こしあん入り",
-      "members": [
-        {
-          "food_number": "15034",
-          "food_name": "＜和生菓子・和半生菓子類＞　まんじゅう　中華まんじゅう　あんまん　こしあん入り",
-          "is_canonical": true
         }
       ]
     },
@@ -948,7 +903,19 @@
       ]
     },
     {
-      "canonical_name": "いわし缶詰",
+      "canonical_name": "いわし缶詰（トマト漬）",
+      "representative": "10062",
+      "representative_name": "＜魚類＞　（いわし類）　缶詰　トマト漬",
+      "members": [
+        {
+          "food_number": "10062",
+          "food_name": "＜魚類＞　（いわし類）　缶詰　トマト漬",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "いわし缶詰（水煮）",
       "representative": "10060",
       "representative_name": "＜魚類＞　（いわし類）　缶詰　水煮",
       "members": [
@@ -956,11 +923,6 @@
           "food_number": "10060",
           "food_name": "＜魚類＞　（いわし類）　缶詰　水煮",
           "is_canonical": true
-        },
-        {
-          "food_number": "10062",
-          "food_name": "＜魚類＞　（いわし類）　缶詰　トマト漬",
-          "is_canonical": false
         }
       ]
     },
@@ -989,7 +951,7 @@
       ]
     },
     {
-      "canonical_name": "いんげんまめ（全粒）",
+      "canonical_name": "いんげんまめ（ゆで）",
       "representative": "04008",
       "representative_name": "いんげんまめ　全粒　ゆで",
       "members": [
@@ -1020,18 +982,6 @@
         {
           "food_number": "04011",
           "food_name": "いんげんまめ　豆きんとん",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "インディカ米ごはん（精白米・水稲）",
-      "representative": "01168",
-      "representative_name": "こめ　［水稲めし］　精白米　インディカ米",
-      "members": [
-        {
-          "food_number": "01168",
-          "food_name": "こめ　［水稲めし］　精白米　インディカ米",
           "is_canonical": true
         }
       ]
@@ -1114,7 +1064,7 @@
       ]
     },
     {
-      "canonical_name": "うずら肉（皮つき）",
+      "canonical_name": "うずら肉",
       "representative": "11207",
       "representative_name": "＜鳥肉類＞　うずら　肉　皮つき　生",
       "members": [
@@ -1247,29 +1197,36 @@
       ]
     },
     {
-      "canonical_name": "うんしゅうみかん",
-      "representative": "07029",
-      "representative_name": "（かんきつ類）　うんしゅうみかん　砂じょう　普通　生",
+      "canonical_name": "うんしゅうみかん（じょうのう）",
+      "representative": "07026",
+      "representative_name": "（かんきつ類）　うんしゅうみかん　じょうのう　早生　生",
       "members": [
         {
           "food_number": "07026",
           "food_name": "（かんきつ類）　うんしゅうみかん　じょうのう　早生　生",
-          "is_canonical": false
+          "is_canonical": true
         },
         {
           "food_number": "07027",
           "food_name": "（かんきつ類）　うんしゅうみかん　じょうのう　普通　生",
           "is_canonical": false
-        },
+        }
+      ]
+    },
+    {
+      "canonical_name": "うんしゅうみかん（砂じょう）",
+      "representative": "07028",
+      "representative_name": "（かんきつ類）　うんしゅうみかん　砂じょう　早生　生",
+      "members": [
         {
           "food_number": "07028",
           "food_name": "（かんきつ類）　うんしゅうみかん　砂じょう　早生　生",
-          "is_canonical": false
+          "is_canonical": true
         },
         {
           "food_number": "07029",
           "food_name": "（かんきつ類）　うんしゅうみかん　砂じょう　普通　生",
-          "is_canonical": true
+          "is_canonical": false
         }
       ]
     },
@@ -1535,7 +1492,7 @@
       ]
     },
     {
-      "canonical_name": "おかひじき（茎葉）",
+      "canonical_name": "おかひじき",
       "representative": "06030",
       "representative_name": "おかひじき　茎葉　生",
       "members": [
@@ -1593,7 +1550,7 @@
       ]
     },
     {
-      "canonical_name": "オクラ（果実）",
+      "canonical_name": "オクラ",
       "representative": "06032",
       "representative_name": "オクラ　果実　生",
       "members": [
@@ -1665,6 +1622,54 @@
         {
           "food_number": "10078",
           "food_name": "＜魚類＞　おひょう　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "おもゆ（七分つき米）",
+      "representative": "01100",
+      "representative_name": "こめ　［水稲おもゆ］　七分つき米",
+      "members": [
+        {
+          "food_number": "01100",
+          "food_name": "こめ　［水稲おもゆ］　七分つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "おもゆ（半つき米）",
+      "representative": "01099",
+      "representative_name": "こめ　［水稲おもゆ］　半つき米",
+      "members": [
+        {
+          "food_number": "01099",
+          "food_name": "こめ　［水稲おもゆ］　半つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "おもゆ（玄米）",
+      "representative": "01098",
+      "representative_name": "こめ　［水稲おもゆ］　玄米",
+      "members": [
+        {
+          "food_number": "01098",
+          "food_name": "こめ　［水稲おもゆ］　玄米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "おもゆ（精白米）",
+      "representative": "01101",
+      "representative_name": "こめ　［水稲おもゆ］　精白米",
+      "members": [
+        {
+          "food_number": "01101",
+          "food_name": "こめ　［水稲おもゆ］　精白米",
           "is_canonical": true
         }
       ]
@@ -1957,13 +1962,13 @@
       ]
     },
     {
-      "canonical_name": "カットなめこ",
-      "representative": "08058",
-      "representative_name": "なめこ　カットなめこ　生",
+      "canonical_name": "カッテージチーズ",
+      "representative": "13033",
+      "representative_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　カテージ",
       "members": [
         {
-          "food_number": "08058",
-          "food_name": "なめこ　カットなめこ　生",
+          "food_number": "13033",
+          "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　カテージ",
           "is_canonical": true
         }
       ]
@@ -1991,19 +1996,7 @@
       ]
     },
     {
-      "canonical_name": "カテージチーズ",
-      "representative": "13033",
-      "representative_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　カテージ",
-      "members": [
-        {
-          "food_number": "13033",
-          "food_name": "＜牛乳及び乳製品＞　（チーズ類）　ナチュラルチーズ　カテージ",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "かぶ根（皮つき）",
+      "canonical_name": "かぶの根（皮つき）",
       "representative": "06036",
       "representative_name": "かぶ　根　皮つき　生",
       "members": [
@@ -2020,7 +2013,7 @@
       ]
     },
     {
-      "canonical_name": "かぶ根（皮なし）",
+      "canonical_name": "かぶの根（皮なし）",
       "representative": "06038",
       "representative_name": "かぶ　根　皮なし　生",
       "members": [
@@ -2037,7 +2030,7 @@
       ]
     },
     {
-      "canonical_name": "かぶ葉",
+      "canonical_name": "かぶの葉",
       "representative": "06034",
       "representative_name": "かぶ　葉　生",
       "members": [
@@ -2260,6 +2253,18 @@
       ]
     },
     {
+      "canonical_name": "きく（花びら）",
+      "representative": "06058",
+      "representative_name": "きく　花びら　生",
+      "members": [
+        {
+          "food_number": "06058",
+          "food_name": "きく　花びら　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "きくいも",
       "representative": "02001",
       "representative_name": "＜いも類＞　きくいも　塊茎　生",
@@ -2267,18 +2272,6 @@
         {
           "food_number": "02001",
           "food_name": "＜いも類＞　きくいも　塊茎　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "きくの花びら",
-      "representative": "06058",
-      "representative_name": "きく　花びら　生",
-      "members": [
-        {
-          "food_number": "06058",
-          "food_name": "きく　花びら　生",
           "is_canonical": true
         }
       ]
@@ -2499,7 +2492,7 @@
       ]
     },
     {
-      "canonical_name": "きゅうり（ぬかみそ漬）",
+      "canonical_name": "きゅうりぬか漬け",
       "representative": "06068",
       "representative_name": "きゅうり　漬物　ぬかみそ漬",
       "members": [
@@ -2840,7 +2833,7 @@
       ]
     },
     {
-      "canonical_name": "くるまえび（養殖）",
+      "canonical_name": "くるまえび",
       "representative": "10321",
       "representative_name": "＜えび・かに類＞　（えび類）　くるまえび　養殖　生",
       "members": [
@@ -2869,6 +2862,18 @@
         {
           "food_number": "06077",
           "food_name": "クレソン　茎葉　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "くろあわび",
+      "representative": "10427",
+      "representative_name": "＜貝類＞　あわび　くろあわび　生",
+      "members": [
+        {
+          "food_number": "10427",
+          "food_name": "＜貝類＞　あわび　くろあわび　生",
           "is_canonical": true
         }
       ]
@@ -2910,7 +2915,48 @@
       ]
     },
     {
-      "canonical_name": "くろまぐろ（養殖・脂身）",
+      "canonical_name": "くろまぐろ（脂身・天然）",
+      "representative": "10254",
+      "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生",
+      "members": [
+        {
+          "food_number": "10254",
+          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "くろまぐろ（赤身・天然）",
+      "representative": "10253",
+      "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生",
+      "members": [
+        {
+          "food_number": "10253",
+          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "くろまぐろ（赤身・養殖）",
+      "representative": "10450",
+      "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　生",
+      "members": [
+        {
+          "food_number": "10450",
+          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "10451",
+          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　水煮",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "くろまぐろ脂身",
       "representative": "10459",
       "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　脂身　生",
       "members": [
@@ -2947,7 +2993,7 @@
       ]
     },
     {
-      "canonical_name": "くろまぐろ（養殖・赤身）",
+      "canonical_name": "くろまぐろ赤身",
       "representative": "10452",
       "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　蒸し",
       "members": [
@@ -2969,47 +3015,6 @@
         {
           "food_number": "10455",
           "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　ソテー",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "くろまぐろ脂身（天然）",
-      "representative": "10254",
-      "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生",
-      "members": [
-        {
-          "food_number": "10254",
-          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　脂身　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "くろまぐろ赤身（天然）",
-      "representative": "10253",
-      "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生",
-      "members": [
-        {
-          "food_number": "10253",
-          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　天然　赤身　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "くろまぐろ赤身（養殖）",
-      "representative": "10450",
-      "representative_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　生",
-      "members": [
-        {
-          "food_number": "10450",
-          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "10451",
-          "food_name": "＜魚類＞　（まぐろ類）　くろまぐろ　養殖　赤身　水煮",
           "is_canonical": false
         }
       ]
@@ -3208,6 +3213,66 @@
       ]
     },
     {
+      "canonical_name": "ごはん（七分つき米）",
+      "representative": "01108",
+      "representative_name": "こめ　［陸稲めし］　七分つき米",
+      "members": [
+        {
+          "food_number": "01108",
+          "food_name": "こめ　［陸稲めし］　七分つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "ごはん（精白米・インディカ米）",
+      "representative": "01168",
+      "representative_name": "こめ　［水稲めし］　精白米　インディカ米",
+      "members": [
+        {
+          "food_number": "01168",
+          "food_name": "こめ　［水稲めし］　精白米　インディカ米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "ごはん（精白米・うるち米）",
+      "representative": "01088",
+      "representative_name": "こめ　［水稲めし］　精白米　うるち米",
+      "members": [
+        {
+          "food_number": "01088",
+          "food_name": "こめ　［水稲めし］　精白米　うるち米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "ごはん（精白米・もち米）",
+      "representative": "01154",
+      "representative_name": "こめ　［水稲めし］　精白米　もち米",
+      "members": [
+        {
+          "food_number": "01154",
+          "food_name": "こめ　［水稲めし］　精白米　もち米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "ごはん（精白米）",
+      "representative": "01109",
+      "representative_name": "こめ　［陸稲めし］　精白米",
+      "members": [
+        {
+          "food_number": "01109",
+          "food_name": "こめ　［陸稲めし］　精白米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "ごぼう",
       "representative": "06085",
       "representative_name": "（ごぼう類）　ごぼう　根　ゆで",
@@ -3310,7 +3375,7 @@
       ]
     },
     {
-      "canonical_name": "コリアンダー（葉）",
+      "canonical_name": "コリアンダー",
       "representative": "06385",
       "representative_name": "コリアンダー　葉　生",
       "members": [
@@ -3436,7 +3501,7 @@
       ]
     },
     {
-      "canonical_name": "ささげ",
+      "canonical_name": "ささげ（全粒）",
       "representative": "04017",
       "representative_name": "ささげ　全粒　乾",
       "members": [
@@ -3475,6 +3540,18 @@
       ]
     },
     {
+      "canonical_name": "さつまいも（蒸し切干）",
+      "representative": "02009",
+      "representative_name": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
+      "members": [
+        {
+          "food_number": "02009",
+          "food_name": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "さつまいも（皮つき）",
       "representative": "02045",
       "representative_name": "＜いも類＞　（さつまいも類）　さつまいも　塊根　皮つき　生",
@@ -3504,18 +3581,6 @@
       ]
     },
     {
-      "canonical_name": "さつまいも蒸し切干",
-      "representative": "02009",
-      "representative_name": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
-      "members": [
-        {
-          "food_number": "02009",
-          "food_name": "＜いも類＞　（さつまいも類）　さつまいも　蒸し切干",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "さといも",
       "representative": "02011",
       "representative_name": "＜いも類＞　（さといも類）　さといも　球茎　水煮",
@@ -3540,7 +3605,7 @@
       ]
     },
     {
-      "canonical_name": "さば 水煮缶",
+      "canonical_name": "さば水煮缶",
       "representative": "10164",
       "representative_name": "＜魚類＞　（さば類）　缶詰　水煮",
       "members": [
@@ -3552,7 +3617,7 @@
       ]
     },
     {
-      "canonical_name": "さば 開き干し",
+      "canonical_name": "さば開き干し",
       "representative": "10162",
       "representative_name": "＜魚類＞　（さば類）　加工品　開き干し",
       "members": [
@@ -3994,6 +4059,11 @@
       "representative_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし",
       "members": [
         {
+          "food_number": "06103",
+          "food_name": "（しょうが類）　しょうが　根茎　皮なし　生",
+          "is_canonical": false
+        },
+        {
           "food_number": "06365",
           "food_name": "（しょうが類）　しょうが　根茎　皮なし　生　おろし",
           "is_canonical": true
@@ -4006,18 +4076,6 @@
       ]
     },
     {
-      "canonical_name": "しょうが（根茎・皮なし）",
-      "representative": "06103",
-      "representative_name": "（しょうが類）　しょうが　根茎　皮なし　生",
-      "members": [
-        {
-          "food_number": "06103",
-          "food_name": "（しょうが類）　しょうが　根茎　皮なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "しらうお",
       "representative": "10186",
       "representative_name": "＜魚類＞　しらうお　生",
@@ -4025,18 +4083,6 @@
         {
           "food_number": "10186",
           "food_name": "＜魚類＞　しらうお　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "しらこ（まだら）",
-      "representative": "10207",
-      "representative_name": "＜魚類＞　（たら類）　まだら　しらこ　生",
-      "members": [
-        {
-          "food_number": "10207",
-          "food_name": "＜魚類＞　（たら類）　まだら　しらこ　生",
           "is_canonical": true
         }
       ]
@@ -4234,7 +4280,7 @@
       ]
     },
     {
-      "canonical_name": "スイートコーン缶詰（ホールカーネルスタイル）",
+      "canonical_name": "スイートコーン（缶詰）",
       "representative": "06180",
       "representative_name": "（とうもろこし類）　スイートコーン　缶詰　ホールカーネルスタイル",
       "members": [
@@ -4656,6 +4702,30 @@
       ]
     },
     {
+      "canonical_name": "そば（ゆで）",
+      "representative": "01128",
+      "representative_name": "そば　そば　ゆで",
+      "members": [
+        {
+          "food_number": "01128",
+          "food_name": "そば　そば　ゆで",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "そば（生）",
+      "representative": "01127",
+      "representative_name": "そば　そば　生",
+      "members": [
+        {
+          "food_number": "01127",
+          "food_name": "そば　そば　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "そば米",
       "representative": "01126",
       "representative_name": "そば　そば米",
@@ -4668,29 +4738,50 @@
       ]
     },
     {
-      "canonical_name": "そば粉",
+      "canonical_name": "そば粉（中層粉）",
       "representative": "01124",
       "representative_name": "そば　そば粉　中層粉",
       "members": [
         {
-          "food_number": "01122",
-          "food_name": "そば　そば粉　全層粉",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01123",
-          "food_name": "そば　そば粉　内層粉",
-          "is_canonical": false
-        },
-        {
           "food_number": "01124",
           "food_name": "そば　そば粉　中層粉",
           "is_canonical": true
-        },
+        }
+      ]
+    },
+    {
+      "canonical_name": "そば粉（全層粉）",
+      "representative": "01122",
+      "representative_name": "そば　そば粉　全層粉",
+      "members": [
+        {
+          "food_number": "01122",
+          "food_name": "そば　そば粉　全層粉",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "そば粉（内層粉）",
+      "representative": "01123",
+      "representative_name": "そば　そば粉　内層粉",
+      "members": [
+        {
+          "food_number": "01123",
+          "food_name": "そば　そば粉　内層粉",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "そば粉（表層粉）",
+      "representative": "01125",
+      "representative_name": "そば　そば粉　表層粉",
+      "members": [
         {
           "food_number": "01125",
           "food_name": "そば　そば粉　表層粉",
-          "is_canonical": false
+          "is_canonical": true
         }
       ]
     },
@@ -4825,18 +4916,23 @@
     },
     {
       "canonical_name": "だいずもやし",
-      "representative": "06287",
-      "representative_name": "（もやし類）　だいずもやし　生",
+      "representative": "06412",
+      "representative_name": "（もやし類）　だいずもやし　油いため",
       "members": [
         {
           "food_number": "06287",
           "food_name": "（もやし類）　だいずもやし　生",
-          "is_canonical": true
+          "is_canonical": false
         },
         {
           "food_number": "06288",
           "food_name": "（もやし類）　だいずもやし　ゆで",
           "is_canonical": false
+        },
+        {
+          "food_number": "06412",
+          "food_name": "（もやし類）　だいずもやし　油いため",
+          "is_canonical": true
         }
       ]
     },
@@ -4854,6 +4950,18 @@
     },
     {
       "canonical_name": "たいせいようさけ（皮つき・養殖）",
+      "representative": "10144",
+      "representative_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
+      "members": [
+        {
+          "food_number": "10144",
+          "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "たいせいようさけ（養殖・皮つき）",
       "representative": "10145",
       "representative_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　焼き",
       "members": [
@@ -4885,7 +4993,7 @@
       ]
     },
     {
-      "canonical_name": "たいせいようさけ（皮なし・養殖）",
+      "canonical_name": "たいせいようさけ（養殖・皮なし）",
       "representative": "10438",
       "representative_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　生",
       "members": [
@@ -4913,18 +5021,6 @@
           "food_number": "10442",
           "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮なし　焼き",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "たいせいようさけ（養殖・皮つき）",
-      "representative": "10144",
-      "representative_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
-      "members": [
-        {
-          "food_number": "10144",
-          "food_name": "＜魚類＞　（さけ・ます類）　たいせいようさけ　養殖　皮つき　生",
-          "is_canonical": true
         }
       ]
     },
@@ -4963,7 +5059,7 @@
       ]
     },
     {
-      "canonical_name": "たいらがい貝柱",
+      "canonical_name": "たいらがい（貝柱）",
       "representative": "10298",
       "representative_name": "＜貝類＞　たいらがい　貝柱　生",
       "members": [
@@ -5134,7 +5230,7 @@
       ]
     },
     {
-      "canonical_name": "たらこ（すけとうだら卵）",
+      "canonical_name": "たらこ",
       "representative": "10202",
       "representative_name": "＜魚類＞　（たら類）　すけとうだら　たらこ　生",
       "members": [
@@ -5380,7 +5476,7 @@
       ]
     },
     {
-      "canonical_name": "つるあずき",
+      "canonical_name": "つるあずき（全粒）",
       "representative": "04064",
       "representative_name": "つるあずき　全粒　乾",
       "members": [
@@ -5503,7 +5599,19 @@
       ]
     },
     {
-      "canonical_name": "トウミョウ（芽ばえ）",
+      "canonical_name": "トウミョウ",
+      "representative": "06019",
+      "representative_name": "（えんどう類）　トウミョウ　茎葉　生",
+      "members": [
+        {
+          "food_number": "06019",
+          "food_name": "（えんどう類）　トウミョウ　茎葉　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "トウミョウ芽ばえ",
       "representative": "06329",
       "representative_name": "（えんどう類）　トウミョウ　芽ばえ　生",
       "members": [
@@ -5521,18 +5629,6 @@
           "food_number": "06331",
           "food_name": "（えんどう類）　トウミョウ　芽ばえ　油いため",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "トウミョウ（茎葉）",
-      "representative": "06019",
-      "representative_name": "（えんどう類）　トウミョウ　茎葉　生",
-      "members": [
-        {
-          "food_number": "06019",
-          "food_name": "（えんどう類）　トウミョウ　茎葉　生",
-          "is_canonical": true
         }
       ]
     },
@@ -5670,7 +5766,7 @@
       ]
     },
     {
-      "canonical_name": "トマトピューレー",
+      "canonical_name": "トマトピューレ",
       "representative": "17034",
       "representative_name": "＜調味料類＞　（トマト加工品類）　トマトピューレー",
       "members": [
@@ -5742,7 +5838,7 @@
       ]
     },
     {
-      "canonical_name": "とりがい斧足",
+      "canonical_name": "とりがい（斧足）",
       "representative": "10303",
       "representative_name": "＜貝類＞　とりがい　斧足　生",
       "members": [
@@ -5947,13 +6043,25 @@
       ]
     },
     {
-      "canonical_name": "なまり節（かつお）",
+      "canonical_name": "なまり節",
       "representative": "10089",
       "representative_name": "＜魚類＞　（かつお類）　加工品　なまり",
       "members": [
         {
           "food_number": "10089",
           "food_name": "＜魚類＞　（かつお類）　加工品　なまり",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "なめこ（カット）",
+      "representative": "08058",
+      "representative_name": "なめこ　カットなめこ　生",
+      "members": [
+        {
+          "food_number": "08058",
+          "food_name": "なめこ　カットなめこ　生",
           "is_canonical": true
         }
       ]
@@ -6063,7 +6171,7 @@
       ]
     },
     {
-      "canonical_name": "ニジマス（海面養殖・皮つき）",
+      "canonical_name": "ニジマス",
       "representative": "10146",
       "representative_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　生",
       "members": [
@@ -6076,30 +6184,16 @@
           "food_number": "10147",
           "food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮つき　焼き",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "ニジマス（海面養殖・皮なし）",
-      "representative": "10402",
-      "representative_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮なし　生",
-      "members": [
-        {
-          "food_number": "10402",
-          "food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "ニジマス（淡水養殖・皮つき）",
-      "representative": "10148",
-      "representative_name": "＜魚類＞　（さけ・ます類）　にじます　淡水養殖　皮つき　生",
-      "members": [
+        },
         {
           "food_number": "10148",
           "food_name": "＜魚類＞　（さけ・ます類）　にじます　淡水養殖　皮つき　生",
-          "is_canonical": true
+          "is_canonical": false
+        },
+        {
+          "food_number": "10402",
+          "food_name": "＜魚類＞　（さけ・ます類）　にじます　海面養殖　皮なし　生",
+          "is_canonical": false
         }
       ]
     },
@@ -6260,6 +6354,18 @@
       ]
     },
     {
+      "canonical_name": "のざわな",
+      "representative": "06229",
+      "representative_name": "のざわな　葉　生",
+      "members": [
+        {
+          "food_number": "06229",
+          "food_name": "のざわな　葉　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "パーム油",
       "representative": "14009",
       "representative_name": "（植物油脂類）　パーム油",
@@ -6296,7 +6402,7 @@
       ]
     },
     {
-      "canonical_name": "はいが精米ごはん（水稲）",
+      "canonical_name": "はいが精米ごはん",
       "representative": "01089",
       "representative_name": "こめ　［水稲めし］　はいが精米",
       "members": [
@@ -6337,6 +6443,23 @@
       ]
     },
     {
+      "canonical_name": "はくさい",
+      "representative": "06233",
+      "representative_name": "はくさい　結球葉　生",
+      "members": [
+        {
+          "food_number": "06233",
+          "food_name": "はくさい　結球葉　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "06234",
+          "food_name": "はくさい　結球葉　ゆで",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
       "canonical_name": "パクチョイ",
       "representative": "06237",
       "representative_name": "パクチョイ　葉　生",
@@ -6373,19 +6496,19 @@
       ]
     },
     {
-      "canonical_name": "はす",
-      "representative": "05043",
-      "representative_name": "はす　成熟　ゆで",
+      "canonical_name": "ハスカップ",
+      "representative": "07104",
+      "representative_name": "ハスカップ　生",
       "members": [
         {
-          "food_number": "05043",
-          "food_name": "はす　成熟　ゆで",
+          "food_number": "07104",
+          "food_name": "ハスカップ　生",
           "is_canonical": true
         }
       ]
     },
     {
-      "canonical_name": "はす（成熟）",
+      "canonical_name": "はすの実（成熟）",
       "representative": "05024",
       "representative_name": "はす　成熟　乾",
       "members": [
@@ -6397,25 +6520,13 @@
       ]
     },
     {
-      "canonical_name": "はす（未熟）",
+      "canonical_name": "はすの実（未熟）",
       "representative": "05023",
       "representative_name": "はす　未熟　生",
       "members": [
         {
           "food_number": "05023",
           "food_name": "はす　未熟　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "ハスカップ",
-      "representative": "07104",
-      "representative_name": "ハスカップ　生",
-      "members": [
-        {
-          "food_number": "07104",
-          "food_name": "ハスカップ　生",
           "is_canonical": true
         }
       ]
@@ -6551,6 +6662,18 @@
         {
           "food_number": "01138",
           "food_name": "はとむぎ　精白粒",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "はと肉",
+      "representative": "11238",
+      "representative_name": "＜鳥肉類＞　はと　肉　皮なし　生",
+      "members": [
+        {
+          "food_number": "11238",
+          "food_name": "＜鳥肉類＞　はと　肉　皮なし　生",
           "is_canonical": true
         }
       ]
@@ -6865,7 +6988,7 @@
       ]
     },
     {
-      "canonical_name": "ひよこまめ",
+      "canonical_name": "ひよこまめ（全粒）",
       "representative": "04065",
       "representative_name": "ひよこまめ　全粒　乾",
       "members": [
@@ -6974,7 +7097,7 @@
       ]
     },
     {
-      "canonical_name": "びんなが",
+      "canonical_name": "びんながまぐろ",
       "representative": "10255",
       "representative_name": "＜魚類＞　（まぐろ類）　びんなが　生",
       "members": [
@@ -6998,7 +7121,7 @@
       ]
     },
     {
-      "canonical_name": "ふき（葉柄）",
+      "canonical_name": "ふき",
       "representative": "06256",
       "representative_name": "（ふき類）　ふき　葉柄　生",
       "members": [
@@ -7333,7 +7456,7 @@
       ]
     },
     {
-      "canonical_name": "べにばないんげん",
+      "canonical_name": "べにばないんげん（全粒）",
       "representative": "04068",
       "representative_name": "べにばないんげん　全粒　乾",
       "members": [
@@ -7375,13 +7498,13 @@
     },
     {
       "canonical_name": "ほうれんそう",
-      "representative": "06355",
-      "representative_name": "ほうれんそう　葉　夏採り　生",
+      "representative": "06267",
+      "representative_name": "ほうれんそう　葉　通年平均　生",
       "members": [
         {
           "food_number": "06267",
           "food_name": "ほうれんそう　葉　通年平均　生",
-          "is_canonical": false
+          "is_canonical": true
         },
         {
           "food_number": "06269",
@@ -7391,7 +7514,7 @@
         {
           "food_number": "06355",
           "food_name": "ほうれんそう　葉　夏採り　生",
-          "is_canonical": true
+          "is_canonical": false
         },
         {
           "food_number": "06356",
@@ -7535,7 +7658,7 @@
       ]
     },
     {
-      "canonical_name": "ほっけ開き干し",
+      "canonical_name": "ほっけ（開き干し）",
       "representative": "10248",
       "representative_name": "＜魚類＞　ほっけ　開き干し　生",
       "members": [
@@ -7680,7 +7803,7 @@
       ]
     },
     {
-      "canonical_name": "まあじ開き干し",
+      "canonical_name": "まあじ（開き干し）",
       "representative": "10006",
       "representative_name": "＜魚類＞　（あじ類）　まあじ　開き干し　生",
       "members": [
@@ -7773,7 +7896,7 @@
       ]
     },
     {
-      "canonical_name": "まがも肉（皮なし）",
+      "canonical_name": "まがも肉",
       "representative": "11208",
       "representative_name": "＜鳥肉類＞　かも　まがも　肉　皮なし　生",
       "members": [
@@ -7808,14 +7931,21 @@
     },
     {
       "canonical_name": "マカロニ・スパゲッティ",
-      "representative": "01064",
-      "representative_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　ゆで",
+      "representative": "01063",
+      "representative_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　乾",
       "members": [
         {
           "food_number": "01063",
           "food_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　乾",
-          "is_canonical": false
-        },
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "マカロニ・スパゲッティ（ゆで）",
+      "representative": "01064",
+      "representative_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　ゆで",
+      "members": [
         {
           "food_number": "01064",
           "food_name": "こむぎ　［マカロニ・スパゲッティ類］　マカロニ・スパゲッティ　ゆで",
@@ -7824,7 +7954,7 @@
       ]
     },
     {
-      "canonical_name": "まぐろ缶詰（水煮フレーク ホワイト）",
+      "canonical_name": "まぐろ缶詰（水煮フレーク・ホワイト）",
       "representative": "10261",
       "representative_name": "＜魚類＞　（まぐろ類）　缶詰　水煮　フレーク　ホワイト",
       "members": [
@@ -7836,7 +7966,7 @@
       ]
     },
     {
-      "canonical_name": "まぐろ缶詰（水煮フレーク ライト）",
+      "canonical_name": "まぐろ缶詰（水煮フレーク・ライト）",
       "representative": "10260",
       "representative_name": "＜魚類＞　（まぐろ類）　缶詰　水煮　フレーク　ライト",
       "members": [
@@ -7848,7 +7978,7 @@
       ]
     },
     {
-      "canonical_name": "まぐろ缶詰（油漬フレーク ホワイト）",
+      "canonical_name": "まぐろ缶詰（油漬フレーク・ホワイト）",
       "representative": "10264",
       "representative_name": "＜魚類＞　（まぐろ類）　缶詰　油漬　フレーク　ホワイト",
       "members": [
@@ -7860,7 +7990,7 @@
       ]
     },
     {
-      "canonical_name": "まぐろ缶詰（油漬フレーク ライト）",
+      "canonical_name": "まぐろ缶詰（油漬フレーク・ライト）",
       "representative": "10263",
       "representative_name": "＜魚類＞　（まぐろ類）　缶詰　油漬　フレーク　ライト",
       "members": [
@@ -8108,6 +8238,18 @@
       ]
     },
     {
+      "canonical_name": "まだらのしらこ",
+      "representative": "10207",
+      "representative_name": "＜魚類＞　（たら類）　まだら　しらこ　生",
+      "members": [
+        {
+          "food_number": "10207",
+          "food_name": "＜魚類＞　（たら類）　まだら　しらこ　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "マッシュルーム",
       "representative": "08031",
       "representative_name": "マッシュルーム　生",
@@ -8120,6 +8262,11 @@
         {
           "food_number": "08032",
           "food_name": "マッシュルーム　ゆで",
+          "is_canonical": false
+        },
+        {
+          "food_number": "08033",
+          "food_name": "マッシュルーム　水煮缶詰",
           "is_canonical": false
         },
         {
@@ -8137,18 +8284,6 @@
         {
           "food_number": "08059",
           "food_name": "マッシュルーム　ブラウン種　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "マッシュルーム（水煮缶詰）",
-      "representative": "08033",
-      "representative_name": "マッシュルーム　水煮缶詰",
-      "members": [
-        {
-          "food_number": "08033",
-          "food_name": "マッシュルーム　水煮缶詰",
           "is_canonical": true
         }
       ]
@@ -8354,7 +8489,7 @@
       ]
     },
     {
-      "canonical_name": "ミックスジュース（トマト類）",
+      "canonical_name": "ミックスジュース（トマト入り）",
       "representative": "06341",
       "representative_name": "（トマト類）　加工品　ミックスジュース　食塩無添加",
       "members": [
@@ -8412,7 +8547,7 @@
       ]
     },
     {
-      "canonical_name": "みなみまぐろ 脂身",
+      "canonical_name": "みなみまぐろ（脂身）",
       "representative": "10257",
       "representative_name": "＜魚類＞　（まぐろ類）　みなみまぐろ　脂身　生",
       "members": [
@@ -8424,7 +8559,7 @@
       ]
     },
     {
-      "canonical_name": "みなみまぐろ 赤身",
+      "canonical_name": "みなみまぐろ（赤身）",
       "representative": "10256",
       "representative_name": "＜魚類＞　（まぐろ類）　みなみまぐろ　赤身　生",
       "members": [
@@ -8689,7 +8824,7 @@
       ]
     },
     {
-      "canonical_name": "めばちまぐろ 脂身",
+      "canonical_name": "めばちまぐろ（脂身）",
       "representative": "10426",
       "representative_name": "＜魚類＞　（まぐろ類） めばち　脂身　生",
       "members": [
@@ -8701,7 +8836,7 @@
       ]
     },
     {
-      "canonical_name": "めばちまぐろ 赤身",
+      "canonical_name": "めばちまぐろ（赤身）",
       "representative": "10425",
       "representative_name": "＜魚類＞　（まぐろ類） めばち　赤身　生",
       "members": [
@@ -8769,11 +8904,6 @@
           "food_number": "07136",
           "food_name": "（もも類）　もも　白肉種　生",
           "is_canonical": true
-        },
-        {
-          "food_number": "07138",
-          "food_name": "（もも類）　もも　缶詰　白肉種　果肉",
-          "is_canonical": false
         }
       ]
     },
@@ -8790,7 +8920,19 @@
       ]
     },
     {
-      "canonical_name": "もも缶詰液汁",
+      "canonical_name": "もも缶詰（果肉）",
+      "representative": "07138",
+      "representative_name": "（もも類）　もも　缶詰　白肉種　果肉",
+      "members": [
+        {
+          "food_number": "07138",
+          "food_name": "（もも類）　もも　缶詰　白肉種　果肉",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "もも缶詰（液汁）",
       "representative": "07139",
       "representative_name": "（もも類）　もも　缶詰　液汁",
       "members": [
@@ -8884,7 +9026,7 @@
       ]
     },
     {
-      "canonical_name": "やぎ肉（赤肉）",
+      "canonical_name": "やぎ肉",
       "representative": "11204",
       "representative_name": "＜畜肉類＞　やぎ　肉　赤肉　生",
       "members": [
@@ -8927,18 +9069,6 @@
         {
           "food_number": "10273",
           "food_name": "＜魚類＞　やつめうなぎ　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "やつめうなぎ（干しやつめ）",
-      "representative": "10274",
-      "representative_name": "＜魚類＞　やつめうなぎ　干しやつめ",
-      "members": [
-        {
-          "food_number": "10274",
-          "food_name": "＜魚類＞　やつめうなぎ　干しやつめ",
           "is_canonical": true
         }
       ]
@@ -9023,6 +9153,18 @@
         {
           "food_number": "10352",
           "food_name": "＜いか・たこ類＞　（いか類）　やりいか　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "やわらかごはん（精白米）",
+      "representative": "01185",
+      "representative_name": "こめ　［水稲軟めし］　精白米",
+      "members": [
+        {
+          "food_number": "01185",
+          "food_name": "こめ　［水稲軟めし］　精白米",
           "is_canonical": true
         }
       ]
@@ -9216,7 +9358,7 @@
       ]
     },
     {
-      "canonical_name": "ラムもも肉（脂身つき）",
+      "canonical_name": "ラムもも肉",
       "representative": "11203",
       "representative_name": "＜畜肉類＞　めんよう　［ラム］　もも　脂身つき　生",
       "members": [
@@ -9233,19 +9375,7 @@
       ]
     },
     {
-      "canonical_name": "ラムロース肉（皮下脂肪なし）",
-      "representative": "11246",
-      "representative_name": "＜畜肉類＞　めんよう　［ラム］　ロース　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11246",
-          "food_name": "＜畜肉類＞　めんよう　［ラム］　ロース　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "ラムロース肉（脂身つき）",
+      "canonical_name": "ラムロース肉",
       "representative": "11202",
       "representative_name": "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　生",
       "members": [
@@ -9253,6 +9383,11 @@
           "food_number": "11202",
           "food_name": "＜畜肉類＞　めんよう　［ラム］　ロース　脂身つき　生",
           "is_canonical": true
+        },
+        {
+          "food_number": "11246",
+          "food_name": "＜畜肉類＞　めんよう　［ラム］　ロース　皮下脂肪なし　生",
+          "is_canonical": false
         },
         {
           "food_number": "11282",
@@ -9327,10 +9462,37 @@
       ]
     },
     {
+      "canonical_name": "りょくとうもやし",
+      "representative": "06291",
+      "representative_name": "（もやし類）　りょくとうもやし　生",
+      "members": [
+        {
+          "food_number": "06291",
+          "food_name": "（もやし類）　りょくとうもやし　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "06292",
+          "food_name": "（もやし類）　りょくとうもやし　ゆで",
+          "is_canonical": false
+        },
+        {
+          "food_number": "06413",
+          "food_name": "（もやし類）　りょくとうもやし　油いため",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
       "canonical_name": "りんご",
       "representative": "07176",
       "representative_name": "りんご　皮つき　生",
       "members": [
+        {
+          "food_number": "07148",
+          "food_name": "りんご　皮なし　生",
+          "is_canonical": false
+        },
         {
           "food_number": "07176",
           "food_name": "りんご　皮つき　生",
@@ -9340,18 +9502,6 @@
           "food_number": "07180",
           "food_name": "りんご　皮つき　焼き",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "りんご（皮なし）",
-      "representative": "07148",
-      "representative_name": "りんご　皮なし　生",
-      "members": [
-        {
-          "food_number": "07148",
-          "food_name": "りんご　皮なし　生",
-          "is_canonical": true
         }
       ]
     },
@@ -9392,7 +9542,7 @@
       ]
     },
     {
-      "canonical_name": "レタス（結球）",
+      "canonical_name": "レタス",
       "representative": "06312",
       "representative_name": "（レタス類）　レタス　土耕栽培　結球葉　生",
       "members": [
@@ -9425,6 +9575,11 @@
       "representative": "06317",
       "representative_name": "れんこん　根茎　生",
       "members": [
+        {
+          "food_number": "05043",
+          "food_name": "はす　成熟　ゆで",
+          "is_canonical": false
+        },
         {
           "food_number": "06317",
           "food_name": "れんこん　根茎　生",
@@ -9521,21 +9676,14 @@
     },
     {
       "canonical_name": "七分つき米",
-      "representative": "01082",
-      "representative_name": "こめ　［水稲穀粒］　七分つき米",
+      "representative": "01087",
+      "representative_name": "こめ　［水稲めし］　七分つき米",
       "members": [
         {
           "food_number": "01082",
           "food_name": "こめ　［水稲穀粒］　七分つき米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "七分つき米ごはん（水稲）",
-      "representative": "01087",
-      "representative_name": "こめ　［水稲めし］　七分つき米",
-      "members": [
+          "is_canonical": false
+        },
         {
           "food_number": "01087",
           "food_name": "こめ　［水稲めし］　七分つき米",
@@ -9544,26 +9692,14 @@
       ]
     },
     {
-      "canonical_name": "七分つき米五分がゆ",
-      "representative": "01096",
-      "representative_name": "こめ　［水稲五分かゆ］　七分つき米",
+      "canonical_name": "七分つき米（穀粒）",
+      "representative": "",
+      "representative_name": "",
       "members": [
         {
-          "food_number": "01096",
-          "food_name": "こめ　［水稲五分かゆ］　七分つき米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "七分つき米全がゆ",
-      "representative": "01092",
-      "representative_name": "こめ　［水稲全かゆ］　七分つき米",
-      "members": [
-        {
-          "food_number": "01092",
-          "food_name": "こめ　［水稲全かゆ］　七分つき米",
-          "is_canonical": true
+          "food_number": "01104",
+          "food_name": "こめ　［陸稲穀粒］　七分つき米",
+          "is_canonical": false
         }
       ]
     },
@@ -9628,6 +9764,18 @@
         {
           "food_number": "07090",
           "food_name": "（なし類）　中国なし　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "中華まんじゅう（あんまん）",
+      "representative": "15034",
+      "representative_name": "＜和生菓子・和半生菓子類＞　まんじゅう　中華まんじゅう　あんまん　こしあん入り",
+      "members": [
+        {
+          "food_number": "15034",
+          "food_name": "＜和生菓子・和半生菓子類＞　まんじゅう　中華まんじゅう　あんまん　こしあん入り",
           "is_canonical": true
         }
       ]
@@ -9727,6 +9875,18 @@
       ]
     },
     {
+      "canonical_name": "乳用肥育牛かた肉（赤肉）",
+      "representative": "11032",
+      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　生",
+      "members": [
+        {
+          "food_number": "11032",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "乳用肥育牛かた脂身",
       "representative": "11033",
       "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　脂身　生",
@@ -9743,11 +9903,6 @@
       "representative": "11301",
       "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　ゆで",
       "members": [
-        {
-          "food_number": "11032",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　生",
-          "is_canonical": false
-        },
         {
           "food_number": "11301",
           "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　かた　赤肉　ゆで",
@@ -9783,28 +9938,6 @@
       ]
     },
     {
-      "canonical_name": "乳用肥育牛そともも肉",
-      "representative": "11053",
-      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11053",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　脂身つき　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11054",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　皮下脂肪なし　生",
-          "is_canonical": false
-        },
-        {
-          "food_number": "11055",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　赤肉　生",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
       "canonical_name": "乳用肥育牛ばら肉",
       "representative": "11046",
       "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ばら　脂身つき　生",
@@ -9822,38 +9955,14 @@
       ]
     },
     {
-      "canonical_name": "乳用肥育牛ヒレ肉",
-      "representative": "11059",
-      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　生",
-      "members": [
-        {
-          "food_number": "11059",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "乳用肥育牛ヒレ肉（赤肉）",
-      "representative": "11253",
-      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　焼き",
-      "members": [
-        {
-          "food_number": "11253",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　焼き",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "乳用肥育牛もも肉",
-      "representative": "11051",
-      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　赤肉　生",
+      "representative": "11047",
+      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身つき　生",
       "members": [
         {
           "food_number": "11047",
           "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身つき　生",
-          "is_canonical": false
+          "is_canonical": true
         },
         {
           "food_number": "11048",
@@ -9861,45 +9970,8 @@
           "is_canonical": false
         },
         {
-          "food_number": "11049",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　焼き",
-          "is_canonical": false
-        },
-        {
           "food_number": "11050",
           "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　ゆで",
-          "is_canonical": false
-        },
-        {
-          "food_number": "11051",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　赤肉　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11052",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身　生",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "乳用肥育牛ランプ肉",
-      "representative": "11056",
-      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11056",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　脂身つき　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11057",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　皮下脂肪なし　生",
-          "is_canonical": false
-        },
-        {
-          "food_number": "11058",
-          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　赤肉　生",
           "is_canonical": false
         }
       ]
@@ -10060,6 +10132,54 @@
       ]
     },
     {
+      "canonical_name": "五分がゆ（七分つき米）",
+      "representative": "01096",
+      "representative_name": "こめ　［水稲五分かゆ］　七分つき米",
+      "members": [
+        {
+          "food_number": "01096",
+          "food_name": "こめ　［水稲五分かゆ］　七分つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "五分がゆ（半つき米）",
+      "representative": "01095",
+      "representative_name": "こめ　［水稲五分かゆ］　半つき米",
+      "members": [
+        {
+          "food_number": "01095",
+          "food_name": "こめ　［水稲五分かゆ］　半つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "五分がゆ（玄米）",
+      "representative": "01094",
+      "representative_name": "こめ　［水稲五分かゆ］　玄米",
+      "members": [
+        {
+          "food_number": "01094",
+          "food_name": "こめ　［水稲五分かゆ］　玄米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "五分がゆ（精白米）",
+      "representative": "01097",
+      "representative_name": "こめ　［水稲五分かゆ］　精白米",
+      "members": [
+        {
+          "food_number": "01097",
+          "food_name": "こめ　［水稲五分かゆ］　精白米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "五斗納豆",
       "representative": "04048",
       "representative_name": "だいず　［納豆類］　五斗納豆",
@@ -10067,18 +10187,6 @@
         {
           "food_number": "04048",
           "food_name": "だいず　［納豆類］　五斗納豆",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛ばら肉（脂身つき）",
-      "representative": "11260",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　ばら　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11260",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　ばら　脂身つき　生",
           "is_canonical": true
         }
       ]
@@ -10096,15 +10204,10 @@
       ]
     },
     {
-      "canonical_name": "交雑牛もも肉（皮下脂肪なし）",
+      "canonical_name": "交雑牛もも肉",
       "representative": "11265",
       "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　赤肉　生",
       "members": [
-        {
-          "food_number": "11262",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　生",
-          "is_canonical": false
-        },
         {
           "food_number": "11263",
           "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　焼き",
@@ -10119,88 +10222,11 @@
           "food_number": "11265",
           "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　赤肉　生",
           "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛もも肉（脂身つき）",
-      "representative": "11261",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11261",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身つき　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛もも脂身",
-      "representative": "11266",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身　生",
-      "members": [
+        },
         {
           "food_number": "11266",
           "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛リブロース（皮下脂肪なし）",
-      "representative": "11257",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11257",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛リブロース（脂身）",
-      "representative": "11259",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身　生",
-      "members": [
-        {
-          "food_number": "11259",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛リブロース（脂身つき）",
-      "representative": "11254",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11254",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11255",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　焼き",
           "is_canonical": false
-        },
-        {
-          "food_number": "11256",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　ゆで",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "交雑牛リブロース（赤肉）",
-      "representative": "11258",
-      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　赤肉　生",
-      "members": [
-        {
-          "food_number": "11258",
-          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　赤肉　生",
-          "is_canonical": true
         }
       ]
     },
@@ -10212,6 +10238,64 @@
         {
           "food_number": "04035",
           "food_name": "だいず　［豆腐・油揚げ類］　充てん豆腐",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "全がゆ（七分つき米）",
+      "representative": "01092",
+      "representative_name": "こめ　［水稲全かゆ］　七分つき米",
+      "members": [
+        {
+          "food_number": "01092",
+          "food_name": "こめ　［水稲全かゆ］　七分つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "全がゆ（半つき米）",
+      "representative": "01091",
+      "representative_name": "こめ　［水稲全かゆ］　半つき米",
+      "members": [
+        {
+          "food_number": "01091",
+          "food_name": "こめ　［水稲全かゆ］　半つき米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "全がゆ（玄米）",
+      "representative": "01214",
+      "representative_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　玄米",
+      "members": [
+        {
+          "food_number": "01090",
+          "food_name": "こめ　［水稲全かゆ］　玄米",
+          "is_canonical": false
+        },
+        {
+          "food_number": "01214",
+          "food_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　玄米",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "全がゆ（精白米）",
+      "representative": "01215",
+      "representative_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　精白米",
+      "members": [
+        {
+          "food_number": "01093",
+          "food_name": "こめ　［水稲全かゆ］　精白米",
+          "is_canonical": false
+        },
+        {
+          "food_number": "01215",
+          "food_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　精白米",
           "is_canonical": true
         }
       ]
@@ -10254,18 +10338,18 @@
     },
     {
       "canonical_name": "凍り豆腐",
-      "representative": "04087",
-      "representative_name": "だいず　［豆腐・油揚げ類］　凍り豆腐　水煮",
+      "representative": "04042",
+      "representative_name": "だいず　［豆腐・油揚げ類］　凍り豆腐　乾",
       "members": [
         {
           "food_number": "04042",
           "food_name": "だいず　［豆腐・油揚げ類］　凍り豆腐　乾",
-          "is_canonical": false
+          "is_canonical": true
         },
         {
           "food_number": "04087",
           "food_name": "だいず　［豆腐・油揚げ類］　凍り豆腐　水煮",
-          "is_canonical": true
+          "is_canonical": false
         }
       ]
     },
@@ -10345,7 +10429,7 @@
       ]
     },
     {
-      "canonical_name": "削り節（かつお）",
+      "canonical_name": "削り節",
       "representative": "10092",
       "representative_name": "＜魚類＞　（かつお類）　加工品　削り節",
       "members": [
@@ -10370,21 +10454,14 @@
     },
     {
       "canonical_name": "半つき米",
-      "representative": "01081",
-      "representative_name": "こめ　［水稲穀粒］　半つき米",
+      "representative": "01086",
+      "representative_name": "こめ　［水稲めし］　半つき米",
       "members": [
         {
           "food_number": "01081",
           "food_name": "こめ　［水稲穀粒］　半つき米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "半つき米ごはん（水稲）",
-      "representative": "01086",
-      "representative_name": "こめ　［水稲めし］　半つき米",
-      "members": [
+          "is_canonical": false
+        },
         {
           "food_number": "01086",
           "food_name": "こめ　［水稲めし］　半つき米",
@@ -10393,25 +10470,25 @@
       ]
     },
     {
-      "canonical_name": "半つき米五分がゆ",
-      "representative": "01095",
-      "representative_name": "こめ　［水稲五分かゆ］　半つき米",
+      "canonical_name": "半つき米（穀粒）",
+      "representative": "",
+      "representative_name": "",
       "members": [
         {
-          "food_number": "01095",
-          "food_name": "こめ　［水稲五分かゆ］　半つき米",
-          "is_canonical": true
+          "food_number": "01103",
+          "food_name": "こめ　［陸稲穀粒］　半つき米",
+          "is_canonical": false
         }
       ]
     },
     {
-      "canonical_name": "半つき米全がゆ",
-      "representative": "01091",
-      "representative_name": "こめ　［水稲全かゆ］　半つき米",
+      "canonical_name": "半つき米ごはん",
+      "representative": "01107",
+      "representative_name": "こめ　［陸稲めし］　半つき米",
       "members": [
         {
-          "food_number": "01091",
-          "food_name": "こめ　［水稲全かゆ］　半つき米",
+          "food_number": "01107",
+          "food_name": "こめ　［陸稲めし］　半つき米",
           "is_canonical": true
         }
       ]
@@ -10509,19 +10586,29 @@
       ]
     },
     {
-      "canonical_name": "和牛 かたロース肉",
-      "representative": "11008",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　脂身つき　生",
+      "canonical_name": "和牛かたロース肉",
+      "representative": "11009",
+      "representative_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生",
       "members": [
         {
           "food_number": "11008",
           "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　脂身つき　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11009",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生",
           "is_canonical": true
+        },
+        {
+          "food_number": "11010",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　赤肉　生",
+          "is_canonical": false
         }
       ]
     },
     {
-      "canonical_name": "和牛 かた肉",
+      "canonical_name": "和牛かた肉",
       "representative": "11004",
       "representative_name": "＜畜肉類＞　うし　［和牛肉］　かた　脂身つき　生",
       "members": [
@@ -10538,23 +10625,6 @@
         {
           "food_number": "11006",
           "food_name": "＜畜肉類＞　うし　［和牛肉］　かた　赤肉　生",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "和牛かたロース肉",
-      "representative": "11009",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11009",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　皮下脂肪なし　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11010",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　かたロース　赤肉　生",
           "is_canonical": false
         }
       ]
@@ -10594,32 +10664,18 @@
       "representative_name": "＜畜肉類＞　うし　［和牛肉］　そともも　赤肉　生",
       "members": [
         {
-          "food_number": "11025",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　赤肉　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "和牛そともも肉（皮下脂肪なし）",
-      "representative": "11024",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　そともも　皮下脂肪なし　生",
-      "members": [
+          "food_number": "11023",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　脂身つき　生",
+          "is_canonical": false
+        },
         {
           "food_number": "11024",
           "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "和牛そともも肉（脂身つき）",
-      "representative": "11023",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　そともも　脂身つき　生",
-      "members": [
+          "is_canonical": false
+        },
         {
-          "food_number": "11023",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　脂身つき　生",
+          "food_number": "11025",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　そともも　赤肉　生",
           "is_canonical": true
         }
       ]
@@ -10649,14 +10705,29 @@
       ]
     },
     {
-      "canonical_name": "和牛もも肉（皮下脂肪なし）",
-      "representative": "11020",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　生",
+      "canonical_name": "和牛もも肉",
+      "representative": "11019",
+      "representative_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身つき　生",
       "members": [
+        {
+          "food_number": "11019",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身つき　生",
+          "is_canonical": true
+        },
         {
           "food_number": "11020",
           "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　生",
-          "is_canonical": true
+          "is_canonical": false
+        },
+        {
+          "food_number": "11021",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　赤肉　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11022",
+          "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身　生",
+          "is_canonical": false
         },
         {
           "food_number": "11250",
@@ -10667,42 +10738,6 @@
           "food_number": "11251",
           "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　皮下脂肪なし　ゆで",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "和牛もも肉（脂身つき）",
-      "representative": "11019",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11019",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身つき　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "和牛もも肉（赤肉）",
-      "representative": "11021",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　もも　赤肉　生",
-      "members": [
-        {
-          "food_number": "11021",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　赤肉　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "和牛もも脂身",
-      "representative": "11022",
-      "representative_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身　生",
-      "members": [
-        {
-          "food_number": "11022",
-          "food_name": "＜畜肉類＞　うし　［和牛肉］　もも　脂身　生",
-          "is_canonical": true
         }
       ]
     },
@@ -10855,18 +10890,6 @@
       ]
     },
     {
-      "canonical_name": "大豆もやし",
-      "representative": "06412",
-      "representative_name": "（もやし類）　だいずもやし　油いため",
-      "members": [
-        {
-          "food_number": "06412",
-          "food_name": "（もやし類）　だいずもやし　油いため",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "大豆油",
       "representative": "14005",
       "representative_name": "（植物油脂類）　大豆油",
@@ -11012,7 +11035,7 @@
       ]
     },
     {
-      "canonical_name": "小麦たんぱく",
+      "canonical_name": "小麦たんぱく（粉末状）",
       "representative": "01071",
       "representative_name": "こむぎ　［その他］　小麦たんぱく　粉末状",
       "members": [
@@ -11118,6 +11141,18 @@
       ]
     },
     {
+      "canonical_name": "干しやつめうなぎ",
+      "representative": "10274",
+      "representative_name": "＜魚類＞　やつめうなぎ　干しやつめ",
+      "members": [
+        {
+          "food_number": "10274",
+          "food_name": "＜魚類＞　やつめうなぎ　干しやつめ",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "干し中華めん",
       "representative": "01050",
       "representative_name": "こむぎ　［中華めん類］　干し中華めん　乾",
@@ -11169,7 +11204,7 @@
       ]
     },
     {
-      "canonical_name": "手延そうめん",
+      "canonical_name": "手延そうめん・手延ひやむぎ",
       "representative": "01045",
       "representative_name": "こむぎ　［うどん・そうめん類］　手延そうめん・手延ひやむぎ　乾",
       "members": [
@@ -11406,50 +11441,6 @@
         {
           "food_number": "04028",
           "food_name": "だいず　［全粒・全粒製品］　水煮缶詰　黄大豆",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "水稲おもゆ",
-      "representative": "01101",
-      "representative_name": "こめ　［水稲おもゆ］　精白米",
-      "members": [
-        {
-          "food_number": "01098",
-          "food_name": "こめ　［水稲おもゆ］　玄米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01099",
-          "food_name": "こめ　［水稲おもゆ］　半つき米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01100",
-          "food_name": "こめ　［水稲おもゆ］　七分つき米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01101",
-          "food_name": "こめ　［水稲おもゆ］　精白米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "水稲全かゆ",
-      "representative": "01215",
-      "representative_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　精白米",
-      "members": [
-        {
-          "food_number": "01214",
-          "food_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　玄米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01215",
-          "food_name": "こめ　［うるち米製品］　水稲全かゆ　レトルト　精白米",
           "is_canonical": true
         }
       ]
@@ -11694,6 +11685,23 @@
       ]
     },
     {
+      "canonical_name": "牛かたロース肉（輸入）",
+      "representative": "11065",
+      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生",
+      "members": [
+        {
+          "food_number": "11065",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11066",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　赤肉　生",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
       "canonical_name": "牛ギアラ（第四胃）",
       "representative": "11097",
       "representative_name": "＜畜肉類＞　うし　［副生物］　第四胃　ゆで",
@@ -11718,6 +11726,23 @@
       ]
     },
     {
+      "canonical_name": "牛サーロイン肉（輸入）",
+      "representative": "11071",
+      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生",
+      "members": [
+        {
+          "food_number": "11071",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11072",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　皮下脂肪なし　生",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
       "canonical_name": "牛センマイ（第三胃）",
       "representative": "11096",
       "representative_name": "＜畜肉類＞　うし　［副生物］　第三胃　生",
@@ -11735,6 +11760,16 @@
       "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　赤肉　生",
       "members": [
         {
+          "food_number": "11079",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　脂身つき　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11080",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　皮下脂肪なし　生",
+          "is_canonical": false
+        },
+        {
           "food_number": "11081",
           "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　赤肉　生",
           "is_canonical": true
@@ -11742,26 +11777,24 @@
       ]
     },
     {
-      "canonical_name": "牛そともも肉（皮下脂肪なし）",
-      "representative": "11080",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　皮下脂肪なし　生",
+      "canonical_name": "牛そともも肉（乳用肥育牛）",
+      "representative": "11053",
+      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　脂身つき　生",
       "members": [
         {
-          "food_number": "11080",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　皮下脂肪なし　生",
+          "food_number": "11053",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　脂身つき　生",
           "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "牛そともも肉（脂身つき）",
-      "representative": "11079",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　脂身つき　生",
-      "members": [
+        },
         {
-          "food_number": "11079",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　そともも　脂身つき　生",
-          "is_canonical": true
+          "food_number": "11054",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　皮下脂肪なし　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11055",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　そともも　赤肉　生",
+          "is_canonical": false
         }
       ]
     },
@@ -11819,6 +11852,18 @@
       ]
     },
     {
+      "canonical_name": "牛ばら肉（交雑牛）脂身つき",
+      "representative": "11260",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　ばら　脂身つき　生",
+      "members": [
+        {
+          "food_number": "11260",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　ばら　脂身つき　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "牛ひき肉",
       "representative": "11089",
       "representative_name": "＜畜肉類＞　うし　［ひき肉］　生",
@@ -11848,6 +11893,23 @@
       ]
     },
     {
+      "canonical_name": "牛ヒレ肉（乳用肥育牛）",
+      "representative": "11253",
+      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　焼き",
+      "members": [
+        {
+          "food_number": "11059",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11253",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ヒレ　赤肉　焼き",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
       "canonical_name": "牛ミノ（第一胃）",
       "representative": "11094",
       "representative_name": "＜畜肉類＞　うし　［副生物］　第一胃　ゆで",
@@ -11860,14 +11922,24 @@
       ]
     },
     {
-      "canonical_name": "牛もも肉（皮下脂肪なし）",
-      "representative": "11076",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　生",
+      "canonical_name": "牛もも肉",
+      "representative": "11075",
+      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身つき　生",
       "members": [
+        {
+          "food_number": "11075",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身つき　生",
+          "is_canonical": true
+        },
         {
           "food_number": "11076",
           "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　皮下脂肪なし　生",
-          "is_canonical": true
+          "is_canonical": false
+        },
+        {
+          "food_number": "11077",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　赤肉　生",
+          "is_canonical": false
         },
         {
           "food_number": "11270",
@@ -11882,25 +11954,47 @@
       ]
     },
     {
-      "canonical_name": "牛もも肉（脂身つき）",
-      "representative": "11075",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身つき　生",
+      "canonical_name": "牛もも肉（乳用肥育牛）",
+      "representative": "11051",
+      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　赤肉　生",
       "members": [
         {
-          "food_number": "11075",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　脂身つき　生",
+          "food_number": "11049",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　皮下脂肪なし　焼き",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11051",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　赤肉　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11052",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　もも　脂身　生",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛もも肉（交雑牛）皮下脂肪なし",
+      "representative": "11262",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　生",
+      "members": [
+        {
+          "food_number": "11262",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　皮下脂肪なし　生",
           "is_canonical": true
         }
       ]
     },
     {
-      "canonical_name": "牛もも肉（赤肉）",
-      "representative": "11077",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　赤肉　生",
+      "canonical_name": "牛もも肉（交雑牛）脂身つき",
+      "representative": "11261",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身つき　生",
       "members": [
         {
-          "food_number": "11077",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　もも　赤肉　生",
+          "food_number": "11261",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　もも　脂身つき　生",
           "is_canonical": true
         }
       ]
@@ -11935,6 +12029,123 @@
         {
           "food_number": "11084",
           "food_name": "＜畜肉類＞　うし　［輸入牛肉］　ランプ　赤肉　生",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛ランプ肉（乳用肥育牛）",
+      "representative": "11056",
+      "representative_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　脂身つき　生",
+      "members": [
+        {
+          "food_number": "11056",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　脂身つき　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11057",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　皮下脂肪なし　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11058",
+          "food_name": "＜畜肉類＞　うし　［乳用肥育牛肉］　ランプ　赤肉　生",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛リブロース（交雑牛）皮下脂肪なし",
+      "representative": "11257",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　皮下脂肪なし　生",
+      "members": [
+        {
+          "food_number": "11257",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　皮下脂肪なし　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛リブロース（交雑牛）脂身",
+      "representative": "11259",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身　生",
+      "members": [
+        {
+          "food_number": "11259",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛リブロース（交雑牛）脂身つき",
+      "representative": "11254",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　生",
+      "members": [
+        {
+          "food_number": "11254",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11255",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　焼き",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11256",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　脂身つき　ゆで",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛リブロース（交雑牛）赤肉",
+      "representative": "11258",
+      "representative_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　赤肉　生",
+      "members": [
+        {
+          "food_number": "11258",
+          "food_name": "＜畜肉類＞　うし　［交雑牛肉］　リブロース　赤肉　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "牛リブロース肉（輸入）",
+      "representative": "11067",
+      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生",
+      "members": [
+        {
+          "food_number": "11067",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11068",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　皮下脂肪なし　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11069",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　赤肉　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11070",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11268",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　焼き",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11269",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　ゆで",
           "is_canonical": false
         }
       ]
@@ -12083,21 +12294,14 @@
     },
     {
       "canonical_name": "玄米",
-      "representative": "01080",
-      "representative_name": "こめ　［水稲穀粒］　玄米",
+      "representative": "01085",
+      "representative_name": "こめ　［水稲めし］　玄米",
       "members": [
         {
           "food_number": "01080",
           "food_name": "こめ　［水稲穀粒］　玄米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "玄米ごはん（水稲）",
-      "representative": "01085",
-      "representative_name": "こめ　［水稲めし］　玄米",
-      "members": [
+          "is_canonical": false
+        },
         {
           "food_number": "01085",
           "food_name": "こめ　［水稲めし］　玄米",
@@ -12106,25 +12310,25 @@
       ]
     },
     {
-      "canonical_name": "玄米五分がゆ",
-      "representative": "01094",
-      "representative_name": "こめ　［水稲五分かゆ］　玄米",
+      "canonical_name": "玄米（穀粒）",
+      "representative": "",
+      "representative_name": "",
       "members": [
         {
-          "food_number": "01094",
-          "food_name": "こめ　［水稲五分かゆ］　玄米",
-          "is_canonical": true
+          "food_number": "01102",
+          "food_name": "こめ　［陸稲穀粒］　玄米",
+          "is_canonical": false
         }
       ]
     },
     {
-      "canonical_name": "玄米全がゆ",
-      "representative": "01090",
-      "representative_name": "こめ　［水稲全かゆ］　玄米",
+      "canonical_name": "玄米ごはん",
+      "representative": "01106",
+      "representative_name": "こめ　［陸稲めし］　玄米",
       "members": [
         {
-          "food_number": "01090",
-          "food_name": "こめ　［水稲全かゆ］　玄米",
+          "food_number": "01106",
+          "food_name": "こめ　［陸稲めし］　玄米",
           "is_canonical": true
         }
       ]
@@ -12142,15 +12346,10 @@
       ]
     },
     {
-      "canonical_name": "生しいたけ（原木栽培）",
+      "canonical_name": "生しいたけ",
       "representative": "08043",
       "representative_name": "しいたけ　生しいたけ　原木栽培　ゆで",
       "members": [
-        {
-          "food_number": "08042",
-          "food_name": "しいたけ　生しいたけ　原木栽培　生",
-          "is_canonical": false
-        },
         {
           "food_number": "08043",
           "food_name": "しいたけ　生しいたけ　原木栽培　ゆで",
@@ -12160,6 +12359,18 @@
           "food_number": "08044",
           "food_name": "しいたけ　生しいたけ　原木栽培　油いため",
           "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "生しいたけ（原木栽培）",
+      "representative": "08042",
+      "representative_name": "しいたけ　生しいたけ　原木栽培　生",
+      "members": [
+        {
+          "food_number": "08042",
+          "food_name": "しいたけ　生しいたけ　原木栽培　生",
+          "is_canonical": true
         }
       ]
     },
@@ -12181,23 +12392,6 @@
         {
           "food_number": "08041",
           "food_name": "しいたけ　生しいたけ　菌床栽培　油いため",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "生そば",
-      "representative": "01127",
-      "representative_name": "そば　そば　生",
-      "members": [
-        {
-          "food_number": "01127",
-          "food_name": "そば　そば　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "01128",
-          "food_name": "そば　そば　ゆで",
           "is_canonical": false
         }
       ]
@@ -12227,7 +12421,7 @@
       ]
     },
     {
-      "canonical_name": "発芽玄米ごはん（水稲）",
+      "canonical_name": "発芽玄米ごはん",
       "representative": "01155",
       "representative_name": "こめ　［水稲めし］　発芽玄米",
       "members": [
@@ -12247,23 +12441,6 @@
           "food_number": "01120",
           "food_name": "こめ　［もち米製品］　白玉粉",
           "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "白菜",
-      "representative": "06233",
-      "representative_name": "はくさい　結球葉　生",
-      "members": [
-        {
-          "food_number": "06233",
-          "food_name": "はくさい　結球葉　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "06234",
-          "food_name": "はくさい　結球葉　ゆで",
-          "is_canonical": false
         }
       ]
     },
@@ -12448,62 +12625,14 @@
       ]
     },
     {
-      "canonical_name": "精白米ごはん（うるち米・水稲）",
-      "representative": "01088",
-      "representative_name": "こめ　［水稲めし］　精白米　うるち米",
+      "canonical_name": "精白米（穀粒）",
+      "representative": "",
+      "representative_name": "",
       "members": [
         {
-          "food_number": "01088",
-          "food_name": "こめ　［水稲めし］　精白米　うるち米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "精白米ごはん（もち米・水稲）",
-      "representative": "01154",
-      "representative_name": "こめ　［水稲めし］　精白米　もち米",
-      "members": [
-        {
-          "food_number": "01154",
-          "food_name": "こめ　［水稲めし］　精白米　もち米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "精白米ごはん（軟飯）",
-      "representative": "01185",
-      "representative_name": "こめ　［水稲軟めし］　精白米",
-      "members": [
-        {
-          "food_number": "01185",
-          "food_name": "こめ　［水稲軟めし］　精白米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "精白米五分がゆ",
-      "representative": "01097",
-      "representative_name": "こめ　［水稲五分かゆ］　精白米",
-      "members": [
-        {
-          "food_number": "01097",
-          "food_name": "こめ　［水稲五分かゆ］　精白米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "精白米全がゆ",
-      "representative": "01093",
-      "representative_name": "こめ　［水稲全かゆ］　精白米",
-      "members": [
-        {
-          "food_number": "01093",
-          "food_name": "こめ　［水稲全かゆ］　精白米",
-          "is_canonical": true
+          "food_number": "01105",
+          "food_name": "こめ　［陸稲穀粒］　精白米",
+          "is_canonical": false
         }
       ]
     },
@@ -12600,28 +12729,6 @@
       ]
     },
     {
-      "canonical_name": "緑豆もやし",
-      "representative": "06291",
-      "representative_name": "（もやし類）　りょくとうもやし　生",
-      "members": [
-        {
-          "food_number": "06291",
-          "food_name": "（もやし類）　りょくとうもやし　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "06292",
-          "food_name": "（もやし類）　りょくとうもやし　ゆで",
-          "is_canonical": false
-        },
-        {
-          "food_number": "06413",
-          "food_name": "（もやし類）　りょくとうもやし　油いため",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
       "canonical_name": "練りうに",
       "representative": "10367",
       "representative_name": "＜その他＞　うに　練りうに",
@@ -12658,7 +12765,7 @@
       ]
     },
     {
-      "canonical_name": "菊の花",
+      "canonical_name": "菊の花びら",
       "representative": "06059",
       "representative_name": "きく　花びら　ゆで",
       "members": [
@@ -12723,7 +12830,7 @@
       ]
     },
     {
-      "canonical_name": "裸節（かつお）",
+      "canonical_name": "裸節",
       "representative": "10446",
       "representative_name": "＜魚類＞　（かつお類）　加工品　裸節",
       "members": [
@@ -12782,23 +12889,6 @@
           "food_number": "09027",
           "food_name": "てんぐさ　角寒天",
           "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "角形食パン",
-      "representative": "01026",
-      "representative_name": "こむぎ　［パン類］　角形食パン　食パン",
-      "members": [
-        {
-          "food_number": "01026",
-          "food_name": "こむぎ　［パン類］　角形食パン　食パン",
-          "is_canonical": true
-        },
-        {
-          "food_number": "01174",
-          "food_name": "こむぎ　［パン類］　角形食パン　焼き",
-          "is_canonical": false
         }
       ]
     },
@@ -12893,18 +12983,6 @@
       ]
     },
     {
-      "canonical_name": "豚かた皮下脂肪なし",
-      "representative": "11142",
-      "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11142",
-          "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "豚かた肉",
       "representative": "11144",
       "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身　生",
@@ -12913,6 +12991,28 @@
           "food_number": "11144",
           "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身　生",
           "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "豚かた肉（中型種）",
+      "representative": "11141",
+      "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生",
+      "members": [
+        {
+          "food_number": "11141",
+          "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生",
+          "is_canonical": true
+        },
+        {
+          "food_number": "11142",
+          "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　皮下脂肪なし　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11143",
+          "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　赤肉　生",
+          "is_canonical": false
         }
       ]
     },
@@ -12935,30 +13035,6 @@
           "food_number": "11117",
           "food_name": "＜畜肉類＞　ぶた　［大型種肉］　かた　赤肉　生",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "豚かた脂身つき",
-      "representative": "11141",
-      "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11141",
-          "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　脂身つき　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "豚かた赤肉",
-      "representative": "11143",
-      "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　赤肉　生",
-      "members": [
-        {
-          "food_number": "11143",
-          "food_name": "＜畜肉類＞　ぶた　［中型種肉］　かた　赤肉　生",
-          "is_canonical": true
         }
       ]
     },
@@ -12992,18 +13068,6 @@
       ]
     },
     {
-      "canonical_name": "豚そともも皮下脂肪なし",
-      "representative": "11137",
-      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11137",
-          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "豚そともも肉",
       "representative": "11158",
       "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　そともも　脂身つき　生",
@@ -13031,19 +13095,7 @@
       ]
     },
     {
-      "canonical_name": "豚そともも脂身",
-      "representative": "11139",
-      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身　生",
-      "members": [
-        {
-          "food_number": "11139",
-          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "豚そともも脂身つき",
+      "canonical_name": "豚そともも肉（大型種）",
       "representative": "11136",
       "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身つき　生",
       "members": [
@@ -13051,17 +13103,44 @@
           "food_number": "11136",
           "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身つき　生",
           "is_canonical": true
+        },
+        {
+          "food_number": "11137",
+          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　皮下脂肪なし　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11138",
+          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　赤肉　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11139",
+          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　脂身　生",
+          "is_canonical": false
         }
       ]
     },
     {
-      "canonical_name": "豚そともも赤肉",
-      "representative": "11138",
-      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　赤肉　生",
+      "canonical_name": "豚タン",
+      "representative": "11164",
+      "representative_name": "＜畜肉類＞　ぶた　［副生物］　舌　生",
       "members": [
         {
-          "food_number": "11138",
-          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　そともも　赤肉　生",
+          "food_number": "11164",
+          "food_name": "＜畜肉類＞　ぶた　［副生物］　舌　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "豚ハツ",
+      "representative": "11165",
+      "representative_name": "＜畜肉類＞　ぶた　［副生物］　心臓　生",
+      "members": [
+        {
+          "food_number": "11165",
+          "food_name": "＜畜肉類＞　ぶた　［副生物］　心臓　生",
           "is_canonical": true
         }
       ]
@@ -13118,13 +13197,20 @@
       "representative_name": "＜畜肉類＞　ぶた　［中型種肉］　ヒレ　赤肉　生",
       "members": [
         {
-          "food_number": "11140",
-          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　生",
-          "is_canonical": false
-        },
-        {
           "food_number": "11162",
           "food_name": "＜畜肉類＞　ぶた　［中型種肉］　ヒレ　赤肉　生",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "豚ヒレ肉（大型種）",
+      "representative": "11140",
+      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　生",
+      "members": [
+        {
+          "food_number": "11140",
+          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　ヒレ　赤肉　生",
           "is_canonical": true
         },
         {
@@ -13163,13 +13249,13 @@
     },
     {
       "canonical_name": "豚もも肉（大型種）",
-      "representative": "11130",
-      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身つき　生",
+      "representative": "11135",
+      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生",
       "members": [
         {
           "food_number": "11130",
           "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身つき　生",
-          "is_canonical": true
+          "is_canonical": false
         },
         {
           "food_number": "11131",
@@ -13190,17 +13276,22 @@
           "food_number": "11134",
           "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　赤肉　生",
           "is_canonical": false
+        },
+        {
+          "food_number": "11135",
+          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生",
+          "is_canonical": true
         }
       ]
     },
     {
-      "canonical_name": "豚もも脂身",
-      "representative": "11135",
-      "representative_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生",
+      "canonical_name": "豚レバー",
+      "representative": "11166",
+      "representative_name": "＜畜肉類＞　ぶた　［副生物］　肝臓　生",
       "members": [
         {
-          "food_number": "11135",
-          "food_name": "＜畜肉類＞　ぶた　［大型種肉］　もも　脂身　生",
+          "food_number": "11166",
+          "food_name": "＜畜肉類＞　ぶた　［副生物］　肝臓　生",
           "is_canonical": true
         }
       ]
@@ -13306,30 +13397,6 @@
       ]
     },
     {
-      "canonical_name": "豚心臓",
-      "representative": "11165",
-      "representative_name": "＜畜肉類＞　ぶた　［副生物］　心臓　生",
-      "members": [
-        {
-          "food_number": "11165",
-          "food_name": "＜畜肉類＞　ぶた　［副生物］　心臓　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "豚肝臓",
-      "representative": "11166",
-      "representative_name": "＜畜肉類＞　ぶた　［副生物］　肝臓　生",
-      "members": [
-        {
-          "food_number": "11166",
-          "food_name": "＜畜肉類＞　ぶた　［副生物］　肝臓　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "豚胃",
       "representative": "11168",
       "representative_name": "＜畜肉類＞　ぶた　［副生物］　胃　ゆで",
@@ -13337,18 +13404,6 @@
         {
           "food_number": "11168",
           "food_name": "＜畜肉類＞　ぶた　［副生物］　胃　ゆで",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "豚舌",
-      "representative": "11164",
-      "representative_name": "＜畜肉類＞　ぶた　［副生物］　舌　生",
-      "members": [
-        {
-          "food_number": "11164",
-          "food_name": "＜畜肉類＞　ぶた　［副生物］　舌　生",
           "is_canonical": true
         }
       ]
@@ -13383,20 +13438,13 @@
       "representative_name": "えんどう　全粒　赤えんどう　ゆで",
       "members": [
         {
-          "food_number": "04075",
-          "food_name": "えんどう　全粒　赤えんどう　ゆで",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "赤えんどう（全粒）",
-      "representative": "04074",
-      "representative_name": "えんどう　全粒　赤えんどう　乾",
-      "members": [
-        {
           "food_number": "04074",
           "food_name": "えんどう　全粒　赤えんどう　乾",
+          "is_canonical": false
+        },
+        {
+          "food_number": "04075",
+          "food_name": "えんどう　全粒　赤えんどう　ゆで",
           "is_canonical": true
         }
       ]
@@ -13467,7 +13515,7 @@
       ]
     },
     {
-      "canonical_name": "赤米ごはん（水稲）",
+      "canonical_name": "赤米ごはん",
       "representative": "01183",
       "representative_name": "こめ　［水稲めし］　赤米",
       "members": [
@@ -13503,7 +13551,7 @@
       ]
     },
     {
-      "canonical_name": "輸入牛かたロース（脂身つき）",
+      "canonical_name": "輸入牛かたロース肉",
       "representative": "11064",
       "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　脂身つき　生",
       "members": [
@@ -13515,36 +13563,7 @@
       ]
     },
     {
-      "canonical_name": "輸入牛かたロース肉",
-      "representative": "11065",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11065",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　皮下脂肪なし　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11066",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かたロース　赤肉　生",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛かた肉（皮下脂肪なし）",
-      "representative": "11061",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11061",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛かた肉（脂身つき）",
+      "canonical_name": "輸入牛かた肉",
       "representative": "11060",
       "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身つき　生",
       "members": [
@@ -13552,112 +13571,21 @@
           "food_number": "11060",
           "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身つき　生",
           "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛かた脂身",
-      "representative": "11063",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身　生",
-      "members": [
+        },
         {
-          "food_number": "11063",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛かた赤肉",
-      "representative": "11062",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　赤肉　生",
-      "members": [
+          "food_number": "11061",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　皮下脂肪なし　生",
+          "is_canonical": false
+        },
         {
           "food_number": "11062",
           "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　赤肉　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛サーロイン肉（皮下脂肪なし）",
-      "representative": "11072",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11072",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛サーロイン肉（脂身つき）",
-      "representative": "11071",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11071",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　サーロイン　脂身つき　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛リブロース肉（皮下脂肪なし）",
-      "representative": "11068",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　皮下脂肪なし　生",
-      "members": [
-        {
-          "food_number": "11068",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　皮下脂肪なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛リブロース肉（脂身つき）",
-      "representative": "11067",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生",
-      "members": [
-        {
-          "food_number": "11067",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11268",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　焼き",
           "is_canonical": false
         },
         {
-          "food_number": "11269",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身つき　ゆで",
+          "food_number": "11063",
+          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　かた　脂身　生",
           "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛リブロース肉（赤肉）",
-      "representative": "11069",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　赤肉　生",
-      "members": [
-        {
-          "food_number": "11069",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　赤肉　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "輸入牛リブロース脂身",
-      "representative": "11070",
-      "representative_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身　生",
-      "members": [
-        {
-          "food_number": "11070",
-          "food_name": "＜畜肉類＞　うし　［輸入牛肉］　リブロース　脂身　生",
-          "is_canonical": true
         }
       ]
     },
@@ -13669,79 +13597,6 @@
         {
           "food_number": "01121",
           "food_name": "こめ　［もち米製品］　道明寺粉",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "野沢菜",
-      "representative": "06229",
-      "representative_name": "のざわな　葉　生",
-      "members": [
-        {
-          "food_number": "06229",
-          "food_name": "のざわな　葉　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "陸稲ご飯",
-      "representative": "01109",
-      "representative_name": "こめ　［陸稲めし］　精白米",
-      "members": [
-        {
-          "food_number": "01108",
-          "food_name": "こめ　［陸稲めし］　七分つき米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01109",
-          "food_name": "こめ　［陸稲めし］　精白米",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "陸稲めし",
-      "representative": "",
-      "representative_name": "",
-      "members": [
-        {
-          "food_number": "01106",
-          "food_name": "こめ　［陸稲めし］　玄米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01107",
-          "food_name": "こめ　［陸稲めし］　半つき米",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "陸稲穀粒",
-      "representative": "01105",
-      "representative_name": "こめ　［陸稲穀粒］　精白米",
-      "members": [
-        {
-          "food_number": "01102",
-          "food_name": "こめ　［陸稲穀粒］　玄米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01103",
-          "food_name": "こめ　［陸稲穀粒］　半つき米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01104",
-          "food_name": "こめ　［陸稲穀粒］　七分つき米",
-          "is_canonical": false
-        },
-        {
-          "food_number": "01105",
-          "food_name": "こめ　［陸稲穀粒］　精白米",
           "is_canonical": true
         }
       ]
@@ -13771,7 +13626,7 @@
       ]
     },
     {
-      "canonical_name": "青えんどう（全粒）",
+      "canonical_name": "青えんどう",
       "representative": "04012",
       "representative_name": "えんどう　全粒　青えんどう　乾",
       "members": [
@@ -13834,7 +13689,24 @@
       ]
     },
     {
-      "canonical_name": "馬肉（赤肉）",
+      "canonical_name": "食パン",
+      "representative": "01026",
+      "representative_name": "こむぎ　［パン類］　角形食パン　食パン",
+      "members": [
+        {
+          "food_number": "01026",
+          "food_name": "こむぎ　［パン類］　角形食パン　食パン",
+          "is_canonical": true
+        },
+        {
+          "food_number": "01174",
+          "food_name": "こむぎ　［パン類］　角形食パン　焼き",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "馬肉",
       "representative": "11109",
       "representative_name": "＜畜肉類＞　うま　肉　赤肉　生",
       "members": [
@@ -13882,18 +13754,6 @@
       ]
     },
     {
-      "canonical_name": "鳩肉",
-      "representative": "11238",
-      "representative_name": "＜鳥肉類＞　はと　肉　皮なし　生",
-      "members": [
-        {
-          "food_number": "11238",
-          "food_name": "＜鳥肉類＞　はと　肉　皮なし　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "鶏がらだし",
       "representative": "17024",
       "representative_name": "＜調味料類＞　（だし類）　鶏がらだし",
@@ -13906,10 +13766,15 @@
       ]
     },
     {
-      "canonical_name": "鶏ささみ",
+      "canonical_name": "鶏ささみ肉",
       "representative": "11227",
       "representative_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　生",
       "members": [
+        {
+          "food_number": "11217",
+          "food_name": "＜鳥肉類＞　にわとり　［親・副品目］　ささみ　生",
+          "is_canonical": false
+        },
         {
           "food_number": "11227",
           "food_name": "＜鳥肉類＞　にわとり　［若どり・副品目］　ささみ　生",
@@ -13933,18 +13798,6 @@
       ]
     },
     {
-      "canonical_name": "鶏ささみ肉",
-      "representative": "",
-      "representative_name": "",
-      "members": [
-        {
-          "food_number": "11217",
-          "food_name": "＜鳥肉類＞　にわとり　［親・副品目］　ささみ　生",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
       "canonical_name": "鶏つくね",
       "representative": "11293",
       "representative_name": "＜鳥肉類＞　にわとり　［その他］　つくね",
@@ -13952,6 +13805,18 @@
         {
           "food_number": "11293",
           "food_name": "＜鳥肉類＞　にわとり　［その他］　つくね",
+          "is_canonical": true
+        }
+      ]
+    },
+    {
+      "canonical_name": "鶏ハツ",
+      "representative": "11231",
+      "representative_name": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
+      "members": [
+        {
+          "food_number": "11231",
+          "food_name": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
           "is_canonical": true
         }
       ]
@@ -13969,6 +13834,23 @@
         {
           "food_number": "11291",
           "food_name": "＜鳥肉類＞　にわとり　［二次品目］　ひき肉　焼き",
+          "is_canonical": false
+        }
+      ]
+    },
+    {
+      "canonical_name": "鶏むね肉",
+      "representative": "",
+      "representative_name": "",
+      "members": [
+        {
+          "food_number": "11213",
+          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11214",
+          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮なし　生",
           "is_canonical": false
         }
       ]
@@ -14008,39 +13890,20 @@
       ]
     },
     {
-      "canonical_name": "鶏むね肉（親鶏）",
-      "representative": "11213",
-      "representative_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生",
-      "members": [
-        {
-          "food_number": "11213",
-          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮つき　生",
-          "is_canonical": true
-        },
-        {
-          "food_number": "11214",
-          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　むね　皮なし　生",
-          "is_canonical": false
-        }
-      ]
-    },
-    {
-      "canonical_name": "鶏もも皮",
-      "representative": "11235",
-      "representative_name": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
-      "members": [
-        {
-          "food_number": "11235",
-          "food_name": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "鶏もも肉",
       "representative": "11224",
       "representative_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮なし　生",
       "members": [
+        {
+          "food_number": "11215",
+          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生",
+          "is_canonical": false
+        },
+        {
+          "food_number": "11216",
+          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮なし　生",
+          "is_canonical": false
+        },
         {
           "food_number": "11222",
           "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　もも　皮つき　焼き",
@@ -14081,19 +13944,14 @@
       ]
     },
     {
-      "canonical_name": "鶏もも肉（親鶏）",
-      "representative": "11215",
-      "representative_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生",
+      "canonical_name": "鶏レバー",
+      "representative": "11232",
+      "representative_name": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
       "members": [
         {
-          "food_number": "11215",
-          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮つき　生",
+          "food_number": "11232",
+          "food_name": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
           "is_canonical": true
-        },
-        {
-          "food_number": "11216",
-          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　もも　皮なし　生",
-          "is_canonical": false
         }
       ]
     },
@@ -14152,18 +14010,6 @@
       ]
     },
     {
-      "canonical_name": "鶏心臓",
-      "representative": "11231",
-      "representative_name": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
-      "members": [
-        {
-          "food_number": "11231",
-          "food_name": "＜鳥肉類＞　にわとり　［副品目］　心臓　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
       "canonical_name": "鶏手羽元肉",
       "representative": "11286",
       "representative_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽もと　皮つき　生",
@@ -14193,6 +14039,11 @@
       "representative_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽　皮つき　生",
       "members": [
         {
+          "food_number": "11212",
+          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生",
+          "is_canonical": false
+        },
+        {
           "food_number": "11218",
           "food_name": "＜鳥肉類＞　にわとり　［若どり・主品目］　手羽　皮つき　生",
           "is_canonical": true
@@ -14200,13 +14051,13 @@
       ]
     },
     {
-      "canonical_name": "鶏手羽肉（親鶏）",
-      "representative": "11212",
-      "representative_name": "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生",
+      "canonical_name": "鶏皮（もも）",
+      "representative": "11235",
+      "representative_name": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
       "members": [
         {
-          "food_number": "11212",
-          "food_name": "＜鳥肉類＞　にわとり　［親・主品目］　手羽　皮つき　生",
+          "food_number": "11235",
+          "food_name": "＜鳥肉類＞　にわとり　［副品目］　皮　もも　生",
           "is_canonical": true
         }
       ]
@@ -14224,19 +14075,7 @@
       ]
     },
     {
-      "canonical_name": "鶏肝臓",
-      "representative": "11232",
-      "representative_name": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
-      "members": [
-        {
-          "food_number": "11232",
-          "food_name": "＜鳥肉類＞　にわとり　［副品目］　肝臓　生",
-          "is_canonical": true
-        }
-      ]
-    },
-    {
-      "canonical_name": "鶏胸軟骨",
+      "canonical_name": "鶏軟骨（胸肉）",
       "representative": "11236",
       "representative_name": "＜鳥肉類＞　にわとり　［副品目］　なんこつ（胸肉）　生",
       "members": [
@@ -14248,7 +14087,7 @@
       ]
     },
     {
-      "canonical_name": "鹿肉（ニホンジカ・赤肉）",
+      "canonical_name": "鹿肉（ニホンジカ）",
       "representative": "11275",
       "representative_name": "＜畜肉類＞　しか　にほんじか　赤肉　生",
       "members": [
@@ -14275,7 +14114,7 @@
       ]
     },
     {
-      "canonical_name": "鹿肉（赤鹿・赤肉）",
+      "canonical_name": "鹿肉（赤鹿）",
       "representative": "11114",
       "representative_name": "＜畜肉類＞　しか　あかしか　赤肉　生",
       "members": [
@@ -14389,7 +14228,7 @@
       ]
     },
     {
-      "canonical_name": "黒米（玄米）",
+      "canonical_name": "黒米（穀粒）",
       "representative": "01182",
       "representative_name": "こめ　［水稲穀粒］　黒米",
       "members": [

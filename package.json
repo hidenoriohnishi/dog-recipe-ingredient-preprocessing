@@ -26,6 +26,9 @@
     "process:11-1": "tsx process/11-1-cooking-variations/index.ts",
     "process:12-1": "tsx process/12-1-add-egg-shell/index.ts",
     "process:13-1": "tsx process/13-1-canonical-food-mark/index.ts",
+    "process:13-2": "tsx process/13-2-split-food-lists/index.ts",
+    "process:13-3": "tsx process/13-3-categorize-foods/index.ts",
+    "process:13-4": "tsx process/13-4-food-lists-by-category/index.ts",
     "process:99": "tsx process/99-result/index.ts"
   },
   "dependencies": {
