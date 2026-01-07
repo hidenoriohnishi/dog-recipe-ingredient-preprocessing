@@ -1,0 +1,42 @@
+# 12-1: 鶏卵殻データの追加
+
+12-0の`egg-shell.md`に記載されている卵の殻の成分表情報を基に、手動で鶏卵殻のデータをCSVに追加します。
+
+## 入力
+
+- `../11-1-cooking-variations/result/final-nutrition-with-cooking-variations.csv` – 調理状態バリエーションを含むMEXT食品データ
+
+## 処理内容
+
+1. 入力CSVを読み込む
+2. `egg-shell.md`の情報を基に、鶏卵殻の行を手動で作成
+   - food_number: `12024`
+   - food_name: `鶏卵　殻`
+   - 栄養成分値は`egg-shell.md`の情報を基に設定
+3. CSVに追加して保存
+
+## 栄養成分値
+
+`egg-shell.md`の情報を基に以下の値を設定：
+
+- カルシウム (CA): 38,000 mg/100g
+- マグネシウム (MG): 385 mg/100g（370-400の中央値）
+- リン (P): 155 mg/100g（150-160の中央値）
+- ナトリウム (NA): 160 mg/100g
+- カリウム (K): 45 mg/100g（40-50の中央値）
+- 鉄 (FE): 1.5 mg/100g（1.0-2.0の中央値）
+- 亜鉛 (ZN): 0.3 mg/100g（0.1-0.5の中央値）
+- マンガン (MN): 0.1 mg/100g
+- 灰分 (ASH): 38.5 g/100g（カルシウム38% + その他）
+- 水分 (WATER): 1.0 g/100g
+
+## 出力
+
+- `result/final-nutrition-with-egg-shell.csv` – 鶏卵殻の行を追加したCSV
+
+## 実行
+
+```bash
+pnpm run process:12-1
+```
+

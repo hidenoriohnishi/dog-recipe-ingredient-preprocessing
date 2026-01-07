@@ -24,7 +24,9 @@
     "process:9-3": "tsx process/09-3-ai-select/index.ts",
     "process:10-1": "tsx process/10-1-recipe-ingredient-mark/index.ts",
     "process:11-1": "tsx process/11-1-cooking-variations/index.ts",
-    "process:12": "tsx process/12-result/index.ts"
+    "process:12-1": "tsx process/12-1-add-egg-shell/index.ts",
+    "process:13-1": "tsx process/13-1-canonical-food-mark/index.ts",
+    "process:99": "tsx process/99-result/index.ts"
   },
   "dependencies": {
     "@ai-sdk/openai": "^3.0.0",
