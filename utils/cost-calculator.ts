@@ -39,6 +39,60 @@ export const MODEL_PRICING = {
   },
 } as const;
 
+/**
+ * Embeddingモデル別の料金設定（1MトークンあたりのUSD）
+ */
+export const EMBEDDING_MODEL_PRICING = {
+  'text-embedding-3-large': 0.13,  // $0.13 per 1M tokens
+  'text-embedding-3-small': 0.02,  // $0.02 per 1M tokens
+  'text-embedding-ada-002': 0.10,  // $0.10 per 1M tokens
+} as const;
+
+export type EmbeddingModelName = keyof typeof EMBEDDING_MODEL_PRICING;
+
+/**
+ * Embedding料金計算結果
+ */
+export interface EmbeddingCostResult {
+  tokens: number;
+  costUSD: number;
+  costJPY: number;
+}
+
+/**
+ * Embeddingトークン数から料金を計算
+ */
+export function calculateEmbeddingCost(
+  modelName: string,
+  tokens: number
+): EmbeddingCostResult {
+  const pricing = EMBEDDING_MODEL_PRICING[modelName as EmbeddingModelName];
+  
+  if (!pricing) {
+    console.warn(`Embedding料金設定が見つかりません: ${modelName}。デフォルト（text-embedding-3-large）を使用します。`);
+    const defaultPricing = EMBEDDING_MODEL_PRICING['text-embedding-3-large'];
+    return {
+      tokens,
+      costUSD: (tokens / 1_000_000) * defaultPricing,
+      costJPY: (tokens / 1_000_000) * defaultPricing * USD_TO_JPY,
+    };
+  }
+  
+  const costUSD = (tokens / 1_000_000) * pricing;
+  return {
+    tokens,
+    costUSD,
+    costJPY: costUSD * USD_TO_JPY,
+  };
+}
+
+/**
+ * Embedding料金結果をフォーマットして表示
+ */
+export function formatEmbeddingCost(cost: EmbeddingCostResult): string {
+  return `料金: $${cost.costUSD.toFixed(6)} (¥${cost.costJPY.toFixed(2)}) [${cost.tokens}トークン]`;
+}
+
 export type ModelName = keyof typeof MODEL_PRICING;
 
 /**

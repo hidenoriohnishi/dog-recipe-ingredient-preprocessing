@@ -25,7 +25,10 @@
     "process:10-1": "tsx process/10-1-recipe-ingredient-mark/index.ts",
     "process:11-1": "tsx process/11-1-cooking-variations/index.ts",
     "process:12-1": "tsx process/12-1-add-egg-shell/index.ts",
-    "process:13-1": "tsx process/13-1-canonical-food-mark/index.ts",
+    "process:13-1": "tsx process/13-1-vector-db-extract/index.ts",
+    "process:13-2": "tsx process/13-2-embedding/index.ts",
+    "process:14-1": "tsx process/14-1-label-embedding/index.ts",
+    "process:14-2": "tsx process/14-2-distance-calculation/index.ts",
     "process:99": "tsx process/99-result/index.ts"
   },
   "dependencies": {
@@ -33,11 +36,13 @@
     "ai": "^6.0.1",
     "dotenv": "^16.4.5",
     "openai": "^4.28.0",
+    "pluralize": "^8.0.0",
     "xlsx": "^0.18.5",
     "zod": "^3.23.8"
   },
   "devDependencies": {
     "@types/node": "^20.11.0",
+    "@types/pluralize": "^0.0.29",
     "tsx": "^4.7.0",
     "typescript": "^5.3.3"
   }
