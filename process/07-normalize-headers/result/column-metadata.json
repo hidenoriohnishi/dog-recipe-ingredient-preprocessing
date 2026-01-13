@@ -343,16 +343,18 @@
     {
       "columnIndex": 31,
       "columnName": "reason",
-      "originalHeader": "理由",
+      "originalHeader": "{\"type\": \"metadata\", \"name\": \"理由\", \"description\": \"犬のレシピ素材適性評価の理由\"}",
+      "type": "metadata",
       "name": "理由",
-      "type": "raw"
+      "description": "犬のレシピ素材適性評価の理由"
     },
     {
       "columnIndex": 32,
       "columnName": "score",
-      "originalHeader": "スコア",
+      "originalHeader": "{\"type\": \"metadata\", \"name\": \"スコア\", \"description\": \"犬のレシピ素材適性スコア（1-10）\"}",
+      "type": "metadata",
       "name": "スコア",
-      "type": "raw"
+      "description": "犬のレシピ素材適性スコア（1-10）"
     },
     {
       "columnIndex": 33,
@@ -674,46 +676,6 @@
     },
     {
       "columnIndex": 58,
-      "columnName": "search_keys",
-      "originalHeader": "{\"type\": \"extension\", \"name\": \"searchKeys\", \"description\": \"検索キーワード配列\"}",
-      "type": "extension",
-      "name": "searchKeys",
-      "description": "検索キーワード配列"
-    },
-    {
-      "columnIndex": 59,
-      "columnName": "tag_name_ja",
-      "originalHeader": "{\"type\": \"extension\", \"name\": \"tagNameJa\", \"description\": \"日本語タグ名\"}",
-      "type": "extension",
-      "name": "tagNameJa",
-      "description": "日本語タグ名"
-    },
-    {
-      "columnIndex": 60,
-      "columnName": "tag_name_ja_detail",
-      "originalHeader": "{\"type\": \"extension\", \"name\": \"tagNameJaDetail\", \"description\": \"日本語タグ名詳細（オプション）\"}",
-      "type": "extension",
-      "name": "tagNameJaDetail",
-      "description": "日本語タグ名詳細（オプション）"
-    },
-    {
-      "columnIndex": 61,
-      "columnName": "tag_name_en",
-      "originalHeader": "{\"type\": \"extension\", \"name\": \"tagNameEn\", \"description\": \"英語タグ名\"}",
-      "type": "extension",
-      "name": "tagNameEn",
-      "description": "英語タグ名"
-    },
-    {
-      "columnIndex": 62,
-      "columnName": "tag_name_en_detail",
-      "originalHeader": "{\"type\": \"extension\", \"name\": \"tagNameEnDetail\", \"description\": \"英語タグ名詳細（オプション）\"}",
-      "type": "extension",
-      "name": "tagNameEnDetail",
-      "description": "英語タグ名詳細（オプション）"
-    },
-    {
-      "columnIndex": 63,
       "columnName": "ME_KCAL_100G",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"エネルギー\", \"name\": \"代謝エネルギー\", \"unit\": \"kcal\", \"code\": \"ME_KCAL_100G\"}",
       "type": "nutrient",

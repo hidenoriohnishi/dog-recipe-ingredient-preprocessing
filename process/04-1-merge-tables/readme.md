@@ -2,14 +2,17 @@
 
 ## 概要
 
-3つの成分表を「食品番号」をキーとしてマージし、レシピ生成に必要な列のみを含む新しい表を作成する。
+複数の成分表を「食品番号」をキーとしてマージし、レシピ生成に必要な列のみを含む新しい表を作成する。
+
+**注意**: 03-2のフィルタリングをスキップし、全食材を対象としています。
 
 ## 入力
 
-1. `03-2-filter-by-score/result/filtered-by-score.csv` - フィルタ済み食品表（ベース）
-2. `04-0/amino_acid_composition.csv` - アミノ酸成分表
-3. `04-0/fatty_acid_composition.csv` - 脂肪酸成分表
-4. `04-0/plan.json` - マージ設定
+1. `02-food-name-normalize/result/claude-json-header-with-structured-names.csv` - 全食品表（ベース）
+2. `03-1-dog-food-scoring/result/scores.csv` - スコアデータ（理由とスコアを取得）
+3. `04-0/amino_acid_composition.csv` - アミノ酸成分表
+4. `04-0/fatty_acid_composition.csv` - 脂肪酸成分表
+5. `04-0/plan.json` - マージ設定
 
 ## 出力
 
@@ -63,6 +66,7 @@
 
 ## 変更履歴
 
+- v4: 03-2のフィルタリングをスキップし、02の全食材を対象に変更。スコアは03-1から取得。
 - v3: AAFCO SUPP制約対応のため、ミネラル6種・ビタミン8種・食品群・エネルギーを追加
 - v2: データ完全性フラグ（has_amino_acid_data, has_fatty_acid_data）を追加
 - v1: 初版

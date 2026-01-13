@@ -36,7 +36,7 @@ const outputFile = join(resultDir, "final-nutrition.csv");
 const progressFile = join(resultDir, "progress.json");
 
 const BATCH_SIZE = 10;
-const MODEL_NAME = "gpt-5-mini-2025-08-07";
+const MODEL_NAME = "gpt-4.1-2025-04-14";
 
 // 距離計算結果
 interface DistanceData {
@@ -276,8 +276,8 @@ ${foodList}
     });
 
     // トークン使用量と料金を計算
-    const inputTokens = result.usage?.promptTokens || 0;
-    const outputTokens = result.usage?.completionTokens || 0;
+    const inputTokens = result.usage?.inputTokens || 0;
+    const outputTokens = result.usage?.outputTokens || 0;
     const cost = calculateCost(MODEL_NAME, inputTokens, outputTokens);
     console.log(formatCost(cost));
 

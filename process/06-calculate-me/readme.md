@@ -2,13 +2,13 @@
 
 ## 概要
 
-05-3の最終栄養データCSVに、代謝エネルギー（ME）を計算して追加するプロセスです。
+04-1の成分表マージ結果に、代謝エネルギー（ME）を計算して追加するプロセスです。
 
 spec.md 6.3に従い、modified Atwater法で代謝エネルギーを算出します。
 
 ## 入力
 
-1. **05-3**: `../05-3-merge-extensions/result/final-nutrition.csv` - 拡張データ付き栄養データCSV
+1. **04-1**: `../04-1-merge-tables/result/merged-nutrition.csv` - マージ済み成分表データCSV
 
 ## 出力
 

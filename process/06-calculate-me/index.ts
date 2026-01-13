@@ -6,7 +6,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const resultDir = join(__dirname, 'result');
 
-const csvInputFile = join(__dirname, '../05-3-merge-extensions/result/final-nutrition.csv');
+const csvInputFile = join(__dirname, '../04-1-merge-tables/result/merged-nutrition.csv');
 const outputFile = join(resultDir, 'final-nutrition.csv');
 
 /**

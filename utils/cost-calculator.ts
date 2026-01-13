@@ -13,6 +13,10 @@ export const MODEL_PRICING = {
     input: 2.00,   // $2.00 per 1M tokens
     output: 8.00,  // $8.00 per 1M tokens
   },
+  'gpt-4.1-2025-04-14': {
+    input: 2.00,   // $2.00 per 1M tokens (same as gpt-4.1)
+    output: 8.00,  // $8.00 per 1M tokens (same as gpt-4.1)
+  },
   'gpt-4.1-mini': {
     input: 0.40,   // $0.40 per 1M tokens
     output: 1.60,  // $1.60 per 1M tokens

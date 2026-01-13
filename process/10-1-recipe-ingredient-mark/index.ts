@@ -27,7 +27,7 @@ const progressFile = join(resultDir, "progress.json");
 const outputFile = join(resultDir, "final-nutrition-with-recipe-flag.csv");
 
 const BATCH_SIZE = 20;
-const MODEL_NAME = "gpt-5-mini-2025-08-07";
+const MODEL_NAME = "gpt-4.1-2025-04-14";
 
 // Zodスキーマ定義（Chain of Thought: reasonを先に）
 const FoodEvaluationSchema = z.object({
