@@ -16,7 +16,83 @@ const outputFile = join(resultDir, 'cleaned-final-nutrition.csv');
 const COLUMNS_TO_REMOVE = [
   'structured_food_name',
   'has_amino_acid_data',
-  'has_fatty_acid_data'
+  'has_fatty_acid_data',
+  'reason'
+];
+
+// 新しいカラム順序（削除対象を除く）
+const NEW_COLUMN_ORDER = [
+  // 1. 基本情報（識別子）
+  'food_group',
+  'food_number',
+  'food_name',
+  'food_name_en',
+  
+  // 2. 基本栄養素・エネルギー
+  'WATER',
+  'PROT-',
+  'FAT-',
+  'FIB-',
+  'ASH',
+  'ENERC_KCAL',
+  'ME_KCAL_100G',
+  
+  // 3. ミネラル（11種）
+  'CA',
+  'P',
+  'NA',
+  'K',
+  'MG',
+  'FE',
+  'ZN',
+  'CU',
+  'MN',
+  'ID',
+  'SE',
+  
+  // 4. ビタミン（10種 + コリン）
+  'RETOL',
+  'VITD',
+  'TOCPHA',
+  'THIA',
+  'RIBF',
+  'NIA',
+  'VITB6A',
+  'VITB12',
+  'FOL',
+  'PANTAC',
+  'usda_choline_mg',
+  
+  // 5. アミノ酸（14種）
+  'ILE',
+  'LEU',
+  'LYS',
+  'MET',
+  'CYS',
+  'AAS',
+  'PHE',
+  'TYR',
+  'AAA',
+  'THR',
+  'TRP',
+  'VAL',
+  'HIS',
+  'ARG',
+  
+  // 6. 脂肪酸（9種）
+  'FACID',
+  'FAPU',
+  'FAPUN3',
+  'FAPUN6',
+  'F18D2N6',
+  'F18D3N3',
+  'F20D5N3',
+  'F22D6N3',
+  'F20D4N6',
+  
+  // 7. メタデータ（スコア・参照情報）
+  'score',
+  'usda_fdc_id'
 ];
 
 /**
@@ -103,9 +179,15 @@ function getColumnIndices(headerRow: string[]): Map<string, number> {
 }
 
 /**
- * 指定されたカラムを削除した新しい行を作成
+ * カラムを削除し、新しい順序で並び替えた行を作成
  */
-function removeColumns(row: string[], columnIndices: Map<string, number>, columnsToRemove: string[]): string[] {
+function removeAndReorderColumns(
+  row: string[],
+  columnIndices: Map<string, number>,
+  columnsToRemove: string[],
+  newOrder: string[]
+): string[] {
+  // 削除対象のインデックスを取得
   const removeIndices = new Set<number>();
   columnsToRemove.forEach(columnName => {
     const index = columnIndices.get(columnName);
@@ -114,7 +196,16 @@ function removeColumns(row: string[], columnIndices: Map<string, number>, column
     }
   });
 
-  return row.filter((_, index) => !removeIndices.has(index));
+  // 新しい順序に従ってカラムを並び替え
+  const reorderedRow: string[] = [];
+  for (const columnName of newOrder) {
+    const index = columnIndices.get(columnName);
+    if (index !== undefined && !removeIndices.has(index)) {
+      reorderedRow.push(row[index]);
+    }
+  }
+
+  return reorderedRow;
 }
 
 /**
@@ -151,11 +242,29 @@ async function main() {
     console.warn(`警告: 以下のカラムが見つかりませんでした: ${missingColumns.join(', ')}`);
   }
 
+  // 新しい順序に存在しないカラムを確認
+  const missingOrderColumns = NEW_COLUMN_ORDER.filter(col => !columnIndices.has(col));
+  if (missingOrderColumns.length > 0) {
+    console.warn(`警告: 新しい順序に指定された以下のカラムが見つかりませんでした: ${missingOrderColumns.join(', ')}`);
+  }
+
+  // 実際に存在するカラムのみを新しい順序から抽出
+  const validNewOrder = NEW_COLUMN_ORDER.filter(col => columnIndices.has(col) && !COLUMNS_TO_REMOVE.includes(col));
+
   console.log(`削除対象カラム: ${COLUMNS_TO_REMOVE.join(', ')}`);
   console.log(`元のカラム数: ${headerRow.length}`);
+  console.log(`新しい順序のカラム数: ${validNewOrder.length}`);
 
-  // 各行から指定カラムを削除
-  const cleanedRecords = records.map(row => removeColumns(row, columnIndices, COLUMNS_TO_REMOVE));
+  // 新しいヘッダー行を作成
+  const newHeaderRow = validNewOrder;
+
+  // 各行から指定カラムを削除し、新しい順序で並び替え
+  const cleanedRecords = [
+    newHeaderRow,
+    ...records.slice(1).map(row => 
+      removeAndReorderColumns(row, columnIndices, COLUMNS_TO_REMOVE, validNewOrder)
+    )
+  ];
 
   console.log(`クリーンアップ後のカラム数: ${cleanedRecords[0].length}`);
   console.log(`レコード数: ${cleanedRecords.length}`);
