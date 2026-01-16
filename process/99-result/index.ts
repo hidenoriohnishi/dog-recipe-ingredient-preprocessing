@@ -10,7 +10,7 @@ const resultDir = join(__dirname, "result");
 // 入力ファイル
 const inputFiles = {
   csv: join(__dirname, "../11-1-cooking-variations/result/final-nutrition-with-cooking-variations.csv"),
-  columnMetadata: join(__dirname, "../08-3-merge-choline/result/column-metadata.json"),
+  columnMetadata: join(__dirname, "../07-normalize-headers/result/column-metadata.json"),
   cookingLabels: join(__dirname, "../11-1-cooking-variations/result/cooking-labels.json"),
   spec: join(__dirname, "../../doc/spec.md"),
   specAdditional: join(__dirname, "../../sample-result/spec-additional.md"),

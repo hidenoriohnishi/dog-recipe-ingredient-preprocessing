@@ -10,7 +10,7 @@
 
 - `../11-1-cooking-variations/result/final-nutrition-with-cooking-variations.csv` - 最終CSV
 - `../11-1-cooking-variations/result/cooking-labels.json` - 調理ラベル定義
-- `../08-3-merge-choline/result/column-metadata.json` - 列メタデータ（ベース）
+- `../07-normalize-headers/result/column-metadata.json` - 列メタデータ（ベース）
 - `../../doc/spec.md` - 仕様書
 - `../../sample-result/spec-additional.md` - LPモデル詳細仕様
 - `../07-normalize-headers/SPEC_COMPARISON.md` - 仕様比較

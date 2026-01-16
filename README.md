@@ -32,8 +32,20 @@ CSVファイルの食品名列を構造化し、新しい列として追加し�
 - **処理**: スコアが閾値以上の食品番号に該当する行のみを残してフィルタリングし、各行に「理由」と「スコア」の列を追加（閾値は`index.ts`の`SCORE_THRESHOLD`定数で変更可能、デフォルト: 6）
 - **出力**: `result/filtered-by-score.csv` - 理由とスコアの列が追加されたフィルタリング済みCSV
 
+### 09-3-ai-select: AIによる最終選択
+USDAデータを用いた栄養データ統合を行います。
+- **入力**: `09-2-3-pure-distance/result/distance-top30.json`、`07-normalize-headers/result/final-nutrition.csv`
+- **処理**: 各MEXT食品に対して最も近いUSDA食品を選択し、栄養データを統合
+- **出力**: `result/final-nutrition.csv`
+
+### 10-1-clean-data: データクリーンアップ
+09-3までのデータをクリーンアップします。
+- **入力**: `09-3-ai-select/result/final-nutrition.csv`
+- **処理**: 不要になったカラム（structured_food_name, has_amino_acid_data, has_fatty_acid_data）を削除
+- **出力**: `result/cleaned-final-nutrition.csv`
+
 ### 10-1-recipe-ingredient-mark: レシピ実績食材マーキング
 MEXTデータの各食品が`10-0/ingredients-structured.json`の最下層ラベルに含まれるかAIで判定し、該当する場合は「レシピ実績食材」としてフラグを追加した新しいCSVを出力します。
-- **入力**: `10-0/ingredients-structured.json`、`09-3-ai-select/result/final-nutrition.csv`
+- **入力**: `10-0/ingredients-structured.json`、`10-1-clean-data/result/cleaned-final-nutrition.csv`
 - **処理**: ラベル一覧とMEXT食品（20件ずつ）をAIに提示し、匹敵するラベルパスを返してもらいながら`TRUE/FALSE`フラグと理由を付与。バッチごとに結果CSVへ追記し、進捗を保存
 - **出力**: `10-1-recipe-ingredient-mark/result/final-nutrition-with-recipe-flag.csv`、`progress.json`、`batch-results/batch-{n}.json`
