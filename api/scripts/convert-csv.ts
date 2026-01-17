@@ -8,7 +8,9 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import { fileURLToPath } from 'url';
 
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CSV_PATH = path.resolve(__dirname, '../../data-process/99-result/result/foods.csv');
 const OUTPUT_PATH = path.resolve(__dirname, '../src/data/foods.json');
 const METADATA_PATH = path.resolve(__dirname, '../../data-process/99-result/result/column-metadata.json');
