@@ -1,24 +1,31 @@
-# 成分表分析 前処理プロジェクト ルール
+# リポジトリ構成
 
-## プロジェクトの目的
+このリポジトリは、単一のリポジトリで2つの独立したパッケージを管理しています。モノレポではなく、それぞれが独立したパッケージとして動作します。
 
-このプロジェクトは、`doc/spec.md`に記載されている方法で犬の健康レシピを生成するための前処理データ加工を行います。
+## パッケージ構成
 
-最終的には、線型計画法とLLMを使用して以下のようなレシピ生成システムを実現します：
-- コンディション入力（体重、ライフステージ、活動レベルなど）に基づく1日必要エネルギーの算出
-- AAFCO栄養基準に基づく栄養制約の設定
-- MEXT 2023データを使用した食材データの正規化
-- 線型計画法による最適化
-- レシピの出力（機械可読形式と人間可読形式）
+### `data-process/`
+データ処理パッケージ。成分表データの前処理プロセスを実行します。
 
-このプロジェクトでは、そのための前処理として、MEXTデータの加工、栄養成分の正規化、単位変換、データ構造の整備などを行います。
+- **目的**: `doc/spec.md`に記載されている方法で犬の健康レシピを生成するための前処理データ加工
+- **技術スタック**: TypeScript (tsxで実行), Vercel AI SDK (OpenAIプロバイダ), dotenv, xlsx
+- **依存関係**: 各パッケージは独立しており、`data-process/package.json`で管理
+- **実行方法**: `cd data-process && npm install && npm run process:{番号}`
 
-## プロセス構造
+### `api/`
+Cloudflare Worker APIパッケージ。`data-process`の結果を使用したAPIを提供します。
+
+- **目的**: `data-process`で処理されたデータを使用して、レシピ生成APIを提供
+- **技術スタック**: TypeScript, Cloudflare Workers, Wrangler
+- **依存関係**: 各パッケージは独立しており、`api/package.json`で管理
+- **実行方法**: `cd api && npm install && npm run dev`
+
+## プロセス構造（data-process内）
 
 各プロセスは以下の構造を持ちます：
-- `process/{番号}-{名前}/index.ts` - プロセスの実装
-- `process/{番号}-{名前}/readme.md` - プロセスの説明
-- `process/{番号}-{名前}/result/` - 出力ファイル（自動生成）
+- `data-process/{番号}-{名前}/index.ts` - プロセスの実装
+- `data-process/{番号}-{名前}/readme.md` - プロセスの説明
+- `data-process/{番号}-{名前}/result/` - 出力ファイル（自動生成）
 
 ## プロセス番号の命名規則
 
@@ -28,8 +35,8 @@
 ## プロセス作成の順序
 
 1. まず`README.md`に処理の内容を記載する
-2. その後、`process/{番号}-{名前}/`フォルダを作成し、実装を進める
-3. プロセス作成が完了したら、`package.json`の`scripts`セクションに実行コマンドを追加する
+2. その後、`data-process/{番号}-{名前}/`フォルダを作成し、実装を進める
+3. プロセス作成が完了したら、`data-process/package.json`の`scripts`セクションに実行コマンドを追加する
 4. この順序で段階的にプロセスを追加していく
 
 ## プロセス間の依存関係
@@ -47,23 +54,15 @@
 - 各プロセスの出力は必ず`result/`フォルダに保存する
 - 中間ファイルは必要に応じて作成し、後続のプロセスで利用する
 
-## 技術スタック
-
-- TypeScript (tsxで実行)
-- Vercel AI SDK (OpenAIプロバイダ)
-- dotenv (環境変数管理)
-- xlsx (Excelファイル処理)
-
 ## AI使用時の料金表示
 
 AIを使用するプロセスを作成する際は、以下のルールに従ってください：
 
-- **料金計算ユーティリティの使用**: `utils/cost-calculator.ts`を使用して料金を計算・表示する
+- **料金計算ユーティリティの使用**: `data-process/utils/cost-calculator.ts`を使用して料金を計算・表示する
 - **表示タイミング**: 各バッチ処理（またはAPI呼び出し）ごとに料金を表示する
 - **表示内容**: 
   - トークン数（入力・出力）
   - 料金（USDとJPY）
   - 各バッチごとの料金を表示
-- **モデル料金の定義**: `utils/cost-calculator.ts`の`MODEL_PRICING`にモデル別の料金を定義する
-- **為替レート**: `utils/cost-calculator.ts`の`USD_TO_JPY`で変更可能（デフォルト: 150円）
-
+- **モデル料金の定義**: `data-process/utils/cost-calculator.ts`の`MODEL_PRICING`にモデル別の料金を定義する
+- **為替レート**: `data-process/utils/cost-calculator.ts`の`USD_TO_JPY`で変更可能（デフォルト: 150円）

@@ -1,0 +1,5 @@
+# ローカル開発用の環境変数サンプル
+# このファイルをコピーして .dev.vars を作成してください
+# .dev.vars は .gitignore に含まれています
+
+API_KEYS=[["test_access_key", "test_secret_key"]]
