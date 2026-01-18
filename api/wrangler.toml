@@ -1,9 +1,13 @@
-name = "dog-recipe-api"
+name = "mext-db-api"
 main = "src/index.ts"
 compatibility_date = "2026-01-17"
 
-[env.production]
-name = "dog-recipe-mext-api"
+[observability]
+enabled = false
+head_sampling_rate = 1
 
-[env.development]
-name = "dog-recipe-mext-api-dev"
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+persist = true
+invocation_logs = true

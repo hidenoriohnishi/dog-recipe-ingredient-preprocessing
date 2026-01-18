@@ -1,0 +1,584 @@
+openapi: 3.0.3
+info:
+  title: Dog Recipe API
+  description: |
+    犬のレシピ生成用のCloudflare Worker APIです。
+    
+    ## 認証
+    
+    すべてのAPIエンドポイント（`/health`を除く）はHMAC認証が必要です。
+    
+    ### Bearerトークン形式
+    
+    ```
+    Authorization: Bearer ACCESS_KEY:HMAC_SIGNATURE
+    ```
+    
+    ### HMAC署名の計算
+    
+    ```
+    HMAC_SIGNATURE = HMAC-SHA256(METHOD + PATH + BODY, SECRET_KEY)
+    ```
+    
+    - `METHOD`: HTTPメソッド（例: `GET`, `POST`）
+    - `PATH`: パスとクエリ文字列（例: `/foods/01001` または `/foods/search`）
+    - `BODY`: リクエストボディ（GETリクエストの場合は空文字列）
+    
+    ### 例
+    
+    ```javascript
+    const crypto = require('crypto');
+    
+    const accessKey = 'test_access_key';
+    const secretKey = 'test_secret_key';
+    const method = 'GET';
+    const path = '/foods/01001';
+    const body = '';
+    
+    const message = `${method}${path}${body}`;
+    const signature = crypto.createHmac('sha256', secretKey).update(message).digest('hex');
+    const bearerToken = `${accessKey}:${signature}`;
+    
+    // Authorization: Bearer test_access_key:abc123...
+    ```
+  version: 1.0.0
+  contact:
+    name: API Support
+
+servers:
+  - url: http://localhost:8787
+    description: ローカル開発環境
+  - url: https://mextdb-api.botllc.workers.dev
+    description: 本番環境
+
+tags:
+  - name: health
+    description: ヘルスチェック
+  - name: foods
+    description: 食品データ取得・検索
+
+paths:
+  /health:
+    get:
+      tags:
+        - health
+      summary: ヘルスチェック
+      description: APIの稼働状況を確認します（認証不要）
+      operationId: getHealth
+      responses:
+        '200':
+          description: 正常に動作しています
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/HealthResponse'
+
+  /foods/{id}:
+    get:
+      tags:
+        - foods
+      summary: ID指定で食品を取得
+      description: 指定されたIDの食品データを取得します
+      operationId: getFoodById
+      security:
+        - BearerAuth: []
+      parameters:
+        - name: id
+          in: path
+          required: true
+          description: '食品ID（例: 01001）'
+          schema:
+            type: string
+            pattern: '^[0-9]{5}$'
+            example: '01001'
+      responses:
+        '200':
+          description: 食品データを取得しました
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetFoodsResponse'
+        '401':
+          description: 認証に失敗しました
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '404':
+          description: 指定されたIDの食品が見つかりません
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+
+  /foods:
+    get:
+      tags:
+        - foods
+      summary: 複数のIDで食品を取得
+      description: カンマ区切りで複数のIDを指定して食品データを取得します
+      operationId: getFoodsByIds
+      security:
+        - BearerAuth: []
+      parameters:
+        - name: ids
+          in: query
+          required: true
+          description: 'カンマ区切りの食品ID（例: 01001,01002,01003）'
+          schema:
+            type: string
+            example: '01001,01002,01003'
+      responses:
+        '200':
+          description: 食品データを取得しました
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetFoodsResponse'
+        '400':
+          description: リクエストが不正です
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+
+  /foods/search:
+    post:
+      tags:
+        - foods
+      summary: 食品を検索
+      description: |
+        栄養素やスコアの条件で食品を検索します。
+        
+        例: カルシウム100mg以上、ナトリウム50mg以下、スコア9以上の食品を30件取得
+      operationId: searchFoods
+      security:
+        - BearerAuth: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/SearchRequest'
+            examples:
+              calciumHighLowSodium:
+                summary: カルシウム高・ナトリウム低・スコア高
+                value:
+                  filters:
+                    - column: CA
+                      operator: gte
+                      value: 100
+                    - column: NA
+                      operator: lte
+                      value: 50
+                    - column: score
+                      operator: gte
+                      value: 9
+                  sort:
+                    column: NA
+                    order: asc
+                  limit: 30
+      responses:
+        '200':
+          description: 検索結果を取得しました
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SearchResponse'
+        '400':
+          description: リクエストが不正です
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Error'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+
+components:
+  securitySchemes:
+    BearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: ACCESS_KEY:HMAC_SIGNATURE
+      description: |
+        HMAC認証を使用します。
+        
+        Bearerトークン形式: `ACCESS_KEY:HMAC_SIGNATURE`
+        
+        HMAC_SIGNATURE = HMAC-SHA256(METHOD + PATH + BODY, SECRET_KEY)
+
+  schemas:
+    HealthResponse:
+      type: object
+      properties:
+        status:
+          type: string
+          example: 'ok'
+
+    Food:
+      type: object
+      description: 食品データ
+      properties:
+        food_group:
+          type: string
+          description: 食品群（2桁）
+          example: '01'
+        food_number:
+          type: string
+          description: 食品番号（5桁）
+          example: '01001'
+        food_name:
+          type: string
+          description: 食品名
+          example: 'アマランサス　玄穀'
+        food_name_en:
+          type: string
+          description: 食品名（英語）
+          example: 'Amaranth grain, raw'
+        WATER:
+          type: number
+          nullable: true
+          description: 水分（g/100g）
+        'PROT-':
+          type: number
+          nullable: true
+          description: たんぱく質（g/100g）
+        'FAT-':
+          type: number
+          nullable: true
+          description: 脂質（g/100g）
+        'FIB-':
+          type: number
+          nullable: true
+          description: 食物繊維総量（g/100g）
+        ASH:
+          type: number
+          nullable: true
+          description: 灰分（g/100g）
+        ENERC_KCAL:
+          type: number
+          nullable: true
+          description: エネルギー（kcal/100g）
+        ME_KCAL_100G:
+          type: number
+          nullable: true
+          description: 代謝エネルギー（kcal/100g）
+        CA:
+          type: number
+          nullable: true
+          description: カルシウム（mg/100g）
+          example: 160
+        P:
+          type: number
+          nullable: true
+          description: リン（mg/100g）
+        NA:
+          type: number
+          nullable: true
+          description: ナトリウム（mg/100g）
+          example: 1
+        K:
+          type: number
+          nullable: true
+          description: カリウム（mg/100g）
+        MG:
+          type: number
+          nullable: true
+          description: マグネシウム（mg/100g）
+        FE:
+          type: number
+          nullable: true
+          description: 鉄（mg/100g）
+        ZN:
+          type: number
+          nullable: true
+          description: 亜鉛（mg/100g）
+        CU:
+          type: number
+          nullable: true
+          description: 銅（mg/100g）
+        MN:
+          type: number
+          nullable: true
+          description: マンガン（mg/100g）
+        ID:
+          type: number
+          nullable: true
+          description: ヨウ素（μg/100g）
+        SE:
+          type: number
+          nullable: true
+          description: セレン（μg/100g）
+        RETOL:
+          type: number
+          nullable: true
+          description: レチノール（μg/100g）
+        VITD:
+          type: number
+          nullable: true
+          description: ビタミンD（μg/100g）
+        TOCPHA:
+          type: number
+          nullable: true
+          description: αトコフェロール（mg/100g）
+        THIA:
+          type: number
+          nullable: true
+          description: ビタミンB1（mg/100g）
+        RIBF:
+          type: number
+          nullable: true
+          description: ビタミンB2（mg/100g）
+        NIA:
+          type: number
+          nullable: true
+          description: ナイアシン（mg/100g）
+        VITB6A:
+          type: number
+          nullable: true
+          description: ビタミンB6（mg/100g）
+        VITB12:
+          type: number
+          nullable: true
+          description: ビタミンB12（μg/100g）
+        FOL:
+          type: number
+          nullable: true
+          description: 葉酸（μg/100g）
+        PANTAC:
+          type: number
+          nullable: true
+          description: パントテン酸（mg/100g）
+        usda_choline_mg:
+          type: number
+          nullable: true
+          description: コリン（USDA）（mg/100g）
+        ILE:
+          type: number
+          nullable: true
+          description: イソロイシン（mg/100g）
+        LEU:
+          type: number
+          nullable: true
+          description: ロイシン（mg/100g）
+        LYS:
+          type: number
+          nullable: true
+          description: リシン（mg/100g）
+        MET:
+          type: number
+          nullable: true
+          description: メチオニン（mg/100g）
+        CYS:
+          type: number
+          nullable: true
+          description: シスチン（mg/100g）
+        AAS:
+          type: number
+          nullable: true
+          description: 含硫アミノ酸合計（mg/100g）
+        PHE:
+          type: number
+          nullable: true
+          description: フェニルアラニン（mg/100g）
+        TYR:
+          type: number
+          nullable: true
+          description: チロシン（mg/100g）
+        AAA:
+          type: number
+          nullable: true
+          description: 芳香族アミノ酸合計（mg/100g）
+        THR:
+          type: number
+          nullable: true
+          description: トレオニン（mg/100g）
+        TRP:
+          type: number
+          nullable: true
+          description: トリプトファン（mg/100g）
+        VAL:
+          type: number
+          nullable: true
+          description: バリン（mg/100g）
+        HIS:
+          type: number
+          nullable: true
+          description: ヒスチジン（mg/100g）
+        ARG:
+          type: number
+          nullable: true
+          description: アルギニン（mg/100g）
+        FACID:
+          type: number
+          nullable: true
+          description: 脂肪酸総量（g/100g）
+        FAPU:
+          type: number
+          nullable: true
+          description: 多価不飽和脂肪酸（g/100g）
+        FAPUN3:
+          type: number
+          nullable: true
+          description: n-3系多価不飽和脂肪酸（g/100g）
+        FAPUN6:
+          type: number
+          nullable: true
+          description: n-6系多価不飽和脂肪酸（g/100g）
+        F18D2N6:
+          type: number
+          nullable: true
+          description: リノール酸（mg/100g）
+        F18D3N3:
+          type: number
+          nullable: true
+          description: α-リノレン酸（mg/100g）
+        F20D5N3:
+          type: number
+          nullable: true
+          description: イコサペンタエン酸（mg/100g）
+        F22D6N3:
+          type: number
+          nullable: true
+          description: ドコサヘキサエン酸（mg/100g）
+        F20D4N6:
+          type: number
+          nullable: true
+          description: アラキドン酸（mg/100g）
+        score:
+          type: number
+          nullable: true
+          description: 犬のレシピ素材適性スコア（1-10）
+          minimum: 1
+          maximum: 10
+          example: 8
+        usda_fdc_id:
+          type: string
+          nullable: true
+          description: USDA FoodData Central ID（マッチした場合）
+
+    GetFoodsResponse:
+      type: object
+      properties:
+        foods:
+          type: array
+          items:
+            $ref: '#/components/schemas/Food'
+
+    FilterCondition:
+      type: object
+      required:
+        - column
+        - operator
+        - value
+      properties:
+        column:
+          type: string
+          description: カラム名（栄養素コードまたはscore）
+          example: 'CA'
+        operator:
+          type: string
+          enum:
+            - eq
+            - gte
+            - gt
+            - lte
+            - lt
+          description: |
+            比較演算子
+            - eq: 等しい
+            - gte: 以上
+            - gt: より大きい
+            - lte: 以下
+            - lt: より小さい
+          example: 'gte'
+        value:
+          oneOf:
+            - type: number
+            - type: string
+          description: 比較値
+          example: 100
+
+    SortCondition:
+      type: object
+      required:
+        - column
+        - order
+      properties:
+        column:
+          type: string
+          description: ソート対象のカラム名
+          example: 'NA'
+        order:
+          type: string
+          enum:
+            - asc
+            - desc
+          description: |
+            ソート順
+            - asc: 昇順
+            - desc: 降順
+          example: 'asc'
+
+    SearchRequest:
+      type: object
+      properties:
+        filters:
+          type: array
+          items:
+            $ref: '#/components/schemas/FilterCondition'
+          description: フィルター条件の配列
+        sort:
+          $ref: '#/components/schemas/SortCondition'
+          description: ソート条件
+        limit:
+          type: integer
+          minimum: 1
+          maximum: 1000
+          default: 100
+          description: 取得件数の上限
+          example: 30
+        offset:
+          type: integer
+          minimum: 0
+          default: 0
+          description: オフセット（ページネーション用）
+          example: 0
+
+    SearchResponse:
+      type: object
+      properties:
+        total:
+          type: integer
+          description: 検索条件に一致する総件数
+          example: 125
+        foods:
+          type: array
+          items:
+            $ref: '#/components/schemas/Food'
+          description: 検索結果の食品データ
+
+    Error:
+      type: object
+      properties:
+        error:
+          type: string
+          description: エラー種別
+          example: 'Bad Request'
+        message:
+          type: string
+          description: エラーメッセージ
+          example: 'Invalid request body'
+
+  responses:
+    Unauthorized:
+      description: 認証に失敗しました
+      content:
+        application/json:
+          schema:
+            $ref: '#/components/schemas/Error'
+          example:
+            error: 'Unauthorized'
+            message: 'Missing or invalid Authorization header'
