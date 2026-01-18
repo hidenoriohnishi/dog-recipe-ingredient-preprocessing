@@ -10,7 +10,7 @@ const resultDir = join(__dirname, "result");
 
 // 入力ファイル
 const inputFiles = {
-  csv: join(__dirname, "../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv"),
+  csv: join(__dirname, "../13-1-add-tags/result/final-nutrition-with-tags.csv"),
   columnMetadata: join(__dirname, "../07-normalize-headers/result/column-metadata.json"),
   specAdditional: join(__dirname, "../../sample-result/spec-additional.md"),
   readme: join(__dirname, "readme.md"),
@@ -97,7 +97,12 @@ const FINAL_COLUMN_ORDER = [
   
   // 7. メタデータ（スコア・参照情報）
   'score',
-  'usda_fdc_id'
+  'usda_fdc_id',
+  
+  // 8. タグ情報（ユーザー向け）
+  'tag_name',
+  'diff',
+  'search_keywords'
 ];
 
 interface ColumnMetadataItem {
@@ -169,6 +174,24 @@ async function updateColumnMetadata(): Promise<void> {
       type: "metadata",
       name: "スコア",
       description: "犬のレシピ素材適性スコア（1-10）"
+    },
+    tag_name: {
+      type: "tag",
+      name: "タグネーム",
+      description: "ユーザーが最も自然に呼ぶ食材の名前。短くシンプルなもの。",
+      category: "タグ情報"
+    },
+    diff: {
+      type: "tag",
+      name: "差分",
+      description: "同じタグネームを持つ食材を区別するための情報。調理方法、部位、状態などを表す。",
+      category: "タグ情報"
+    },
+    search_keywords: {
+      type: "tag",
+      name: "サーチキーワード",
+      description: "検索時に使用するキーワード。漢字表記、別名、表記揺れなどを含む。スペース区切りで複数指定可能。",
+      category: "タグ情報"
     }
   };
 
@@ -210,8 +233,8 @@ async function updateColumnMetadata(): Promise<void> {
 
   // 新しいメタデータオブジェクトを作成
   const newMetadata: ColumnMetadata = {
-    version: "2.1",
-    description: "CSV列のメタデータ（12-1処理完了版、廃棄率追加）",
+    version: "2.2",
+    description: "CSV列のメタデータ（13-1処理完了版、タグ情報追加）",
     columns: newColumns
   };
 
@@ -268,7 +291,8 @@ async function main() {
     { name: "ビタミン", cols: ["RETOL", "VITD", "TOCPHA", "THIA", "RIBF", "NIA", "VITB6A", "VITB12", "FOL", "PANTAC", "usda_choline_mg"] },
     { name: "アミノ酸", cols: ["ILE", "LEU", "LYS", "MET", "CYS", "AAS", "PHE", "TYR", "AAA", "THR", "TRP", "VAL", "HIS", "ARG"] },
     { name: "脂肪酸", cols: ["FACID", "FAPU", "FAPUN3", "FAPUN6", "F18D2N6", "F18D3N3", "F20D5N3", "F22D6N3", "F20D4N6"] },
-    { name: "メタデータ", cols: ["score", "usda_fdc_id"] }
+    { name: "メタデータ", cols: ["score", "usda_fdc_id"] },
+    { name: "タグ情報", cols: ["tag_name", "diff", "search_keywords"] }
   ];
 
   for (const cat of categories) {

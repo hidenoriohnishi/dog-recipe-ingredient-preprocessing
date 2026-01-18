@@ -4,14 +4,13 @@
 
 ## 概要
 
-12-1までの全処理を経て生成された最終的なデータセットと関連ドキュメントをまとめます。
+13-1までの全処理を経て生成された最終的なデータセットと関連ドキュメントをまとめます。
 
 ## 入力
 
-- `../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv` - 最終CSV（廃棄率・鶏卵殻追加済み）
+- `../13-1-add-tags/result/final-nutrition-with-tags.csv` - 最終CSV（タグ情報追加済み）
 - `../07-normalize-headers/result/column-metadata.json` - 列メタデータ（ベース）
 - `../../sample-result/spec-additional.md` - LPモデル詳細仕様（存在する場合のみ）
-- `../07-normalize-headers/SPEC_COMPARISON.md` - 仕様比較
 
 ## 実行
 
@@ -29,8 +28,7 @@ pnpm run process:99
 ### ドキュメント
 
 3. **`result/spec-additional.md`** - LPモデル詳細仕様（存在する場合のみ）
-4. **`result/SPEC_COMPARISON.md`** - spec.mdとの列名比較結果
-5. **`result/readme.md`** - データセットの説明
+4. **`result/readme.md`** - データセットの説明
 
 ---
 
@@ -41,7 +39,7 @@ pnpm run process:99
 **最終的な栄養成分データCSVファイル**
 
 - **エンコーディング**: UTF-8
-- **列数**: 59列（廃棄率追加）
+- **列数**: 62列（タグ情報追加）
 
 #### 列構成
 
@@ -54,6 +52,7 @@ pnpm run process:99
 | アミノ酸 | 14 | `ILE`, `LEU`, `LYS`, `MET`, `CYS`, `AAS`, `PHE`, `TYR`, `AAA`, `THR`, `TRP`, `VAL`, `HIS`, `ARG` |
 | 脂肪酸 | 9 | `FACID`, `FAPU`, `FAPUN3`, `FAPUN6`, `F18D2N6`, `F18D3N3`, `F20D5N3`, `F22D6N3`, `F20D4N6` |
 | メタデータ | 2 | `score`, `usda_fdc_id` |
+| タグ情報 | 3 | `tag_name`, `diff`, `search_keywords` |
 
 ### column-metadata.json
 
@@ -76,6 +75,14 @@ high_ca = df[df['CA'] > 100].sort_values('CA', ascending=False)
 
 # スコア8以上の食品のみ抽出
 good_foods = df[df['score'] >= 8]
+
+# タグネームで検索
+saba_foods = df[df['tag_name'] == 'さば']
+
+# サーチキーワードで検索（部分一致）
+import re
+keyword = '鯖'
+matching_foods = df[df['search_keywords'].str.contains(keyword, na=False, regex=False)]
 ```
 
 ### メタデータの参照
@@ -131,6 +138,8 @@ for col in metadata['columns']:
     ↓
 12-1               追加食材マージ（鶏卵殻）
     ↓
+13-1               タグ情報追加（tag_name, diff, search_keywords）
+    ↓
 99-result          最終成果物集約 ← 現在地
 ```
 
@@ -148,4 +157,9 @@ for col in metadata['columns']:
 
 5. **鶏卵殻**: 12-1で手動追加された食材です。カルシウム補給源として使用できます
 
-6. **廃棄率**: 13-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります。
+6. **廃棄率**: 10-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります。
+
+7. **タグ情報**: 13-1で追加されました。ユーザー向けの検索・表示用フィールドです。
+   - `tag_name`: ユーザーが最も自然に呼ぶ食材の名前
+   - `diff`: 同じタグネームを持つ食材を区別する情報（省略可能）
+   - `search_keywords`: 検索時に使用するキーワード（スペース区切り、省略可能）

@@ -62,6 +62,9 @@ export interface Food {
   F20D4N6: number | null;
   score: number | null;
   usda_fdc_id: string | null;
+  tag_name: string | null;
+  diff: string | null;
+  search_keywords: string | null;
 }
 
 export type FilterOperator = 'eq' | 'gte' | 'gt' | 'lte' | 'lt';

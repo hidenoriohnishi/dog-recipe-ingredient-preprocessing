@@ -96,8 +96,8 @@ async function main() {
       const header = headers[j];
       const value = values[j] || '';
       
-      // 識別子カラムは文字列のまま
-      if (['food_group', 'food_number', 'food_name', 'food_name_en', 'usda_fdc_id'].includes(header)) {
+      // 識別子カラムとタグ情報カラムは文字列のまま
+      if (['food_group', 'food_number', 'food_name', 'food_name_en', 'usda_fdc_id', 'tag_name', 'diff', 'search_keywords'].includes(header)) {
         food[header] = value || null;
       } else {
         food[header] = parseValue(value);

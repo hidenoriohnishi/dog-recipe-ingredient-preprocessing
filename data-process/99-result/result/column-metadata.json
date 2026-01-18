@@ -1,6 +1,6 @@
 {
-  "version": "2.1",
-  "description": "CSV列のメタデータ（12-1処理完了版、廃棄率追加）",
+  "version": "2.2",
+  "description": "CSV列のメタデータ（13-1処理完了版、タグ情報追加）",
   "columns": [
     {
       "columnIndex": 0,
@@ -685,6 +685,33 @@
       "type": "identifier",
       "name": "USDA FDC ID",
       "description": "USDA FoodData Central ID（マッチした場合）"
+    },
+    {
+      "columnIndex": 59,
+      "columnName": "tag_name",
+      "originalHeader": "{\"type\":\"tag\",\"name\":\"タグネーム\",\"description\":\"ユーザーが最も自然に呼ぶ食材の名前。短くシンプルなもの。\",\"category\":\"タグ情報\"}",
+      "type": "tag",
+      "name": "タグネーム",
+      "description": "ユーザーが最も自然に呼ぶ食材の名前。短くシンプルなもの。",
+      "category": "タグ情報"
+    },
+    {
+      "columnIndex": 60,
+      "columnName": "diff",
+      "originalHeader": "{\"type\":\"tag\",\"name\":\"差分\",\"description\":\"同じタグネームを持つ食材を区別するための情報。調理方法、部位、状態などを表す。\",\"category\":\"タグ情報\"}",
+      "type": "tag",
+      "name": "差分",
+      "description": "同じタグネームを持つ食材を区別するための情報。調理方法、部位、状態などを表す。",
+      "category": "タグ情報"
+    },
+    {
+      "columnIndex": 61,
+      "columnName": "search_keywords",
+      "originalHeader": "{\"type\":\"tag\",\"name\":\"サーチキーワード\",\"description\":\"検索時に使用するキーワード。漢字表記、別名、表記揺れなどを含む。スペース区切りで複数指定可能。\",\"category\":\"タグ情報\"}",
+      "type": "tag",
+      "name": "サーチキーワード",
+      "description": "検索時に使用するキーワード。漢字表記、別名、表記揺れなどを含む。スペース区切りで複数指定可能。",
+      "category": "タグ情報"
     }
   ]
 }

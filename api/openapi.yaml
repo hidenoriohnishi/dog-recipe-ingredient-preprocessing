@@ -463,6 +463,21 @@ components:
           type: string
           nullable: true
           description: USDA FoodData Central ID（マッチした場合）
+        tag_name:
+          type: string
+          nullable: true
+          description: タグネーム。ユーザーが最も自然に呼ぶ食材の名前
+          example: 'さば'
+        diff:
+          type: string
+          nullable: true
+          description: 差分。同じタグネームを持つ食材を区別する情報
+          example: '焼き'
+        search_keywords:
+          type: string
+          nullable: true
+          description: サーチキーワード。検索時に使用するキーワード（スペース区切り）
+          example: '鯖 サバ'
 
     GetFoodsResponse:
       type: object
