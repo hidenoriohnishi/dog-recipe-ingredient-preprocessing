@@ -13,7 +13,6 @@ const inputFiles = {
   csv: join(__dirname, "../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv"),
   columnMetadata: join(__dirname, "../07-normalize-headers/result/column-metadata.json"),
   specAdditional: join(__dirname, "../../sample-result/spec-additional.md"),
-  specComparison: join(__dirname, "../07-normalize-headers/SPEC_COMPARISON.md"),
   readme: join(__dirname, "readme.md"),
 };
 
@@ -22,11 +21,10 @@ const outputFiles = {
   csv: join(resultDir, "foods.csv"),
   columnMetadata: join(resultDir, "column-metadata.json"),
   specAdditional: join(resultDir, "spec-additional.md"),
-  specComparison: join(resultDir, "SPEC_COMPARISON.md"),
   readme: join(resultDir, "readme.md"),
 };
 
-// 10-1/12-1/13-1で使用される最終的なカラム順序
+// 10-1/11-1/12-1で使用される最終的なカラム順序
 const FINAL_COLUMN_ORDER = [
   // 1. 基本情報（識別子）
   'food_group',
@@ -247,13 +245,8 @@ async function main() {
     console.log(`   スキップ: ${inputFiles.specAdditional} が見つかりません`);
   }
 
-  // 4. SPEC_COMPARISON.mdをコピー
-  console.log("\n4. SPEC_COMPARISON.mdをコピー...");
-  await copyFile(inputFiles.specComparison, outputFiles.specComparison);
-  console.log(`   出力: ${outputFiles.specComparison}`);
-
-  // 5. readme.mdをコピー
-  console.log("\n5. readme.mdをコピー...");
+  // 4. readme.mdをコピー
+  console.log("\n4. readme.mdをコピー...");
   await copyFile(inputFiles.readme, outputFiles.readme);
   console.log(`   出力: ${outputFiles.readme}`);
 

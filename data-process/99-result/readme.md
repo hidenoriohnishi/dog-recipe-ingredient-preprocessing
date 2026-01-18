@@ -11,7 +11,6 @@
 - `../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv` - 最終CSV（廃棄率・鶏卵殻追加済み）
 - `../07-normalize-headers/result/column-metadata.json` - 列メタデータ（ベース）
 - `../../sample-result/spec-additional.md` - LPモデル詳細仕様（存在する場合のみ）
-- `../07-normalize-headers/SPEC_COMPARISON.md` - 仕様比較
 
 ## 実行
 
@@ -29,8 +28,7 @@ pnpm run process:99
 ### ドキュメント
 
 3. **`result/spec-additional.md`** - LPモデル詳細仕様（存在する場合のみ）
-4. **`result/SPEC_COMPARISON.md`** - spec.mdとの列名比較結果
-5. **`result/readme.md`** - データセットの説明
+4. **`result/readme.md`** - データセットの説明
 
 ---
 
@@ -148,4 +146,4 @@ for col in metadata['columns']:
 
 5. **鶏卵殻**: 12-1で手動追加された食材です。カルシウム補給源として使用できます
 
-6. **廃棄率**: 13-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります。
+6. **廃棄率**: 10-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります。

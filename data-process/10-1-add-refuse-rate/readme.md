@@ -31,5 +31,5 @@
 ## 実行
 
 ```bash
-pnpm run process:10-1-add-refuse-rate
+pnpm run process:10-1
 ```
