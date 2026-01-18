@@ -1,0 +1,262 @@
+{
+  "batchNumber": 22,
+  "foods": [
+    {
+      "food_number": "06049",
+      "tag_name": "かぼちゃ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06332",
+      "tag_name": "かぼちゃ",
+      "diff": "焼き",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06050",
+      "tag_name": "かぼちゃ",
+      "diff": "冷凍",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06051",
+      "tag_name": "そうめんかぼちゃ",
+      "diff": "生",
+      "search_keywords": [
+        "金糸瓜",
+        "そうめん南瓜"
+      ]
+    },
+    {
+      "food_number": "06052",
+      "tag_name": "からしな",
+      "diff": "葉・生",
+      "search_keywords": [
+        "芥子菜",
+        "カラシナ"
+      ]
+    },
+    {
+      "food_number": "06053",
+      "tag_name": "からしな",
+      "diff": "塩漬",
+      "search_keywords": [
+        "芥子菜",
+        "カラシナ"
+      ]
+    },
+    {
+      "food_number": "06054",
+      "tag_name": "カリフラワー",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06055",
+      "tag_name": "カリフラワー",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06056",
+      "tag_name": "かんぴょう",
+      "diff": "乾",
+      "search_keywords": [
+        "干瓢",
+        "乾瓢"
+      ]
+    },
+    {
+      "food_number": "06057",
+      "tag_name": "かんぴょう",
+      "diff": "ゆで",
+      "search_keywords": [
+        "干瓢",
+        "乾瓢"
+      ]
+    },
+    {
+      "food_number": "06364",
+      "tag_name": "かんぴょう",
+      "diff": "甘煮",
+      "search_keywords": [
+        "干瓢",
+        "乾瓢"
+      ]
+    },
+    {
+      "food_number": "06058",
+      "tag_name": "きく",
+      "diff": "花びら・生",
+      "search_keywords": [
+        "菊"
+      ]
+    },
+    {
+      "food_number": "06059",
+      "tag_name": "きく",
+      "diff": "花びら・ゆで",
+      "search_keywords": [
+        "菊"
+      ]
+    },
+    {
+      "food_number": "06060",
+      "tag_name": "きくのり",
+      "diff": "",
+      "search_keywords": [
+        "菊海苔",
+        "菊"
+      ]
+    },
+    {
+      "food_number": "06061",
+      "tag_name": "キャベツ",
+      "diff": "生",
+      "search_keywords": [
+        "結球キャベツ",
+        "甘藍"
+      ]
+    },
+    {
+      "food_number": "06062",
+      "tag_name": "キャベツ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "結球キャベツ",
+        "甘藍"
+      ]
+    },
+    {
+      "food_number": "06333",
+      "tag_name": "キャベツ",
+      "diff": "油いため",
+      "search_keywords": [
+        "結球キャベツ",
+        "甘藍"
+      ]
+    },
+    {
+      "food_number": "06403",
+      "tag_name": "キャベツ",
+      "diff": "カット・常法洗浄",
+      "search_keywords": [
+        "結球キャベツ",
+        "甘藍"
+      ]
+    },
+    {
+      "food_number": "06404",
+      "tag_name": "キャベツ",
+      "diff": "カット・次亜塩素酸洗浄",
+      "search_keywords": [
+        "結球キャベツ",
+        "甘藍"
+      ]
+    },
+    {
+      "food_number": "06063",
+      "tag_name": "グリーンボール",
+      "diff": "生",
+      "search_keywords": [
+        "キャベツ",
+        "結球キャベツ"
+      ]
+    },
+    {
+      "food_number": "06064",
+      "tag_name": "レッドキャベツ",
+      "diff": "生",
+      "search_keywords": [
+        "紫キャベツ",
+        "赤キャベツ"
+      ]
+    },
+    {
+      "food_number": "06065",
+      "tag_name": "きゅうり",
+      "diff": "生",
+      "search_keywords": [
+        "胡瓜"
+      ]
+    },
+    {
+      "food_number": "06066",
+      "tag_name": "きゅうり漬物",
+      "diff": "塩漬",
+      "search_keywords": [
+        "胡瓜漬物"
+      ]
+    },
+    {
+      "food_number": "06067",
+      "tag_name": "きゅうり漬物",
+      "diff": "しょうゆ漬",
+      "search_keywords": [
+        "胡瓜漬物"
+      ]
+    },
+    {
+      "food_number": "06068",
+      "tag_name": "きゅうり漬物",
+      "diff": "ぬか漬",
+      "search_keywords": [
+        "胡瓜漬物",
+        "ぬかみそ漬"
+      ]
+    },
+    {
+      "food_number": "06069",
+      "tag_name": "きゅうりピクルス",
+      "diff": "スイート型",
+      "search_keywords": [
+        "胡瓜ピクルス"
+      ]
+    },
+    {
+      "food_number": "06070",
+      "tag_name": "きゅうりピクルス",
+      "diff": "サワー型",
+      "search_keywords": [
+        "胡瓜ピクルス"
+      ]
+    },
+    {
+      "food_number": "06071",
+      "tag_name": "ぎょうじゃにんにく",
+      "diff": "葉・生",
+      "search_keywords": [
+        "行者にんにく",
+        "アイヌネギ"
+      ]
+    },
+    {
+      "food_number": "06075",
+      "tag_name": "キンサイ",
+      "diff": "生",
+      "search_keywords": [
+        "芹菜",
+        "香菜"
+      ]
+    },
+    {
+      "food_number": "06076",
+      "tag_name": "キンサイ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "芹菜",
+        "香菜"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "batchNumber": 27,
+  "foods": [
+    {
+      "food_number": "06337",
+      "tag_name": "葉たまねぎ",
+      "diff": "",
+      "search_keywords": [
+        "葉玉葱",
+        "青ねぎ",
+        "葉ねぎ"
+      ]
+    },
+    {
+      "food_number": "06157",
+      "tag_name": "たらの芽",
+      "diff": "生",
+      "search_keywords": [
+        "タラの芽",
+        "たら芽"
+      ]
+    },
+    {
+      "food_number": "06158",
+      "tag_name": "たらの芽",
+      "diff": "ゆで",
+      "search_keywords": [
+        "タラの芽",
+        "たら芽"
+      ]
+    },
+    {
+      "food_number": "06159",
+      "tag_name": "チコリ",
+      "diff": "",
+      "search_keywords": [
+        "アンディーブ"
+      ]
+    },
+    {
+      "food_number": "06376",
+      "tag_name": "ちぢみゆきな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06377",
+      "tag_name": "ちぢみゆきな",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06160",
+      "tag_name": "チンゲンサイ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06161",
+      "tag_name": "チンゲンサイ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06338",
+      "tag_name": "チンゲンサイ",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06162",
+      "tag_name": "つくし",
+      "diff": "生",
+      "search_keywords": [
+        "土筆"
+      ]
+    },
+    {
+      "food_number": "06163",
+      "tag_name": "つくし",
+      "diff": "ゆで",
+      "search_keywords": [
+        "土筆"
+      ]
+    },
+    {
+      "food_number": "06164",
+      "tag_name": "つるな",
+      "diff": "",
+      "search_keywords": [
+        "蔓菜",
+        "ニュージーランドほうれん草"
+      ]
+    },
+    {
+      "food_number": "06390",
+      "tag_name": "つるにんじん",
+      "diff": "",
+      "search_keywords": [
+        "蔓人参",
+        "桔梗根"
+      ]
+    },
+    {
+      "food_number": "06165",
+      "tag_name": "つるむらさき",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06166",
+      "tag_name": "つるむらさき",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06167",
+      "tag_name": "つわぶき",
+      "diff": "生",
+      "search_keywords": [
+        "石蕗"
+      ]
+    },
+    {
+      "food_number": "06168",
+      "tag_name": "つわぶき",
+      "diff": "ゆで",
+      "search_keywords": [
+        "石蕗"
+      ]
+    },
+    {
+      "food_number": "06169",
+      "tag_name": "とうがらし",
+      "diff": "葉・果実",
+      "search_keywords": [
+        "唐辛子"
+      ]
+    },
+    {
+      "food_number": "06170",
+      "tag_name": "とうがらし",
+      "diff": "葉・果実・油いため",
+      "search_keywords": [
+        "唐辛子"
+      ]
+    },
+    {
+      "food_number": "06171",
+      "tag_name": "とうがらし",
+      "diff": "果実",
+      "search_keywords": [
+        "唐辛子"
+      ]
+    },
+    {
+      "food_number": "06172",
+      "tag_name": "とうがらし",
+      "diff": "果実・乾",
+      "search_keywords": [
+        "唐辛子"
+      ]
+    },
+    {
+      "food_number": "06173",
+      "tag_name": "とうがん",
+      "diff": "生",
+      "search_keywords": [
+        "冬瓜"
+      ]
+    },
+    {
+      "food_number": "06174",
+      "tag_name": "とうがん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "冬瓜"
+      ]
+    },
+    {
+      "food_number": "06175",
+      "tag_name": "スイートコーン",
+      "diff": "生",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06176",
+      "tag_name": "スイートコーン",
+      "diff": "ゆで",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06339",
+      "tag_name": "スイートコーン",
+      "diff": "電子レンジ調理",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06177",
+      "tag_name": "スイートコーン",
+      "diff": "穂軸つき・冷凍",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06178",
+      "tag_name": "スイートコーン",
+      "diff": "カーネル・冷凍",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06378",
+      "tag_name": "スイートコーン",
+      "diff": "カーネル・冷凍・ゆで",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06379",
+      "tag_name": "スイートコーン",
+      "diff": "カーネル・冷凍・油いため",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    }
+  ]
+}

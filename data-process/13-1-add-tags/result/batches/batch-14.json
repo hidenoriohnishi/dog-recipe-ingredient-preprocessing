@@ -1,0 +1,268 @@
+{
+  "batchNumber": 14,
+  "foods": [
+    {
+      "food_number": "04013",
+      "tag_name": "青えんどう",
+      "diff": "ゆで",
+      "search_keywords": [
+        "青豌豆",
+        "グリーンピース"
+      ]
+    },
+    {
+      "food_number": "04074",
+      "tag_name": "赤えんどう",
+      "diff": "乾",
+      "search_keywords": [
+        "赤豌豆"
+      ]
+    },
+    {
+      "food_number": "04075",
+      "tag_name": "赤えんどう",
+      "diff": "ゆで",
+      "search_keywords": [
+        "赤豌豆"
+      ]
+    },
+    {
+      "food_number": "04014",
+      "tag_name": "グリンピース",
+      "diff": "揚げ豆",
+      "search_keywords": [
+        "グリーンピース",
+        "青えんどう"
+      ]
+    },
+    {
+      "food_number": "04015",
+      "tag_name": "グリンピース",
+      "diff": "塩豆",
+      "search_keywords": [
+        "グリーンピース",
+        "青えんどう"
+      ]
+    },
+    {
+      "food_number": "04016",
+      "tag_name": "うぐいす豆",
+      "diff": "",
+      "search_keywords": [
+        "青えんどう",
+        "グリーンピース"
+      ]
+    },
+    {
+      "food_number": "04112",
+      "tag_name": "うぐいすあん",
+      "diff": "",
+      "search_keywords": [
+        "青えんどう",
+        "グリーンピース"
+      ]
+    },
+    {
+      "food_number": "04017",
+      "tag_name": "ささげ",
+      "diff": "乾",
+      "search_keywords": [
+        "ササゲ",
+        "大角豆"
+      ]
+    },
+    {
+      "food_number": "04018",
+      "tag_name": "ささげ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "ササゲ",
+        "大角豆"
+      ]
+    },
+    {
+      "food_number": "04019",
+      "tag_name": "そらまめ",
+      "diff": "乾",
+      "search_keywords": [
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "04020",
+      "tag_name": "そらまめ",
+      "diff": "フライビーンズ",
+      "search_keywords": [
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "04021",
+      "tag_name": "おたふく豆",
+      "diff": "",
+      "search_keywords": [
+        "そらまめ",
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "04022",
+      "tag_name": "ふき豆",
+      "diff": "",
+      "search_keywords": [
+        "そらまめ",
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "04076",
+      "tag_name": "しょうゆ豆",
+      "diff": "",
+      "search_keywords": [
+        "そらまめ",
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "04104",
+      "tag_name": "青大豆",
+      "diff": "乾",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04105",
+      "tag_name": "青大豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04023",
+      "tag_name": "黄大豆",
+      "diff": "国産・乾",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04024",
+      "tag_name": "黄大豆",
+      "diff": "国産・ゆで",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04025",
+      "tag_name": "黄大豆",
+      "diff": "米国産・乾",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04026",
+      "tag_name": "黄大豆",
+      "diff": "中国産・乾",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04027",
+      "tag_name": "黄大豆",
+      "diff": "ブラジル産・乾",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04077",
+      "tag_name": "黒大豆",
+      "diff": "乾",
+      "search_keywords": [
+        "黒豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04106",
+      "tag_name": "黒大豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "黒豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04080",
+      "tag_name": "いり大豆",
+      "diff": "青大豆",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04078",
+      "tag_name": "いり大豆",
+      "diff": "黄大豆",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04079",
+      "tag_name": "いり大豆",
+      "diff": "黒大豆",
+      "search_keywords": [
+        "黒豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04028",
+      "tag_name": "大豆水煮缶",
+      "diff": "黄大豆",
+      "search_keywords": [
+        "大豆缶詰"
+      ]
+    },
+    {
+      "food_number": "04081",
+      "tag_name": "蒸し大豆",
+      "diff": "黄大豆",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04082",
+      "tag_name": "きな粉",
+      "diff": "青大豆・全粒",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04096",
+      "tag_name": "きな粉",
+      "diff": "青大豆・脱皮",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    }
+  ]
+}

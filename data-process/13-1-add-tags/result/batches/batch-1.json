@@ -1,0 +1,299 @@
+{
+  "batchNumber": 1,
+  "foods": [
+    {
+      "food_number": "01001",
+      "tag_name": "アマランサス",
+      "diff": "",
+      "search_keywords": [
+        "アマランサス",
+        "amaranth"
+      ]
+    },
+    {
+      "food_number": "01002",
+      "tag_name": "あわ",
+      "diff": "精白粒",
+      "search_keywords": [
+        "粟",
+        "あわ"
+      ]
+    },
+    {
+      "food_number": "01003",
+      "tag_name": "あわもち",
+      "diff": "",
+      "search_keywords": [
+        "粟餅",
+        "あわもち"
+      ]
+    },
+    {
+      "food_number": "01004",
+      "tag_name": "オートミール",
+      "diff": "",
+      "search_keywords": [
+        "えんばく",
+        "燕麦",
+        "オーツ麦"
+      ]
+    },
+    {
+      "food_number": "01005",
+      "tag_name": "押麦",
+      "diff": "七分つき",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦",
+        "七分搗き"
+      ]
+    },
+    {
+      "food_number": "01006",
+      "tag_name": "押麦",
+      "diff": "乾",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦"
+      ]
+    },
+    {
+      "food_number": "01170",
+      "tag_name": "押麦ごはん",
+      "diff": "",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦",
+        "押麦めし"
+      ]
+    },
+    {
+      "food_number": "01007",
+      "tag_name": "米粒麦",
+      "diff": "",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦",
+        "米粒麦"
+      ]
+    },
+    {
+      "food_number": "01008",
+      "tag_name": "大麦めん",
+      "diff": "乾",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦",
+        "大麦麺"
+      ]
+    },
+    {
+      "food_number": "01009",
+      "tag_name": "大麦めん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦",
+        "大麦麺"
+      ]
+    },
+    {
+      "food_number": "01010",
+      "tag_name": "麦こがし",
+      "diff": "",
+      "search_keywords": [
+        "おおむぎ",
+        "大麦",
+        "はったい粉",
+        "麦焦がし"
+      ]
+    },
+    {
+      "food_number": "01167",
+      "tag_name": "キヌア",
+      "diff": "",
+      "search_keywords": [
+        "キヌア",
+        "quinoa"
+      ]
+    },
+    {
+      "food_number": "01011",
+      "tag_name": "きび",
+      "diff": "精白粒",
+      "search_keywords": [
+        "黍",
+        "きび"
+      ]
+    },
+    {
+      "food_number": "01012",
+      "tag_name": "小麦",
+      "diff": "玄穀・国産",
+      "search_keywords": [
+        "こむぎ",
+        "小麦",
+        "全粒"
+      ]
+    },
+    {
+      "food_number": "01013",
+      "tag_name": "小麦",
+      "diff": "玄穀・輸入軟質",
+      "search_keywords": [
+        "こむぎ",
+        "小麦",
+        "全粒",
+        "軟質"
+      ]
+    },
+    {
+      "food_number": "01014",
+      "tag_name": "小麦",
+      "diff": "玄穀・輸入硬質",
+      "search_keywords": [
+        "こむぎ",
+        "小麦",
+        "全粒",
+        "硬質"
+      ]
+    },
+    {
+      "food_number": "01015",
+      "tag_name": "薄力粉",
+      "diff": "1等",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "ケーキ用"
+      ]
+    },
+    {
+      "food_number": "01016",
+      "tag_name": "薄力粉",
+      "diff": "2等",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "ケーキ用"
+      ]
+    },
+    {
+      "food_number": "01018",
+      "tag_name": "中力粉",
+      "diff": "1等",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "中力"
+      ]
+    },
+    {
+      "food_number": "01019",
+      "tag_name": "中力粉",
+      "diff": "2等",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "中力"
+      ]
+    },
+    {
+      "food_number": "01020",
+      "tag_name": "強力粉",
+      "diff": "1等",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "パン用"
+      ]
+    },
+    {
+      "food_number": "01021",
+      "tag_name": "強力粉",
+      "diff": "2等",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "パン用"
+      ]
+    },
+    {
+      "food_number": "01023",
+      "tag_name": "全粒粉",
+      "diff": "",
+      "search_keywords": [
+        "小麦粉",
+        "こむぎこ",
+        "全粒粉"
+      ]
+    },
+    {
+      "food_number": "01146",
+      "tag_name": "お好み焼き粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "お好み焼き"
+      ]
+    },
+    {
+      "food_number": "01024",
+      "tag_name": "ホットケーキミックス",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "ホットケーキ",
+        "パンケーキ"
+      ]
+    },
+    {
+      "food_number": "01147",
+      "tag_name": "から揚げ粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "から揚げ"
+      ]
+    },
+    {
+      "food_number": "01025",
+      "tag_name": "天ぷら粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "天ぷら"
+      ]
+    },
+    {
+      "food_number": "01171",
+      "tag_name": "天ぷらバッター粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "天ぷら",
+        "バッター"
+      ]
+    },
+    {
+      "food_number": "01172",
+      "tag_name": "天ぷらバッター",
+      "diff": "揚げ",
+      "search_keywords": [
+        "プレミックス粉",
+        "天ぷら",
+        "バッター"
+      ]
+    },
+    {
+      "food_number": "01026",
+      "tag_name": "食パン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "角食",
+        "白パン"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "batchNumber": 29,
+  "foods": [
+    {
+      "food_number": "06193",
+      "tag_name": "べいなす",
+      "diff": "生",
+      "search_keywords": [
+        "米なす",
+        "アメリカなす",
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06194",
+      "tag_name": "べいなす",
+      "diff": "素揚げ",
+      "search_keywords": [
+        "米なす",
+        "アメリカなす",
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06195",
+      "tag_name": "なす漬物",
+      "diff": "塩漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物"
+      ]
+    },
+    {
+      "food_number": "06196",
+      "tag_name": "なす漬物",
+      "diff": "ぬかみそ漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06197",
+      "tag_name": "なす漬物",
+      "diff": "こうじ漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物",
+        "麹漬け"
+      ]
+    },
+    {
+      "food_number": "06198",
+      "tag_name": "なす漬物",
+      "diff": "からし漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物",
+        "辛子漬け"
+      ]
+    },
+    {
+      "food_number": "06199",
+      "tag_name": "なす漬物",
+      "diff": "しば漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物",
+        "しば漬け",
+        "柴漬け"
+      ]
+    },
+    {
+      "food_number": "06200",
+      "tag_name": "なずな",
+      "diff": "葉",
+      "search_keywords": [
+        "ぺんぺん草",
+        "薺"
+      ]
+    },
+    {
+      "food_number": "06201",
+      "tag_name": "なばな",
+      "diff": "和種・花と茎・生",
+      "search_keywords": [
+        "菜花",
+        "菜の花",
+        "和種なばな"
+      ]
+    },
+    {
+      "food_number": "06202",
+      "tag_name": "なばな",
+      "diff": "和種・花と茎・ゆで",
+      "search_keywords": [
+        "菜花",
+        "菜の花",
+        "和種なばな"
+      ]
+    },
+    {
+      "food_number": "06203",
+      "tag_name": "なばな",
+      "diff": "洋種・茎葉・生",
+      "search_keywords": [
+        "菜花",
+        "菜の花",
+        "洋種なばな",
+        "アスパラ菜",
+        "西洋なばな",
+        "ラパーニ"
+      ]
+    },
+    {
+      "food_number": "06204",
+      "tag_name": "なばな",
+      "diff": "洋種・茎葉・ゆで",
+      "search_keywords": [
+        "菜花",
+        "菜の花",
+        "洋種なばな",
+        "アスパラ菜",
+        "西洋なばな",
+        "ラパーニ"
+      ]
+    },
+    {
+      "food_number": "06205",
+      "tag_name": "にがうり",
+      "diff": "生",
+      "search_keywords": [
+        "ゴーヤ",
+        "苦瓜"
+      ]
+    },
+    {
+      "food_number": "06206",
+      "tag_name": "にがうり",
+      "diff": "油いため",
+      "search_keywords": [
+        "ゴーヤ",
+        "苦瓜"
+      ]
+    },
+    {
+      "food_number": "06207",
+      "tag_name": "にら",
+      "diff": "生",
+      "search_keywords": [
+        "韮"
+      ]
+    },
+    {
+      "food_number": "06208",
+      "tag_name": "にら",
+      "diff": "ゆで",
+      "search_keywords": [
+        "韮"
+      ]
+    },
+    {
+      "food_number": "06344",
+      "tag_name": "にら",
+      "diff": "油いため",
+      "search_keywords": [
+        "韮"
+      ]
+    },
+    {
+      "food_number": "06209",
+      "tag_name": "花にら",
+      "diff": "生",
+      "search_keywords": [
+        "韮",
+        "花韮",
+        "にらの花"
+      ]
+    },
+    {
+      "food_number": "06210",
+      "tag_name": "黄にら",
+      "diff": "生",
+      "search_keywords": [
+        "韮",
+        "黄韮"
+      ]
+    },
+    {
+      "food_number": "06211",
+      "tag_name": "葉にんじん",
+      "diff": "生",
+      "search_keywords": [
+        "人参葉",
+        "にんじんの葉"
+      ]
+    },
+    {
+      "food_number": "06212",
+      "tag_name": "にんじん",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06213",
+      "tag_name": "にんじん",
+      "diff": "皮つき・ゆで",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06214",
+      "tag_name": "にんじん",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06215",
+      "tag_name": "にんじん",
+      "diff": "皮なし・ゆで",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06345",
+      "tag_name": "にんじん",
+      "diff": "皮なし・油いため",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06346",
+      "tag_name": "にんじん",
+      "diff": "皮なし・素揚げ",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06407",
+      "tag_name": "にんじん",
+      "diff": "皮なし・カット・常法洗浄",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06408",
+      "tag_name": "にんじん",
+      "diff": "皮なし・カット・次亜塩素酸洗浄",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06347",
+      "tag_name": "にんじんの皮",
+      "diff": "生",
+      "search_keywords": [
+        "人参皮"
+      ]
+    },
+    {
+      "food_number": "06216",
+      "tag_name": "にんじん",
+      "diff": "冷凍",
+      "search_keywords": [
+        "人参",
+        "冷凍にんじん"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "batchNumber": 44,
+  "foods": [
+    {
+      "food_number": "08007",
+      "tag_name": "きくらげ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08008",
+      "tag_name": "しろきくらげ",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08009",
+      "tag_name": "しろきくらげ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08010",
+      "tag_name": "くろあわびたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08039",
+      "tag_name": "しいたけ",
+      "diff": "菌床栽培",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08040",
+      "tag_name": "しいたけ",
+      "diff": "菌床栽培・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08041",
+      "tag_name": "しいたけ",
+      "diff": "菌床栽培・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08057",
+      "tag_name": "しいたけ",
+      "diff": "菌床栽培・天ぷら",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08042",
+      "tag_name": "しいたけ",
+      "diff": "原木栽培",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08043",
+      "tag_name": "しいたけ",
+      "diff": "原木栽培・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08044",
+      "tag_name": "しいたけ",
+      "diff": "原木栽培・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08013",
+      "tag_name": "しいたけ",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08014",
+      "tag_name": "しいたけ",
+      "diff": "乾燥・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08053",
+      "tag_name": "しいたけ",
+      "diff": "乾燥・甘煮",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08015",
+      "tag_name": "はたけしめじ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08045",
+      "tag_name": "はたけしめじ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08016",
+      "tag_name": "ぶなしめじ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08017",
+      "tag_name": "ぶなしめじ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08046",
+      "tag_name": "ぶなしめじ",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08055",
+      "tag_name": "ぶなしめじ",
+      "diff": "素揚げ",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08056",
+      "tag_name": "ぶなしめじ",
+      "diff": "天ぷら",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08018",
+      "tag_name": "ほんしめじ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08047",
+      "tag_name": "ほんしめじ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08019",
+      "tag_name": "たもぎたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08020",
+      "tag_name": "なめこ",
+      "diff": "株採り",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08021",
+      "tag_name": "なめこ",
+      "diff": "株採り・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08058",
+      "tag_name": "なめこ",
+      "diff": "カット",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08022",
+      "tag_name": "なめこ",
+      "diff": "水煮缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08023",
+      "tag_name": "ぬめりすぎたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08024",
+      "tag_name": "うすひらたけ",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

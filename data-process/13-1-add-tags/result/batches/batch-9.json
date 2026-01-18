@@ -1,0 +1,275 @@
+{
+  "batchNumber": 9,
+  "foods": [
+    {
+      "food_number": "01136",
+      "tag_name": "ポップコーン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01137",
+      "tag_name": "コーンフレーク",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01138",
+      "tag_name": "はとむぎ",
+      "diff": "精白粒",
+      "search_keywords": [
+        "鳩麦",
+        "精白はとむぎ"
+      ]
+    },
+    {
+      "food_number": "01139",
+      "tag_name": "ひえ",
+      "diff": "精白粒",
+      "search_keywords": [
+        "稗",
+        "精白ひえ"
+      ]
+    },
+    {
+      "food_number": "01140",
+      "tag_name": "もろこし",
+      "diff": "玄穀",
+      "search_keywords": [
+        "ソルガム",
+        "モロコシ",
+        "たかきび"
+      ]
+    },
+    {
+      "food_number": "01141",
+      "tag_name": "もろこし",
+      "diff": "精白粒",
+      "search_keywords": [
+        "ソルガム",
+        "モロコシ",
+        "たかきび",
+        "精白もろこし"
+      ]
+    },
+    {
+      "food_number": "01142",
+      "tag_name": "ライ麦",
+      "diff": "全粒粉",
+      "search_keywords": [
+        "ライむぎ",
+        "全粒ライ麦粉"
+      ]
+    },
+    {
+      "food_number": "01143",
+      "tag_name": "ライ麦",
+      "diff": "ライ麦粉",
+      "search_keywords": [
+        "ライむぎ",
+        "ライ麦粉"
+      ]
+    },
+    {
+      "food_number": "02068",
+      "tag_name": "アメリカほどいも",
+      "diff": "生",
+      "search_keywords": [
+        "アメリカホドイモ",
+        "ほどいも",
+        "ホドイモ"
+      ]
+    },
+    {
+      "food_number": "02069",
+      "tag_name": "アメリカほどいも",
+      "diff": "ゆで",
+      "search_keywords": [
+        "アメリカホドイモ",
+        "ほどいも",
+        "ホドイモ"
+      ]
+    },
+    {
+      "food_number": "02001",
+      "tag_name": "きくいも",
+      "diff": "生",
+      "search_keywords": [
+        "菊芋",
+        "キクイモ"
+      ]
+    },
+    {
+      "food_number": "02041",
+      "tag_name": "きくいも",
+      "diff": "水煮",
+      "search_keywords": [
+        "菊芋",
+        "キクイモ"
+      ]
+    },
+    {
+      "food_number": "02002",
+      "tag_name": "こんにゃく粉",
+      "diff": "",
+      "search_keywords": [
+        "精粉こんにゃく",
+        "コンニャク粉"
+      ]
+    },
+    {
+      "food_number": "02003",
+      "tag_name": "板こんにゃく",
+      "diff": "精粉",
+      "search_keywords": [
+        "精粉こんにゃく",
+        "コンニャク"
+      ]
+    },
+    {
+      "food_number": "02004",
+      "tag_name": "板こんにゃく",
+      "diff": "生いも",
+      "search_keywords": [
+        "生芋こんにゃく",
+        "コンニャク"
+      ]
+    },
+    {
+      "food_number": "02042",
+      "tag_name": "赤こんにゃく",
+      "diff": "",
+      "search_keywords": [
+        "赤コンニャク"
+      ]
+    },
+    {
+      "food_number": "02043",
+      "tag_name": "凍みこんにゃく",
+      "diff": "乾",
+      "search_keywords": [
+        "凍みコンニャク",
+        "乾燥こんにゃく"
+      ]
+    },
+    {
+      "food_number": "02044",
+      "tag_name": "凍みこんにゃく",
+      "diff": "ゆで",
+      "search_keywords": [
+        "凍みコンニャク"
+      ]
+    },
+    {
+      "food_number": "02005",
+      "tag_name": "しらたき",
+      "diff": "",
+      "search_keywords": [
+        "白滝"
+      ]
+    },
+    {
+      "food_number": "02045",
+      "tag_name": "さつまいも",
+      "diff": "皮付き・生",
+      "search_keywords": [
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02046",
+      "tag_name": "さつまいも",
+      "diff": "皮付き・蒸し",
+      "search_keywords": [
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02047",
+      "tag_name": "さつまいも",
+      "diff": "皮付き・天ぷら",
+      "search_keywords": [
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02006",
+      "tag_name": "さつまいも",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02007",
+      "tag_name": "さつまいも",
+      "diff": "皮なし・蒸し",
+      "search_keywords": [
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02008",
+      "tag_name": "さつまいも",
+      "diff": "皮なし・焼き",
+      "search_keywords": [
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02009",
+      "tag_name": "さつまいも切干",
+      "diff": "",
+      "search_keywords": [
+        "切干し芋",
+        "干し芋",
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02048",
+      "tag_name": "むらさきいも",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "紫芋",
+        "紫いも",
+        "紫サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02049",
+      "tag_name": "むらさきいも",
+      "diff": "皮なし・蒸し",
+      "search_keywords": [
+        "紫芋",
+        "紫いも",
+        "紫サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02010",
+      "tag_name": "さといも",
+      "diff": "生",
+      "search_keywords": [
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02011",
+      "tag_name": "さといも",
+      "diff": "水煮",
+      "search_keywords": [
+        "里芋",
+        "サトイモ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+  "batchNumber": 76,
+  "foods": [
+    {
+      "food_number": "11181",
+      "tag_name": "生ハム",
+      "diff": "促成",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "プロシュート",
+        "促成"
+      ]
+    },
+    {
+      "food_number": "11182",
+      "tag_name": "生ハム",
+      "diff": "長期熟成",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "プロシュート",
+        "長期熟成"
+      ]
+    },
+    {
+      "food_number": "11178",
+      "tag_name": "プレスハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "プレス"
+      ]
+    },
+    {
+      "food_number": "11180",
+      "tag_name": "チョップドハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "チョップド"
+      ]
+    },
+    {
+      "food_number": "11183",
+      "tag_name": "ばらベーコン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "バラ"
+      ]
+    },
+    {
+      "food_number": "11314",
+      "tag_name": "ばらベーコン",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "バラ"
+      ]
+    },
+    {
+      "food_number": "11315",
+      "tag_name": "ばらベーコン",
+      "diff": "焼き",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "バラ"
+      ]
+    },
+    {
+      "food_number": "11316",
+      "tag_name": "ばらベーコン",
+      "diff": "油いため",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "バラ"
+      ]
+    },
+    {
+      "food_number": "11184",
+      "tag_name": "ロースベーコン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11185",
+      "tag_name": "ショルダーベーコン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "肩"
+      ]
+    },
+    {
+      "food_number": "11186",
+      "tag_name": "ウインナー",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "ウィンナー"
+      ]
+    },
+    {
+      "food_number": "11306",
+      "tag_name": "ウインナー",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "ウィンナー"
+      ]
+    },
+    {
+      "food_number": "11307",
+      "tag_name": "ウインナー",
+      "diff": "焼き",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "ウィンナー"
+      ]
+    },
+    {
+      "food_number": "11308",
+      "tag_name": "ウインナー",
+      "diff": "フライ",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "ウィンナー"
+      ]
+    },
+    {
+      "food_number": "11187",
+      "tag_name": "セミドライソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "セミドライ"
+      ]
+    },
+    {
+      "food_number": "11188",
+      "tag_name": "ドライソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "ドライ"
+      ]
+    },
+    {
+      "food_number": "11189",
+      "tag_name": "フランクフルト",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "フランクフルト"
+      ]
+    },
+    {
+      "food_number": "11190",
+      "tag_name": "ボロニアソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "ボロニア"
+      ]
+    },
+    {
+      "food_number": "11191",
+      "tag_name": "リオナソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "リオナ"
+      ]
+    },
+    {
+      "food_number": "11192",
+      "tag_name": "レバーソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "レバー"
+      ]
+    },
+    {
+      "food_number": "11193",
+      "tag_name": "混合ソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "混合"
+      ]
+    },
+    {
+      "food_number": "11194",
+      "tag_name": "生ソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ソーセージ",
+        "生"
+      ]
+    },
+    {
+      "food_number": "11317",
+      "tag_name": "ランチョンミート",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ランチョンミート",
+        "スパム"
+      ]
+    },
+    {
+      "food_number": "11195",
+      "tag_name": "焼き豚",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "チャーシュー",
+        "焼豚"
+      ]
+    },
+    {
+      "food_number": "11196",
+      "tag_name": "レバーペースト",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "レバー",
+        "ペースト"
+      ]
+    },
+    {
+      "food_number": "11197",
+      "tag_name": "スモークレバー",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "レバー",
+        "燻製"
+      ]
+    },
+    {
+      "food_number": "11198",
+      "tag_name": "ゼラチン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ゼラチン",
+        "コラーゲン"
+      ]
+    },
+    {
+      "food_number": "11199",
+      "tag_name": "マトンロース",
+      "diff": "脂身つき・生",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11281",
+      "tag_name": "マトンロース",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11245",
+      "tag_name": "マトンロース",
+      "diff": "皮下脂肪なし・生",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "ロース",
+        "脂肪なし"
+      ]
+    }
+  ]
+}

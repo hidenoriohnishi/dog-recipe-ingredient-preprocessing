@@ -1,0 +1,244 @@
+{
+  "batchNumber": 92,
+  "foods": [
+    {
+      "food_number": "16005",
+      "tag_name": "日本酒",
+      "diff": "純米吟醸酒",
+      "search_keywords": [
+        "清酒",
+        "酒"
+      ]
+    },
+    {
+      "food_number": "16006",
+      "tag_name": "ビール",
+      "diff": "淡色",
+      "search_keywords": [
+        "ラガー"
+      ]
+    },
+    {
+      "food_number": "16007",
+      "tag_name": "ビール",
+      "diff": "黒",
+      "search_keywords": [
+        "黒ビール",
+        "スタウト"
+      ]
+    },
+    {
+      "food_number": "16008",
+      "tag_name": "ビール",
+      "diff": "スタウト",
+      "search_keywords": [
+        "黒ビール"
+      ]
+    },
+    {
+      "food_number": "16009",
+      "tag_name": "発泡酒",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16010",
+      "tag_name": "ワイン",
+      "diff": "白",
+      "search_keywords": [
+        "ぶどう酒",
+        "白ワイン"
+      ]
+    },
+    {
+      "food_number": "16011",
+      "tag_name": "ワイン",
+      "diff": "赤",
+      "search_keywords": [
+        "ぶどう酒",
+        "赤ワイン"
+      ]
+    },
+    {
+      "food_number": "16012",
+      "tag_name": "ワイン",
+      "diff": "ロゼ",
+      "search_keywords": [
+        "ぶどう酒",
+        "ロゼワイン"
+      ]
+    },
+    {
+      "food_number": "16013",
+      "tag_name": "紹興酒",
+      "diff": "",
+      "search_keywords": [
+        "老酒",
+        "中国酒"
+      ]
+    },
+    {
+      "food_number": "16014",
+      "tag_name": "焼酎",
+      "diff": "連続式",
+      "search_keywords": [
+        "しょうちゅう",
+        "甲類"
+      ]
+    },
+    {
+      "food_number": "16015",
+      "tag_name": "焼酎",
+      "diff": "単式",
+      "search_keywords": [
+        "しょうちゅう",
+        "乙類"
+      ]
+    },
+    {
+      "food_number": "16060",
+      "tag_name": "泡盛",
+      "diff": "",
+      "search_keywords": [
+        "あわもり",
+        "焼酎"
+      ]
+    },
+    {
+      "food_number": "16016",
+      "tag_name": "ウイスキー",
+      "diff": "",
+      "search_keywords": [
+        "ウィスキー"
+      ]
+    },
+    {
+      "food_number": "16017",
+      "tag_name": "ブランデー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16018",
+      "tag_name": "ウォッカ",
+      "diff": "",
+      "search_keywords": [
+        "ウオッカ"
+      ]
+    },
+    {
+      "food_number": "16019",
+      "tag_name": "ジン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16020",
+      "tag_name": "ラム",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16021",
+      "tag_name": "マオタイ酒",
+      "diff": "",
+      "search_keywords": [
+        "茅台酒",
+        "マオタイ"
+      ]
+    },
+    {
+      "food_number": "16022",
+      "tag_name": "梅酒",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16023",
+      "tag_name": "合成清酒",
+      "diff": "",
+      "search_keywords": [
+        "合成酒"
+      ]
+    },
+    {
+      "food_number": "16024",
+      "tag_name": "白酒",
+      "diff": "",
+      "search_keywords": [
+        "しろざけ"
+      ]
+    },
+    {
+      "food_number": "16025",
+      "tag_name": "みりん",
+      "diff": "本みりん",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16026",
+      "tag_name": "みりん",
+      "diff": "本直し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16027",
+      "tag_name": "薬味酒",
+      "diff": "",
+      "search_keywords": [
+        "ハーブリキュール"
+      ]
+    },
+    {
+      "food_number": "16028",
+      "tag_name": "キュラソー",
+      "diff": "",
+      "search_keywords": [
+        "リキュール"
+      ]
+    },
+    {
+      "food_number": "16029",
+      "tag_name": "スイートワイン",
+      "diff": "",
+      "search_keywords": [
+        "甘口ワイン"
+      ]
+    },
+    {
+      "food_number": "16030",
+      "tag_name": "ペパーミントリキュール",
+      "diff": "",
+      "search_keywords": [
+        "ペパーミント"
+      ]
+    },
+    {
+      "food_number": "16031",
+      "tag_name": "ベルモット",
+      "diff": "甘口",
+      "search_keywords": [
+        "ヴェルモット",
+        "スイートベルモット"
+      ]
+    },
+    {
+      "food_number": "16032",
+      "tag_name": "ベルモット",
+      "diff": "辛口",
+      "search_keywords": [
+        "ヴェルモット",
+        "ドライベルモット"
+      ]
+    },
+    {
+      "food_number": "16059",
+      "tag_name": "缶チューハイ",
+      "diff": "レモン",
+      "search_keywords": [
+        "チューハイ",
+        "レモンチューハイ"
+      ]
+    }
+  ]
+}

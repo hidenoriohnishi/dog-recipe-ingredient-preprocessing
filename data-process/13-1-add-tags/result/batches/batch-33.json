@@ -1,0 +1,197 @@
+{
+  "batchNumber": 33,
+  "foods": [
+    {
+      "food_number": "06359",
+      "tag_name": "ほうれんそう",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06355",
+      "tag_name": "ほうれんそう",
+      "diff": "夏採り",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06357",
+      "tag_name": "ほうれんそう",
+      "diff": "夏採り・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06356",
+      "tag_name": "ほうれんそう",
+      "diff": "冬採り",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06358",
+      "tag_name": "ほうれんそう",
+      "diff": "冬採り・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06269",
+      "tag_name": "ほうれんそう",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06372",
+      "tag_name": "ほうれんそう",
+      "diff": "冷凍・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06373",
+      "tag_name": "ほうれんそう",
+      "diff": "冷凍・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06270",
+      "tag_name": "ホースラディッシュ",
+      "diff": "",
+      "search_keywords": [
+        "西洋わさび",
+        "山わさび"
+      ]
+    },
+    {
+      "food_number": "06271",
+      "tag_name": "まこも",
+      "diff": "",
+      "search_keywords": [
+        "まこもだけ",
+        "真菰"
+      ]
+    },
+    {
+      "food_number": "06272",
+      "tag_name": "みずかけな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06273",
+      "tag_name": "みずかけな",
+      "diff": "塩漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06072",
+      "tag_name": "みずな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06073",
+      "tag_name": "みずな",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06074",
+      "tag_name": "みずな",
+      "diff": "塩漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06274",
+      "tag_name": "みつば",
+      "diff": "切りみつば",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06275",
+      "tag_name": "みつば",
+      "diff": "切りみつば・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06276",
+      "tag_name": "みつば",
+      "diff": "根みつば",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06277",
+      "tag_name": "みつば",
+      "diff": "根みつば・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06278",
+      "tag_name": "みつば",
+      "diff": "糸みつば",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06279",
+      "tag_name": "みつば",
+      "diff": "糸みつば・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06360",
+      "tag_name": "みぶな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06280",
+      "tag_name": "みょうが",
+      "diff": "花穂",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06281",
+      "tag_name": "みょうがたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06282",
+      "tag_name": "むかご",
+      "diff": "",
+      "search_keywords": [
+        "零余子"
+      ]
+    },
+    {
+      "food_number": "06283",
+      "tag_name": "めキャベツ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06284",
+      "tag_name": "めキャベツ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06285",
+      "tag_name": "めたで",
+      "diff": "",
+      "search_keywords": [
+        "蓼"
+      ]
+    },
+    {
+      "food_number": "06286",
+      "tag_name": "アルファルファもやし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06287",
+      "tag_name": "だいずもやし",
+      "diff": "",
+      "search_keywords": [
+        "大豆もやし"
+      ]
+    }
+  ]
+}

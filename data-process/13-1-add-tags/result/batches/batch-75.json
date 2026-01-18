@@ -1,0 +1,313 @@
+{
+  "batchNumber": 75,
+  "foods": [
+    {
+      "food_number": "11159",
+      "tag_name": "豚そともも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "中型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11160",
+      "tag_name": "豚そともも肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "中型種",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11161",
+      "tag_name": "豚そともも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "中型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11162",
+      "tag_name": "豚ヒレ肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "ヒレ",
+        "中型種",
+        "赤肉",
+        "フィレ"
+      ]
+    },
+    {
+      "food_number": "11163",
+      "tag_name": "豚ひき肉",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11280",
+      "tag_name": "豚ひき肉",
+      "diff": "焼き",
+      "search_keywords": [
+        "豚肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11312",
+      "tag_name": "豚ジョウルミート",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ジョウル",
+        "ほほ肉",
+        "頭部"
+      ]
+    },
+    {
+      "food_number": "11313",
+      "tag_name": "豚ジョウルミート",
+      "diff": "焼き",
+      "search_keywords": [
+        "豚肉",
+        "ジョウル",
+        "ほほ肉",
+        "頭部"
+      ]
+    },
+    {
+      "food_number": "11164",
+      "tag_name": "豚タン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "舌",
+        "タン"
+      ]
+    },
+    {
+      "food_number": "11165",
+      "tag_name": "豚ハツ",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "心臓",
+        "ハツ"
+      ]
+    },
+    {
+      "food_number": "11166",
+      "tag_name": "豚レバー",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "肝臓",
+        "レバー"
+      ]
+    },
+    {
+      "food_number": "11167",
+      "tag_name": "豚腎臓",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "じん臓",
+        "腎臓",
+        "キドニー"
+      ]
+    },
+    {
+      "food_number": "11168",
+      "tag_name": "豚胃",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "胃",
+        "ガツ"
+      ]
+    },
+    {
+      "food_number": "11169",
+      "tag_name": "豚小腸",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "小腸",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11170",
+      "tag_name": "豚大腸",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "大腸",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11171",
+      "tag_name": "豚子宮",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "子宮"
+      ]
+    },
+    {
+      "food_number": "11172",
+      "tag_name": "豚足",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "とんそく",
+        "足"
+      ]
+    },
+    {
+      "food_number": "11173",
+      "tag_name": "豚軟骨",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "軟骨"
+      ]
+    },
+    {
+      "food_number": "11174",
+      "tag_name": "骨付きハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "骨付き"
+      ]
+    },
+    {
+      "food_number": "11175",
+      "tag_name": "ボンレスハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "ボンレス"
+      ]
+    },
+    {
+      "food_number": "11176",
+      "tag_name": "ロースハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11303",
+      "tag_name": "ロースハム",
+      "diff": "ゆで",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11304",
+      "tag_name": "ロースハム",
+      "diff": "焼き",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11305",
+      "tag_name": "ロースハム",
+      "diff": "フライ",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11177",
+      "tag_name": "ショルダーハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "ショルダー"
+      ]
+    },
+    {
+      "food_number": "11181",
+      "tag_name": "生ハム",
+      "diff": "促成",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "プロシュート",
+        "促成"
+      ]
+    },
+    {
+      "food_number": "11182",
+      "tag_name": "生ハム",
+      "diff": "長期熟成",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "プロシュート",
+        "長期熟成"
+      ]
+    },
+    {
+      "food_number": "11178",
+      "tag_name": "プレスハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "プレス"
+      ]
+    },
+    {
+      "food_number": "11180",
+      "tag_name": "チョップドハム",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ハム",
+        "チョップド"
+      ]
+    },
+    {
+      "food_number": "11183",
+      "tag_name": "ばらベーコン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ベーコン",
+        "バラ"
+      ]
+    }
+  ]
+}

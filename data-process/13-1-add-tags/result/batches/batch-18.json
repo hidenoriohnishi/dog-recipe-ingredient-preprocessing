@@ -1,0 +1,253 @@
+{
+  "batchNumber": 18,
+  "foods": [
+    {
+      "food_number": "05003",
+      "tag_name": "麻の実",
+      "diff": "乾",
+      "search_keywords": [
+        "あさ",
+        "ヘンプシード"
+      ]
+    },
+    {
+      "food_number": "05041",
+      "tag_name": "亜麻仁",
+      "diff": "いり",
+      "search_keywords": [
+        "あまに",
+        "フラックスシード"
+      ]
+    },
+    {
+      "food_number": "05004",
+      "tag_name": "えごま",
+      "diff": "乾",
+      "search_keywords": [
+        "エゴマ",
+        "しそ油"
+      ]
+    },
+    {
+      "food_number": "05005",
+      "tag_name": "カシューナッツ",
+      "diff": "フライ・味付け",
+      "search_keywords": []
+    },
+    {
+      "food_number": "05006",
+      "tag_name": "かぼちゃの種",
+      "diff": "いり・味付け",
+      "search_keywords": [
+        "パンプキンシード"
+      ]
+    },
+    {
+      "food_number": "05007",
+      "tag_name": "かやの実",
+      "diff": "いり",
+      "search_keywords": [
+        "榧の実",
+        "トウナッツ"
+      ]
+    },
+    {
+      "food_number": "05008",
+      "tag_name": "ぎんなん",
+      "diff": "生",
+      "search_keywords": [
+        "銀杏"
+      ]
+    },
+    {
+      "food_number": "05009",
+      "tag_name": "ぎんなん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "銀杏"
+      ]
+    },
+    {
+      "food_number": "05010",
+      "tag_name": "栗",
+      "diff": "日本ぐり・生",
+      "search_keywords": [
+        "くり",
+        "和栗"
+      ]
+    },
+    {
+      "food_number": "05011",
+      "tag_name": "栗",
+      "diff": "日本ぐり・ゆで",
+      "search_keywords": [
+        "くり",
+        "和栗"
+      ]
+    },
+    {
+      "food_number": "05012",
+      "tag_name": "栗",
+      "diff": "日本ぐり・甘露煮",
+      "search_keywords": [
+        "くり",
+        "和栗",
+        "甘栗"
+      ]
+    },
+    {
+      "food_number": "05013",
+      "tag_name": "栗",
+      "diff": "中国ぐり・甘ぐり",
+      "search_keywords": [
+        "くり",
+        "甘栗",
+        "天津甘栗"
+      ]
+    },
+    {
+      "food_number": "05014",
+      "tag_name": "くるみ",
+      "diff": "いり",
+      "search_keywords": [
+        "胡桃"
+      ]
+    },
+    {
+      "food_number": "05015",
+      "tag_name": "けしの実",
+      "diff": "乾",
+      "search_keywords": [
+        "ポピーシード"
+      ]
+    },
+    {
+      "food_number": "05016",
+      "tag_name": "ココナッツパウダー",
+      "diff": "",
+      "search_keywords": [
+        "ココナッツ"
+      ]
+    },
+    {
+      "food_number": "05017",
+      "tag_name": "ごま",
+      "diff": "乾",
+      "search_keywords": [
+        "胡麻"
+      ]
+    },
+    {
+      "food_number": "05018",
+      "tag_name": "ごま",
+      "diff": "いり",
+      "search_keywords": [
+        "胡麻"
+      ]
+    },
+    {
+      "food_number": "05019",
+      "tag_name": "ごま",
+      "diff": "むき",
+      "search_keywords": [
+        "胡麻",
+        "皮むきごま"
+      ]
+    },
+    {
+      "food_number": "05042",
+      "tag_name": "ねりごま",
+      "diff": "",
+      "search_keywords": [
+        "ごまペースト",
+        "胡麻"
+      ]
+    },
+    {
+      "food_number": "05020",
+      "tag_name": "しいの実",
+      "diff": "生",
+      "search_keywords": [
+        "椎の実"
+      ]
+    },
+    {
+      "food_number": "05021",
+      "tag_name": "すいかの種",
+      "diff": "いり・味付け",
+      "search_keywords": [
+        "スイカの種"
+      ]
+    },
+    {
+      "food_number": "05046",
+      "tag_name": "チアシード",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "05022",
+      "tag_name": "とちの実",
+      "diff": "蒸し",
+      "search_keywords": [
+        "栃の実"
+      ]
+    },
+    {
+      "food_number": "05023",
+      "tag_name": "はすの実",
+      "diff": "未熟・生",
+      "search_keywords": [
+        "蓮の実"
+      ]
+    },
+    {
+      "food_number": "05024",
+      "tag_name": "はすの実",
+      "diff": "成熟・乾",
+      "search_keywords": [
+        "蓮の実"
+      ]
+    },
+    {
+      "food_number": "05043",
+      "tag_name": "はすの実",
+      "diff": "成熟・ゆで",
+      "search_keywords": [
+        "蓮の実"
+      ]
+    },
+    {
+      "food_number": "05025",
+      "tag_name": "ひしの実",
+      "diff": "生",
+      "search_keywords": [
+        "菱の実"
+      ]
+    },
+    {
+      "food_number": "05047",
+      "tag_name": "とうびしの実",
+      "diff": "生",
+      "search_keywords": [
+        "トウビシ",
+        "菱の実"
+      ]
+    },
+    {
+      "food_number": "05048",
+      "tag_name": "とうびしの実",
+      "diff": "ゆで",
+      "search_keywords": [
+        "トウビシ",
+        "菱の実"
+      ]
+    },
+    {
+      "food_number": "05026",
+      "tag_name": "ピスタチオ",
+      "diff": "いり・味付け",
+      "search_keywords": []
+    }
+  ]
+}

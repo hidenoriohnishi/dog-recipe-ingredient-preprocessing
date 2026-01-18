@@ -1,0 +1,252 @@
+{
+  "batchNumber": 23,
+  "foods": [
+    {
+      "food_number": "06069",
+      "tag_name": "きゅうりピクルス",
+      "diff": "スイート型",
+      "search_keywords": [
+        "胡瓜ピクルス"
+      ]
+    },
+    {
+      "food_number": "06070",
+      "tag_name": "きゅうりピクルス",
+      "diff": "サワー型",
+      "search_keywords": [
+        "胡瓜ピクルス"
+      ]
+    },
+    {
+      "food_number": "06071",
+      "tag_name": "ぎょうじゃにんにく",
+      "diff": "葉・生",
+      "search_keywords": [
+        "行者にんにく",
+        "アイヌネギ"
+      ]
+    },
+    {
+      "food_number": "06075",
+      "tag_name": "キンサイ",
+      "diff": "生",
+      "search_keywords": [
+        "芹菜",
+        "香菜"
+      ]
+    },
+    {
+      "food_number": "06076",
+      "tag_name": "キンサイ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "芹菜",
+        "香菜"
+      ]
+    },
+    {
+      "food_number": "06077",
+      "tag_name": "クレソン",
+      "diff": "生",
+      "search_keywords": [
+        "水クレソン",
+        "オランダガラシ"
+      ]
+    },
+    {
+      "food_number": "06078",
+      "tag_name": "くわい",
+      "diff": "生",
+      "search_keywords": [
+        "慈姑"
+      ]
+    },
+    {
+      "food_number": "06079",
+      "tag_name": "くわい",
+      "diff": "ゆで",
+      "search_keywords": [
+        "慈姑"
+      ]
+    },
+    {
+      "food_number": "06080",
+      "tag_name": "ケール",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06081",
+      "tag_name": "コールラビ",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06082",
+      "tag_name": "コールラビ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06083",
+      "tag_name": "こごみ",
+      "diff": "生",
+      "search_keywords": [
+        "クサソテツ",
+        "屈"
+      ]
+    },
+    {
+      "food_number": "06084",
+      "tag_name": "ごぼう",
+      "diff": "生",
+      "search_keywords": [
+        "牛蒡"
+      ]
+    },
+    {
+      "food_number": "06085",
+      "tag_name": "ごぼう",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛蒡"
+      ]
+    },
+    {
+      "food_number": "06405",
+      "tag_name": "堀川ごぼう",
+      "diff": "生",
+      "search_keywords": [
+        "牛蒡",
+        "ほりかわごぼう"
+      ]
+    },
+    {
+      "food_number": "06086",
+      "tag_name": "こまつな",
+      "diff": "生",
+      "search_keywords": [
+        "小松菜"
+      ]
+    },
+    {
+      "food_number": "06087",
+      "tag_name": "こまつな",
+      "diff": "ゆで",
+      "search_keywords": [
+        "小松菜"
+      ]
+    },
+    {
+      "food_number": "06385",
+      "tag_name": "コリアンダー",
+      "diff": "生",
+      "search_keywords": [
+        "パクチー",
+        "香菜"
+      ]
+    },
+    {
+      "food_number": "06088",
+      "tag_name": "ザーサイ",
+      "diff": "",
+      "search_keywords": [
+        "搾菜"
+      ]
+    },
+    {
+      "food_number": "06089",
+      "tag_name": "さんとうさい",
+      "diff": "生",
+      "search_keywords": [
+        "三冬菜",
+        "ターツァイ"
+      ]
+    },
+    {
+      "food_number": "06090",
+      "tag_name": "さんとうさい",
+      "diff": "ゆで",
+      "search_keywords": [
+        "三冬菜",
+        "ターツァイ"
+      ]
+    },
+    {
+      "food_number": "06091",
+      "tag_name": "さんとうさい",
+      "diff": "塩漬",
+      "search_keywords": [
+        "三冬菜",
+        "ターツァイ"
+      ]
+    },
+    {
+      "food_number": "06092",
+      "tag_name": "しかくまめ",
+      "diff": "生",
+      "search_keywords": [
+        "四角豆",
+        "ウリズン"
+      ]
+    },
+    {
+      "food_number": "06093",
+      "tag_name": "ししとう",
+      "diff": "生",
+      "search_keywords": [
+        "獅子唐"
+      ]
+    },
+    {
+      "food_number": "06094",
+      "tag_name": "ししとう",
+      "diff": "油いため",
+      "search_keywords": [
+        "獅子唐"
+      ]
+    },
+    {
+      "food_number": "06406",
+      "tag_name": "万願寺とうがらし",
+      "diff": "生",
+      "search_keywords": [
+        "万願寺唐辛子"
+      ]
+    },
+    {
+      "food_number": "06095",
+      "tag_name": "しそ",
+      "diff": "葉・生",
+      "search_keywords": [
+        "紫蘇"
+      ]
+    },
+    {
+      "food_number": "06096",
+      "tag_name": "しそ",
+      "diff": "実・生",
+      "search_keywords": [
+        "紫蘇"
+      ]
+    },
+    {
+      "food_number": "06097",
+      "tag_name": "じゅうろくささげ",
+      "diff": "生",
+      "search_keywords": [
+        "十六ささげ",
+        "十六豆"
+      ]
+    },
+    {
+      "food_number": "06098",
+      "tag_name": "じゅうろくささげ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "十六ささげ",
+        "十六豆"
+      ]
+    }
+  ]
+}

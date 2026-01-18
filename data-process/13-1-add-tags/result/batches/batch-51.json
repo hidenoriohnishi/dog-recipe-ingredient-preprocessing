@@ -1,0 +1,282 @@
+{
+  "batchNumber": 51,
+  "foods": [
+    {
+      "food_number": "10060",
+      "tag_name": "いわし缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "水煮"
+      ]
+    },
+    {
+      "food_number": "10061",
+      "tag_name": "いわし缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "味付け"
+      ]
+    },
+    {
+      "food_number": "10062",
+      "tag_name": "いわし缶",
+      "diff": "トマト漬",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "トマトソース"
+      ]
+    },
+    {
+      "food_number": "10063",
+      "tag_name": "いわし缶",
+      "diff": "油漬",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "オイルサーディン"
+      ]
+    },
+    {
+      "food_number": "10064",
+      "tag_name": "いわし缶",
+      "diff": "かば焼",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "蒲焼"
+      ]
+    },
+    {
+      "food_number": "10397",
+      "tag_name": "アンチョビ",
+      "diff": "",
+      "search_keywords": [
+        "アンチョビ缶",
+        "鰯",
+        "サーディン"
+      ]
+    },
+    {
+      "food_number": "10065",
+      "tag_name": "いわな",
+      "diff": "養殖",
+      "search_keywords": [
+        "岩魚",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10066",
+      "tag_name": "うぐい",
+      "diff": "",
+      "search_keywords": [
+        "鵜飼"
+      ]
+    },
+    {
+      "food_number": "10067",
+      "tag_name": "うなぎ",
+      "diff": "養殖",
+      "search_keywords": [
+        "鰻",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10068",
+      "tag_name": "うなぎ肝",
+      "diff": "",
+      "search_keywords": [
+        "鰻肝",
+        "鰻の肝"
+      ]
+    },
+    {
+      "food_number": "10069",
+      "tag_name": "うなぎ",
+      "diff": "白焼き",
+      "search_keywords": [
+        "鰻",
+        "白焼き"
+      ]
+    },
+    {
+      "food_number": "10070",
+      "tag_name": "うなぎ",
+      "diff": "かば焼",
+      "search_keywords": [
+        "鰻",
+        "蒲焼"
+      ]
+    },
+    {
+      "food_number": "10071",
+      "tag_name": "うまづらはぎ",
+      "diff": "",
+      "search_keywords": [
+        "馬面剥",
+        "カワハギ"
+      ]
+    },
+    {
+      "food_number": "10072",
+      "tag_name": "うまづらはぎ",
+      "diff": "味付け開き干し",
+      "search_keywords": [
+        "馬面剥",
+        "カワハギ",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10073",
+      "tag_name": "えい",
+      "diff": "",
+      "search_keywords": [
+        "エイ",
+        "鱏"
+      ]
+    },
+    {
+      "food_number": "10074",
+      "tag_name": "えそ",
+      "diff": "",
+      "search_keywords": [
+        "エソ"
+      ]
+    },
+    {
+      "food_number": "10075",
+      "tag_name": "おいかわ",
+      "diff": "",
+      "search_keywords": [
+        "追川",
+        "ハヤ"
+      ]
+    },
+    {
+      "food_number": "10076",
+      "tag_name": "おおさが",
+      "diff": "",
+      "search_keywords": [
+        "大佐賀",
+        "ビッグアイ"
+      ]
+    },
+    {
+      "food_number": "10077",
+      "tag_name": "おこぜ",
+      "diff": "",
+      "search_keywords": [
+        "虎魚"
+      ]
+    },
+    {
+      "food_number": "10078",
+      "tag_name": "おひょう",
+      "diff": "",
+      "search_keywords": [
+        "オヒョウ",
+        "平目",
+        "ヒラメ"
+      ]
+    },
+    {
+      "food_number": "10079",
+      "tag_name": "かさご",
+      "diff": "",
+      "search_keywords": [
+        "笠子",
+        "ガシラ"
+      ]
+    },
+    {
+      "food_number": "10080",
+      "tag_name": "かじか",
+      "diff": "",
+      "search_keywords": [
+        "鰍"
+      ]
+    },
+    {
+      "food_number": "10081",
+      "tag_name": "かじか",
+      "diff": "水煮",
+      "search_keywords": [
+        "鰍",
+        "煮魚"
+      ]
+    },
+    {
+      "food_number": "10082",
+      "tag_name": "かじか",
+      "diff": "つくだ煮",
+      "search_keywords": [
+        "鰍",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10083",
+      "tag_name": "くろかじき",
+      "diff": "",
+      "search_keywords": [
+        "黒梶木",
+        "ブルーマーリン"
+      ]
+    },
+    {
+      "food_number": "10084",
+      "tag_name": "まかじき",
+      "diff": "",
+      "search_keywords": [
+        "真梶木",
+        "ストライプドマーリン"
+      ]
+    },
+    {
+      "food_number": "10085",
+      "tag_name": "めかじき",
+      "diff": "",
+      "search_keywords": [
+        "目梶木",
+        "ソードフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10398",
+      "tag_name": "めかじき",
+      "diff": "焼き",
+      "search_keywords": [
+        "目梶木",
+        "ソードフィッシュ",
+        "焼き魚"
+      ]
+    },
+    {
+      "food_number": "10086",
+      "tag_name": "かつお",
+      "diff": "春獲り",
+      "search_keywords": [
+        "鰹",
+        "初鰹",
+        "春獲り"
+      ]
+    },
+    {
+      "food_number": "10087",
+      "tag_name": "かつお",
+      "diff": "秋獲り",
+      "search_keywords": [
+        "鰹",
+        "戻り鰹",
+        "秋獲り"
+      ]
+    }
+  ]
+}

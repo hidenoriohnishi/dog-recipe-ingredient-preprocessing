@@ -1,0 +1,332 @@
+{
+  "batchNumber": 80,
+  "foods": [
+    {
+      "food_number": "12021",
+      "tag_name": "鶏卵",
+      "diff": "全卵・目玉焼き",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "目玉焼き",
+        "フライドエッグ"
+      ]
+    },
+    {
+      "food_number": "12022",
+      "tag_name": "鶏卵",
+      "diff": "全卵・いり",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "炒り卵",
+        "スクランブルエッグ"
+      ]
+    },
+    {
+      "food_number": "12023",
+      "tag_name": "鶏卵",
+      "diff": "全卵・素揚げ",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "素揚げ"
+      ]
+    },
+    {
+      "food_number": "12007",
+      "tag_name": "鶏卵",
+      "diff": "全卵・水煮缶",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "缶詰",
+        "水煮"
+      ]
+    },
+    {
+      "food_number": "12008",
+      "tag_name": "鶏卵",
+      "diff": "全卵・加糖",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "加糖卵",
+        "加糖"
+      ]
+    },
+    {
+      "food_number": "12009",
+      "tag_name": "鶏卵",
+      "diff": "全卵・乾燥",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "乾燥卵",
+        "粉末卵"
+      ]
+    },
+    {
+      "food_number": "12010",
+      "tag_name": "卵黄",
+      "diff": "生",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵黄",
+        "黄身",
+        "生卵"
+      ]
+    },
+    {
+      "food_number": "12011",
+      "tag_name": "卵黄",
+      "diff": "ゆで",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵黄",
+        "黄身",
+        "ゆで卵"
+      ]
+    },
+    {
+      "food_number": "12012",
+      "tag_name": "卵黄",
+      "diff": "加糖",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵黄",
+        "黄身",
+        "加糖卵黄",
+        "加糖"
+      ]
+    },
+    {
+      "food_number": "12013",
+      "tag_name": "卵黄",
+      "diff": "乾燥",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵黄",
+        "黄身",
+        "乾燥卵黄",
+        "粉末卵黄"
+      ]
+    },
+    {
+      "food_number": "12014",
+      "tag_name": "卵白",
+      "diff": "生",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵白",
+        "白身",
+        "生卵"
+      ]
+    },
+    {
+      "food_number": "12015",
+      "tag_name": "卵白",
+      "diff": "ゆで",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵白",
+        "白身",
+        "ゆで卵"
+      ]
+    },
+    {
+      "food_number": "12016",
+      "tag_name": "卵白",
+      "diff": "乾燥",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "卵白",
+        "白身",
+        "乾燥卵白",
+        "粉末卵白"
+      ]
+    },
+    {
+      "food_number": "12017",
+      "tag_name": "たまご豆腐",
+      "diff": "",
+      "search_keywords": [
+        "卵豆腐",
+        "玉子豆腐"
+      ]
+    },
+    {
+      "food_number": "12018",
+      "tag_name": "厚焼きたまご",
+      "diff": "",
+      "search_keywords": [
+        "卵焼き",
+        "玉子焼き",
+        "厚焼き卵",
+        "厚焼き玉子"
+      ]
+    },
+    {
+      "food_number": "12019",
+      "tag_name": "だし巻きたまご",
+      "diff": "",
+      "search_keywords": [
+        "卵焼き",
+        "玉子焼き",
+        "だし巻き卵",
+        "だし巻き玉子"
+      ]
+    },
+    {
+      "food_number": "13001",
+      "tag_name": "牛乳",
+      "diff": "生乳・ジャージー種",
+      "search_keywords": [
+        "ミルク",
+        "生乳",
+        "ジャージー牛乳",
+        "ジャージー"
+      ]
+    },
+    {
+      "food_number": "13002",
+      "tag_name": "牛乳",
+      "diff": "生乳・ホルスタイン種",
+      "search_keywords": [
+        "ミルク",
+        "生乳",
+        "ホルスタイン牛乳",
+        "ホルスタイン"
+      ]
+    },
+    {
+      "food_number": "13003",
+      "tag_name": "牛乳",
+      "diff": "普通",
+      "search_keywords": [
+        "ミルク",
+        "普通牛乳",
+        "全乳"
+      ]
+    },
+    {
+      "food_number": "13006",
+      "tag_name": "牛乳",
+      "diff": "脱脂",
+      "search_keywords": [
+        "ミルク",
+        "脱脂乳",
+        "スキムミルク"
+      ]
+    },
+    {
+      "food_number": "13004",
+      "tag_name": "加工乳",
+      "diff": "濃厚",
+      "search_keywords": [
+        "濃厚ミルク",
+        "濃厚牛乳"
+      ]
+    },
+    {
+      "food_number": "13005",
+      "tag_name": "加工乳",
+      "diff": "低脂肪",
+      "search_keywords": [
+        "低脂肪ミルク",
+        "低脂肪牛乳"
+      ]
+    },
+    {
+      "food_number": "13059",
+      "tag_name": "乳児用液体ミルク",
+      "diff": "",
+      "search_keywords": [
+        "ベビーミルク",
+        "液体ミルク",
+        "乳児用ミルク"
+      ]
+    },
+    {
+      "food_number": "13007",
+      "tag_name": "乳飲料",
+      "diff": "コーヒー",
+      "search_keywords": [
+        "コーヒー牛乳",
+        "コーヒーミルク"
+      ]
+    },
+    {
+      "food_number": "13008",
+      "tag_name": "乳飲料",
+      "diff": "フルーツ",
+      "search_keywords": [
+        "フルーツ牛乳",
+        "フルーツミルク"
+      ]
+    },
+    {
+      "food_number": "13009",
+      "tag_name": "全粉乳",
+      "diff": "",
+      "search_keywords": [
+        "粉ミルク",
+        "全脂粉乳",
+        "全粉ミルク"
+      ]
+    },
+    {
+      "food_number": "13010",
+      "tag_name": "脱脂粉乳",
+      "diff": "",
+      "search_keywords": [
+        "スキムミルク",
+        "脱脂ミルク",
+        "無脂肪粉乳"
+      ]
+    },
+    {
+      "food_number": "13011",
+      "tag_name": "乳児用粉ミルク",
+      "diff": "",
+      "search_keywords": [
+        "ベビーミルク",
+        "粉ミルク",
+        "乳児用調製粉乳"
+      ]
+    },
+    {
+      "food_number": "13012",
+      "tag_name": "無糖練乳",
+      "diff": "",
+      "search_keywords": [
+        "エバミルク",
+        "無糖コンデンスミルク",
+        "エバポレートミルク"
+      ]
+    },
+    {
+      "food_number": "13013",
+      "tag_name": "加糖練乳",
+      "diff": "",
+      "search_keywords": [
+        "コンデンスミルク",
+        "加糖コンデンスミルク",
+        "加糖ミルク"
+      ]
+    }
+  ]
+}

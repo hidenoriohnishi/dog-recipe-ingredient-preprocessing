@@ -1,0 +1,254 @@
+{
+  "batchNumber": 100,
+  "foods": [
+    {
+      "food_number": "17077",
+      "tag_name": "バジル",
+      "diff": "粉",
+      "search_keywords": [
+        "バジルパウダー"
+      ]
+    },
+    {
+      "food_number": "17078",
+      "tag_name": "パセリ",
+      "diff": "乾",
+      "search_keywords": [
+        "乾燥パセリ"
+      ]
+    },
+    {
+      "food_number": "17079",
+      "tag_name": "パプリカ",
+      "diff": "粉",
+      "search_keywords": [
+        "パプリカパウダー"
+      ]
+    },
+    {
+      "food_number": "17080",
+      "tag_name": "わさび",
+      "diff": "粉・からし粉入り",
+      "search_keywords": [
+        "山葵",
+        "ワサビパウダー",
+        "からし入りわさび"
+      ]
+    },
+    {
+      "food_number": "17081",
+      "tag_name": "わさび",
+      "diff": "練り",
+      "search_keywords": [
+        "山葵",
+        "練りわさび",
+        "チューブわさび"
+      ]
+    },
+    {
+      "food_number": "17082",
+      "tag_name": "パン酵母",
+      "diff": "圧搾",
+      "search_keywords": [
+        "イースト",
+        "ベーカーズイースト",
+        "生イースト"
+      ]
+    },
+    {
+      "food_number": "17083",
+      "tag_name": "パン酵母",
+      "diff": "乾燥",
+      "search_keywords": [
+        "イースト",
+        "ドライイースト",
+        "ベーカーズイースト"
+      ]
+    },
+    {
+      "food_number": "17084",
+      "tag_name": "ベーキングパウダー",
+      "diff": "",
+      "search_keywords": [
+        "膨張剤"
+      ]
+    },
+    {
+      "food_number": "18024",
+      "tag_name": "青菜の白和え",
+      "diff": "",
+      "search_keywords": [
+        "白和え"
+      ]
+    },
+    {
+      "food_number": "18025",
+      "tag_name": "いんげんのごま和え",
+      "diff": "",
+      "search_keywords": [
+        "ごま和え"
+      ]
+    },
+    {
+      "food_number": "18026",
+      "tag_name": "わかめとねぎの酢みそ和え",
+      "diff": "",
+      "search_keywords": [
+        "酢味噌和え"
+      ]
+    },
+    {
+      "food_number": "18028",
+      "tag_name": "とん汁",
+      "diff": "",
+      "search_keywords": [
+        "豚汁"
+      ]
+    },
+    {
+      "food_number": "18027",
+      "tag_name": "紅白なます",
+      "diff": "",
+      "search_keywords": [
+        "なます"
+      ]
+    },
+    {
+      "food_number": "18029",
+      "tag_name": "卯の花いり",
+      "diff": "",
+      "search_keywords": [
+        "卯の花",
+        "おから炒り"
+      ]
+    },
+    {
+      "food_number": "18030",
+      "tag_name": "親子丼の具",
+      "diff": "",
+      "search_keywords": [
+        "親子丼"
+      ]
+    },
+    {
+      "food_number": "18031",
+      "tag_name": "牛飯の具",
+      "diff": "",
+      "search_keywords": [
+        "牛めし",
+        "牛丼"
+      ]
+    },
+    {
+      "food_number": "18032",
+      "tag_name": "切り干し大根の煮物",
+      "diff": "",
+      "search_keywords": [
+        "切干大根"
+      ]
+    },
+    {
+      "food_number": "18033",
+      "tag_name": "きんぴらごぼう",
+      "diff": "",
+      "search_keywords": [
+        "金平ごぼう"
+      ]
+    },
+    {
+      "food_number": "18034",
+      "tag_name": "ぜんまいのいため煮",
+      "diff": "",
+      "search_keywords": [
+        "ぜんまい煮"
+      ]
+    },
+    {
+      "food_number": "18035",
+      "tag_name": "筑前煮",
+      "diff": "",
+      "search_keywords": [
+        "がめ煮"
+      ]
+    },
+    {
+      "food_number": "18036",
+      "tag_name": "肉じゃが",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18037",
+      "tag_name": "ひじきのいため煮",
+      "diff": "",
+      "search_keywords": [
+        "ひじき煮"
+      ]
+    },
+    {
+      "food_number": "18038",
+      "tag_name": "アジの南蛮漬け",
+      "diff": "",
+      "search_keywords": [
+        "鯵南蛮漬け"
+      ]
+    },
+    {
+      "food_number": "18053",
+      "tag_name": "お好み焼き",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18054",
+      "tag_name": "とりから揚げ",
+      "diff": "",
+      "search_keywords": [
+        "鶏の唐揚げ",
+        "鶏唐揚げ",
+        "鶏から"
+      ]
+    },
+    {
+      "food_number": "18023",
+      "tag_name": "松前漬け",
+      "diff": "しょうゆ漬",
+      "search_keywords": [
+        "松前漬",
+        "醤油漬け"
+      ]
+    },
+    {
+      "food_number": "18040",
+      "tag_name": "チキンカレー",
+      "diff": "",
+      "search_keywords": [
+        "鶏肉カレー"
+      ]
+    },
+    {
+      "food_number": "18001",
+      "tag_name": "ビーフカレー",
+      "diff": "",
+      "search_keywords": [
+        "牛肉カレー"
+      ]
+    },
+    {
+      "food_number": "18041",
+      "tag_name": "ポークカレー",
+      "diff": "",
+      "search_keywords": [
+        "豚肉カレー"
+      ]
+    },
+    {
+      "food_number": "18043",
+      "tag_name": "カニクリームコロッケ",
+      "diff": "",
+      "search_keywords": [
+        "蟹クリームコロッケ"
+      ]
+    }
+  ]
+}

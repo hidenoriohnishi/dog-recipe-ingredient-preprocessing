@@ -1,0 +1,329 @@
+{
+  "batchNumber": 60,
+  "foods": [
+    {
+      "food_number": "10251",
+      "tag_name": "ほんもろこ",
+      "diff": "生",
+      "search_keywords": [
+        "本諸子"
+      ]
+    },
+    {
+      "food_number": "10252",
+      "tag_name": "きはだまぐろ",
+      "diff": "生",
+      "search_keywords": [
+        "黄肌鮪",
+        "黄鰭鮪",
+        "キハダ"
+      ]
+    },
+    {
+      "food_number": "10253",
+      "tag_name": "くろまぐろ",
+      "diff": "天然・赤身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10254",
+      "tag_name": "くろまぐろ",
+      "diff": "天然・脂身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10450",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10451",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・水煮",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10452",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・蒸し",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10453",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・電子レンジ調理",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10454",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・焼き",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10455",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・ソテー",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10456",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・天ぷら",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10459",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10460",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・水煮",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10461",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・蒸し",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10462",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・電子レンジ調理",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10463",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・焼き",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10464",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・ソテー",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10465",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・脂身・天ぷら",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10255",
+      "tag_name": "びんながまぐろ",
+      "diff": "生",
+      "search_keywords": [
+        "鬢長鮪",
+        "ビンナガ"
+      ]
+    },
+    {
+      "food_number": "10256",
+      "tag_name": "みなみまぐろ",
+      "diff": "赤身・生",
+      "search_keywords": [
+        "南鮪",
+        "ミナミマグロ",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10257",
+      "tag_name": "みなみまぐろ",
+      "diff": "脂身・生",
+      "search_keywords": [
+        "南鮪",
+        "ミナミマグロ",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10258",
+      "tag_name": "めじまぐろ",
+      "diff": "生",
+      "search_keywords": [
+        "目近",
+        "メジマグロ"
+      ]
+    },
+    {
+      "food_number": "10425",
+      "tag_name": "めばちまぐろ",
+      "diff": "赤身・生",
+      "search_keywords": [
+        "目鉢鮪",
+        "メバチ",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10426",
+      "tag_name": "めばちまぐろ",
+      "diff": "脂身・生",
+      "search_keywords": [
+        "目鉢鮪",
+        "メバチ",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10260",
+      "tag_name": "ツナ缶",
+      "diff": "水煮・ライト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ライトツナ"
+      ]
+    },
+    {
+      "food_number": "10261",
+      "tag_name": "ツナ缶",
+      "diff": "水煮・ホワイト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ホワイトツナ"
+      ]
+    },
+    {
+      "food_number": "10262",
+      "tag_name": "ツナ缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン"
+      ]
+    },
+    {
+      "food_number": "10263",
+      "tag_name": "ツナ缶",
+      "diff": "油漬・ライト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ライトツナ"
+      ]
+    },
+    {
+      "food_number": "10264",
+      "tag_name": "ツナ缶",
+      "diff": "油漬・ホワイト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ホワイトツナ"
+      ]
+    },
+    {
+      "food_number": "10265",
+      "tag_name": "あいなめ",
+      "diff": "マジェラン",
+      "search_keywords": [
+        "鮎並",
+        "マジェランアイナメ"
+      ]
+    }
+  ]
+}

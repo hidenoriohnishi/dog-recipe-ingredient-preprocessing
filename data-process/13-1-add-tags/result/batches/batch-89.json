@@ -1,0 +1,276 @@
+{
+  "batchNumber": 89,
+  "foods": [
+    {
+      "food_number": "15134",
+      "tag_name": "チーズケーキ",
+      "diff": "ベイクド",
+      "search_keywords": [
+        "ちーずけーき",
+        "焼きチーズケーキ"
+      ]
+    },
+    {
+      "food_number": "15135",
+      "tag_name": "チーズケーキ",
+      "diff": "レア",
+      "search_keywords": [
+        "ちーずけーき",
+        "レアチーズケーキ",
+        "生チーズケーキ"
+      ]
+    },
+    {
+      "food_number": "15182",
+      "tag_name": "デニッシュペストリー",
+      "diff": "アメリカン・プレーン",
+      "search_keywords": [
+        "デニッシュ",
+        "アメリカン"
+      ]
+    },
+    {
+      "food_number": "15076",
+      "tag_name": "デニッシュペストリー",
+      "diff": "デンマーク・プレーン",
+      "search_keywords": [
+        "デニッシュ",
+        "デンマーク"
+      ]
+    },
+    {
+      "food_number": "15183",
+      "tag_name": "デニッシュペストリー",
+      "diff": "アメリカン・あん・こしあん",
+      "search_keywords": [
+        "デニッシュ",
+        "アメリカン",
+        "こし餡",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15184",
+      "tag_name": "デニッシュペストリー",
+      "diff": "アメリカン・あん・つぶあん",
+      "search_keywords": [
+        "デニッシュ",
+        "アメリカン",
+        "粒餡",
+        "つぶあん",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15171",
+      "tag_name": "デニッシュペストリー",
+      "diff": "デンマーク・あん・こしあん",
+      "search_keywords": [
+        "デニッシュ",
+        "デンマーク",
+        "こし餡",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15172",
+      "tag_name": "デニッシュペストリー",
+      "diff": "デンマーク・あん・つぶあん",
+      "search_keywords": [
+        "デニッシュ",
+        "デンマーク",
+        "粒餡",
+        "つぶあん",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15185",
+      "tag_name": "デニッシュペストリー",
+      "diff": "アメリカン・カスタード",
+      "search_keywords": [
+        "デニッシュ",
+        "アメリカン",
+        "カスタードクリーム"
+      ]
+    },
+    {
+      "food_number": "15173",
+      "tag_name": "デニッシュペストリー",
+      "diff": "デンマーク・カスタード",
+      "search_keywords": [
+        "デニッシュ",
+        "デンマーク",
+        "カスタードクリーム"
+      ]
+    },
+    {
+      "food_number": "15077",
+      "tag_name": "ドーナツ",
+      "diff": "イースト・プレーン",
+      "search_keywords": [
+        "ドーナッツ",
+        "イーストドーナツ"
+      ]
+    },
+    {
+      "food_number": "15174",
+      "tag_name": "ドーナツ",
+      "diff": "イースト・あん・こしあん",
+      "search_keywords": [
+        "ドーナッツ",
+        "イーストドーナツ",
+        "こし餡",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15175",
+      "tag_name": "ドーナツ",
+      "diff": "イースト・あん・つぶあん",
+      "search_keywords": [
+        "ドーナッツ",
+        "イーストドーナツ",
+        "粒餡",
+        "つぶあん",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15176",
+      "tag_name": "ドーナツ",
+      "diff": "イースト・カスタード",
+      "search_keywords": [
+        "ドーナッツ",
+        "イーストドーナツ",
+        "カスタードクリーム"
+      ]
+    },
+    {
+      "food_number": "15078",
+      "tag_name": "ドーナツ",
+      "diff": "ケーキ・プレーン",
+      "search_keywords": [
+        "ドーナッツ",
+        "ケーキドーナツ"
+      ]
+    },
+    {
+      "food_number": "15177",
+      "tag_name": "ドーナツ",
+      "diff": "ケーキ・あん・こしあん",
+      "search_keywords": [
+        "ドーナッツ",
+        "ケーキドーナツ",
+        "こし餡",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15178",
+      "tag_name": "ドーナツ",
+      "diff": "ケーキ・あん・つぶあん",
+      "search_keywords": [
+        "ドーナッツ",
+        "ケーキドーナツ",
+        "粒餡",
+        "つぶあん",
+        "あんこ"
+      ]
+    },
+    {
+      "food_number": "15179",
+      "tag_name": "ドーナツ",
+      "diff": "ケーキ・カスタード",
+      "search_keywords": [
+        "ドーナッツ",
+        "ケーキドーナツ",
+        "カスタードクリーム"
+      ]
+    },
+    {
+      "food_number": "15079",
+      "tag_name": "パイ皮",
+      "diff": "",
+      "search_keywords": [
+        "パイ生地"
+      ]
+    },
+    {
+      "food_number": "15080",
+      "tag_name": "アップルパイ",
+      "diff": "",
+      "search_keywords": [
+        "りんごパイ"
+      ]
+    },
+    {
+      "food_number": "15081",
+      "tag_name": "ミートパイ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15082",
+      "tag_name": "バターケーキ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15083",
+      "tag_name": "ホットケーキ",
+      "diff": "",
+      "search_keywords": [
+        "パンケーキ"
+      ]
+    },
+    {
+      "food_number": "15084",
+      "tag_name": "ワッフル",
+      "diff": "カスタード",
+      "search_keywords": [
+        "カスタードクリーム"
+      ]
+    },
+    {
+      "food_number": "15085",
+      "tag_name": "ワッフル",
+      "diff": "ジャム",
+      "search_keywords": [
+        "ジャム入り"
+      ]
+    },
+    {
+      "food_number": "15086",
+      "tag_name": "カスタードプリン",
+      "diff": "",
+      "search_keywords": [
+        "プリン"
+      ]
+    },
+    {
+      "food_number": "15136",
+      "tag_name": "牛乳寒天",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15142",
+      "tag_name": "こんにゃくゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15087",
+      "tag_name": "オレンジゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15088",
+      "tag_name": "コーヒーゼリー",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

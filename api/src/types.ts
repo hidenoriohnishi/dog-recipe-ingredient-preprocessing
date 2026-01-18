@@ -4,6 +4,7 @@
 
 export interface Food {
   food_group: string;
+  REFUSE: number | null;
   food_number: string;
   food_name: string;
   food_name_en: string;

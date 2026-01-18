@@ -1,0 +1,229 @@
+{
+  "batchNumber": 5,
+  "foods": [
+    {
+      "food_number": "01068",
+      "tag_name": "焼きふ",
+      "diff": "車ふ",
+      "search_keywords": [
+        "くるまふ"
+      ]
+    },
+    {
+      "food_number": "01177",
+      "tag_name": "油ふ",
+      "diff": "",
+      "search_keywords": [
+        "あぶらふ"
+      ]
+    },
+    {
+      "food_number": "01070",
+      "tag_name": "小麦はいが",
+      "diff": "",
+      "search_keywords": [
+        "ウィートジャーム"
+      ]
+    },
+    {
+      "food_number": "01071",
+      "tag_name": "小麦たんぱく",
+      "diff": "粉末状",
+      "search_keywords": [
+        "グルテン"
+      ]
+    },
+    {
+      "food_number": "01072",
+      "tag_name": "小麦たんぱく",
+      "diff": "粒状",
+      "search_keywords": [
+        "グルテン"
+      ]
+    },
+    {
+      "food_number": "01073",
+      "tag_name": "小麦たんぱく",
+      "diff": "ペースト状",
+      "search_keywords": [
+        "グルテン"
+      ]
+    },
+    {
+      "food_number": "01178",
+      "tag_name": "かやきせんべい",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01074",
+      "tag_name": "ぎょうざの皮",
+      "diff": "生",
+      "search_keywords": [
+        "餃子の皮"
+      ]
+    },
+    {
+      "food_number": "01075",
+      "tag_name": "しゅうまいの皮",
+      "diff": "生",
+      "search_keywords": [
+        "焼売の皮"
+      ]
+    },
+    {
+      "food_number": "01179",
+      "tag_name": "春巻きの皮",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01180",
+      "tag_name": "春巻きの皮",
+      "diff": "揚げ",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01076",
+      "tag_name": "ピザ生地",
+      "diff": "",
+      "search_keywords": [
+        "ピザクラスト"
+      ]
+    },
+    {
+      "food_number": "01069",
+      "tag_name": "ちくわぶ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01077",
+      "tag_name": "パン粉",
+      "diff": "生",
+      "search_keywords": [
+        "フレッシュパン粉"
+      ]
+    },
+    {
+      "food_number": "01078",
+      "tag_name": "パン粉",
+      "diff": "半生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01079",
+      "tag_name": "パン粉",
+      "diff": "乾燥",
+      "search_keywords": [
+        "ドライパン粉"
+      ]
+    },
+    {
+      "food_number": "01150",
+      "tag_name": "冷めん",
+      "diff": "生",
+      "search_keywords": [
+        "冷麺"
+      ]
+    },
+    {
+      "food_number": "01080",
+      "tag_name": "玄米",
+      "diff": "生",
+      "search_keywords": [
+        "ブラウンライス"
+      ]
+    },
+    {
+      "food_number": "01081",
+      "tag_name": "半つき米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01082",
+      "tag_name": "七分つき米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01083",
+      "tag_name": "米",
+      "diff": "白米",
+      "search_keywords": [
+        "精白米",
+        "うるち米"
+      ]
+    },
+    {
+      "food_number": "01151",
+      "tag_name": "もち米",
+      "diff": "白米",
+      "search_keywords": [
+        "精白米",
+        "糯米"
+      ]
+    },
+    {
+      "food_number": "01152",
+      "tag_name": "インディカ米",
+      "diff": "白米",
+      "search_keywords": [
+        "精白米",
+        "インディカ"
+      ]
+    },
+    {
+      "food_number": "01084",
+      "tag_name": "はいが米",
+      "diff": "生",
+      "search_keywords": [
+        "胚芽精米"
+      ]
+    },
+    {
+      "food_number": "01153",
+      "tag_name": "発芽玄米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01181",
+      "tag_name": "赤米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01182",
+      "tag_name": "黒米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01085",
+      "tag_name": "玄米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "玄米めし",
+        "ブラウンライス"
+      ]
+    },
+    {
+      "food_number": "01086",
+      "tag_name": "半つきごはん",
+      "diff": "",
+      "search_keywords": [
+        "半つき米めし"
+      ]
+    },
+    {
+      "food_number": "01087",
+      "tag_name": "七分つきごはん",
+      "diff": "",
+      "search_keywords": [
+        "七分つき米めし"
+      ]
+    }
+  ]
+}

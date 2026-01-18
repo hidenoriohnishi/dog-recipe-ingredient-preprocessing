@@ -1,0 +1,274 @@
+{
+  "batchNumber": 81,
+  "foods": [
+    {
+      "food_number": "13009",
+      "tag_name": "全粉乳",
+      "diff": "",
+      "search_keywords": [
+        "粉ミルク",
+        "全脂粉乳",
+        "全粉ミルク"
+      ]
+    },
+    {
+      "food_number": "13010",
+      "tag_name": "脱脂粉乳",
+      "diff": "",
+      "search_keywords": [
+        "スキムミルク",
+        "脱脂ミルク",
+        "無脂肪粉乳"
+      ]
+    },
+    {
+      "food_number": "13011",
+      "tag_name": "乳児用粉ミルク",
+      "diff": "",
+      "search_keywords": [
+        "ベビーミルク",
+        "粉ミルク",
+        "乳児用調製粉乳"
+      ]
+    },
+    {
+      "food_number": "13012",
+      "tag_name": "無糖練乳",
+      "diff": "",
+      "search_keywords": [
+        "エバミルク",
+        "無糖コンデンスミルク",
+        "エバポレートミルク"
+      ]
+    },
+    {
+      "food_number": "13013",
+      "tag_name": "加糖練乳",
+      "diff": "",
+      "search_keywords": [
+        "コンデンスミルク",
+        "加糖コンデンスミルク",
+        "加糖ミルク"
+      ]
+    },
+    {
+      "food_number": "13014",
+      "tag_name": "クリーム",
+      "diff": "乳脂肪",
+      "search_keywords": [
+        "生クリーム",
+        "乳脂肪クリーム"
+      ]
+    },
+    {
+      "food_number": "13015",
+      "tag_name": "クリーム",
+      "diff": "乳脂肪・植物性脂肪",
+      "search_keywords": [
+        "コンパウンドクリーム"
+      ]
+    },
+    {
+      "food_number": "13016",
+      "tag_name": "クリーム",
+      "diff": "植物性脂肪",
+      "search_keywords": [
+        "ホイップクリーム",
+        "植物性クリーム"
+      ]
+    },
+    {
+      "food_number": "13017",
+      "tag_name": "ホイップクリーム",
+      "diff": "乳脂肪",
+      "search_keywords": [
+        "生クリーム",
+        "乳脂肪ホイップ"
+      ]
+    },
+    {
+      "food_number": "13018",
+      "tag_name": "ホイップクリーム",
+      "diff": "乳脂肪・植物性脂肪",
+      "search_keywords": [
+        "コンパウンドホイップ"
+      ]
+    },
+    {
+      "food_number": "13019",
+      "tag_name": "ホイップクリーム",
+      "diff": "植物性脂肪",
+      "search_keywords": [
+        "植物性ホイップ"
+      ]
+    },
+    {
+      "food_number": "13020",
+      "tag_name": "コーヒーホワイトナー",
+      "diff": "液状・乳脂肪",
+      "search_keywords": [
+        "クリーミングパウダー",
+        "コーヒーフレッシュ"
+      ]
+    },
+    {
+      "food_number": "13021",
+      "tag_name": "コーヒーホワイトナー",
+      "diff": "液状・乳脂肪・植物性脂肪",
+      "search_keywords": [
+        "クリーミングパウダー",
+        "コーヒーフレッシュ"
+      ]
+    },
+    {
+      "food_number": "13022",
+      "tag_name": "コーヒーホワイトナー",
+      "diff": "液状・植物性脂肪",
+      "search_keywords": [
+        "クリーミングパウダー",
+        "コーヒーフレッシュ"
+      ]
+    },
+    {
+      "food_number": "13023",
+      "tag_name": "コーヒーホワイトナー",
+      "diff": "粉末・乳脂肪",
+      "search_keywords": [
+        "クリーミングパウダー"
+      ]
+    },
+    {
+      "food_number": "13024",
+      "tag_name": "コーヒーホワイトナー",
+      "diff": "粉末・植物性脂肪",
+      "search_keywords": [
+        "クリーミングパウダー"
+      ]
+    },
+    {
+      "food_number": "13025",
+      "tag_name": "ヨーグルト",
+      "diff": "全脂無糖",
+      "search_keywords": [
+        "プレーンヨーグルト",
+        "全脂ヨーグルト"
+      ]
+    },
+    {
+      "food_number": "13053",
+      "tag_name": "ヨーグルト",
+      "diff": "低脂肪無糖",
+      "search_keywords": [
+        "プレーンヨーグルト",
+        "低脂肪ヨーグルト"
+      ]
+    },
+    {
+      "food_number": "13054",
+      "tag_name": "ヨーグルト",
+      "diff": "無脂肪無糖",
+      "search_keywords": [
+        "プレーンヨーグルト",
+        "無脂肪ヨーグルト"
+      ]
+    },
+    {
+      "food_number": "13026",
+      "tag_name": "ヨーグルト",
+      "diff": "脱脂加糖",
+      "search_keywords": [
+        "加糖ヨーグルト",
+        "脱脂ヨーグルト"
+      ]
+    },
+    {
+      "food_number": "13027",
+      "tag_name": "ヨーグルトドリンク",
+      "diff": "加糖",
+      "search_keywords": [
+        "飲むヨーグルト",
+        "ヨーグルト飲料"
+      ]
+    },
+    {
+      "food_number": "13028",
+      "tag_name": "乳酸菌飲料",
+      "diff": "乳製品",
+      "search_keywords": [
+        "乳酸菌飲料",
+        "乳製品乳酸菌飲料"
+      ]
+    },
+    {
+      "food_number": "13029",
+      "tag_name": "乳酸菌飲料",
+      "diff": "殺菌乳製品",
+      "search_keywords": [
+        "殺菌乳酸菌飲料"
+      ]
+    },
+    {
+      "food_number": "13030",
+      "tag_name": "乳酸菌飲料",
+      "diff": "非乳製品",
+      "search_keywords": [
+        "非乳製品乳酸菌飲料"
+      ]
+    },
+    {
+      "food_number": "13031",
+      "tag_name": "エダムチーズ",
+      "diff": "",
+      "search_keywords": [
+        "エダム",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13032",
+      "tag_name": "エメンタールチーズ",
+      "diff": "",
+      "search_keywords": [
+        "エメンタール",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13033",
+      "tag_name": "カッテージチーズ",
+      "diff": "",
+      "search_keywords": [
+        "カテージ",
+        "カッテージ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13034",
+      "tag_name": "カマンベールチーズ",
+      "diff": "",
+      "search_keywords": [
+        "カマンベール",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13035",
+      "tag_name": "クリームチーズ",
+      "diff": "",
+      "search_keywords": [
+        "クリーム",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13036",
+      "tag_name": "ゴーダチーズ",
+      "diff": "",
+      "search_keywords": [
+        "ゴーダ",
+        "ナチュラルチーズ"
+      ]
+    }
+  ]
+}

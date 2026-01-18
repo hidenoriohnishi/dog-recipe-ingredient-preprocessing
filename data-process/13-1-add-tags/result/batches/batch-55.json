@@ -1,0 +1,275 @@
+{
+  "batchNumber": 55,
+  "foods": [
+    {
+      "food_number": "10439",
+      "tag_name": "たいせいようさけ",
+      "diff": "養殖・皮なし・水煮",
+      "search_keywords": [
+        "大西洋鮭",
+        "アトランティックサーモン",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10440",
+      "tag_name": "たいせいようさけ",
+      "diff": "養殖・皮なし・蒸し",
+      "search_keywords": [
+        "大西洋鮭",
+        "アトランティックサーモン",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10441",
+      "tag_name": "たいせいようさけ",
+      "diff": "養殖・皮なし・電子レンジ調理",
+      "search_keywords": [
+        "大西洋鮭",
+        "アトランティックサーモン",
+        "養殖",
+        "レンジ"
+      ]
+    },
+    {
+      "food_number": "10442",
+      "tag_name": "たいせいようさけ",
+      "diff": "養殖・皮なし・焼き",
+      "search_keywords": [
+        "大西洋鮭",
+        "アトランティックサーモン",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10443",
+      "tag_name": "たいせいようさけ",
+      "diff": "養殖・皮なし・ソテー",
+      "search_keywords": [
+        "大西洋鮭",
+        "アトランティックサーモン",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10444",
+      "tag_name": "たいせいようさけ",
+      "diff": "養殖・皮なし・天ぷら",
+      "search_keywords": [
+        "大西洋鮭",
+        "アトランティックサーモン",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10146",
+      "tag_name": "にじます",
+      "diff": "海面養殖・皮つき・生",
+      "search_keywords": [
+        "虹鱒",
+        "海面養殖"
+      ]
+    },
+    {
+      "food_number": "10402",
+      "tag_name": "にじます",
+      "diff": "海面養殖・皮なし・生",
+      "search_keywords": [
+        "虹鱒",
+        "海面養殖"
+      ]
+    },
+    {
+      "food_number": "10147",
+      "tag_name": "にじます",
+      "diff": "海面養殖・皮つき・焼き",
+      "search_keywords": [
+        "虹鱒",
+        "海面養殖"
+      ]
+    },
+    {
+      "food_number": "10148",
+      "tag_name": "にじます",
+      "diff": "淡水養殖・皮つき・生",
+      "search_keywords": [
+        "虹鱒",
+        "淡水養殖"
+      ]
+    },
+    {
+      "food_number": "10149",
+      "tag_name": "べにざけ",
+      "diff": "生",
+      "search_keywords": [
+        "紅鮭"
+      ]
+    },
+    {
+      "food_number": "10150",
+      "tag_name": "べにざけ",
+      "diff": "焼き",
+      "search_keywords": [
+        "紅鮭"
+      ]
+    },
+    {
+      "food_number": "10151",
+      "tag_name": "べにざけ",
+      "diff": "くん製",
+      "search_keywords": [
+        "紅鮭",
+        "スモークサーモン"
+      ]
+    },
+    {
+      "food_number": "10152",
+      "tag_name": "ますのすけ",
+      "diff": "生",
+      "search_keywords": [
+        "鱒之介",
+        "キングサーモン",
+        "キングサーモン"
+      ]
+    },
+    {
+      "food_number": "10153",
+      "tag_name": "ますのすけ",
+      "diff": "焼き",
+      "search_keywords": [
+        "鱒之介",
+        "キングサーモン",
+        "キングサーモン"
+      ]
+    },
+    {
+      "food_number": "10154",
+      "tag_name": "さば",
+      "diff": "生",
+      "search_keywords": [
+        "鯖",
+        "真鯖"
+      ]
+    },
+    {
+      "food_number": "10155",
+      "tag_name": "さば",
+      "diff": "水煮",
+      "search_keywords": [
+        "鯖",
+        "真鯖"
+      ]
+    },
+    {
+      "food_number": "10156",
+      "tag_name": "さば",
+      "diff": "焼き",
+      "search_keywords": [
+        "鯖",
+        "真鯖"
+      ]
+    },
+    {
+      "food_number": "10403",
+      "tag_name": "さば",
+      "diff": "フライ",
+      "search_keywords": [
+        "鯖",
+        "真鯖"
+      ]
+    },
+    {
+      "food_number": "10404",
+      "tag_name": "ごまさば",
+      "diff": "生",
+      "search_keywords": [
+        "胡麻鯖"
+      ]
+    },
+    {
+      "food_number": "10405",
+      "tag_name": "ごまさば",
+      "diff": "水煮",
+      "search_keywords": [
+        "胡麻鯖"
+      ]
+    },
+    {
+      "food_number": "10406",
+      "tag_name": "ごまさば",
+      "diff": "焼き",
+      "search_keywords": [
+        "胡麻鯖"
+      ]
+    },
+    {
+      "food_number": "10157",
+      "tag_name": "ごまさば",
+      "diff": "さば節",
+      "search_keywords": [
+        "胡麻鯖",
+        "鯖節"
+      ]
+    },
+    {
+      "food_number": "10158",
+      "tag_name": "たいせいようさば",
+      "diff": "生",
+      "search_keywords": [
+        "大西洋鯖"
+      ]
+    },
+    {
+      "food_number": "10159",
+      "tag_name": "たいせいようさば",
+      "diff": "水煮",
+      "search_keywords": [
+        "大西洋鯖"
+      ]
+    },
+    {
+      "food_number": "10160",
+      "tag_name": "たいせいようさば",
+      "diff": "焼き",
+      "search_keywords": [
+        "大西洋鯖"
+      ]
+    },
+    {
+      "food_number": "10161",
+      "tag_name": "塩さば",
+      "diff": "",
+      "search_keywords": [
+        "塩鯖"
+      ]
+    },
+    {
+      "food_number": "10162",
+      "tag_name": "さば開き干し",
+      "diff": "",
+      "search_keywords": [
+        "鯖",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10163",
+      "tag_name": "しめさば",
+      "diff": "",
+      "search_keywords": [
+        "鯖",
+        "締め鯖",
+        "〆鯖"
+      ]
+    },
+    {
+      "food_number": "10164",
+      "tag_name": "サバ缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "鯖缶"
+      ]
+    }
+  ]
+}

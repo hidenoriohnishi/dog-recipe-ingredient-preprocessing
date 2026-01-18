@@ -1,0 +1,310 @@
+{
+  "batchNumber": 10,
+  "foods": [
+    {
+      "food_number": "02009",
+      "tag_name": "さつまいも切干",
+      "diff": "",
+      "search_keywords": [
+        "切干し芋",
+        "干し芋",
+        "薩摩芋",
+        "サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02048",
+      "tag_name": "むらさきいも",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "紫芋",
+        "紫いも",
+        "紫サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02049",
+      "tag_name": "むらさきいも",
+      "diff": "皮なし・蒸し",
+      "search_keywords": [
+        "紫芋",
+        "紫いも",
+        "紫サツマイモ"
+      ]
+    },
+    {
+      "food_number": "02010",
+      "tag_name": "さといも",
+      "diff": "生",
+      "search_keywords": [
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02011",
+      "tag_name": "さといも",
+      "diff": "水煮",
+      "search_keywords": [
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02012",
+      "tag_name": "さといも",
+      "diff": "冷凍",
+      "search_keywords": [
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02050",
+      "tag_name": "セレベス",
+      "diff": "生",
+      "search_keywords": [
+        "里芋",
+        "サトイモ",
+        "赤芽芋",
+        "セレベス芋"
+      ]
+    },
+    {
+      "food_number": "02051",
+      "tag_name": "セレベス",
+      "diff": "水煮",
+      "search_keywords": [
+        "里芋",
+        "サトイモ",
+        "赤芽芋",
+        "セレベス芋"
+      ]
+    },
+    {
+      "food_number": "02052",
+      "tag_name": "たけのこいも",
+      "diff": "生",
+      "search_keywords": [
+        "筍芋",
+        "タケノコイモ",
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02053",
+      "tag_name": "たけのこいも",
+      "diff": "水煮",
+      "search_keywords": [
+        "筍芋",
+        "タケノコイモ",
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02013",
+      "tag_name": "みずいも",
+      "diff": "生",
+      "search_keywords": [
+        "水芋",
+        "ミズイモ",
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02014",
+      "tag_name": "みずいも",
+      "diff": "水煮",
+      "search_keywords": [
+        "水芋",
+        "ミズイモ",
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02015",
+      "tag_name": "やつがしら",
+      "diff": "生",
+      "search_keywords": [
+        "八頭",
+        "ヤツガシラ",
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02016",
+      "tag_name": "やつがしら",
+      "diff": "水煮",
+      "search_keywords": [
+        "八頭",
+        "ヤツガシラ",
+        "里芋",
+        "サトイモ"
+      ]
+    },
+    {
+      "food_number": "02063",
+      "tag_name": "じゃがいも",
+      "diff": "皮付き・生",
+      "search_keywords": [
+        "馬鈴薯",
+        "ジャガイモ"
+      ]
+    },
+    {
+      "food_number": "02064",
+      "tag_name": "じゃがいも",
+      "diff": "皮付き・電子レンジ",
+      "search_keywords": [
+        "馬鈴薯",
+        "ジャガイモ"
+      ]
+    },
+    {
+      "food_number": "02065",
+      "tag_name": "フライドポテト",
+      "diff": "皮付き・生揚げ",
+      "search_keywords": [
+        "ポテトフライ",
+        "フレンチフライ",
+        "じゃがいも",
+        "馬鈴薯"
+      ]
+    },
+    {
+      "food_number": "02017",
+      "tag_name": "じゃがいも",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "馬鈴薯",
+        "ジャガイモ"
+      ]
+    },
+    {
+      "food_number": "02019",
+      "tag_name": "じゃがいも",
+      "diff": "皮なし・水煮",
+      "search_keywords": [
+        "馬鈴薯",
+        "ジャガイモ"
+      ]
+    },
+    {
+      "food_number": "02018",
+      "tag_name": "じゃがいも",
+      "diff": "皮なし・蒸し",
+      "search_keywords": [
+        "馬鈴薯",
+        "ジャガイモ"
+      ]
+    },
+    {
+      "food_number": "02066",
+      "tag_name": "じゃがいも",
+      "diff": "皮なし・電子レンジ",
+      "search_keywords": [
+        "馬鈴薯",
+        "ジャガイモ"
+      ]
+    },
+    {
+      "food_number": "02067",
+      "tag_name": "フライドポテト",
+      "diff": "皮なし・生揚げ",
+      "search_keywords": [
+        "ポテトフライ",
+        "フレンチフライ",
+        "じゃがいも",
+        "馬鈴薯"
+      ]
+    },
+    {
+      "food_number": "02020",
+      "tag_name": "フライドポテト",
+      "diff": "皮なし・冷凍揚げ",
+      "search_keywords": [
+        "ポテトフライ",
+        "フレンチフライ",
+        "じゃがいも",
+        "馬鈴薯"
+      ]
+    },
+    {
+      "food_number": "02021",
+      "tag_name": "マッシュポテト",
+      "diff": "乾燥",
+      "search_keywords": [
+        "じゃがいも",
+        "馬鈴薯",
+        "ポテトフレーク"
+      ]
+    },
+    {
+      "food_number": "02054",
+      "tag_name": "ヤーコン",
+      "diff": "生",
+      "search_keywords": [
+        "yacon",
+        "ヤーコン芋"
+      ]
+    },
+    {
+      "food_number": "02055",
+      "tag_name": "ヤーコン",
+      "diff": "水煮",
+      "search_keywords": [
+        "yacon",
+        "ヤーコン芋"
+      ]
+    },
+    {
+      "food_number": "02022",
+      "tag_name": "いちょういも",
+      "diff": "生",
+      "search_keywords": [
+        "銀杏芋",
+        "イチョウイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02023",
+      "tag_name": "ながいも",
+      "diff": "生",
+      "search_keywords": [
+        "長芋",
+        "ナガイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02024",
+      "tag_name": "ながいも",
+      "diff": "水煮",
+      "search_keywords": [
+        "長芋",
+        "ナガイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02025",
+      "tag_name": "やまといも",
+      "diff": "生",
+      "search_keywords": [
+        "大和芋",
+        "ヤマトイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    }
+  ]
+}

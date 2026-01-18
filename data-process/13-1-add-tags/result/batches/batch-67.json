@@ -1,0 +1,304 @@
+{
+  "batchNumber": 67,
+  "foods": [
+    {
+      "food_number": "10388",
+      "tag_name": "魚肉ソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "ぎょにくソーセージ"
+      ]
+    },
+    {
+      "food_number": "11001",
+      "tag_name": "いのしし肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "猪",
+        "イノシシ"
+      ]
+    },
+    {
+      "food_number": "11002",
+      "tag_name": "いのぶた肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "イノブタ",
+        "猪豚"
+      ]
+    },
+    {
+      "food_number": "11003",
+      "tag_name": "うさぎ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "兎",
+        "ラビット"
+      ]
+    },
+    {
+      "food_number": "11004",
+      "tag_name": "和牛かた肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11005",
+      "tag_name": "和牛かた肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11006",
+      "tag_name": "和牛かた肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11007",
+      "tag_name": "和牛かた肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11008",
+      "tag_name": "和牛かたロース",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩ロース"
+      ]
+    },
+    {
+      "food_number": "11009",
+      "tag_name": "和牛かたロース",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩ロース"
+      ]
+    },
+    {
+      "food_number": "11010",
+      "tag_name": "和牛かたロース",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩ロース"
+      ]
+    },
+    {
+      "food_number": "11011",
+      "tag_name": "和牛リブロース",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11249",
+      "tag_name": "和牛リブロース",
+      "diff": "脂身つき・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11248",
+      "tag_name": "和牛リブロース",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11012",
+      "tag_name": "和牛リブロース",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11013",
+      "tag_name": "和牛リブロース",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11014",
+      "tag_name": "和牛リブロース",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11015",
+      "tag_name": "和牛サーロイン",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11016",
+      "tag_name": "和牛サーロイン",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11017",
+      "tag_name": "和牛サーロイン",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11018",
+      "tag_name": "和牛ばら肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "バラ肉",
+        "ばら肉"
+      ]
+    },
+    {
+      "food_number": "11019",
+      "tag_name": "和牛もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11020",
+      "tag_name": "和牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11251",
+      "tag_name": "和牛もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11250",
+      "tag_name": "和牛もも肉",
+      "diff": "皮下脂肪なし・焼き",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11021",
+      "tag_name": "和牛もも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11022",
+      "tag_name": "和牛もも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11023",
+      "tag_name": "和牛そともも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "外もも",
+        "そともも"
+      ]
+    },
+    {
+      "food_number": "11024",
+      "tag_name": "和牛そともも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "外もも",
+        "そともも"
+      ]
+    },
+    {
+      "food_number": "11025",
+      "tag_name": "和牛そともも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "外もも",
+        "そともも"
+      ]
+    }
+  ]
+}

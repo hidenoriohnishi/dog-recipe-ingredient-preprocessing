@@ -1,0 +1,320 @@
+{
+  "batchNumber": 78,
+  "foods": [
+    {
+      "food_number": "11213",
+      "tag_name": "鶏むね肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11214",
+      "tag_name": "鶏むね肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11215",
+      "tag_name": "鶏もも肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11216",
+      "tag_name": "鶏もも肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11217",
+      "tag_name": "鶏ささみ",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11218",
+      "tag_name": "鶏手羽",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "手羽",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11285",
+      "tag_name": "鶏手羽さき",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "手羽先",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11286",
+      "tag_name": "鶏手羽もと",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "手羽元",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11219",
+      "tag_name": "鶏むね肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11287",
+      "tag_name": "鶏むね肉",
+      "diff": "皮つき・焼き",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11220",
+      "tag_name": "鶏むね肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11288",
+      "tag_name": "鶏むね肉",
+      "diff": "皮なし・焼き",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11221",
+      "tag_name": "鶏もも肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11223",
+      "tag_name": "鶏もも肉",
+      "diff": "皮つき・ゆで",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11222",
+      "tag_name": "鶏もも肉",
+      "diff": "皮つき・焼き",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11289",
+      "tag_name": "鶏もも肉",
+      "diff": "皮つき・から揚げ",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏",
+        "唐揚げ"
+      ]
+    },
+    {
+      "food_number": "11224",
+      "tag_name": "鶏もも肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11226",
+      "tag_name": "鶏もも肉",
+      "diff": "皮なし・ゆで",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11225",
+      "tag_name": "鶏もも肉",
+      "diff": "皮なし・焼き",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11290",
+      "tag_name": "鶏もも肉",
+      "diff": "皮なし・から揚げ",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "若鶏",
+        "唐揚げ"
+      ]
+    },
+    {
+      "food_number": "11227",
+      "tag_name": "鶏ささみ",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11229",
+      "tag_name": "鶏ささみ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11228",
+      "tag_name": "鶏ささみ",
+      "diff": "焼き",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11298",
+      "tag_name": "鶏ささみ",
+      "diff": "ソテー",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11300",
+      "tag_name": "鶏ささみ",
+      "diff": "フライ",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11299",
+      "tag_name": "鶏ささみ",
+      "diff": "天ぷら",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11230",
+      "tag_name": "鶏ひき肉",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11291",
+      "tag_name": "鶏ひき肉",
+      "diff": "焼き",
+      "search_keywords": [
+        "鶏肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11231",
+      "tag_name": "鶏ハツ",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "心臓",
+        "ハート"
+      ]
+    },
+    {
+      "food_number": "11232",
+      "tag_name": "鶏レバー",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "肝臓",
+        "レバー"
+      ]
+    }
+  ]
+}

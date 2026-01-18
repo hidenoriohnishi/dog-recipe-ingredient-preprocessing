@@ -1,0 +1,277 @@
+{
+  "batchNumber": 59,
+  "foods": [
+    {
+      "food_number": "10229",
+      "tag_name": "はたはた",
+      "diff": "生干し",
+      "search_keywords": [
+        "鰰",
+        "半干し"
+      ]
+    },
+    {
+      "food_number": "10230",
+      "tag_name": "はまふえふき",
+      "diff": "生",
+      "search_keywords": [
+        "浜笛吹"
+      ]
+    },
+    {
+      "food_number": "10231",
+      "tag_name": "はも",
+      "diff": "生",
+      "search_keywords": [
+        "鱧"
+      ]
+    },
+    {
+      "food_number": "10233",
+      "tag_name": "ひらまさ",
+      "diff": "生",
+      "search_keywords": [
+        "平政"
+      ]
+    },
+    {
+      "food_number": "10234",
+      "tag_name": "ひらめ",
+      "diff": "天然・生",
+      "search_keywords": [
+        "鮃",
+        "天然ひらめ"
+      ]
+    },
+    {
+      "food_number": "10235",
+      "tag_name": "ひらめ",
+      "diff": "養殖・皮付き・生",
+      "search_keywords": [
+        "鮃",
+        "養殖ひらめ"
+      ]
+    },
+    {
+      "food_number": "10410",
+      "tag_name": "ひらめ",
+      "diff": "養殖・皮なし・生",
+      "search_keywords": [
+        "鮃",
+        "養殖ひらめ"
+      ]
+    },
+    {
+      "food_number": "10236",
+      "tag_name": "とらふぐ",
+      "diff": "養殖・生",
+      "search_keywords": [
+        "虎河豚",
+        "トラフグ",
+        "養殖ふぐ"
+      ]
+    },
+    {
+      "food_number": "10237",
+      "tag_name": "まふぐ",
+      "diff": "生",
+      "search_keywords": [
+        "真河豚",
+        "マフグ"
+      ]
+    },
+    {
+      "food_number": "10238",
+      "tag_name": "ふな",
+      "diff": "生",
+      "search_keywords": [
+        "鮒"
+      ]
+    },
+    {
+      "food_number": "10239",
+      "tag_name": "ふな",
+      "diff": "水煮",
+      "search_keywords": [
+        "鮒"
+      ]
+    },
+    {
+      "food_number": "10240",
+      "tag_name": "ふな",
+      "diff": "甘露煮",
+      "search_keywords": [
+        "鮒",
+        "甘露煮"
+      ]
+    },
+    {
+      "food_number": "10449",
+      "tag_name": "ふなずし",
+      "diff": "",
+      "search_keywords": [
+        "鮒寿司",
+        "鮒ずし"
+      ]
+    },
+    {
+      "food_number": "10241",
+      "tag_name": "ぶり",
+      "diff": "成魚・生",
+      "search_keywords": [
+        "鰤",
+        "成魚ぶり"
+      ]
+    },
+    {
+      "food_number": "10242",
+      "tag_name": "ぶり",
+      "diff": "成魚・焼き",
+      "search_keywords": [
+        "鰤",
+        "成魚ぶり"
+      ]
+    },
+    {
+      "food_number": "10243",
+      "tag_name": "はまち",
+      "diff": "養殖・皮付き・生",
+      "search_keywords": [
+        "鰤",
+        "養殖ぶり",
+        "ハマチ"
+      ]
+    },
+    {
+      "food_number": "10411",
+      "tag_name": "はまち",
+      "diff": "養殖・皮なし・生",
+      "search_keywords": [
+        "鰤",
+        "養殖ぶり",
+        "ハマチ"
+      ]
+    },
+    {
+      "food_number": "10244",
+      "tag_name": "ほうぼう",
+      "diff": "生",
+      "search_keywords": [
+        "魴鮄"
+      ]
+    },
+    {
+      "food_number": "10245",
+      "tag_name": "ホキ",
+      "diff": "生",
+      "search_keywords": [
+        "ホキ"
+      ]
+    },
+    {
+      "food_number": "10246",
+      "tag_name": "ほっけ",
+      "diff": "生",
+      "search_keywords": [
+        "𩸽"
+      ]
+    },
+    {
+      "food_number": "10247",
+      "tag_name": "ほっけ",
+      "diff": "塩ほっけ",
+      "search_keywords": [
+        "𩸽",
+        "塩干し"
+      ]
+    },
+    {
+      "food_number": "10248",
+      "tag_name": "ほっけ",
+      "diff": "開き干し・生",
+      "search_keywords": [
+        "𩸽",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10412",
+      "tag_name": "ほっけ",
+      "diff": "開き干し・焼き",
+      "search_keywords": [
+        "𩸽",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10249",
+      "tag_name": "ぼら",
+      "diff": "生",
+      "search_keywords": [
+        "鯔"
+      ]
+    },
+    {
+      "food_number": "10250",
+      "tag_name": "からすみ",
+      "diff": "",
+      "search_keywords": [
+        "鯔子",
+        "ボラの卵",
+        "カラスミ"
+      ]
+    },
+    {
+      "food_number": "10251",
+      "tag_name": "ほんもろこ",
+      "diff": "生",
+      "search_keywords": [
+        "本諸子"
+      ]
+    },
+    {
+      "food_number": "10252",
+      "tag_name": "きはだまぐろ",
+      "diff": "生",
+      "search_keywords": [
+        "黄肌鮪",
+        "黄鰭鮪",
+        "キハダ"
+      ]
+    },
+    {
+      "food_number": "10253",
+      "tag_name": "くろまぐろ",
+      "diff": "天然・赤身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "赤身"
+      ]
+    },
+    {
+      "food_number": "10254",
+      "tag_name": "くろまぐろ",
+      "diff": "天然・脂身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "トロ"
+      ]
+    },
+    {
+      "food_number": "10450",
+      "tag_name": "くろまぐろ",
+      "diff": "養殖・赤身・生",
+      "search_keywords": [
+        "黒鮪",
+        "本鮪",
+        "クロマグロ",
+        "養殖",
+        "赤身"
+      ]
+    }
+  ]
+}

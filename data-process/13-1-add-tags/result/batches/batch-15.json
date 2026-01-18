@@ -1,0 +1,213 @@
+{
+  "batchNumber": 15,
+  "foods": [
+    {
+      "food_number": "04079",
+      "tag_name": "いり大豆",
+      "diff": "黒大豆",
+      "search_keywords": [
+        "黒豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04028",
+      "tag_name": "大豆水煮缶",
+      "diff": "黄大豆",
+      "search_keywords": [
+        "大豆缶詰"
+      ]
+    },
+    {
+      "food_number": "04081",
+      "tag_name": "蒸し大豆",
+      "diff": "黄大豆",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04082",
+      "tag_name": "きな粉",
+      "diff": "青大豆・全粒",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04096",
+      "tag_name": "きな粉",
+      "diff": "青大豆・脱皮",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04029",
+      "tag_name": "きな粉",
+      "diff": "黄大豆・全粒",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04030",
+      "tag_name": "きな粉",
+      "diff": "黄大豆・脱皮",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04109",
+      "tag_name": "きな粉（砂糖入り）",
+      "diff": "青大豆",
+      "search_keywords": [
+        "青豆",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04110",
+      "tag_name": "きな粉（砂糖入り）",
+      "diff": "黄大豆",
+      "search_keywords": [
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04083",
+      "tag_name": "大豆はいが",
+      "diff": "",
+      "search_keywords": [
+        "胚芽",
+        "大豆"
+      ]
+    },
+    {
+      "food_number": "04031",
+      "tag_name": "ぶどう豆",
+      "diff": "",
+      "search_keywords": [
+        "大豆",
+        "甘煮"
+      ]
+    },
+    {
+      "food_number": "04032",
+      "tag_name": "木綿豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04097",
+      "tag_name": "木綿豆腐",
+      "diff": "塩化マグネシウム",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04098",
+      "tag_name": "木綿豆腐",
+      "diff": "硫酸カルシウム",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04033",
+      "tag_name": "絹ごし豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04099",
+      "tag_name": "絹ごし豆腐",
+      "diff": "塩化マグネシウム",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04100",
+      "tag_name": "絹ごし豆腐",
+      "diff": "硫酸カルシウム",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04034",
+      "tag_name": "ソフト豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04035",
+      "tag_name": "充てん豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04036",
+      "tag_name": "沖縄豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04037",
+      "tag_name": "ゆし豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04038",
+      "tag_name": "焼き豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04039",
+      "tag_name": "生揚げ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04113",
+      "tag_name": "絹生揚げ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04040",
+      "tag_name": "油揚げ",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04084",
+      "tag_name": "油揚げ",
+      "diff": "油抜き・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04086",
+      "tag_name": "油揚げ",
+      "diff": "油抜き・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04085",
+      "tag_name": "油揚げ",
+      "diff": "油抜き・焼き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04095",
+      "tag_name": "油揚げ",
+      "diff": "甘煮",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04041",
+      "tag_name": "がんもどき",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

@@ -1,0 +1,269 @@
+{
+  "batchNumber": 25,
+  "foods": [
+    {
+      "food_number": "06115",
+      "tag_name": "すぐき漬け",
+      "diff": "",
+      "search_keywords": [
+        "酸茎漬け",
+        "すぐき漬"
+      ]
+    },
+    {
+      "food_number": "06116",
+      "tag_name": "ズッキーニ",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06117",
+      "tag_name": "せり",
+      "diff": "茎葉・生",
+      "search_keywords": [
+        "芹"
+      ]
+    },
+    {
+      "food_number": "06118",
+      "tag_name": "せり",
+      "diff": "茎葉・ゆで",
+      "search_keywords": [
+        "芹"
+      ]
+    },
+    {
+      "food_number": "06119",
+      "tag_name": "セロリ",
+      "diff": "葉柄・生",
+      "search_keywords": [
+        "セルリー"
+      ]
+    },
+    {
+      "food_number": "06120",
+      "tag_name": "ぜんまい",
+      "diff": "若芽・生",
+      "search_keywords": [
+        "薇"
+      ]
+    },
+    {
+      "food_number": "06121",
+      "tag_name": "ぜんまい",
+      "diff": "若芽・ゆで",
+      "search_keywords": [
+        "薇"
+      ]
+    },
+    {
+      "food_number": "06122",
+      "tag_name": "ぜんまい",
+      "diff": "干し若芽・乾",
+      "search_keywords": [
+        "薇",
+        "干しぜんまい"
+      ]
+    },
+    {
+      "food_number": "06123",
+      "tag_name": "ぜんまい",
+      "diff": "干し若芽・ゆで",
+      "search_keywords": [
+        "薇",
+        "干しぜんまい"
+      ]
+    },
+    {
+      "food_number": "06124",
+      "tag_name": "そらまめ",
+      "diff": "未熟豆・生",
+      "search_keywords": [
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "06125",
+      "tag_name": "そらまめ",
+      "diff": "未熟豆・ゆで",
+      "search_keywords": [
+        "空豆",
+        "蚕豆"
+      ]
+    },
+    {
+      "food_number": "06126",
+      "tag_name": "タアサイ",
+      "diff": "葉・生",
+      "search_keywords": [
+        "ターサイ",
+        "搨菜"
+      ]
+    },
+    {
+      "food_number": "06127",
+      "tag_name": "タアサイ",
+      "diff": "葉・ゆで",
+      "search_keywords": [
+        "ターサイ",
+        "搨菜"
+      ]
+    },
+    {
+      "food_number": "06128",
+      "tag_name": "かいわれ大根",
+      "diff": "芽ばえ・生",
+      "search_keywords": [
+        "カイワレ",
+        "貝割れ大根"
+      ]
+    },
+    {
+      "food_number": "06129",
+      "tag_name": "大根葉",
+      "diff": "葉だいこん・生",
+      "search_keywords": [
+        "だいこん葉",
+        "ダイコン葉"
+      ]
+    },
+    {
+      "food_number": "06130",
+      "tag_name": "大根葉",
+      "diff": "生",
+      "search_keywords": [
+        "だいこん葉",
+        "ダイコン葉"
+      ]
+    },
+    {
+      "food_number": "06131",
+      "tag_name": "大根葉",
+      "diff": "ゆで",
+      "search_keywords": [
+        "だいこん葉",
+        "ダイコン葉"
+      ]
+    },
+    {
+      "food_number": "06132",
+      "tag_name": "大根",
+      "diff": "根・皮つき・生",
+      "search_keywords": [
+        "だいこん",
+        "ダイコン"
+      ]
+    },
+    {
+      "food_number": "06133",
+      "tag_name": "大根",
+      "diff": "根・皮つき・ゆで",
+      "search_keywords": [
+        "だいこん",
+        "ダイコン"
+      ]
+    },
+    {
+      "food_number": "06134",
+      "tag_name": "大根",
+      "diff": "根・皮なし・生",
+      "search_keywords": [
+        "だいこん",
+        "ダイコン"
+      ]
+    },
+    {
+      "food_number": "06367",
+      "tag_name": "大根おろし",
+      "diff": "生",
+      "search_keywords": [
+        "だいこんおろし",
+        "大根おろし"
+      ]
+    },
+    {
+      "food_number": "06368",
+      "tag_name": "大根おろし汁",
+      "diff": "生",
+      "search_keywords": [
+        "だいこんおろし汁",
+        "大根おろし汁"
+      ]
+    },
+    {
+      "food_number": "06369",
+      "tag_name": "大根おろし",
+      "diff": "水洗い・生",
+      "search_keywords": [
+        "だいこんおろし",
+        "大根おろし"
+      ]
+    },
+    {
+      "food_number": "06135",
+      "tag_name": "大根",
+      "diff": "根・皮なし・ゆで",
+      "search_keywords": [
+        "だいこん",
+        "ダイコン"
+      ]
+    },
+    {
+      "food_number": "06136",
+      "tag_name": "切干大根",
+      "diff": "乾",
+      "search_keywords": [
+        "切り干し大根",
+        "きりぼしだいこん"
+      ]
+    },
+    {
+      "food_number": "06334",
+      "tag_name": "切干大根",
+      "diff": "ゆで",
+      "search_keywords": [
+        "切り干し大根",
+        "きりぼしだいこん"
+      ]
+    },
+    {
+      "food_number": "06335",
+      "tag_name": "切干大根",
+      "diff": "油いため",
+      "search_keywords": [
+        "切り干し大根",
+        "きりぼしだいこん"
+      ]
+    },
+    {
+      "food_number": "06388",
+      "tag_name": "いぶりがっこ",
+      "diff": "",
+      "search_keywords": [
+        "燻りがっこ",
+        "いぶり漬け"
+      ]
+    },
+    {
+      "food_number": "06137",
+      "tag_name": "ぬか漬け大根",
+      "diff": "",
+      "search_keywords": [
+        "ぬかみそ漬",
+        "糠漬け",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06138",
+      "tag_name": "たくあん",
+      "diff": "",
+      "search_keywords": [
+        "沢庵",
+        "たくあん漬",
+        "塩押し大根漬"
+      ]
+    }
+  ]
+}

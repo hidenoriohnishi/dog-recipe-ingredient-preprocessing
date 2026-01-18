@@ -1,0 +1,223 @@
+{
+  "batchNumber": 93,
+  "foods": [
+    {
+      "food_number": "16029",
+      "tag_name": "スイートワイン",
+      "diff": "",
+      "search_keywords": [
+        "甘口ワイン"
+      ]
+    },
+    {
+      "food_number": "16030",
+      "tag_name": "ペパーミントリキュール",
+      "diff": "",
+      "search_keywords": [
+        "ペパーミント"
+      ]
+    },
+    {
+      "food_number": "16031",
+      "tag_name": "ベルモット",
+      "diff": "甘口",
+      "search_keywords": [
+        "ヴェルモット",
+        "スイートベルモット"
+      ]
+    },
+    {
+      "food_number": "16032",
+      "tag_name": "ベルモット",
+      "diff": "辛口",
+      "search_keywords": [
+        "ヴェルモット",
+        "ドライベルモット"
+      ]
+    },
+    {
+      "food_number": "16059",
+      "tag_name": "缶チューハイ",
+      "diff": "レモン",
+      "search_keywords": [
+        "チューハイ",
+        "レモンチューハイ"
+      ]
+    },
+    {
+      "food_number": "16033",
+      "tag_name": "玉露",
+      "diff": "茶葉",
+      "search_keywords": [
+        "玉露茶"
+      ]
+    },
+    {
+      "food_number": "16034",
+      "tag_name": "玉露",
+      "diff": "浸出液",
+      "search_keywords": [
+        "玉露茶"
+      ]
+    },
+    {
+      "food_number": "16035",
+      "tag_name": "抹茶",
+      "diff": "粉末",
+      "search_keywords": [
+        "まっちゃ"
+      ]
+    },
+    {
+      "food_number": "16036",
+      "tag_name": "せん茶",
+      "diff": "茶葉",
+      "search_keywords": [
+        "煎茶"
+      ]
+    },
+    {
+      "food_number": "16037",
+      "tag_name": "せん茶",
+      "diff": "浸出液",
+      "search_keywords": [
+        "煎茶"
+      ]
+    },
+    {
+      "food_number": "16038",
+      "tag_name": "かまいり茶",
+      "diff": "浸出液",
+      "search_keywords": [
+        "釜炒り茶"
+      ]
+    },
+    {
+      "food_number": "16062",
+      "tag_name": "番茶",
+      "diff": "茶葉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16039",
+      "tag_name": "番茶",
+      "diff": "浸出液",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16063",
+      "tag_name": "ほうじ茶",
+      "diff": "茶葉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16040",
+      "tag_name": "ほうじ茶",
+      "diff": "浸出液",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16041",
+      "tag_name": "玄米茶",
+      "diff": "浸出液",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16042",
+      "tag_name": "ウーロン茶",
+      "diff": "浸出液",
+      "search_keywords": [
+        "烏龍茶"
+      ]
+    },
+    {
+      "food_number": "16043",
+      "tag_name": "紅茶",
+      "diff": "茶葉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16044",
+      "tag_name": "紅茶",
+      "diff": "浸出液",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16045",
+      "tag_name": "コーヒー",
+      "diff": "浸出液",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16046",
+      "tag_name": "インスタントコーヒー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16064",
+      "tag_name": "缶コーヒー",
+      "diff": "無糖",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16047",
+      "tag_name": "コーヒー飲料",
+      "diff": "ミルク・加糖",
+      "search_keywords": [
+        "カフェオレ",
+        "コーヒーミルク"
+      ]
+    },
+    {
+      "food_number": "16048",
+      "tag_name": "ピュアココア",
+      "diff": "",
+      "search_keywords": [
+        "純ココア",
+        "ココアパウダー"
+      ]
+    },
+    {
+      "food_number": "16049",
+      "tag_name": "ミルクココア",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16056",
+      "tag_name": "青汁",
+      "diff": "ケール",
+      "search_keywords": [
+        "ケール青汁"
+      ]
+    },
+    {
+      "food_number": "16050",
+      "tag_name": "甘酒",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16051",
+      "tag_name": "昆布茶",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16057",
+      "tag_name": "スポーツドリンク",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16052",
+      "tag_name": "果実炭酸飲料",
+      "diff": "",
+      "search_keywords": [
+        "果実色飲料",
+        "フルーツソーダ"
+      ]
+    }
+  ]
+}

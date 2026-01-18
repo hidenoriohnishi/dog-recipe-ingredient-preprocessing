@@ -1,0 +1,210 @@
+{
+  "batchNumber": 42,
+  "foods": [
+    {
+      "food_number": "07187",
+      "tag_name": "シャインマスカット",
+      "diff": "皮つき",
+      "search_keywords": [
+        "ぶどう",
+        "葡萄",
+        "シャインマスカット"
+      ]
+    },
+    {
+      "food_number": "07117",
+      "tag_name": "干しぶどう",
+      "diff": "",
+      "search_keywords": [
+        "レーズン",
+        "葡萄"
+      ]
+    },
+    {
+      "food_number": "07118",
+      "tag_name": "ぶどうジュース",
+      "diff": "ストレート",
+      "search_keywords": [
+        "葡萄ジュース"
+      ]
+    },
+    {
+      "food_number": "07119",
+      "tag_name": "ぶどうジュース",
+      "diff": "濃縮還元",
+      "search_keywords": [
+        "葡萄ジュース"
+      ]
+    },
+    {
+      "food_number": "07120",
+      "tag_name": "ぶどうドリンク",
+      "diff": "70%果汁",
+      "search_keywords": [
+        "葡萄ドリンク"
+      ]
+    },
+    {
+      "food_number": "07121",
+      "tag_name": "ぶどうドリンク",
+      "diff": "10%果汁",
+      "search_keywords": [
+        "葡萄ドリンク"
+      ]
+    },
+    {
+      "food_number": "07122",
+      "tag_name": "ぶどう缶詰",
+      "diff": "",
+      "search_keywords": [
+        "葡萄缶詰"
+      ]
+    },
+    {
+      "food_number": "07123",
+      "tag_name": "ぶどうジャム",
+      "diff": "",
+      "search_keywords": [
+        "葡萄ジャム"
+      ]
+    },
+    {
+      "food_number": "07124",
+      "tag_name": "ブルーベリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07125",
+      "tag_name": "ブルーベリージャム",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07172",
+      "tag_name": "ドライブルーベリー",
+      "diff": "",
+      "search_keywords": [
+        "乾燥ブルーベリー"
+      ]
+    },
+    {
+      "food_number": "07128",
+      "tag_name": "ホワイトサポテ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07130",
+      "tag_name": "まくわうり",
+      "diff": "黄肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07173",
+      "tag_name": "まくわうり",
+      "diff": "白肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07131",
+      "tag_name": "マルメロ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07132",
+      "tag_name": "マンゴー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07179",
+      "tag_name": "ドライマンゴー",
+      "diff": "",
+      "search_keywords": [
+        "乾燥マンゴー"
+      ]
+    },
+    {
+      "food_number": "07133",
+      "tag_name": "マンゴスチン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07134",
+      "tag_name": "メロン",
+      "diff": "温室",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07135",
+      "tag_name": "メロン",
+      "diff": "露地・緑肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07174",
+      "tag_name": "メロン",
+      "diff": "露地・赤肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07136",
+      "tag_name": "もも",
+      "diff": "白肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07184",
+      "tag_name": "もも",
+      "diff": "黄肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07137",
+      "tag_name": "ももネクター",
+      "diff": "30%果汁",
+      "search_keywords": [
+        "ピーチネクター"
+      ]
+    },
+    {
+      "food_number": "07138",
+      "tag_name": "もも缶詰",
+      "diff": "白肉種・果肉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07175",
+      "tag_name": "もも缶詰",
+      "diff": "黄肉種・果肉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07139",
+      "tag_name": "もも缶詰",
+      "diff": "液汁",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07140",
+      "tag_name": "ネクタリン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07141",
+      "tag_name": "やまもも",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07144",
+      "tag_name": "ライチ",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

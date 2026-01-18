@@ -1,0 +1,205 @@
+{
+  "batchNumber": 35,
+  "foods": [
+    {
+      "food_number": "06304",
+      "tag_name": "らっかせい",
+      "diff": "未熟豆・ゆで",
+      "search_keywords": [
+        "ピーナッツ"
+      ]
+    },
+    {
+      "food_number": "06305",
+      "tag_name": "らっきょう",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06306",
+      "tag_name": "らっきょう",
+      "diff": "甘酢漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06307",
+      "tag_name": "エシャレット",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06308",
+      "tag_name": "リーキ",
+      "diff": "",
+      "search_keywords": [
+        "西洋ねぎ",
+        "ポロねぎ"
+      ]
+    },
+    {
+      "food_number": "06309",
+      "tag_name": "リーキ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "西洋ねぎ",
+        "ポロねぎ"
+      ]
+    },
+    {
+      "food_number": "06319",
+      "tag_name": "ルッコラ",
+      "diff": "",
+      "search_keywords": [
+        "ロケット"
+      ]
+    },
+    {
+      "food_number": "06310",
+      "tag_name": "ルバーブ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06311",
+      "tag_name": "ルバーブ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06312",
+      "tag_name": "レタス",
+      "diff": "土耕栽培",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06361",
+      "tag_name": "レタス",
+      "diff": "水耕栽培",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06313",
+      "tag_name": "サラダな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06314",
+      "tag_name": "リーフレタス",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06315",
+      "tag_name": "サニーレタス",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06362",
+      "tag_name": "サンチュ",
+      "diff": "",
+      "search_keywords": [
+        "包み野菜"
+      ]
+    },
+    {
+      "food_number": "06316",
+      "tag_name": "コスレタス",
+      "diff": "",
+      "search_keywords": [
+        "ロメインレタス"
+      ]
+    },
+    {
+      "food_number": "06317",
+      "tag_name": "れんこん",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06318",
+      "tag_name": "れんこん",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06371",
+      "tag_name": "れんこん",
+      "diff": "甘酢漬",
+      "search_keywords": [
+        "甘酢れんこん"
+      ]
+    },
+    {
+      "food_number": "06320",
+      "tag_name": "わけぎ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06321",
+      "tag_name": "わけぎ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06322",
+      "tag_name": "わさび",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06323",
+      "tag_name": "わさび",
+      "diff": "わさび漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06324",
+      "tag_name": "わらび",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06325",
+      "tag_name": "わらび",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06326",
+      "tag_name": "わらび",
+      "diff": "乾",
+      "search_keywords": [
+        "干しわらび"
+      ]
+    },
+    {
+      "food_number": "06382",
+      "tag_name": "ミックスベジタブル",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06383",
+      "tag_name": "ミックスベジタブル",
+      "diff": "冷凍・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06384",
+      "tag_name": "ミックスベジタブル",
+      "diff": "冷凍・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06399",
+      "tag_name": "野菜ジュース",
+      "diff": "ミックス",
+      "search_keywords": [
+        "野菜ミックスジュース"
+      ]
+    }
+  ]
+}

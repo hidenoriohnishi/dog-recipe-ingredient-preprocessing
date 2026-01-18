@@ -1,0 +1,270 @@
+{
+  "batchNumber": 49,
+  "foods": [
+    {
+      "food_number": "10013",
+      "tag_name": "むろあじ",
+      "diff": "開き干し",
+      "search_keywords": [
+        "室鯵",
+        "開き"
+      ]
+    },
+    {
+      "food_number": "10014",
+      "tag_name": "むろあじ",
+      "diff": "くさや",
+      "search_keywords": [
+        "室鯵",
+        "クサヤ"
+      ]
+    },
+    {
+      "food_number": "10015",
+      "tag_name": "あなご",
+      "diff": "生",
+      "search_keywords": [
+        "穴子"
+      ]
+    },
+    {
+      "food_number": "10016",
+      "tag_name": "あなご",
+      "diff": "蒸し",
+      "search_keywords": [
+        "穴子"
+      ]
+    },
+    {
+      "food_number": "10017",
+      "tag_name": "あまご",
+      "diff": "養殖・生",
+      "search_keywords": [
+        "天魚",
+        "アマゴ",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10018",
+      "tag_name": "あまだい",
+      "diff": "生",
+      "search_keywords": [
+        "甘鯛"
+      ]
+    },
+    {
+      "food_number": "10019",
+      "tag_name": "あまだい",
+      "diff": "水煮",
+      "search_keywords": [
+        "甘鯛"
+      ]
+    },
+    {
+      "food_number": "10020",
+      "tag_name": "あまだい",
+      "diff": "焼き",
+      "search_keywords": [
+        "甘鯛"
+      ]
+    },
+    {
+      "food_number": "10021",
+      "tag_name": "あゆ",
+      "diff": "天然・生",
+      "search_keywords": [
+        "鮎",
+        "天然"
+      ]
+    },
+    {
+      "food_number": "10022",
+      "tag_name": "あゆ",
+      "diff": "天然・焼き",
+      "search_keywords": [
+        "鮎",
+        "天然"
+      ]
+    },
+    {
+      "food_number": "10023",
+      "tag_name": "あゆ内臓",
+      "diff": "天然・生",
+      "search_keywords": [
+        "鮎",
+        "内臓",
+        "天然"
+      ]
+    },
+    {
+      "food_number": "10024",
+      "tag_name": "あゆ内臓",
+      "diff": "天然・焼き",
+      "search_keywords": [
+        "鮎",
+        "内臓",
+        "天然"
+      ]
+    },
+    {
+      "food_number": "10025",
+      "tag_name": "あゆ",
+      "diff": "養殖・生",
+      "search_keywords": [
+        "鮎",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10026",
+      "tag_name": "あゆ",
+      "diff": "養殖・焼き",
+      "search_keywords": [
+        "鮎",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10027",
+      "tag_name": "あゆ内臓",
+      "diff": "養殖・生",
+      "search_keywords": [
+        "鮎",
+        "内臓",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10028",
+      "tag_name": "あゆ内臓",
+      "diff": "養殖・焼き",
+      "search_keywords": [
+        "鮎",
+        "内臓",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10029",
+      "tag_name": "あゆうるか",
+      "diff": "",
+      "search_keywords": [
+        "鮎",
+        "うるか"
+      ]
+    },
+    {
+      "food_number": "10030",
+      "tag_name": "アラスカめぬけ",
+      "diff": "生",
+      "search_keywords": [
+        "アラスカ目抜",
+        "Rougheye rockfish"
+      ]
+    },
+    {
+      "food_number": "10031",
+      "tag_name": "あんこう",
+      "diff": "生",
+      "search_keywords": [
+        "鮟鱇"
+      ]
+    },
+    {
+      "food_number": "10032",
+      "tag_name": "あんこうきも",
+      "diff": "生",
+      "search_keywords": [
+        "鮟鱇",
+        "肝"
+      ]
+    },
+    {
+      "food_number": "10033",
+      "tag_name": "いかなご",
+      "diff": "生",
+      "search_keywords": [
+        "玉筋魚"
+      ]
+    },
+    {
+      "food_number": "10034",
+      "tag_name": "いかなご",
+      "diff": "煮干し",
+      "search_keywords": [
+        "玉筋魚",
+        "煮干"
+      ]
+    },
+    {
+      "food_number": "10035",
+      "tag_name": "いかなご",
+      "diff": "つくだ煮",
+      "search_keywords": [
+        "玉筋魚",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10036",
+      "tag_name": "いかなご",
+      "diff": "あめ煮",
+      "search_keywords": [
+        "玉筋魚",
+        "飴煮"
+      ]
+    },
+    {
+      "food_number": "10037",
+      "tag_name": "いさき",
+      "diff": "生",
+      "search_keywords": [
+        "伊佐木"
+      ]
+    },
+    {
+      "food_number": "10038",
+      "tag_name": "いしだい",
+      "diff": "生",
+      "search_keywords": [
+        "石鯛"
+      ]
+    },
+    {
+      "food_number": "10039",
+      "tag_name": "いとよりだい",
+      "diff": "生",
+      "search_keywords": [
+        "糸撚鯛"
+      ]
+    },
+    {
+      "food_number": "10040",
+      "tag_name": "いとよりだい",
+      "diff": "すり身",
+      "search_keywords": [
+        "糸撚鯛",
+        "すりみ",
+        "魚肉すり身"
+      ]
+    },
+    {
+      "food_number": "10041",
+      "tag_name": "いぼだい",
+      "diff": "生",
+      "search_keywords": [
+        "疣鯛",
+        "ウオゼ"
+      ]
+    },
+    {
+      "food_number": "10042",
+      "tag_name": "うるめいわし",
+      "diff": "生",
+      "search_keywords": [
+        "潤目鰯"
+      ]
+    }
+  ]
+}

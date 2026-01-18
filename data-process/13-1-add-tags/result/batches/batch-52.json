@@ -1,0 +1,279 @@
+{
+  "batchNumber": 52,
+  "foods": [
+    {
+      "food_number": "10084",
+      "tag_name": "まかじき",
+      "diff": "",
+      "search_keywords": [
+        "真梶木",
+        "ストライプドマーリン"
+      ]
+    },
+    {
+      "food_number": "10085",
+      "tag_name": "めかじき",
+      "diff": "",
+      "search_keywords": [
+        "目梶木",
+        "ソードフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10398",
+      "tag_name": "めかじき",
+      "diff": "焼き",
+      "search_keywords": [
+        "目梶木",
+        "ソードフィッシュ",
+        "焼き魚"
+      ]
+    },
+    {
+      "food_number": "10086",
+      "tag_name": "かつお",
+      "diff": "春獲り",
+      "search_keywords": [
+        "鰹",
+        "初鰹",
+        "春獲り"
+      ]
+    },
+    {
+      "food_number": "10087",
+      "tag_name": "かつお",
+      "diff": "秋獲り",
+      "search_keywords": [
+        "鰹",
+        "戻り鰹",
+        "秋獲り"
+      ]
+    },
+    {
+      "food_number": "10088",
+      "tag_name": "そうだがつお",
+      "diff": "",
+      "search_keywords": [
+        "宗太鰹",
+        "ソウダガツオ"
+      ]
+    },
+    {
+      "food_number": "10089",
+      "tag_name": "なまり",
+      "diff": "",
+      "search_keywords": [
+        "なまり節",
+        "鰹なまり"
+      ]
+    },
+    {
+      "food_number": "10090",
+      "tag_name": "なまり節",
+      "diff": "",
+      "search_keywords": [
+        "鰹なまり節"
+      ]
+    },
+    {
+      "food_number": "10446",
+      "tag_name": "裸節",
+      "diff": "",
+      "search_keywords": [
+        "鰹裸節",
+        "なまり節",
+        "鰹節"
+      ]
+    },
+    {
+      "food_number": "10091",
+      "tag_name": "かつお節",
+      "diff": "",
+      "search_keywords": [
+        "鰹節",
+        "けずりぶし"
+      ]
+    },
+    {
+      "food_number": "10092",
+      "tag_name": "削り節",
+      "diff": "",
+      "search_keywords": [
+        "鰹節",
+        "けずりぶし",
+        "花かつお"
+      ]
+    },
+    {
+      "food_number": "10093",
+      "tag_name": "削り節つくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "鰹節",
+        "つくだ煮",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10094",
+      "tag_name": "かつお角煮",
+      "diff": "",
+      "search_keywords": [
+        "鰹角煮",
+        "角煮"
+      ]
+    },
+    {
+      "food_number": "10095",
+      "tag_name": "かつお塩辛",
+      "diff": "",
+      "search_keywords": [
+        "鰹塩辛",
+        "塩辛"
+      ]
+    },
+    {
+      "food_number": "10096",
+      "tag_name": "かつお缶",
+      "diff": "味付けフレーク",
+      "search_keywords": [
+        "鰹缶",
+        "ツナ缶",
+        "味付け"
+      ]
+    },
+    {
+      "food_number": "10097",
+      "tag_name": "かつお缶",
+      "diff": "油漬フレーク",
+      "search_keywords": [
+        "鰹缶",
+        "ツナ缶",
+        "油漬"
+      ]
+    },
+    {
+      "food_number": "10098",
+      "tag_name": "かます",
+      "diff": "",
+      "search_keywords": [
+        "魳"
+      ]
+    },
+    {
+      "food_number": "10099",
+      "tag_name": "かます",
+      "diff": "焼き",
+      "search_keywords": [
+        "魳",
+        "焼き魚"
+      ]
+    },
+    {
+      "food_number": "10100",
+      "tag_name": "まがれい",
+      "diff": "",
+      "search_keywords": [
+        "真鰈"
+      ]
+    },
+    {
+      "food_number": "10101",
+      "tag_name": "まがれい",
+      "diff": "水煮",
+      "search_keywords": [
+        "真鰈",
+        "煮魚"
+      ]
+    },
+    {
+      "food_number": "10102",
+      "tag_name": "まがれい",
+      "diff": "焼き",
+      "search_keywords": [
+        "真鰈",
+        "焼き魚"
+      ]
+    },
+    {
+      "food_number": "10103",
+      "tag_name": "まこがれい",
+      "diff": "",
+      "search_keywords": [
+        "真子鰈"
+      ]
+    },
+    {
+      "food_number": "10399",
+      "tag_name": "まこがれい",
+      "diff": "焼き",
+      "search_keywords": [
+        "真子鰈",
+        "焼き魚"
+      ]
+    },
+    {
+      "food_number": "10104",
+      "tag_name": "子持ちがれい",
+      "diff": "",
+      "search_keywords": [
+        "子持ち鰈"
+      ]
+    },
+    {
+      "food_number": "10105",
+      "tag_name": "子持ちがれい",
+      "diff": "水煮",
+      "search_keywords": [
+        "子持ち鰈",
+        "煮魚"
+      ]
+    },
+    {
+      "food_number": "10106",
+      "tag_name": "干しかれい",
+      "diff": "",
+      "search_keywords": [
+        "干物",
+        "鰈"
+      ]
+    },
+    {
+      "food_number": "10107",
+      "tag_name": "かわはぎ",
+      "diff": "",
+      "search_keywords": [
+        "皮剥",
+        "カワハギ"
+      ]
+    },
+    {
+      "food_number": "10108",
+      "tag_name": "かんぱち",
+      "diff": "三枚おろし",
+      "search_keywords": [
+        "間八",
+        "カンパチ",
+        "フィレ"
+      ]
+    },
+    {
+      "food_number": "10424",
+      "tag_name": "かんぱち",
+      "diff": "背側",
+      "search_keywords": [
+        "間八",
+        "カンパチ",
+        "背身"
+      ]
+    },
+    {
+      "food_number": "10109",
+      "tag_name": "きす",
+      "diff": "",
+      "search_keywords": [
+        "鱚"
+      ]
+    }
+  ]
+}

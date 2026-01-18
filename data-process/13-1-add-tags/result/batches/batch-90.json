@@ -1,0 +1,193 @@
+{
+  "batchNumber": 90,
+  "foods": [
+    {
+      "food_number": "15086",
+      "tag_name": "カスタードプリン",
+      "diff": "",
+      "search_keywords": [
+        "プリン"
+      ]
+    },
+    {
+      "food_number": "15136",
+      "tag_name": "牛乳寒天",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15142",
+      "tag_name": "こんにゃくゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15087",
+      "tag_name": "オレンジゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15088",
+      "tag_name": "コーヒーゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15089",
+      "tag_name": "ミルクゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15090",
+      "tag_name": "ワインゼリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15091",
+      "tag_name": "ババロア",
+      "diff": "",
+      "search_keywords": [
+        "ババロワ"
+      ]
+    },
+    {
+      "food_number": "15092",
+      "tag_name": "ウエハース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15141",
+      "tag_name": "ウエハース",
+      "diff": "クリーム入り",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15093",
+      "tag_name": "クラッカー",
+      "diff": "オイルスプレー",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15094",
+      "tag_name": "クラッカー",
+      "diff": "ソーダ",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15095",
+      "tag_name": "サブレ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15054",
+      "tag_name": "中華風クッキー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15097",
+      "tag_name": "ビスケット",
+      "diff": "ハード",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15098",
+      "tag_name": "ビスケット",
+      "diff": "ソフト",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15099",
+      "tag_name": "プレッツェル",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15096",
+      "tag_name": "リーフパイ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15100",
+      "tag_name": "ロシアケーキ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15101",
+      "tag_name": "小麦粉あられ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15102",
+      "tag_name": "コーンスナック",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15103",
+      "tag_name": "ポテトチップス",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15104",
+      "tag_name": "ポテトチップス",
+      "diff": "成形",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15109",
+      "tag_name": "かわり玉",
+      "diff": "",
+      "search_keywords": [
+        "ハードキャンディ"
+      ]
+    },
+    {
+      "food_number": "15105",
+      "tag_name": "キャラメル",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15107",
+      "tag_name": "ゼリーキャンデー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15108",
+      "tag_name": "ゼリービーンズ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15110",
+      "tag_name": "ドロップ",
+      "diff": "",
+      "search_keywords": [
+        "ハードキャンディ"
+      ]
+    },
+    {
+      "food_number": "15111",
+      "tag_name": "バタースコッチ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15112",
+      "tag_name": "ブリットル",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

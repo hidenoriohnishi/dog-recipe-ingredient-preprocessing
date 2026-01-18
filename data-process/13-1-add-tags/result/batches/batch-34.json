@@ -1,0 +1,210 @@
+{
+  "batchNumber": 34,
+  "foods": [
+    {
+      "food_number": "06283",
+      "tag_name": "めキャベツ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06284",
+      "tag_name": "めキャベツ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06285",
+      "tag_name": "めたで",
+      "diff": "",
+      "search_keywords": [
+        "蓼"
+      ]
+    },
+    {
+      "food_number": "06286",
+      "tag_name": "アルファルファもやし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06287",
+      "tag_name": "だいずもやし",
+      "diff": "",
+      "search_keywords": [
+        "大豆もやし"
+      ]
+    },
+    {
+      "food_number": "06288",
+      "tag_name": "だいずもやし",
+      "diff": "ゆで",
+      "search_keywords": [
+        "大豆もやし"
+      ]
+    },
+    {
+      "food_number": "06412",
+      "tag_name": "だいずもやし",
+      "diff": "油いため",
+      "search_keywords": [
+        "大豆もやし"
+      ]
+    },
+    {
+      "food_number": "06289",
+      "tag_name": "ブラックマッペもやし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06290",
+      "tag_name": "ブラックマッペもやし",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06398",
+      "tag_name": "ブラックマッペもやし",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06291",
+      "tag_name": "りょくとうもやし",
+      "diff": "",
+      "search_keywords": [
+        "緑豆もやし"
+      ]
+    },
+    {
+      "food_number": "06292",
+      "tag_name": "りょくとうもやし",
+      "diff": "ゆで",
+      "search_keywords": [
+        "緑豆もやし"
+      ]
+    },
+    {
+      "food_number": "06413",
+      "tag_name": "りょくとうもやし",
+      "diff": "油いため",
+      "search_keywords": [
+        "緑豆もやし"
+      ]
+    },
+    {
+      "food_number": "06293",
+      "tag_name": "モロヘイヤ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06294",
+      "tag_name": "モロヘイヤ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06401",
+      "tag_name": "やぶまめ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06295",
+      "tag_name": "やまごぼう",
+      "diff": "みそ漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06296",
+      "tag_name": "ゆりね",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06297",
+      "tag_name": "ゆりね",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06298",
+      "tag_name": "ようさい",
+      "diff": "",
+      "search_keywords": [
+        "空心菜"
+      ]
+    },
+    {
+      "food_number": "06299",
+      "tag_name": "ようさい",
+      "diff": "ゆで",
+      "search_keywords": [
+        "空心菜"
+      ]
+    },
+    {
+      "food_number": "06300",
+      "tag_name": "よめな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06301",
+      "tag_name": "よもぎ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06302",
+      "tag_name": "よもぎ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06303",
+      "tag_name": "らっかせい",
+      "diff": "未熟豆",
+      "search_keywords": [
+        "ピーナッツ"
+      ]
+    },
+    {
+      "food_number": "06304",
+      "tag_name": "らっかせい",
+      "diff": "未熟豆・ゆで",
+      "search_keywords": [
+        "ピーナッツ"
+      ]
+    },
+    {
+      "food_number": "06305",
+      "tag_name": "らっきょう",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06306",
+      "tag_name": "らっきょう",
+      "diff": "甘酢漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06307",
+      "tag_name": "エシャレット",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06308",
+      "tag_name": "リーキ",
+      "diff": "",
+      "search_keywords": [
+        "西洋ねぎ",
+        "ポロねぎ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "batchNumber": 41,
+  "foods": [
+    {
+      "food_number": "07088",
+      "tag_name": "日本なし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07089",
+      "tag_name": "日本なし",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07090",
+      "tag_name": "中国なし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07091",
+      "tag_name": "西洋なし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07092",
+      "tag_name": "西洋なし",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07095",
+      "tag_name": "なつめ",
+      "diff": "乾",
+      "search_keywords": [
+        "棗"
+      ]
+    },
+    {
+      "food_number": "07096",
+      "tag_name": "なつめやし",
+      "diff": "乾",
+      "search_keywords": [
+        "デーツ"
+      ]
+    },
+    {
+      "food_number": "07097",
+      "tag_name": "パイナップル",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07177",
+      "tag_name": "パイナップル",
+      "diff": "焼き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07098",
+      "tag_name": "パイナップルジュース",
+      "diff": "ストレート",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07099",
+      "tag_name": "パイナップルジュース",
+      "diff": "濃縮還元",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07100",
+      "tag_name": "パイナップルドリンク",
+      "diff": "50%果汁",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07101",
+      "tag_name": "パイナップルドリンク",
+      "diff": "10%果汁",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07102",
+      "tag_name": "パイナップル",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07103",
+      "tag_name": "パイナップル",
+      "diff": "砂糖漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07104",
+      "tag_name": "ハスカップ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07106",
+      "tag_name": "パッションフルーツジュース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07107",
+      "tag_name": "バナナ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07108",
+      "tag_name": "バナナ",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07109",
+      "tag_name": "パパイア",
+      "diff": "完熟",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07110",
+      "tag_name": "パパイア",
+      "diff": "未熟",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07114",
+      "tag_name": "びわ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07115",
+      "tag_name": "びわ",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07116",
+      "tag_name": "ぶどう",
+      "diff": "皮なし",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07178",
+      "tag_name": "ぶどう",
+      "diff": "皮つき",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07187",
+      "tag_name": "シャインマスカット",
+      "diff": "皮つき",
+      "search_keywords": [
+        "ぶどう",
+        "葡萄",
+        "シャインマスカット"
+      ]
+    },
+    {
+      "food_number": "07117",
+      "tag_name": "干しぶどう",
+      "diff": "",
+      "search_keywords": [
+        "レーズン",
+        "葡萄"
+      ]
+    },
+    {
+      "food_number": "07118",
+      "tag_name": "ぶどうジュース",
+      "diff": "ストレート",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07119",
+      "tag_name": "ぶどうジュース",
+      "diff": "濃縮還元",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07120",
+      "tag_name": "ぶどうドリンク",
+      "diff": "70%果汁",
+      "search_keywords": []
+    }
+  ]
+}

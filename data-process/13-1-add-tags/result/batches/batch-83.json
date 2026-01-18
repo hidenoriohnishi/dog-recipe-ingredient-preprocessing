@@ -1,0 +1,275 @@
+{
+  "batchNumber": 83,
+  "foods": [
+    {
+      "food_number": "14023",
+      "tag_name": "あまに油",
+      "diff": "",
+      "search_keywords": [
+        "亜麻仁油",
+        "フラックスシードオイル",
+        "フラックスオイル"
+      ]
+    },
+    {
+      "food_number": "14024",
+      "tag_name": "えごま油",
+      "diff": "",
+      "search_keywords": [
+        "荏胡麻油",
+        "しそ油",
+        "ペリラオイル"
+      ]
+    },
+    {
+      "food_number": "14001",
+      "tag_name": "オリーブオイル",
+      "diff": "",
+      "search_keywords": [
+        "オリーブ油"
+      ]
+    },
+    {
+      "food_number": "14002",
+      "tag_name": "ごま油",
+      "diff": "",
+      "search_keywords": [
+        "胡麻油"
+      ]
+    },
+    {
+      "food_number": "14003",
+      "tag_name": "米油",
+      "diff": "",
+      "search_keywords": [
+        "米ぬか油",
+        "米糠油",
+        "ライスブランオイル"
+      ]
+    },
+    {
+      "food_number": "14004",
+      "tag_name": "サフラワー油",
+      "diff": "ハイオレイック",
+      "search_keywords": [
+        "紅花油",
+        "サフラワーオイル",
+        "ハイオレイック"
+      ]
+    },
+    {
+      "food_number": "14025",
+      "tag_name": "サフラワー油",
+      "diff": "ハイリノール",
+      "search_keywords": [
+        "紅花油",
+        "サフラワーオイル",
+        "ハイリノール"
+      ]
+    },
+    {
+      "food_number": "14005",
+      "tag_name": "大豆油",
+      "diff": "",
+      "search_keywords": [
+        "ソイビーンオイル"
+      ]
+    },
+    {
+      "food_number": "14006",
+      "tag_name": "調合油",
+      "diff": "",
+      "search_keywords": [
+        "ブレンド油",
+        "ブレンドオイル"
+      ]
+    },
+    {
+      "food_number": "14007",
+      "tag_name": "コーン油",
+      "diff": "",
+      "search_keywords": [
+        "とうもろこし油",
+        "コーンオイル"
+      ]
+    },
+    {
+      "food_number": "14008",
+      "tag_name": "なたね油",
+      "diff": "",
+      "search_keywords": [
+        "キャノーラ油",
+        "キャノーラオイル",
+        "菜種油"
+      ]
+    },
+    {
+      "food_number": "14009",
+      "tag_name": "パーム油",
+      "diff": "",
+      "search_keywords": [
+        "パームオイル"
+      ]
+    },
+    {
+      "food_number": "14010",
+      "tag_name": "パーム核油",
+      "diff": "",
+      "search_keywords": [
+        "パームカーネルオイル"
+      ]
+    },
+    {
+      "food_number": "14011",
+      "tag_name": "ひまわり油",
+      "diff": "ハイリノール",
+      "search_keywords": [
+        "サンフラワーオイル",
+        "ひまわりオイル",
+        "ハイリノール"
+      ]
+    },
+    {
+      "food_number": "14026",
+      "tag_name": "ひまわり油",
+      "diff": "ミッドオレイック",
+      "search_keywords": [
+        "サンフラワーオイル",
+        "ひまわりオイル",
+        "ミッドオレイック"
+      ]
+    },
+    {
+      "food_number": "14027",
+      "tag_name": "ひまわり油",
+      "diff": "ハイオレイック",
+      "search_keywords": [
+        "サンフラワーオイル",
+        "ひまわりオイル",
+        "ハイオレイック"
+      ]
+    },
+    {
+      "food_number": "14028",
+      "tag_name": "グレープシードオイル",
+      "diff": "",
+      "search_keywords": [
+        "ぶどう油",
+        "グレープシード油"
+      ]
+    },
+    {
+      "food_number": "14012",
+      "tag_name": "綿実油",
+      "diff": "",
+      "search_keywords": [
+        "コットンシードオイル"
+      ]
+    },
+    {
+      "food_number": "14013",
+      "tag_name": "ココナッツオイル",
+      "diff": "",
+      "search_keywords": [
+        "やし油",
+        "ココナツオイル"
+      ]
+    },
+    {
+      "food_number": "14014",
+      "tag_name": "ピーナッツオイル",
+      "diff": "",
+      "search_keywords": [
+        "落花生油",
+        "ピーナッツ油"
+      ]
+    },
+    {
+      "food_number": "14015",
+      "tag_name": "牛脂",
+      "diff": "",
+      "search_keywords": [
+        "ビーフタロー"
+      ]
+    },
+    {
+      "food_number": "14032",
+      "tag_name": "たらのあぶら",
+      "diff": "",
+      "search_keywords": [
+        "タラ肝油",
+        "コッドリバーオイル"
+      ]
+    },
+    {
+      "food_number": "14016",
+      "tag_name": "ラード",
+      "diff": "",
+      "search_keywords": [
+        "豚脂"
+      ]
+    },
+    {
+      "food_number": "14017",
+      "tag_name": "バター",
+      "diff": "有塩",
+      "search_keywords": [
+        "有塩バター",
+        "食塩入りバター"
+      ]
+    },
+    {
+      "food_number": "14018",
+      "tag_name": "バター",
+      "diff": "無塩",
+      "search_keywords": [
+        "無塩バター",
+        "食塩不使用バター"
+      ]
+    },
+    {
+      "food_number": "14019",
+      "tag_name": "発酵バター",
+      "diff": "有塩",
+      "search_keywords": [
+        "発酵バター",
+        "有塩バター",
+        "食塩入りバター"
+      ]
+    },
+    {
+      "food_number": "14020",
+      "tag_name": "マーガリン",
+      "diff": "家庭用・有塩",
+      "search_keywords": [
+        "有塩マーガリン"
+      ]
+    },
+    {
+      "food_number": "14033",
+      "tag_name": "マーガリン",
+      "diff": "家庭用・無塩",
+      "search_keywords": [
+        "無塩マーガリン"
+      ]
+    },
+    {
+      "food_number": "14029",
+      "tag_name": "マーガリン",
+      "diff": "業務用・有塩",
+      "search_keywords": [
+        "有塩マーガリン",
+        "業務用マーガリン"
+      ]
+    },
+    {
+      "food_number": "14034",
+      "tag_name": "マーガリン",
+      "diff": "業務用・無塩",
+      "search_keywords": [
+        "無塩マーガリン",
+        "業務用マーガリン"
+      ]
+    }
+  ]
+}

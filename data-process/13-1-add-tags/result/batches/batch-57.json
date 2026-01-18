@@ -1,0 +1,269 @@
+{
+  "batchNumber": 57,
+  "foods": [
+    {
+      "food_number": "10184",
+      "tag_name": "したびらめ",
+      "diff": "",
+      "search_keywords": [
+        "舌平目"
+      ]
+    },
+    {
+      "food_number": "10185",
+      "tag_name": "しまあじ",
+      "diff": "養殖",
+      "search_keywords": [
+        "縞鯵",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10186",
+      "tag_name": "しらうお",
+      "diff": "",
+      "search_keywords": [
+        "白魚"
+      ]
+    },
+    {
+      "food_number": "10187",
+      "tag_name": "シルバー",
+      "diff": "",
+      "search_keywords": [
+        "シルバーポムフレット"
+      ]
+    },
+    {
+      "food_number": "10188",
+      "tag_name": "すずき",
+      "diff": "",
+      "search_keywords": [
+        "鱸"
+      ]
+    },
+    {
+      "food_number": "10189",
+      "tag_name": "きだい",
+      "diff": "",
+      "search_keywords": [
+        "黄鯛",
+        "レンコダイ"
+      ]
+    },
+    {
+      "food_number": "10190",
+      "tag_name": "くろだい",
+      "diff": "",
+      "search_keywords": [
+        "黒鯛",
+        "チヌ"
+      ]
+    },
+    {
+      "food_number": "10191",
+      "tag_name": "ちだい",
+      "diff": "",
+      "search_keywords": [
+        "血鯛"
+      ]
+    },
+    {
+      "food_number": "10192",
+      "tag_name": "まだい",
+      "diff": "天然",
+      "search_keywords": [
+        "真鯛",
+        "天然"
+      ]
+    },
+    {
+      "food_number": "10193",
+      "tag_name": "まだい",
+      "diff": "養殖・皮付き",
+      "search_keywords": [
+        "真鯛",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10194",
+      "tag_name": "まだい",
+      "diff": "養殖・皮付き・水煮",
+      "search_keywords": [
+        "真鯛",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10195",
+      "tag_name": "まだい",
+      "diff": "養殖・皮付き・焼き",
+      "search_keywords": [
+        "真鯛",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10408",
+      "tag_name": "まだい",
+      "diff": "養殖・皮なし",
+      "search_keywords": [
+        "真鯛",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10196",
+      "tag_name": "たかさご",
+      "diff": "",
+      "search_keywords": [
+        "高砂",
+        "タカサゴ"
+      ]
+    },
+    {
+      "food_number": "10197",
+      "tag_name": "たかべ",
+      "diff": "",
+      "search_keywords": [
+        "鱮",
+        "タカベ"
+      ]
+    },
+    {
+      "food_number": "10198",
+      "tag_name": "たちうお",
+      "diff": "",
+      "search_keywords": [
+        "太刀魚"
+      ]
+    },
+    {
+      "food_number": "10199",
+      "tag_name": "すけとうだら",
+      "diff": "",
+      "search_keywords": [
+        "介党鱈",
+        "スケトウダラ"
+      ]
+    },
+    {
+      "food_number": "10409",
+      "tag_name": "すけとうだら",
+      "diff": "フライ",
+      "search_keywords": [
+        "介党鱈",
+        "スケトウダラ"
+      ]
+    },
+    {
+      "food_number": "10200",
+      "tag_name": "すけとうだら",
+      "diff": "すり身",
+      "search_keywords": [
+        "介党鱈",
+        "スケトウダラ",
+        "すりみ"
+      ]
+    },
+    {
+      "food_number": "10201",
+      "tag_name": "すけとうだら",
+      "diff": "すきみだら",
+      "search_keywords": [
+        "介党鱈",
+        "スケトウダラ",
+        "すきみ"
+      ]
+    },
+    {
+      "food_number": "10202",
+      "tag_name": "たらこ",
+      "diff": "生",
+      "search_keywords": [
+        "鱈子",
+        "スケトウダラの卵"
+      ]
+    },
+    {
+      "food_number": "10203",
+      "tag_name": "たらこ",
+      "diff": "焼き",
+      "search_keywords": [
+        "鱈子",
+        "スケトウダラの卵"
+      ]
+    },
+    {
+      "food_number": "10204",
+      "tag_name": "明太子",
+      "diff": "",
+      "search_keywords": [
+        "からしめんたいこ",
+        "辛子明太子"
+      ]
+    },
+    {
+      "food_number": "10205",
+      "tag_name": "まだら",
+      "diff": "",
+      "search_keywords": [
+        "真鱈"
+      ]
+    },
+    {
+      "food_number": "10206",
+      "tag_name": "まだら",
+      "diff": "焼き",
+      "search_keywords": [
+        "真鱈"
+      ]
+    },
+    {
+      "food_number": "10207",
+      "tag_name": "まだらしらこ",
+      "diff": "生",
+      "search_keywords": [
+        "真鱈白子",
+        "鱈の白子"
+      ]
+    },
+    {
+      "food_number": "10208",
+      "tag_name": "塩だら",
+      "diff": "",
+      "search_keywords": [
+        "真鱈",
+        "塩鱈"
+      ]
+    },
+    {
+      "food_number": "10209",
+      "tag_name": "干しだら",
+      "diff": "",
+      "search_keywords": [
+        "真鱈",
+        "干鱈"
+      ]
+    },
+    {
+      "food_number": "10210",
+      "tag_name": "でんぶ",
+      "diff": "",
+      "search_keywords": [
+        "田麩",
+        "魚でんぶ"
+      ]
+    },
+    {
+      "food_number": "10448",
+      "tag_name": "桜でんぶ",
+      "diff": "",
+      "search_keywords": [
+        "さくらでんぶ",
+        "ピンクでんぶ"
+      ]
+    }
+  ]
+}

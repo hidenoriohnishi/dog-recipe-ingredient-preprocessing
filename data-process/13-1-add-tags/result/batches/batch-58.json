@@ -1,0 +1,266 @@
+{
+  "batchNumber": 58,
+  "foods": [
+    {
+      "food_number": "10207",
+      "tag_name": "まだらしらこ",
+      "diff": "生",
+      "search_keywords": [
+        "真鱈白子",
+        "鱈の白子"
+      ]
+    },
+    {
+      "food_number": "10208",
+      "tag_name": "塩だら",
+      "diff": "",
+      "search_keywords": [
+        "真鱈",
+        "塩鱈"
+      ]
+    },
+    {
+      "food_number": "10209",
+      "tag_name": "干しだら",
+      "diff": "",
+      "search_keywords": [
+        "真鱈",
+        "干鱈"
+      ]
+    },
+    {
+      "food_number": "10210",
+      "tag_name": "でんぶ",
+      "diff": "",
+      "search_keywords": [
+        "田麩",
+        "魚でんぶ"
+      ]
+    },
+    {
+      "food_number": "10448",
+      "tag_name": "桜でんぶ",
+      "diff": "",
+      "search_keywords": [
+        "さくらでんぶ",
+        "ピンクでんぶ"
+      ]
+    },
+    {
+      "food_number": "10211",
+      "tag_name": "ちか",
+      "diff": "生",
+      "search_keywords": [
+        "チカ",
+        "ちか魚"
+      ]
+    },
+    {
+      "food_number": "10213",
+      "tag_name": "どじょう",
+      "diff": "生",
+      "search_keywords": [
+        "泥鰌"
+      ]
+    },
+    {
+      "food_number": "10214",
+      "tag_name": "どじょう",
+      "diff": "水煮",
+      "search_keywords": [
+        "泥鰌"
+      ]
+    },
+    {
+      "food_number": "10215",
+      "tag_name": "とびうお",
+      "diff": "生",
+      "search_keywords": [
+        "飛魚"
+      ]
+    },
+    {
+      "food_number": "10421",
+      "tag_name": "とびうお煮干し",
+      "diff": "",
+      "search_keywords": [
+        "飛魚",
+        "あご煮干し"
+      ]
+    },
+    {
+      "food_number": "10422",
+      "tag_name": "とびうお焼き干し",
+      "diff": "",
+      "search_keywords": [
+        "飛魚",
+        "あご焼き干し"
+      ]
+    },
+    {
+      "food_number": "10212",
+      "tag_name": "ティラピア",
+      "diff": "生",
+      "search_keywords": [
+        "ナイルティラピア",
+        "ティラピア"
+      ]
+    },
+    {
+      "food_number": "10216",
+      "tag_name": "なまず",
+      "diff": "生",
+      "search_keywords": [
+        "鯰"
+      ]
+    },
+    {
+      "food_number": "10217",
+      "tag_name": "にぎす",
+      "diff": "生",
+      "search_keywords": [
+        "似鱚"
+      ]
+    },
+    {
+      "food_number": "10218",
+      "tag_name": "にしん",
+      "diff": "生",
+      "search_keywords": [
+        "鰊"
+      ]
+    },
+    {
+      "food_number": "10219",
+      "tag_name": "身欠きにしん",
+      "diff": "",
+      "search_keywords": [
+        "鰊",
+        "みがきにしん"
+      ]
+    },
+    {
+      "food_number": "10220",
+      "tag_name": "にしん開き干し",
+      "diff": "",
+      "search_keywords": [
+        "鰊",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10221",
+      "tag_name": "にしんくん製",
+      "diff": "",
+      "search_keywords": [
+        "鰊",
+        "燻製"
+      ]
+    },
+    {
+      "food_number": "10222",
+      "tag_name": "かずのこ",
+      "diff": "生",
+      "search_keywords": [
+        "数の子",
+        "鰊の卵"
+      ]
+    },
+    {
+      "food_number": "10223",
+      "tag_name": "かずのこ",
+      "diff": "乾",
+      "search_keywords": [
+        "数の子",
+        "鰊の卵",
+        "乾燥"
+      ]
+    },
+    {
+      "food_number": "10224",
+      "tag_name": "かずのこ",
+      "diff": "塩蔵・水戻し",
+      "search_keywords": [
+        "数の子",
+        "鰊の卵",
+        "塩数の子"
+      ]
+    },
+    {
+      "food_number": "10225",
+      "tag_name": "はぜ",
+      "diff": "生",
+      "search_keywords": [
+        "鯊"
+      ]
+    },
+    {
+      "food_number": "10226",
+      "tag_name": "はぜつくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "鯊",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10227",
+      "tag_name": "はぜ甘露煮",
+      "diff": "",
+      "search_keywords": [
+        "鯊",
+        "甘露煮"
+      ]
+    },
+    {
+      "food_number": "10228",
+      "tag_name": "はたはた",
+      "diff": "生",
+      "search_keywords": [
+        "鰰"
+      ]
+    },
+    {
+      "food_number": "10229",
+      "tag_name": "はたはた",
+      "diff": "生干し",
+      "search_keywords": [
+        "鰰",
+        "半干し"
+      ]
+    },
+    {
+      "food_number": "10230",
+      "tag_name": "はまふえふき",
+      "diff": "生",
+      "search_keywords": [
+        "浜笛吹"
+      ]
+    },
+    {
+      "food_number": "10231",
+      "tag_name": "はも",
+      "diff": "生",
+      "search_keywords": [
+        "鱧"
+      ]
+    },
+    {
+      "food_number": "10233",
+      "tag_name": "ひらまさ",
+      "diff": "生",
+      "search_keywords": [
+        "平政"
+      ]
+    },
+    {
+      "food_number": "10234",
+      "tag_name": "ひらめ",
+      "diff": "天然・生",
+      "search_keywords": [
+        "鮃",
+        "天然ひらめ"
+      ]
+    }
+  ]
+}

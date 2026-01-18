@@ -1,0 +1,277 @@
+{
+  "batchNumber": 6,
+  "foods": [
+    {
+      "food_number": "01181",
+      "tag_name": "赤米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01182",
+      "tag_name": "黒米",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01085",
+      "tag_name": "玄米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "玄米めし",
+        "ブラウンライス"
+      ]
+    },
+    {
+      "food_number": "01086",
+      "tag_name": "半つきごはん",
+      "diff": "",
+      "search_keywords": [
+        "半つき米めし"
+      ]
+    },
+    {
+      "food_number": "01087",
+      "tag_name": "七分つきごはん",
+      "diff": "",
+      "search_keywords": [
+        "七分つき米めし"
+      ]
+    },
+    {
+      "food_number": "01168",
+      "tag_name": "ごはん",
+      "diff": "インディカ米",
+      "search_keywords": [
+        "白米",
+        "インディカ米",
+        "ライス"
+      ]
+    },
+    {
+      "food_number": "01088",
+      "tag_name": "ごはん",
+      "diff": "うるち米",
+      "search_keywords": [
+        "白米",
+        "うるち米",
+        "ライス"
+      ]
+    },
+    {
+      "food_number": "01154",
+      "tag_name": "もちごはん",
+      "diff": "",
+      "search_keywords": [
+        "もち米",
+        "白米",
+        "ライス"
+      ]
+    },
+    {
+      "food_number": "01089",
+      "tag_name": "はいがごはん",
+      "diff": "",
+      "search_keywords": [
+        "はいが精米",
+        "胚芽米"
+      ]
+    },
+    {
+      "food_number": "01155",
+      "tag_name": "発芽玄米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "発芽玄米"
+      ]
+    },
+    {
+      "food_number": "01183",
+      "tag_name": "赤米ごはん",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01184",
+      "tag_name": "黒米ごはん",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01185",
+      "tag_name": "やわらかごはん",
+      "diff": "",
+      "search_keywords": [
+        "軟めし",
+        "白米",
+        "ライス"
+      ]
+    },
+    {
+      "food_number": "01090",
+      "tag_name": "玄米がゆ",
+      "diff": "全がゆ",
+      "search_keywords": [
+        "玄米",
+        "全がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01091",
+      "tag_name": "半つきがゆ",
+      "diff": "全がゆ",
+      "search_keywords": [
+        "半つき米",
+        "全がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01092",
+      "tag_name": "七分つきがゆ",
+      "diff": "全がゆ",
+      "search_keywords": [
+        "七分つき米",
+        "全がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01093",
+      "tag_name": "白がゆ",
+      "diff": "全がゆ",
+      "search_keywords": [
+        "精白米",
+        "全がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01094",
+      "tag_name": "玄米がゆ",
+      "diff": "五分がゆ",
+      "search_keywords": [
+        "玄米",
+        "五分がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01095",
+      "tag_name": "半つきがゆ",
+      "diff": "五分がゆ",
+      "search_keywords": [
+        "半つき米",
+        "五分がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01096",
+      "tag_name": "七分つきがゆ",
+      "diff": "五分がゆ",
+      "search_keywords": [
+        "七分つき米",
+        "五分がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01097",
+      "tag_name": "白がゆ",
+      "diff": "五分がゆ",
+      "search_keywords": [
+        "精白米",
+        "五分がゆ",
+        "おかゆ"
+      ]
+    },
+    {
+      "food_number": "01098",
+      "tag_name": "玄米おもゆ",
+      "diff": "",
+      "search_keywords": [
+        "玄米",
+        "おもゆ",
+        "米湯"
+      ]
+    },
+    {
+      "food_number": "01099",
+      "tag_name": "半つきおもゆ",
+      "diff": "",
+      "search_keywords": [
+        "半つき米",
+        "おもゆ",
+        "米湯"
+      ]
+    },
+    {
+      "food_number": "01100",
+      "tag_name": "七分つきおもゆ",
+      "diff": "",
+      "search_keywords": [
+        "七分つき米",
+        "おもゆ",
+        "米湯"
+      ]
+    },
+    {
+      "food_number": "01101",
+      "tag_name": "白おもゆ",
+      "diff": "",
+      "search_keywords": [
+        "精白米",
+        "おもゆ",
+        "米湯"
+      ]
+    },
+    {
+      "food_number": "01102",
+      "tag_name": "陸稲玄米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "玄米"
+      ]
+    },
+    {
+      "food_number": "01103",
+      "tag_name": "陸稲半つき米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "半つき米"
+      ]
+    },
+    {
+      "food_number": "01104",
+      "tag_name": "陸稲七分つき米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "七分つき米"
+      ]
+    },
+    {
+      "food_number": "01105",
+      "tag_name": "陸稲白米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "精白米"
+      ]
+    },
+    {
+      "food_number": "01106",
+      "tag_name": "陸稲玄米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "陸稲",
+        "玄米めし",
+        "ブラウンライス"
+      ]
+    }
+  ]
+}

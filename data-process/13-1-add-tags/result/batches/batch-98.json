@@ -1,0 +1,263 @@
+{
+  "batchNumber": 98,
+  "foods": [
+    {
+      "food_number": "17039",
+      "tag_name": "和風ドレッシング",
+      "diff": "ノンオイル",
+      "search_keywords": [
+        "和風ドレッシングノンオイル",
+        "ノンオイルドレッシング"
+      ]
+    },
+    {
+      "food_number": "17117",
+      "tag_name": "ごまドレッシング",
+      "diff": "",
+      "search_keywords": [
+        "胡麻ドレッシング"
+      ]
+    },
+    {
+      "food_number": "17041",
+      "tag_name": "サウザンアイランドドレッシング",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17149",
+      "tag_name": "フレンチドレッシング",
+      "diff": "乳化液状",
+      "search_keywords": [
+        "フレンチドレッシング乳化"
+      ]
+    },
+    {
+      "food_number": "17044",
+      "tag_name": "米みそ",
+      "diff": "甘みそ",
+      "search_keywords": [
+        "甘味噌",
+        "甘みそ"
+      ]
+    },
+    {
+      "food_number": "17045",
+      "tag_name": "米みそ",
+      "diff": "淡色辛みそ",
+      "search_keywords": [
+        "淡色味噌",
+        "淡色辛味噌"
+      ]
+    },
+    {
+      "food_number": "17046",
+      "tag_name": "米みそ",
+      "diff": "赤色辛みそ",
+      "search_keywords": [
+        "赤味噌",
+        "赤色味噌",
+        "赤色辛味噌"
+      ]
+    },
+    {
+      "food_number": "17120",
+      "tag_name": "米みそ",
+      "diff": "だし入り",
+      "search_keywords": [
+        "だし入り味噌",
+        "だし入りみそ"
+      ]
+    },
+    {
+      "food_number": "17145",
+      "tag_name": "米みそ",
+      "diff": "だし入り・減塩",
+      "search_keywords": [
+        "だし入り味噌",
+        "減塩味噌",
+        "だし入りみそ",
+        "減塩みそ"
+      ]
+    },
+    {
+      "food_number": "17047",
+      "tag_name": "麦みそ",
+      "diff": "",
+      "search_keywords": [
+        "麦味噌"
+      ]
+    },
+    {
+      "food_number": "17048",
+      "tag_name": "豆みそ",
+      "diff": "",
+      "search_keywords": [
+        "豆味噌"
+      ]
+    },
+    {
+      "food_number": "17119",
+      "tag_name": "減塩みそ",
+      "diff": "",
+      "search_keywords": [
+        "減塩味噌"
+      ]
+    },
+    {
+      "food_number": "17049",
+      "tag_name": "即席みそ",
+      "diff": "粉末",
+      "search_keywords": [
+        "インスタント味噌",
+        "インスタントみそ",
+        "粉末味噌"
+      ]
+    },
+    {
+      "food_number": "17050",
+      "tag_name": "即席みそ",
+      "diff": "ペースト",
+      "search_keywords": [
+        "インスタント味噌",
+        "インスタントみそ",
+        "ペースト味噌"
+      ]
+    },
+    {
+      "food_number": "17121",
+      "tag_name": "辛子酢みそ",
+      "diff": "",
+      "search_keywords": [
+        "からし酢味噌"
+      ]
+    },
+    {
+      "food_number": "17122",
+      "tag_name": "ごまみそ",
+      "diff": "",
+      "search_keywords": [
+        "胡麻味噌",
+        "胡麻みそ"
+      ]
+    },
+    {
+      "food_number": "17123",
+      "tag_name": "酢みそ",
+      "diff": "",
+      "search_keywords": [
+        "酢味噌"
+      ]
+    },
+    {
+      "food_number": "17124",
+      "tag_name": "練りみそ",
+      "diff": "",
+      "search_keywords": [
+        "練味噌"
+      ]
+    },
+    {
+      "food_number": "17051",
+      "tag_name": "カレールウ",
+      "diff": "",
+      "search_keywords": [
+        "カレーのルウ"
+      ]
+    },
+    {
+      "food_number": "17052",
+      "tag_name": "ハヤシルウ",
+      "diff": "",
+      "search_keywords": [
+        "ハヤシライスルウ",
+        "ハヤシのルウ"
+      ]
+    },
+    {
+      "food_number": "17125",
+      "tag_name": "お茶漬けの素",
+      "diff": "さけ",
+      "search_keywords": [
+        "鮭茶漬け"
+      ]
+    },
+    {
+      "food_number": "17136",
+      "tag_name": "キムチの素",
+      "diff": "",
+      "search_keywords": [
+        "キムチ調味料"
+      ]
+    },
+    {
+      "food_number": "17053",
+      "tag_name": "酒かす",
+      "diff": "",
+      "search_keywords": [
+        "酒粕"
+      ]
+    },
+    {
+      "food_number": "17126",
+      "tag_name": "即席すまし汁",
+      "diff": "",
+      "search_keywords": [
+        "インスタントすまし汁"
+      ]
+    },
+    {
+      "food_number": "17127",
+      "tag_name": "ふりかけ",
+      "diff": "たまご",
+      "search_keywords": [
+        "卵ふりかけ",
+        "玉子ふりかけ"
+      ]
+    },
+    {
+      "food_number": "17054",
+      "tag_name": "みりん風調味料",
+      "diff": "",
+      "search_keywords": [
+        "みりん風",
+        "みりん調味料"
+      ]
+    },
+    {
+      "food_number": "17138",
+      "tag_name": "料理酒",
+      "diff": "",
+      "search_keywords": [
+        "調理酒"
+      ]
+    },
+    {
+      "food_number": "17055",
+      "tag_name": "オールスパイス",
+      "diff": "粉",
+      "search_keywords": [
+        "オールスパイスパウダー"
+      ]
+    },
+    {
+      "food_number": "17056",
+      "tag_name": "オニオンパウダー",
+      "diff": "",
+      "search_keywords": [
+        "玉ねぎパウダー",
+        "タマネギパウダー"
+      ]
+    },
+    {
+      "food_number": "17057",
+      "tag_name": "からし",
+      "diff": "粉",
+      "search_keywords": [
+        "芥子",
+        "カラシパウダー",
+        "マスタードパウダー"
+      ]
+    }
+  ]
+}

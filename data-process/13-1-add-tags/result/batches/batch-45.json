@@ -1,0 +1,194 @@
+{
+  "batchNumber": 45,
+  "foods": [
+    {
+      "food_number": "08021",
+      "tag_name": "なめこ",
+      "diff": "株採り・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08058",
+      "tag_name": "なめこ",
+      "diff": "カット",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08022",
+      "tag_name": "なめこ",
+      "diff": "水煮缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08023",
+      "tag_name": "ぬめりすぎたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08024",
+      "tag_name": "うすひらたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08025",
+      "tag_name": "エリンギ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08048",
+      "tag_name": "エリンギ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08049",
+      "tag_name": "エリンギ",
+      "diff": "焼き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08050",
+      "tag_name": "エリンギ",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08026",
+      "tag_name": "ひらたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08027",
+      "tag_name": "ひらたけ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08028",
+      "tag_name": "まいたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08029",
+      "tag_name": "まいたけ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08051",
+      "tag_name": "まいたけ",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08030",
+      "tag_name": "まいたけ",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08031",
+      "tag_name": "マッシュルーム",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08032",
+      "tag_name": "マッシュルーム",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08052",
+      "tag_name": "マッシュルーム",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08059",
+      "tag_name": "マッシュルーム",
+      "diff": "ブラウン",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08033",
+      "tag_name": "マッシュルーム",
+      "diff": "水煮缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08034",
+      "tag_name": "まつたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08036",
+      "tag_name": "やなぎまつたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09001",
+      "tag_name": "あおさ",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09002",
+      "tag_name": "あおのり",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09003",
+      "tag_name": "のり",
+      "diff": "ほしのり",
+      "search_keywords": [
+        "あまのり",
+        "乾海苔"
+      ]
+    },
+    {
+      "food_number": "09004",
+      "tag_name": "のり",
+      "diff": "焼きのり",
+      "search_keywords": [
+        "あまのり",
+        "焼海苔"
+      ]
+    },
+    {
+      "food_number": "09005",
+      "tag_name": "のり",
+      "diff": "味付けのり",
+      "search_keywords": [
+        "あまのり",
+        "味付海苔"
+      ]
+    },
+    {
+      "food_number": "09006",
+      "tag_name": "あらめ",
+      "diff": "蒸し干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09007",
+      "tag_name": "いわのり",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09012",
+      "tag_name": "うみぶどう",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "batchNumber": 79,
+  "foods": [
+    {
+      "food_number": "11299",
+      "tag_name": "鶏ささみ",
+      "diff": "天ぷら",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "若鶏"
+      ]
+    },
+    {
+      "food_number": "11230",
+      "tag_name": "鶏ひき肉",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11291",
+      "tag_name": "鶏ひき肉",
+      "diff": "焼き",
+      "search_keywords": [
+        "鶏肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11231",
+      "tag_name": "鶏ハツ",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "心臓",
+        "ハート"
+      ]
+    },
+    {
+      "food_number": "11232",
+      "tag_name": "鶏レバー",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "肝臓",
+        "レバー"
+      ]
+    },
+    {
+      "food_number": "11233",
+      "tag_name": "鶏砂肝",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "すなぎも",
+        "砂肝",
+        "筋胃"
+      ]
+    },
+    {
+      "food_number": "11234",
+      "tag_name": "鶏皮",
+      "diff": "むね・生",
+      "search_keywords": [
+        "鶏肉",
+        "胸皮"
+      ]
+    },
+    {
+      "food_number": "11235",
+      "tag_name": "鶏皮",
+      "diff": "もも・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも皮"
+      ]
+    },
+    {
+      "food_number": "11236",
+      "tag_name": "鶏なんこつ",
+      "diff": "むね・生",
+      "search_keywords": [
+        "鶏肉",
+        "軟骨",
+        "胸軟骨"
+      ]
+    },
+    {
+      "food_number": "11237",
+      "tag_name": "焼き鳥缶",
+      "diff": "",
+      "search_keywords": [
+        "やきとり缶",
+        "焼鳥缶",
+        "鶏肉",
+        "缶詰"
+      ]
+    },
+    {
+      "food_number": "11292",
+      "tag_name": "チキンナゲット",
+      "diff": "",
+      "search_keywords": [
+        "鶏肉",
+        "ナゲット"
+      ]
+    },
+    {
+      "food_number": "11293",
+      "tag_name": "鶏つくね",
+      "diff": "",
+      "search_keywords": [
+        "鶏肉",
+        "つくね",
+        "鶏団子"
+      ]
+    },
+    {
+      "food_number": "11238",
+      "tag_name": "はと肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鳩",
+        "鳩肉",
+        "ピジョン"
+      ]
+    },
+    {
+      "food_number": "11240",
+      "tag_name": "ほろほろ鳥肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "ほろほろちょう",
+        "ホロホロ鳥",
+        "ホロホロチョウ"
+      ]
+    },
+    {
+      "food_number": "11241",
+      "tag_name": "いなご佃煮",
+      "diff": "",
+      "search_keywords": [
+        "イナゴ",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "11242",
+      "tag_name": "かえる肉",
+      "diff": "生",
+      "search_keywords": [
+        "蛙",
+        "カエル"
+      ]
+    },
+    {
+      "food_number": "11243",
+      "tag_name": "すっぽん肉",
+      "diff": "生",
+      "search_keywords": [
+        "スッポン",
+        "鼈"
+      ]
+    },
+    {
+      "food_number": "11244",
+      "tag_name": "はちの子缶",
+      "diff": "",
+      "search_keywords": [
+        "蜂の子",
+        "蜂",
+        "缶詰"
+      ]
+    },
+    {
+      "food_number": "12020",
+      "tag_name": "ピータン",
+      "diff": "",
+      "search_keywords": [
+        "アヒル卵",
+        "鴨卵",
+        "皮蛋",
+        "センチュリーエッグ"
+      ]
+    },
+    {
+      "food_number": "12001",
+      "tag_name": "うこっけい卵",
+      "diff": "全卵・生",
+      "search_keywords": [
+        "烏骨鶏",
+        "烏骨鶏卵"
+      ]
+    },
+    {
+      "food_number": "12002",
+      "tag_name": "うずら卵",
+      "diff": "全卵・生",
+      "search_keywords": [
+        "鶉卵",
+        "ウズラ"
+      ]
+    },
+    {
+      "food_number": "12003",
+      "tag_name": "うずら卵",
+      "diff": "水煮缶",
+      "search_keywords": [
+        "鶉卵",
+        "ウズラ",
+        "缶詰",
+        "水煮"
+      ]
+    },
+    {
+      "food_number": "12004",
+      "tag_name": "鶏卵",
+      "diff": "全卵・生",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵"
+      ]
+    },
+    {
+      "food_number": "12005",
+      "tag_name": "鶏卵",
+      "diff": "全卵・ゆで",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "ゆで卵",
+        "全卵"
+      ]
+    },
+    {
+      "food_number": "12006",
+      "tag_name": "鶏卵",
+      "diff": "全卵・ポーチドエッグ",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "ポーチドエッグ",
+        "落とし卵"
+      ]
+    },
+    {
+      "food_number": "12021",
+      "tag_name": "鶏卵",
+      "diff": "全卵・目玉焼き",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "目玉焼き",
+        "フライドエッグ"
+      ]
+    },
+    {
+      "food_number": "12022",
+      "tag_name": "鶏卵",
+      "diff": "全卵・いり",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "炒り卵",
+        "スクランブルエッグ"
+      ]
+    },
+    {
+      "food_number": "12023",
+      "tag_name": "鶏卵",
+      "diff": "全卵・素揚げ",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "素揚げ"
+      ]
+    },
+    {
+      "food_number": "12007",
+      "tag_name": "鶏卵",
+      "diff": "全卵・水煮缶",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "缶詰",
+        "水煮"
+      ]
+    },
+    {
+      "food_number": "12008",
+      "tag_name": "鶏卵",
+      "diff": "全卵・加糖",
+      "search_keywords": [
+        "卵",
+        "玉子",
+        "全卵",
+        "加糖卵",
+        "加糖"
+      ]
+    }
+  ]
+}

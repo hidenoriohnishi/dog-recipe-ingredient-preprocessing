@@ -1,0 +1,198 @@
+{
+  "batchNumber": 36,
+  "foods": [
+    {
+      "food_number": "06326",
+      "tag_name": "わらび",
+      "diff": "乾",
+      "search_keywords": [
+        "干しわらび"
+      ]
+    },
+    {
+      "food_number": "06382",
+      "tag_name": "ミックスベジタブル",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06383",
+      "tag_name": "ミックスベジタブル",
+      "diff": "冷凍・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06384",
+      "tag_name": "ミックスベジタブル",
+      "diff": "冷凍・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06399",
+      "tag_name": "野菜ジュース",
+      "diff": "ミックス",
+      "search_keywords": [
+        "野菜ミックスジュース"
+      ]
+    },
+    {
+      "food_number": "06400",
+      "tag_name": "野菜ジュース",
+      "diff": "ミックス・濃縮",
+      "search_keywords": [
+        "野菜ミックスジュース",
+        "濃縮"
+      ]
+    },
+    {
+      "food_number": "07001",
+      "tag_name": "あけび",
+      "diff": "果肉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07002",
+      "tag_name": "あけび",
+      "diff": "果皮",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07181",
+      "tag_name": "アサイー",
+      "diff": "冷凍・無糖",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07003",
+      "tag_name": "アセロラ",
+      "diff": "酸味種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07159",
+      "tag_name": "アセロラ",
+      "diff": "甘味種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07004",
+      "tag_name": "アセロラ飲料",
+      "diff": "10%果汁",
+      "search_keywords": [
+        "アセロラジュース"
+      ]
+    },
+    {
+      "food_number": "07005",
+      "tag_name": "アテモヤ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07006",
+      "tag_name": "アボカド",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07007",
+      "tag_name": "あんず",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07008",
+      "tag_name": "あんず",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07009",
+      "tag_name": "あんず",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07010",
+      "tag_name": "あんずジャム",
+      "diff": "高糖度",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07011",
+      "tag_name": "あんずジャム",
+      "diff": "低糖度",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07012",
+      "tag_name": "いちご",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07013",
+      "tag_name": "いちごジャム",
+      "diff": "高糖度",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07014",
+      "tag_name": "いちごジャム",
+      "diff": "低糖度",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07160",
+      "tag_name": "いちご",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07015",
+      "tag_name": "いちじく",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07016",
+      "tag_name": "いちじく",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07017",
+      "tag_name": "いちじく",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07019",
+      "tag_name": "うめ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07020",
+      "tag_name": "梅漬け",
+      "diff": "塩漬",
+      "search_keywords": [
+        "梅漬"
+      ]
+    },
+    {
+      "food_number": "07021",
+      "tag_name": "梅漬け",
+      "diff": "調味漬",
+      "search_keywords": [
+        "梅漬"
+      ]
+    },
+    {
+      "food_number": "07022",
+      "tag_name": "梅干し",
+      "diff": "塩漬",
+      "search_keywords": []
+    }
+  ]
+}

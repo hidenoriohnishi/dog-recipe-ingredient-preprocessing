@@ -1,0 +1,260 @@
+{
+  "batchNumber": 56,
+  "foods": [
+    {
+      "food_number": "10160",
+      "tag_name": "たいせいようさば",
+      "diff": "焼き",
+      "search_keywords": [
+        "大西洋鯖"
+      ]
+    },
+    {
+      "food_number": "10161",
+      "tag_name": "塩さば",
+      "diff": "",
+      "search_keywords": [
+        "塩鯖"
+      ]
+    },
+    {
+      "food_number": "10162",
+      "tag_name": "さば開き干し",
+      "diff": "",
+      "search_keywords": [
+        "鯖",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10163",
+      "tag_name": "しめさば",
+      "diff": "",
+      "search_keywords": [
+        "鯖",
+        "締め鯖",
+        "〆鯖"
+      ]
+    },
+    {
+      "food_number": "10164",
+      "tag_name": "サバ缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "鯖缶"
+      ]
+    },
+    {
+      "food_number": "10165",
+      "tag_name": "サバ缶",
+      "diff": "みそ煮",
+      "search_keywords": [
+        "鯖缶"
+      ]
+    },
+    {
+      "food_number": "10166",
+      "tag_name": "サバ缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "鯖缶"
+      ]
+    },
+    {
+      "food_number": "10167",
+      "tag_name": "あぶらつのざめ",
+      "diff": "",
+      "search_keywords": [
+        "油角鮫",
+        "鮫"
+      ]
+    },
+    {
+      "food_number": "10168",
+      "tag_name": "よしきりざめ",
+      "diff": "",
+      "search_keywords": [
+        "葦切鮫",
+        "鮫"
+      ]
+    },
+    {
+      "food_number": "10169",
+      "tag_name": "ふかひれ",
+      "diff": "",
+      "search_keywords": [
+        "鱶鰭",
+        "フカヒレ"
+      ]
+    },
+    {
+      "food_number": "10170",
+      "tag_name": "さより",
+      "diff": "",
+      "search_keywords": [
+        "細魚"
+      ]
+    },
+    {
+      "food_number": "10171",
+      "tag_name": "さわら",
+      "diff": "",
+      "search_keywords": [
+        "鰆"
+      ]
+    },
+    {
+      "food_number": "10172",
+      "tag_name": "さわら",
+      "diff": "焼き",
+      "search_keywords": [
+        "鰆"
+      ]
+    },
+    {
+      "food_number": "10173",
+      "tag_name": "さんま",
+      "diff": "皮付き",
+      "search_keywords": [
+        "秋刀魚"
+      ]
+    },
+    {
+      "food_number": "10407",
+      "tag_name": "さんま",
+      "diff": "皮なし",
+      "search_keywords": [
+        "秋刀魚"
+      ]
+    },
+    {
+      "food_number": "10174",
+      "tag_name": "さんま",
+      "diff": "皮付き・焼き",
+      "search_keywords": [
+        "秋刀魚"
+      ]
+    },
+    {
+      "food_number": "10175",
+      "tag_name": "さんま開き干し",
+      "diff": "",
+      "search_keywords": [
+        "秋刀魚",
+        "開き干し"
+      ]
+    },
+    {
+      "food_number": "10176",
+      "tag_name": "さんまみりん干し",
+      "diff": "",
+      "search_keywords": [
+        "秋刀魚",
+        "みりん干し"
+      ]
+    },
+    {
+      "food_number": "10177",
+      "tag_name": "サンマ缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "秋刀魚缶"
+      ]
+    },
+    {
+      "food_number": "10178",
+      "tag_name": "サンマ缶",
+      "diff": "かば焼",
+      "search_keywords": [
+        "秋刀魚缶",
+        "蒲焼"
+      ]
+    },
+    {
+      "food_number": "10179",
+      "tag_name": "しいら",
+      "diff": "",
+      "search_keywords": [
+        "鱪",
+        "シイラ"
+      ]
+    },
+    {
+      "food_number": "10180",
+      "tag_name": "ししゃも",
+      "diff": "生干し",
+      "search_keywords": [
+        "柳葉魚"
+      ]
+    },
+    {
+      "food_number": "10181",
+      "tag_name": "ししゃも",
+      "diff": "生干し・焼き",
+      "search_keywords": [
+        "柳葉魚"
+      ]
+    },
+    {
+      "food_number": "10182",
+      "tag_name": "からふとししゃも",
+      "diff": "生干し",
+      "search_keywords": [
+        "樺太柳葉魚",
+        "カペリン",
+        "カラフトシシャモ"
+      ]
+    },
+    {
+      "food_number": "10183",
+      "tag_name": "からふとししゃも",
+      "diff": "生干し・焼き",
+      "search_keywords": [
+        "樺太柳葉魚",
+        "カペリン",
+        "カラフトシシャモ"
+      ]
+    },
+    {
+      "food_number": "10184",
+      "tag_name": "したびらめ",
+      "diff": "",
+      "search_keywords": [
+        "舌平目"
+      ]
+    },
+    {
+      "food_number": "10185",
+      "tag_name": "しまあじ",
+      "diff": "養殖",
+      "search_keywords": [
+        "縞鯵",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10186",
+      "tag_name": "しらうお",
+      "diff": "",
+      "search_keywords": [
+        "白魚"
+      ]
+    },
+    {
+      "food_number": "10187",
+      "tag_name": "シルバー",
+      "diff": "",
+      "search_keywords": [
+        "シルバーポムフレット"
+      ]
+    },
+    {
+      "food_number": "10188",
+      "tag_name": "すずき",
+      "diff": "",
+      "search_keywords": [
+        "鱸"
+      ]
+    }
+  ]
+}

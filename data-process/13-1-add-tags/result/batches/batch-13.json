@@ -1,0 +1,261 @@
+{
+  "batchNumber": 13,
+  "foods": [
+    {
+      "food_number": "03019",
+      "tag_name": "ぶどう糖",
+      "diff": "無水結晶",
+      "search_keywords": [
+        "グルコース"
+      ]
+    },
+    {
+      "food_number": "03020",
+      "tag_name": "果糖",
+      "diff": "",
+      "search_keywords": [
+        "フルクトース"
+      ]
+    },
+    {
+      "food_number": "03026",
+      "tag_name": "ぶどう糖果糖液糖",
+      "diff": "",
+      "search_keywords": [
+        "異性化液糖",
+        "高フルクトースコーンシロップ"
+      ]
+    },
+    {
+      "food_number": "03027",
+      "tag_name": "果糖ぶどう糖液糖",
+      "diff": "",
+      "search_keywords": [
+        "異性化液糖",
+        "高フルクトースコーンシロップ"
+      ]
+    },
+    {
+      "food_number": "03028",
+      "tag_name": "高果糖液糖",
+      "diff": "",
+      "search_keywords": [
+        "異性化液糖",
+        "高フルクトースコーンシロップ"
+      ]
+    },
+    {
+      "food_number": "03029",
+      "tag_name": "黒蜜",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "03022",
+      "tag_name": "はちみつ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "03033",
+      "tag_name": "はちみつ",
+      "diff": "国産",
+      "search_keywords": []
+    },
+    {
+      "food_number": "03023",
+      "tag_name": "メープルシロップ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04001",
+      "tag_name": "あずき",
+      "diff": "乾",
+      "search_keywords": [
+        "小豆"
+      ]
+    },
+    {
+      "food_number": "04002",
+      "tag_name": "あずき",
+      "diff": "ゆで",
+      "search_keywords": [
+        "小豆"
+      ]
+    },
+    {
+      "food_number": "04003",
+      "tag_name": "ゆであずき缶",
+      "diff": "",
+      "search_keywords": [
+        "ゆで小豆缶詰",
+        "小豆缶詰"
+      ]
+    },
+    {
+      "food_number": "04004",
+      "tag_name": "こしあん",
+      "diff": "生",
+      "search_keywords": [
+        "小豆あん",
+        "こし生あん"
+      ]
+    },
+    {
+      "food_number": "04005",
+      "tag_name": "さらしあん",
+      "diff": "乾燥",
+      "search_keywords": [
+        "小豆あん",
+        "乾燥あん"
+      ]
+    },
+    {
+      "food_number": "04101",
+      "tag_name": "こしあん",
+      "diff": "並",
+      "search_keywords": [
+        "小豆あん",
+        "こし練りあん"
+      ]
+    },
+    {
+      "food_number": "04102",
+      "tag_name": "こしあん",
+      "diff": "中割り",
+      "search_keywords": [
+        "小豆あん",
+        "こし練りあん"
+      ]
+    },
+    {
+      "food_number": "04103",
+      "tag_name": "こしあん",
+      "diff": "もなか",
+      "search_keywords": [
+        "小豆あん",
+        "こし練りあん",
+        "もなかあん"
+      ]
+    },
+    {
+      "food_number": "04111",
+      "tag_name": "つぶあん",
+      "diff": "生",
+      "search_keywords": [
+        "小豆あん",
+        "つぶし生あん"
+      ]
+    },
+    {
+      "food_number": "04006",
+      "tag_name": "つぶあん",
+      "diff": "練り",
+      "search_keywords": [
+        "小豆あん",
+        "つぶし練りあん"
+      ]
+    },
+    {
+      "food_number": "04007",
+      "tag_name": "いんげん豆",
+      "diff": "乾",
+      "search_keywords": [
+        "インゲン豆",
+        "隠元豆"
+      ]
+    },
+    {
+      "food_number": "04008",
+      "tag_name": "いんげん豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "インゲン豆",
+        "隠元豆"
+      ]
+    },
+    {
+      "food_number": "04009",
+      "tag_name": "うずら豆",
+      "diff": "",
+      "search_keywords": [
+        "インゲン豆",
+        "隠元豆",
+        "うずらまめ"
+      ]
+    },
+    {
+      "food_number": "04010",
+      "tag_name": "いんげん豆こしあん",
+      "diff": "生",
+      "search_keywords": [
+        "インゲン豆",
+        "隠元豆",
+        "こし生あん"
+      ]
+    },
+    {
+      "food_number": "04011",
+      "tag_name": "いんげん豆きんとん",
+      "diff": "",
+      "search_keywords": [
+        "インゲン豆",
+        "隠元豆",
+        "豆きんとん"
+      ]
+    },
+    {
+      "food_number": "04012",
+      "tag_name": "青えんどう",
+      "diff": "乾",
+      "search_keywords": [
+        "青豌豆",
+        "グリーンピース"
+      ]
+    },
+    {
+      "food_number": "04013",
+      "tag_name": "青えんどう",
+      "diff": "ゆで",
+      "search_keywords": [
+        "青豌豆",
+        "グリーンピース"
+      ]
+    },
+    {
+      "food_number": "04074",
+      "tag_name": "赤えんどう",
+      "diff": "乾",
+      "search_keywords": [
+        "赤豌豆"
+      ]
+    },
+    {
+      "food_number": "04075",
+      "tag_name": "赤えんどう",
+      "diff": "ゆで",
+      "search_keywords": [
+        "赤豌豆"
+      ]
+    },
+    {
+      "food_number": "04014",
+      "tag_name": "グリンピース",
+      "diff": "揚げ豆",
+      "search_keywords": [
+        "グリーンピース",
+        "青えんどう"
+      ]
+    },
+    {
+      "food_number": "04015",
+      "tag_name": "グリンピース",
+      "diff": "塩豆",
+      "search_keywords": [
+        "グリーンピース",
+        "青えんどう"
+      ]
+    }
+  ]
+}

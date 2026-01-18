@@ -1,0 +1,313 @@
+{
+  "batchNumber": 65,
+  "foods": [
+    {
+      "food_number": "10418",
+      "tag_name": "するめいか胴",
+      "diff": "皮なし",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮なし"
+      ]
+    },
+    {
+      "food_number": "10419",
+      "tag_name": "するめいか胴",
+      "diff": "皮なし・天ぷら",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮なし",
+        "天ぷら"
+      ]
+    },
+    {
+      "food_number": "10470",
+      "tag_name": "するめいか胴",
+      "diff": "皮なし・フライ",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮なし",
+        "フライ"
+      ]
+    },
+    {
+      "food_number": "10420",
+      "tag_name": "するめいか耳・足",
+      "diff": "",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "耳",
+        "足"
+      ]
+    },
+    {
+      "food_number": "10348",
+      "tag_name": "ほたるいか",
+      "diff": "",
+      "search_keywords": [
+        "蛍烏賊",
+        "ホタルイカ"
+      ]
+    },
+    {
+      "food_number": "10349",
+      "tag_name": "ほたるいか",
+      "diff": "ゆで",
+      "search_keywords": [
+        "蛍烏賊",
+        "ホタルイカ",
+        "茹で"
+      ]
+    },
+    {
+      "food_number": "10350",
+      "tag_name": "ほたるいか",
+      "diff": "くん製",
+      "search_keywords": [
+        "蛍烏賊",
+        "ホタルイカ",
+        "燻製"
+      ]
+    },
+    {
+      "food_number": "10351",
+      "tag_name": "ほたるいか",
+      "diff": "つくだ煮",
+      "search_keywords": [
+        "蛍烏賊",
+        "ホタルイカ",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10352",
+      "tag_name": "やりいか",
+      "diff": "",
+      "search_keywords": [
+        "槍烏賊",
+        "ヤリイカ"
+      ]
+    },
+    {
+      "food_number": "10353",
+      "tag_name": "するめ",
+      "diff": "",
+      "search_keywords": [
+        "スルメ",
+        "鯣",
+        "干しイカ"
+      ]
+    },
+    {
+      "food_number": "10354",
+      "tag_name": "さきいか",
+      "diff": "",
+      "search_keywords": [
+        "裂きイカ",
+        "スルメ",
+        "鯣"
+      ]
+    },
+    {
+      "food_number": "10355",
+      "tag_name": "いかくん",
+      "diff": "",
+      "search_keywords": [
+        "いか燻製",
+        "スルメ",
+        "鯣",
+        "燻製"
+      ]
+    },
+    {
+      "food_number": "10356",
+      "tag_name": "切りいかあめ煮",
+      "diff": "",
+      "search_keywords": [
+        "いか",
+        "スルメ",
+        "鯣",
+        "甘煮"
+      ]
+    },
+    {
+      "food_number": "10357",
+      "tag_name": "いかあられ",
+      "diff": "",
+      "search_keywords": [
+        "イカあられ",
+        "スルメ",
+        "鯣",
+        "あられ"
+      ]
+    },
+    {
+      "food_number": "10358",
+      "tag_name": "いか塩辛",
+      "diff": "",
+      "search_keywords": [
+        "イカ塩辛",
+        "スルメ",
+        "鯣",
+        "塩辛"
+      ]
+    },
+    {
+      "food_number": "10359",
+      "tag_name": "いか缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "イカ缶詰",
+        "スルメ",
+        "鯣",
+        "缶詰",
+        "味付け"
+      ]
+    },
+    {
+      "food_number": "10360",
+      "tag_name": "いいだこ",
+      "diff": "",
+      "search_keywords": [
+        "飯蛸",
+        "イイダコ"
+      ]
+    },
+    {
+      "food_number": "10361",
+      "tag_name": "まだこ",
+      "diff": "皮つき",
+      "search_keywords": [
+        "真蛸",
+        "マダコ",
+        "皮付き"
+      ]
+    },
+    {
+      "food_number": "10471",
+      "tag_name": "まだこ",
+      "diff": "皮なし",
+      "search_keywords": [
+        "真蛸",
+        "マダコ",
+        "皮なし"
+      ]
+    },
+    {
+      "food_number": "10362",
+      "tag_name": "まだこ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "真蛸",
+        "マダコ",
+        "茹で"
+      ]
+    },
+    {
+      "food_number": "10472",
+      "tag_name": "まだこ",
+      "diff": "蒸しだこ",
+      "search_keywords": [
+        "真蛸",
+        "マダコ",
+        "蒸し"
+      ]
+    },
+    {
+      "food_number": "10473",
+      "tag_name": "まだこ",
+      "diff": "蒸しだこ・油いため",
+      "search_keywords": [
+        "真蛸",
+        "マダコ",
+        "蒸し",
+        "炒め"
+      ]
+    },
+    {
+      "food_number": "10474",
+      "tag_name": "まだこ",
+      "diff": "蒸しだこ・素揚げ",
+      "search_keywords": [
+        "真蛸",
+        "マダコ",
+        "蒸し",
+        "素揚げ"
+      ]
+    },
+    {
+      "food_number": "10432",
+      "tag_name": "みずだこ",
+      "diff": "",
+      "search_keywords": [
+        "水蛸",
+        "ミズダコ"
+      ]
+    },
+    {
+      "food_number": "10363",
+      "tag_name": "あみつくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "アミ",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10364",
+      "tag_name": "あみ塩辛",
+      "diff": "",
+      "search_keywords": [
+        "アミ",
+        "塩辛"
+      ]
+    },
+    {
+      "food_number": "10365",
+      "tag_name": "生うに",
+      "diff": "",
+      "search_keywords": [
+        "ウニ",
+        "雲丹",
+        "生"
+      ]
+    },
+    {
+      "food_number": "10366",
+      "tag_name": "粒うに",
+      "diff": "",
+      "search_keywords": [
+        "ウニ",
+        "雲丹",
+        "塩うに"
+      ]
+    },
+    {
+      "food_number": "10367",
+      "tag_name": "練りうに",
+      "diff": "",
+      "search_keywords": [
+        "ウニ",
+        "雲丹",
+        "ペースト"
+      ]
+    },
+    {
+      "food_number": "10368",
+      "tag_name": "おきあみ",
+      "diff": "",
+      "search_keywords": [
+        "オキアミ",
+        "桜えび",
+        "クリル"
+      ]
+    }
+  ]
+}

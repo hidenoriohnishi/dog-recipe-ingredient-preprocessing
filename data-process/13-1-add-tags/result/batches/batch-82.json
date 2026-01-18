@@ -1,0 +1,260 @@
+{
+  "batchNumber": 82,
+  "foods": [
+    {
+      "food_number": "13032",
+      "tag_name": "エメンタールチーズ",
+      "diff": "",
+      "search_keywords": [
+        "エメンタール",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13033",
+      "tag_name": "カッテージチーズ",
+      "diff": "",
+      "search_keywords": [
+        "カテージ",
+        "カッテージ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13034",
+      "tag_name": "カマンベールチーズ",
+      "diff": "",
+      "search_keywords": [
+        "カマンベール",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13035",
+      "tag_name": "クリームチーズ",
+      "diff": "",
+      "search_keywords": [
+        "クリーム",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13036",
+      "tag_name": "ゴーダチーズ",
+      "diff": "",
+      "search_keywords": [
+        "ゴーダ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13037",
+      "tag_name": "チェダーチーズ",
+      "diff": "",
+      "search_keywords": [
+        "チェダー",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13038",
+      "tag_name": "パルメザンチーズ",
+      "diff": "",
+      "search_keywords": [
+        "パルメザン",
+        "ナチュラルチーズ",
+        "パルミジャーノ"
+      ]
+    },
+    {
+      "food_number": "13039",
+      "tag_name": "ブルーチーズ",
+      "diff": "",
+      "search_keywords": [
+        "ブルー",
+        "ナチュラルチーズ",
+        "ブルーチーズ"
+      ]
+    },
+    {
+      "food_number": "13055",
+      "tag_name": "マスカルポーネチーズ",
+      "diff": "",
+      "search_keywords": [
+        "マスカルポーネ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13056",
+      "tag_name": "モッツァレラチーズ",
+      "diff": "",
+      "search_keywords": [
+        "モッツァレラ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13057",
+      "tag_name": "ヤギチーズ",
+      "diff": "",
+      "search_keywords": [
+        "やぎ",
+        "ゴートチーズ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13058",
+      "tag_name": "リコッタチーズ",
+      "diff": "",
+      "search_keywords": [
+        "リコッタ",
+        "ナチュラルチーズ"
+      ]
+    },
+    {
+      "food_number": "13040",
+      "tag_name": "プロセスチーズ",
+      "diff": "",
+      "search_keywords": [
+        "プロセス"
+      ]
+    },
+    {
+      "food_number": "13041",
+      "tag_name": "チーズスプレッド",
+      "diff": "",
+      "search_keywords": [
+        "スプレッド"
+      ]
+    },
+    {
+      "food_number": "13042",
+      "tag_name": "アイスクリーム",
+      "diff": "高脂肪",
+      "search_keywords": [
+        "高脂肪"
+      ]
+    },
+    {
+      "food_number": "13043",
+      "tag_name": "アイスクリーム",
+      "diff": "普通脂肪",
+      "search_keywords": [
+        "普通脂肪"
+      ]
+    },
+    {
+      "food_number": "13044",
+      "tag_name": "アイスミルク",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "13045",
+      "tag_name": "ラクトアイス",
+      "diff": "普通脂肪",
+      "search_keywords": [
+        "普通脂肪"
+      ]
+    },
+    {
+      "food_number": "13046",
+      "tag_name": "ラクトアイス",
+      "diff": "低脂肪",
+      "search_keywords": [
+        "低脂肪"
+      ]
+    },
+    {
+      "food_number": "13047",
+      "tag_name": "ソフトクリーム",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "13048",
+      "tag_name": "カゼイン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "13049",
+      "tag_name": "シャーベット",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "13050",
+      "tag_name": "チーズホエーパウダー",
+      "diff": "",
+      "search_keywords": [
+        "ホエー",
+        "乳清"
+      ]
+    },
+    {
+      "food_number": "13051",
+      "tag_name": "人乳",
+      "diff": "",
+      "search_keywords": [
+        "母乳"
+      ]
+    },
+    {
+      "food_number": "13052",
+      "tag_name": "やぎ乳",
+      "diff": "",
+      "search_keywords": [
+        "山羊乳",
+        "ゴートミルク"
+      ]
+    },
+    {
+      "food_number": "14023",
+      "tag_name": "あまに油",
+      "diff": "",
+      "search_keywords": [
+        "亜麻仁油",
+        "フラックスシードオイル"
+      ]
+    },
+    {
+      "food_number": "14024",
+      "tag_name": "えごま油",
+      "diff": "",
+      "search_keywords": [
+        "荏胡麻油",
+        "しそ油",
+        "ペリラオイル"
+      ]
+    },
+    {
+      "food_number": "14001",
+      "tag_name": "オリーブオイル",
+      "diff": "",
+      "search_keywords": [
+        "オリーブ油"
+      ]
+    },
+    {
+      "food_number": "14002",
+      "tag_name": "ごま油",
+      "diff": "",
+      "search_keywords": [
+        "胡麻油"
+      ]
+    },
+    {
+      "food_number": "14003",
+      "tag_name": "米油",
+      "diff": "",
+      "search_keywords": [
+        "米ぬか油",
+        "米糠油",
+        "ライスブランオイル"
+      ]
+    }
+  ]
+}

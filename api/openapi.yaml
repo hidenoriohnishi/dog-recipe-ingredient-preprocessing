@@ -225,6 +225,11 @@ components:
           type: string
           description: 食品群（2桁）
           example: '01'
+        REFUSE:
+          type: number
+          nullable: true
+          description: 廃棄率（%）。購入重量100gに対して廃棄部分が20%の場合、可食部は80gとなります。
+          example: 0
         food_number:
           type: string
           description: 食品番号（5桁）

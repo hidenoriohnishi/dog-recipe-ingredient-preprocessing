@@ -1,0 +1,310 @@
+{
+  "batchNumber": 77,
+  "foods": [
+    {
+      "food_number": "11197",
+      "tag_name": "スモークレバー",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "レバー",
+        "燻製"
+      ]
+    },
+    {
+      "food_number": "11198",
+      "tag_name": "ゼラチン",
+      "diff": "",
+      "search_keywords": [
+        "豚肉",
+        "ゼラチン",
+        "コラーゲン"
+      ]
+    },
+    {
+      "food_number": "11199",
+      "tag_name": "マトンロース",
+      "diff": "脂身つき・生",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11281",
+      "tag_name": "マトンロース",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11245",
+      "tag_name": "マトンロース",
+      "diff": "皮下脂肪なし・生",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "ロース",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11200",
+      "tag_name": "マトンもも",
+      "diff": "脂身つき・生",
+      "search_keywords": [
+        "羊肉",
+        "マトン",
+        "もも"
+      ]
+    },
+    {
+      "food_number": "11201",
+      "tag_name": "ラムかた",
+      "diff": "脂身つき・生",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "肩"
+      ]
+    },
+    {
+      "food_number": "11202",
+      "tag_name": "ラムロース",
+      "diff": "脂身つき・生",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11282",
+      "tag_name": "ラムロース",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "ロース"
+      ]
+    },
+    {
+      "food_number": "11246",
+      "tag_name": "ラムロース",
+      "diff": "皮下脂肪なし・生",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "ロース",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11203",
+      "tag_name": "ラムもも",
+      "diff": "脂身つき・生",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "もも"
+      ]
+    },
+    {
+      "food_number": "11283",
+      "tag_name": "ラムもも",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "もも"
+      ]
+    },
+    {
+      "food_number": "11179",
+      "tag_name": "ラムハム",
+      "diff": "",
+      "search_keywords": [
+        "羊肉",
+        "ラム",
+        "マトン",
+        "ハム",
+        "プレスハム"
+      ]
+    },
+    {
+      "food_number": "11204",
+      "tag_name": "やぎ肉",
+      "diff": "赤肉・生",
+      "search_keywords": [
+        "山羊",
+        "やぎ",
+        "ゴート"
+      ]
+    },
+    {
+      "food_number": "11207",
+      "tag_name": "うずら肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶉",
+        "うずら"
+      ]
+    },
+    {
+      "food_number": "11239",
+      "tag_name": "フォアグラ",
+      "diff": "がちょう・ゆで",
+      "search_keywords": [
+        "ガチョウ",
+        "フォアグラ",
+        "鵞鳥"
+      ]
+    },
+    {
+      "food_number": "11208",
+      "tag_name": "まがも肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鴨",
+        "真鴨",
+        "まがも"
+      ]
+    },
+    {
+      "food_number": "11205",
+      "tag_name": "あいがも肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鴨",
+        "合鴨",
+        "あいがも"
+      ]
+    },
+    {
+      "food_number": "11206",
+      "tag_name": "あひる肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鴨",
+        "アヒル",
+        "あひる"
+      ]
+    },
+    {
+      "food_number": "11247",
+      "tag_name": "あひる肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鴨",
+        "アヒル",
+        "あひる"
+      ]
+    },
+    {
+      "food_number": "11284",
+      "tag_name": "あひる皮",
+      "diff": "生",
+      "search_keywords": [
+        "鴨",
+        "アヒル",
+        "あひる",
+        "皮"
+      ]
+    },
+    {
+      "food_number": "11209",
+      "tag_name": "きじ肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "雉",
+        "きじ"
+      ]
+    },
+    {
+      "food_number": "11210",
+      "tag_name": "しちめんちょう肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "七面鳥",
+        "しちめんちょう",
+        "ターキー"
+      ]
+    },
+    {
+      "food_number": "11211",
+      "tag_name": "すずめ肉",
+      "diff": "骨・皮つき・生",
+      "search_keywords": [
+        "雀",
+        "すずめ"
+      ]
+    },
+    {
+      "food_number": "11212",
+      "tag_name": "鶏手羽",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "手羽",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11213",
+      "tag_name": "鶏むね肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11214",
+      "tag_name": "鶏むね肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鶏肉",
+        "むね肉",
+        "胸肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11215",
+      "tag_name": "鶏もも肉",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11216",
+      "tag_name": "鶏もも肉",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "鶏肉",
+        "もも肉",
+        "親鶏"
+      ]
+    },
+    {
+      "food_number": "11217",
+      "tag_name": "鶏ささみ",
+      "diff": "生",
+      "search_keywords": [
+        "鶏肉",
+        "ささみ",
+        "笹身",
+        "親鶏"
+      ]
+    }
+  ]
+}

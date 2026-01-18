@@ -1,0 +1,310 @@
+{
+  "batchNumber": 69,
+  "foods": [
+    {
+      "food_number": "11042",
+      "tag_name": "乳用牛リブロース肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11043",
+      "tag_name": "乳用牛サーロイン肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11044",
+      "tag_name": "乳用牛サーロイン肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11045",
+      "tag_name": "乳用牛サーロイン肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11046",
+      "tag_name": "乳用牛ばら肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ばら肉",
+        "バラ肉"
+      ]
+    },
+    {
+      "food_number": "11252",
+      "tag_name": "乳用牛ばら肉",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ばら肉",
+        "バラ肉"
+      ]
+    },
+    {
+      "food_number": "11047",
+      "tag_name": "乳用牛もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11048",
+      "tag_name": "乳用牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11050",
+      "tag_name": "乳用牛もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11049",
+      "tag_name": "乳用牛もも肉",
+      "diff": "皮下脂肪なし・焼き",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11051",
+      "tag_name": "乳用牛もも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11052",
+      "tag_name": "乳用牛もも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11053",
+      "tag_name": "乳用牛そともも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "そともも"
+      ]
+    },
+    {
+      "food_number": "11054",
+      "tag_name": "乳用牛そともも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "そともも"
+      ]
+    },
+    {
+      "food_number": "11055",
+      "tag_name": "乳用牛そともも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "そともも"
+      ]
+    },
+    {
+      "food_number": "11056",
+      "tag_name": "乳用牛ランプ肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ランプ"
+      ]
+    },
+    {
+      "food_number": "11057",
+      "tag_name": "乳用牛ランプ肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ランプ"
+      ]
+    },
+    {
+      "food_number": "11058",
+      "tag_name": "乳用牛ランプ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ランプ"
+      ]
+    },
+    {
+      "food_number": "11059",
+      "tag_name": "乳用牛ヒレ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ヒレ",
+        "フィレ"
+      ]
+    },
+    {
+      "food_number": "11253",
+      "tag_name": "乳用牛ヒレ肉",
+      "diff": "赤肉・焼き",
+      "search_keywords": [
+        "牛肉",
+        "乳用牛",
+        "ヒレ",
+        "フィレ"
+      ]
+    },
+    {
+      "food_number": "11254",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11256",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "脂身つき・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11255",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11257",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11258",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11259",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11260",
+      "tag_name": "交雑牛ばら肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "ばら肉",
+        "バラ肉"
+      ]
+    },
+    {
+      "food_number": "11261",
+      "tag_name": "交雑牛もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11262",
+      "tag_name": "交雑牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11264",
+      "tag_name": "交雑牛もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    }
+  ]
+}

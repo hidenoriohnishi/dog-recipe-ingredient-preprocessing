@@ -1,0 +1,247 @@
+{
+  "batchNumber": 21,
+  "foods": [
+    {
+      "food_number": "06374",
+      "tag_name": "グリンピース",
+      "diff": "冷凍・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06375",
+      "tag_name": "グリンピース",
+      "diff": "冷凍・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06026",
+      "tag_name": "グリンピース缶詰",
+      "diff": "水煮",
+      "search_keywords": [
+        "グリーンピース缶"
+      ]
+    },
+    {
+      "food_number": "06027",
+      "tag_name": "おおさかしろな",
+      "diff": "葉・生",
+      "search_keywords": [
+        "大阪白菜",
+        "大阪しろな"
+      ]
+    },
+    {
+      "food_number": "06028",
+      "tag_name": "おおさかしろな",
+      "diff": "葉・ゆで",
+      "search_keywords": [
+        "大阪白菜",
+        "大阪しろな"
+      ]
+    },
+    {
+      "food_number": "06029",
+      "tag_name": "おおさかしろな",
+      "diff": "塩漬",
+      "search_keywords": [
+        "大阪白菜",
+        "大阪しろな"
+      ]
+    },
+    {
+      "food_number": "06030",
+      "tag_name": "おかひじき",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06031",
+      "tag_name": "おかひじき",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06032",
+      "tag_name": "オクラ",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06033",
+      "tag_name": "オクラ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06034",
+      "tag_name": "かぶの葉",
+      "diff": "生",
+      "search_keywords": [
+        "蕪の葉"
+      ]
+    },
+    {
+      "food_number": "06035",
+      "tag_name": "かぶの葉",
+      "diff": "ゆで",
+      "search_keywords": [
+        "蕪の葉"
+      ]
+    },
+    {
+      "food_number": "06036",
+      "tag_name": "かぶ",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "蕪"
+      ]
+    },
+    {
+      "food_number": "06037",
+      "tag_name": "かぶ",
+      "diff": "皮つき・ゆで",
+      "search_keywords": [
+        "蕪"
+      ]
+    },
+    {
+      "food_number": "06038",
+      "tag_name": "かぶ",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "蕪"
+      ]
+    },
+    {
+      "food_number": "06039",
+      "tag_name": "かぶ",
+      "diff": "皮なし・ゆで",
+      "search_keywords": [
+        "蕪"
+      ]
+    },
+    {
+      "food_number": "06040",
+      "tag_name": "かぶの葉漬物",
+      "diff": "塩漬",
+      "search_keywords": [
+        "蕪の葉漬物"
+      ]
+    },
+    {
+      "food_number": "06041",
+      "tag_name": "かぶ漬物",
+      "diff": "塩漬・皮つき",
+      "search_keywords": [
+        "蕪漬物"
+      ]
+    },
+    {
+      "food_number": "06042",
+      "tag_name": "かぶ漬物",
+      "diff": "塩漬・皮なし",
+      "search_keywords": [
+        "蕪漬物"
+      ]
+    },
+    {
+      "food_number": "06043",
+      "tag_name": "かぶの葉漬物",
+      "diff": "ぬかみそ漬",
+      "search_keywords": [
+        "蕪の葉漬物",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06044",
+      "tag_name": "かぶ漬物",
+      "diff": "ぬかみそ漬・皮つき",
+      "search_keywords": [
+        "蕪漬物",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06045",
+      "tag_name": "かぶ漬物",
+      "diff": "ぬかみそ漬・皮なし",
+      "search_keywords": [
+        "蕪漬物",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06046",
+      "tag_name": "日本かぼちゃ",
+      "diff": "生",
+      "search_keywords": [
+        "かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06047",
+      "tag_name": "日本かぼちゃ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06048",
+      "tag_name": "かぼちゃ",
+      "diff": "生",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06049",
+      "tag_name": "かぼちゃ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06332",
+      "tag_name": "かぼちゃ",
+      "diff": "焼き",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06050",
+      "tag_name": "かぼちゃ",
+      "diff": "冷凍",
+      "search_keywords": [
+        "西洋かぼちゃ",
+        "南瓜"
+      ]
+    },
+    {
+      "food_number": "06051",
+      "tag_name": "そうめんかぼちゃ",
+      "diff": "生",
+      "search_keywords": [
+        "金糸瓜",
+        "そうめん南瓜"
+      ]
+    },
+    {
+      "food_number": "06052",
+      "tag_name": "からしな",
+      "diff": "葉・生",
+      "search_keywords": [
+        "芥子菜",
+        "カラシナ"
+      ]
+    }
+  ]
+}

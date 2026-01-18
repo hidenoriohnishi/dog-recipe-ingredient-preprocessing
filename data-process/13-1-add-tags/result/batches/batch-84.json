@@ -1,0 +1,274 @@
+{
+  "batchNumber": 84,
+  "foods": [
+    {
+      "food_number": "14019",
+      "tag_name": "発酵バター",
+      "diff": "有塩",
+      "search_keywords": [
+        "有塩バター",
+        "食塩入りバター"
+      ]
+    },
+    {
+      "food_number": "14020",
+      "tag_name": "マーガリン",
+      "diff": "家庭用・有塩",
+      "search_keywords": [
+        "有塩マーガリン"
+      ]
+    },
+    {
+      "food_number": "14033",
+      "tag_name": "マーガリン",
+      "diff": "家庭用・無塩",
+      "search_keywords": [
+        "無塩マーガリン"
+      ]
+    },
+    {
+      "food_number": "14029",
+      "tag_name": "マーガリン",
+      "diff": "業務用・有塩",
+      "search_keywords": [
+        "有塩マーガリン",
+        "業務用マーガリン"
+      ]
+    },
+    {
+      "food_number": "14034",
+      "tag_name": "マーガリン",
+      "diff": "業務用・無塩",
+      "search_keywords": [
+        "無塩マーガリン",
+        "業務用マーガリン"
+      ]
+    },
+    {
+      "food_number": "14021",
+      "tag_name": "ファットスプレッド",
+      "diff": "",
+      "search_keywords": [
+        "ファットスプレッド"
+      ]
+    },
+    {
+      "food_number": "14022",
+      "tag_name": "ショートニング",
+      "diff": "家庭用",
+      "search_keywords": [
+        "家庭用ショートニング"
+      ]
+    },
+    {
+      "food_number": "14030",
+      "tag_name": "ショートニング",
+      "diff": "業務用・製菓",
+      "search_keywords": [
+        "業務用ショートニング",
+        "製菓用ショートニング"
+      ]
+    },
+    {
+      "food_number": "14031",
+      "tag_name": "ショートニング",
+      "diff": "業務用・フライ",
+      "search_keywords": [
+        "業務用ショートニング",
+        "フライ用ショートニング"
+      ]
+    },
+    {
+      "food_number": "15001",
+      "tag_name": "甘納豆",
+      "diff": "あずき",
+      "search_keywords": [
+        "甘納豆",
+        "小豆"
+      ]
+    },
+    {
+      "food_number": "15002",
+      "tag_name": "甘納豆",
+      "diff": "いんげんまめ",
+      "search_keywords": [
+        "甘納豆",
+        "インゲン豆",
+        "隠元豆"
+      ]
+    },
+    {
+      "food_number": "15003",
+      "tag_name": "甘納豆",
+      "diff": "えんどう",
+      "search_keywords": [
+        "甘納豆",
+        "えんどう豆",
+        "豌豆"
+      ]
+    },
+    {
+      "food_number": "15005",
+      "tag_name": "今川焼",
+      "diff": "こしあん",
+      "search_keywords": [
+        "大判焼き",
+        "回転焼き",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15145",
+      "tag_name": "今川焼",
+      "diff": "つぶしあん",
+      "search_keywords": [
+        "大判焼き",
+        "回転焼き",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15146",
+      "tag_name": "今川焼",
+      "diff": "カスタード",
+      "search_keywords": [
+        "大判焼き",
+        "回転焼き",
+        "カスタードクリーム"
+      ]
+    },
+    {
+      "food_number": "15006",
+      "tag_name": "ういろう",
+      "diff": "白",
+      "search_keywords": [
+        "外郎",
+        "白ういろう"
+      ]
+    },
+    {
+      "food_number": "15147",
+      "tag_name": "ういろう",
+      "diff": "黒",
+      "search_keywords": [
+        "外郎",
+        "黒ういろう",
+        "黒糖ういろう"
+      ]
+    },
+    {
+      "food_number": "15007",
+      "tag_name": "うぐいすもち",
+      "diff": "こしあん",
+      "search_keywords": [
+        "鶯餅",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15148",
+      "tag_name": "うぐいすもち",
+      "diff": "つぶしあん",
+      "search_keywords": [
+        "鶯餅",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15008",
+      "tag_name": "かしわもち",
+      "diff": "こしあん",
+      "search_keywords": [
+        "柏餅",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15149",
+      "tag_name": "かしわもち",
+      "diff": "つぶしあん",
+      "search_keywords": [
+        "柏餅",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15009",
+      "tag_name": "カステラ",
+      "diff": "",
+      "search_keywords": [
+        "カステラ",
+        "長崎カステラ"
+      ]
+    },
+    {
+      "food_number": "15010",
+      "tag_name": "かのこ",
+      "diff": "",
+      "search_keywords": [
+        "鹿の子"
+      ]
+    },
+    {
+      "food_number": "15011",
+      "tag_name": "かるかん",
+      "diff": "",
+      "search_keywords": [
+        "軽羹"
+      ]
+    },
+    {
+      "food_number": "15012",
+      "tag_name": "きび団子",
+      "diff": "",
+      "search_keywords": [
+        "黍団子",
+        "きびだんご"
+      ]
+    },
+    {
+      "food_number": "15013",
+      "tag_name": "ぎゅうひ",
+      "diff": "",
+      "search_keywords": [
+        "求肥"
+      ]
+    },
+    {
+      "food_number": "15014",
+      "tag_name": "きりざんしょ",
+      "diff": "",
+      "search_keywords": [
+        "切山椒"
+      ]
+    },
+    {
+      "food_number": "15015",
+      "tag_name": "きんぎょく糖",
+      "diff": "",
+      "search_keywords": [
+        "錦玉糖",
+        "きんぎょくとう"
+      ]
+    },
+    {
+      "food_number": "15016",
+      "tag_name": "きんつば",
+      "diff": "",
+      "search_keywords": [
+        "金鍔",
+        "きんつば"
+      ]
+    },
+    {
+      "food_number": "15017",
+      "tag_name": "草もち",
+      "diff": "こしあん",
+      "search_keywords": [
+        "よもぎ餅",
+        "草餅",
+        "こしあん"
+      ]
+    }
+  ]
+}

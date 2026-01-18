@@ -1,0 +1,280 @@
+{
+  "batchNumber": 61,
+  "foods": [
+    {
+      "food_number": "10261",
+      "tag_name": "ツナ缶",
+      "diff": "水煮・ホワイト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ホワイトツナ"
+      ]
+    },
+    {
+      "food_number": "10262",
+      "tag_name": "ツナ缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン"
+      ]
+    },
+    {
+      "food_number": "10263",
+      "tag_name": "ツナ缶",
+      "diff": "油漬・ライト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ライトツナ"
+      ]
+    },
+    {
+      "food_number": "10264",
+      "tag_name": "ツナ缶",
+      "diff": "油漬・ホワイト",
+      "search_keywords": [
+        "まぐろ缶",
+        "シーチキン",
+        "ホワイトツナ"
+      ]
+    },
+    {
+      "food_number": "10265",
+      "tag_name": "あいなめ",
+      "diff": "マジェラン",
+      "search_keywords": [
+        "鮎並",
+        "マジェランアイナメ"
+      ]
+    },
+    {
+      "food_number": "10266",
+      "tag_name": "まながつお",
+      "diff": "",
+      "search_keywords": [
+        "真名鰹",
+        "バターフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10232",
+      "tag_name": "みなみくろたち",
+      "diff": "",
+      "search_keywords": [
+        "南黒鯛",
+        "パタゴニアトゥースフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10267",
+      "tag_name": "みなみだら",
+      "diff": "",
+      "search_keywords": [
+        "南鱈",
+        "スケトウダラ"
+      ]
+    },
+    {
+      "food_number": "10268",
+      "tag_name": "むつ",
+      "diff": "",
+      "search_keywords": [
+        "鯥",
+        "ブルーフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10269",
+      "tag_name": "むつ",
+      "diff": "水煮",
+      "search_keywords": [
+        "鯥",
+        "ブルーフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10270",
+      "tag_name": "めじな",
+      "diff": "",
+      "search_keywords": [
+        "眼仁奈",
+        "グレ"
+      ]
+    },
+    {
+      "food_number": "10271",
+      "tag_name": "めばる",
+      "diff": "",
+      "search_keywords": [
+        "眼張",
+        "ロックフィッシュ"
+      ]
+    },
+    {
+      "food_number": "10272",
+      "tag_name": "メルルーサ",
+      "diff": "",
+      "search_keywords": [
+        "ヘイク"
+      ]
+    },
+    {
+      "food_number": "10273",
+      "tag_name": "やつめうなぎ",
+      "diff": "",
+      "search_keywords": [
+        "八目鰻",
+        "ランプリー"
+      ]
+    },
+    {
+      "food_number": "10274",
+      "tag_name": "やつめうなぎ",
+      "diff": "干し",
+      "search_keywords": [
+        "八目鰻",
+        "ランプリー"
+      ]
+    },
+    {
+      "food_number": "10275",
+      "tag_name": "やまめ",
+      "diff": "養殖",
+      "search_keywords": [
+        "山女魚",
+        "ヤマメ"
+      ]
+    },
+    {
+      "food_number": "10276",
+      "tag_name": "わかさぎ",
+      "diff": "",
+      "search_keywords": [
+        "公魚",
+        "ワカサギ"
+      ]
+    },
+    {
+      "food_number": "10277",
+      "tag_name": "わかさぎ",
+      "diff": "つくだ煮",
+      "search_keywords": [
+        "公魚",
+        "ワカサギ",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10278",
+      "tag_name": "わかさぎ",
+      "diff": "あめ煮",
+      "search_keywords": [
+        "公魚",
+        "ワカサギ",
+        "飴煮"
+      ]
+    },
+    {
+      "food_number": "10279",
+      "tag_name": "あかがい",
+      "diff": "",
+      "search_keywords": [
+        "赤貝",
+        "アカガイ"
+      ]
+    },
+    {
+      "food_number": "10280",
+      "tag_name": "あげまき",
+      "diff": "",
+      "search_keywords": [
+        "揚巻貝",
+        "アゲマキ"
+      ]
+    },
+    {
+      "food_number": "10281",
+      "tag_name": "あさり",
+      "diff": "",
+      "search_keywords": [
+        "浅蜊",
+        "アサリ"
+      ]
+    },
+    {
+      "food_number": "10466",
+      "tag_name": "あさり",
+      "diff": "蒸し",
+      "search_keywords": [
+        "浅蜊",
+        "アサリ"
+      ]
+    },
+    {
+      "food_number": "10282",
+      "tag_name": "あさり",
+      "diff": "つくだ煮",
+      "search_keywords": [
+        "浅蜊",
+        "アサリ",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "10283",
+      "tag_name": "あさり缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "浅蜊缶",
+        "アサリ缶"
+      ]
+    },
+    {
+      "food_number": "10284",
+      "tag_name": "あさり缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "浅蜊缶",
+        "アサリ缶"
+      ]
+    },
+    {
+      "food_number": "10427",
+      "tag_name": "あわび",
+      "diff": "くろあわび",
+      "search_keywords": [
+        "黒鮑",
+        "クロアワビ"
+      ]
+    },
+    {
+      "food_number": "10428",
+      "tag_name": "あわび",
+      "diff": "まだかあわび",
+      "search_keywords": [
+        "真高鮑",
+        "マダカアワビ"
+      ]
+    },
+    {
+      "food_number": "10429",
+      "tag_name": "あわび",
+      "diff": "めがいあわび",
+      "search_keywords": [
+        "雌貝鮑",
+        "メガイアワビ"
+      ]
+    },
+    {
+      "food_number": "10286",
+      "tag_name": "あわび",
+      "diff": "干し",
+      "search_keywords": [
+        "干し鮑",
+        "干しアワビ"
+      ]
+    }
+  ]
+}

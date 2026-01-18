@@ -1,0 +1,290 @@
+{
+  "batchNumber": 63,
+  "foods": [
+    {
+      "food_number": "10305",
+      "tag_name": "ばかがい",
+      "diff": "",
+      "search_keywords": [
+        "馬鹿貝",
+        "バカガイ",
+        "青柳"
+      ]
+    },
+    {
+      "food_number": "10306",
+      "tag_name": "はまぐり",
+      "diff": "",
+      "search_keywords": [
+        "蛤",
+        "ハマグリ"
+      ]
+    },
+    {
+      "food_number": "10307",
+      "tag_name": "はまぐり",
+      "diff": "水煮",
+      "search_keywords": [
+        "蛤",
+        "ハマグリ"
+      ]
+    },
+    {
+      "food_number": "10308",
+      "tag_name": "はまぐり",
+      "diff": "焼き",
+      "search_keywords": [
+        "蛤",
+        "ハマグリ"
+      ]
+    },
+    {
+      "food_number": "10309",
+      "tag_name": "はまぐりつくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "蛤佃煮",
+        "ハマグリ佃煮"
+      ]
+    },
+    {
+      "food_number": "10310",
+      "tag_name": "ちょうせんはまぐり",
+      "diff": "",
+      "search_keywords": [
+        "朝鮮蛤",
+        "チョウセンハマグリ"
+      ]
+    },
+    {
+      "food_number": "10311",
+      "tag_name": "ほたてがい",
+      "diff": "",
+      "search_keywords": [
+        "帆立",
+        "ホタテ",
+        "帆立貝"
+      ]
+    },
+    {
+      "food_number": "10312",
+      "tag_name": "ほたてがい",
+      "diff": "水煮",
+      "search_keywords": [
+        "帆立",
+        "ホタテ",
+        "帆立貝"
+      ]
+    },
+    {
+      "food_number": "10313",
+      "tag_name": "ほたて貝柱",
+      "diff": "",
+      "search_keywords": [
+        "帆立",
+        "ホタテ",
+        "貝柱"
+      ]
+    },
+    {
+      "food_number": "10414",
+      "tag_name": "ほたて貝柱",
+      "diff": "焼き",
+      "search_keywords": [
+        "帆立",
+        "ホタテ",
+        "貝柱"
+      ]
+    },
+    {
+      "food_number": "10314",
+      "tag_name": "ほたて貝柱",
+      "diff": "煮干し",
+      "search_keywords": [
+        "帆立",
+        "ホタテ",
+        "貝柱",
+        "干し貝柱"
+      ]
+    },
+    {
+      "food_number": "10315",
+      "tag_name": "ほたて貝柱缶詰",
+      "diff": "水煮",
+      "search_keywords": [
+        "帆立缶詰",
+        "ホタテ缶詰",
+        "貝柱缶詰"
+      ]
+    },
+    {
+      "food_number": "10316",
+      "tag_name": "ほっきがい",
+      "diff": "",
+      "search_keywords": [
+        "北寄貝",
+        "ホッキガイ"
+      ]
+    },
+    {
+      "food_number": "10317",
+      "tag_name": "みるがい",
+      "diff": "水管",
+      "search_keywords": [
+        "海松貝",
+        "ミルガイ",
+        "水松貝",
+        "ミルクイ"
+      ]
+    },
+    {
+      "food_number": "10319",
+      "tag_name": "あまえび",
+      "diff": "",
+      "search_keywords": [
+        "甘海老",
+        "アマエビ"
+      ]
+    },
+    {
+      "food_number": "10467",
+      "tag_name": "アルゼンチンあかえび",
+      "diff": "",
+      "search_keywords": [
+        "アルゼンチン赤海老",
+        "アルゼンチンアカエビ"
+      ]
+    },
+    {
+      "food_number": "10468",
+      "tag_name": "アルゼンチンあかえび",
+      "diff": "ゆで",
+      "search_keywords": [
+        "アルゼンチン赤海老",
+        "アルゼンチンアカエビ"
+      ]
+    },
+    {
+      "food_number": "10469",
+      "tag_name": "アルゼンチンあかえび",
+      "diff": "焼き",
+      "search_keywords": [
+        "アルゼンチン赤海老",
+        "アルゼンチンアカエビ"
+      ]
+    },
+    {
+      "food_number": "10320",
+      "tag_name": "いせえび",
+      "diff": "",
+      "search_keywords": [
+        "伊勢海老",
+        "イセエビ"
+      ]
+    },
+    {
+      "food_number": "10321",
+      "tag_name": "くるまえび",
+      "diff": "養殖",
+      "search_keywords": [
+        "車海老",
+        "クルマエビ"
+      ]
+    },
+    {
+      "food_number": "10322",
+      "tag_name": "くるまえび",
+      "diff": "養殖・ゆで",
+      "search_keywords": [
+        "車海老",
+        "クルマエビ"
+      ]
+    },
+    {
+      "food_number": "10323",
+      "tag_name": "くるまえび",
+      "diff": "養殖・焼き",
+      "search_keywords": [
+        "車海老",
+        "クルマエビ"
+      ]
+    },
+    {
+      "food_number": "10431",
+      "tag_name": "さくらえび",
+      "diff": "",
+      "search_keywords": [
+        "桜海老",
+        "サクラエビ"
+      ]
+    },
+    {
+      "food_number": "10324",
+      "tag_name": "さくらえび",
+      "diff": "ゆで",
+      "search_keywords": [
+        "桜海老",
+        "サクラエビ"
+      ]
+    },
+    {
+      "food_number": "10325",
+      "tag_name": "さくらえび",
+      "diff": "素干し",
+      "search_keywords": [
+        "桜海老",
+        "サクラエビ",
+        "干し桜海老"
+      ]
+    },
+    {
+      "food_number": "10326",
+      "tag_name": "さくらえび",
+      "diff": "煮干し",
+      "search_keywords": [
+        "桜海老",
+        "サクラエビ",
+        "煮干し桜海老"
+      ]
+    },
+    {
+      "food_number": "10327",
+      "tag_name": "大正えび",
+      "diff": "",
+      "search_keywords": [
+        "大正海老",
+        "タイショウエビ"
+      ]
+    },
+    {
+      "food_number": "10328",
+      "tag_name": "しばえび",
+      "diff": "",
+      "search_keywords": [
+        "芝海老",
+        "シバエビ"
+      ]
+    },
+    {
+      "food_number": "10415",
+      "tag_name": "バナメイえび",
+      "diff": "養殖",
+      "search_keywords": [
+        "バナメイ海老",
+        "バナメイエビ",
+        "ホワイトレッグシュリンプ"
+      ]
+    },
+    {
+      "food_number": "10416",
+      "tag_name": "バナメイえび",
+      "diff": "養殖・天ぷら",
+      "search_keywords": [
+        "バナメイ海老",
+        "バナメイエビ",
+        "ホワイトレッグシュリンプ",
+        "天ぷら"
+      ]
+    }
+  ]
+}

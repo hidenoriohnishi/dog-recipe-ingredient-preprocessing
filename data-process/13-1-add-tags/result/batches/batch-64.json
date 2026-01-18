@@ -1,0 +1,307 @@
+{
+  "batchNumber": 64,
+  "foods": [
+    {
+      "food_number": "10326",
+      "tag_name": "さくらえび",
+      "diff": "煮干し",
+      "search_keywords": [
+        "桜海老",
+        "サクラエビ",
+        "煮干し桜海老"
+      ]
+    },
+    {
+      "food_number": "10327",
+      "tag_name": "大正えび",
+      "diff": "",
+      "search_keywords": [
+        "大正海老",
+        "タイショウエビ"
+      ]
+    },
+    {
+      "food_number": "10328",
+      "tag_name": "しばえび",
+      "diff": "",
+      "search_keywords": [
+        "芝海老",
+        "シバエビ"
+      ]
+    },
+    {
+      "food_number": "10415",
+      "tag_name": "バナメイえび",
+      "diff": "養殖",
+      "search_keywords": [
+        "バナメイ海老",
+        "バナメイエビ",
+        "ホワイトレッグシュリンプ"
+      ]
+    },
+    {
+      "food_number": "10416",
+      "tag_name": "バナメイえび",
+      "diff": "養殖・天ぷら",
+      "search_keywords": [
+        "バナメイ海老",
+        "バナメイエビ",
+        "ホワイトレッグシュリンプ",
+        "天ぷら"
+      ]
+    },
+    {
+      "food_number": "10329",
+      "tag_name": "ブラックタイガー",
+      "diff": "養殖",
+      "search_keywords": [
+        "ブラックタイガーエビ",
+        "ブラックタイガー海老",
+        "ウシエビ"
+      ]
+    },
+    {
+      "food_number": "10330",
+      "tag_name": "干しえび",
+      "diff": "",
+      "search_keywords": [
+        "干し海老",
+        "干しエビ",
+        "干海老",
+        "干エビ"
+      ]
+    },
+    {
+      "food_number": "10331",
+      "tag_name": "えびつくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "海老佃煮",
+        "エビ佃煮",
+        "つくだ煮"
+      ]
+    },
+    {
+      "food_number": "10332",
+      "tag_name": "がざみ",
+      "diff": "",
+      "search_keywords": [
+        "ワタリガニ",
+        "渡り蟹",
+        "ガザミ"
+      ]
+    },
+    {
+      "food_number": "10333",
+      "tag_name": "毛がに",
+      "diff": "",
+      "search_keywords": [
+        "毛蟹",
+        "ケガニ"
+      ]
+    },
+    {
+      "food_number": "10334",
+      "tag_name": "毛がに",
+      "diff": "ゆで",
+      "search_keywords": [
+        "毛蟹",
+        "ケガニ",
+        "茹で"
+      ]
+    },
+    {
+      "food_number": "10335",
+      "tag_name": "ずわいがに",
+      "diff": "",
+      "search_keywords": [
+        "ズワイガニ",
+        "ズワイ蟹"
+      ]
+    },
+    {
+      "food_number": "10336",
+      "tag_name": "ずわいがに",
+      "diff": "ゆで",
+      "search_keywords": [
+        "ズワイガニ",
+        "ズワイ蟹",
+        "茹で"
+      ]
+    },
+    {
+      "food_number": "10337",
+      "tag_name": "ずわいがに缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "ズワイガニ缶",
+        "ズワイ蟹缶",
+        "水煮缶"
+      ]
+    },
+    {
+      "food_number": "10338",
+      "tag_name": "たらばがに",
+      "diff": "",
+      "search_keywords": [
+        "タラバガニ",
+        "タラバ蟹"
+      ]
+    },
+    {
+      "food_number": "10339",
+      "tag_name": "たらばがに",
+      "diff": "ゆで",
+      "search_keywords": [
+        "タラバガニ",
+        "タラバ蟹",
+        "茹で"
+      ]
+    },
+    {
+      "food_number": "10340",
+      "tag_name": "たらばがに缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "タラバガニ缶",
+        "タラバ蟹缶",
+        "水煮缶"
+      ]
+    },
+    {
+      "food_number": "10341",
+      "tag_name": "かにがん漬",
+      "diff": "",
+      "search_keywords": [
+        "蟹がん漬",
+        "ガン漬",
+        "塩辛"
+      ]
+    },
+    {
+      "food_number": "10342",
+      "tag_name": "あかいか",
+      "diff": "",
+      "search_keywords": [
+        "赤いか",
+        "アカイカ",
+        "ダイヤモンドバックイカ"
+      ]
+    },
+    {
+      "food_number": "10343",
+      "tag_name": "けんさきいか",
+      "diff": "",
+      "search_keywords": [
+        "剣先いか",
+        "ケンサキイカ",
+        "剣先烏賊"
+      ]
+    },
+    {
+      "food_number": "10344",
+      "tag_name": "こういか",
+      "diff": "",
+      "search_keywords": [
+        "甲いか",
+        "コウイカ",
+        "甲烏賊"
+      ]
+    },
+    {
+      "food_number": "10345",
+      "tag_name": "するめいか",
+      "diff": "",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊"
+      ]
+    },
+    {
+      "food_number": "10346",
+      "tag_name": "するめいか",
+      "diff": "水煮",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "ボイル"
+      ]
+    },
+    {
+      "food_number": "10347",
+      "tag_name": "するめいか",
+      "diff": "焼き",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "焼き"
+      ]
+    },
+    {
+      "food_number": "10417",
+      "tag_name": "するめいか胴",
+      "diff": "皮付き",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮付き"
+      ]
+    },
+    {
+      "food_number": "10418",
+      "tag_name": "するめいか胴",
+      "diff": "皮なし",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮なし"
+      ]
+    },
+    {
+      "food_number": "10419",
+      "tag_name": "するめいか胴",
+      "diff": "皮なし・天ぷら",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮なし",
+        "天ぷら"
+      ]
+    },
+    {
+      "food_number": "10470",
+      "tag_name": "するめいか胴",
+      "diff": "皮なし・フライ",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "胴体",
+        "皮なし",
+        "フライ"
+      ]
+    },
+    {
+      "food_number": "10420",
+      "tag_name": "するめいか耳・足",
+      "diff": "",
+      "search_keywords": [
+        "スルメイカ",
+        "鯣烏賊",
+        "耳",
+        "足"
+      ]
+    },
+    {
+      "food_number": "10348",
+      "tag_name": "ほたるいか",
+      "diff": "",
+      "search_keywords": [
+        "蛍烏賊",
+        "ホタルイカ"
+      ]
+    }
+  ]
+}

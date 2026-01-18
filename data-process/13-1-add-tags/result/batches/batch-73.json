@@ -1,0 +1,345 @@
+{
+  "batchNumber": 73,
+  "foods": [
+    {
+      "food_number": "11295",
+      "tag_name": "鹿肉",
+      "diff": "きゅうしゅうじか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "九州鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11311",
+      "tag_name": "鹿肉",
+      "diff": "ほんしゅうじか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "本州鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11115",
+      "tag_name": "豚肩肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11116",
+      "tag_name": "豚肩肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11117",
+      "tag_name": "豚肩肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11118",
+      "tag_name": "豚肩肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11119",
+      "tag_name": "豚肩ロース",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "肩ロース",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11120",
+      "tag_name": "豚肩ロース",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "肩ロース",
+        "大型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11121",
+      "tag_name": "豚肩ロース",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "肩ロース",
+        "大型種",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11122",
+      "tag_name": "豚肩ロース",
+      "diff": "脂身",
+      "search_keywords": [
+        "豚肉",
+        "肩ロース",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11123",
+      "tag_name": "豚ロース",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11125",
+      "tag_name": "豚ロース",
+      "diff": "脂身つき・ゆで",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "脂身",
+        "ゆで"
+      ]
+    },
+    {
+      "food_number": "11124",
+      "tag_name": "豚ロース",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "脂身",
+        "焼き"
+      ]
+    },
+    {
+      "food_number": "11276",
+      "tag_name": "豚ロース",
+      "diff": "脂身つき・とんかつ",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "脂身",
+        "とんかつ",
+        "カツ"
+      ]
+    },
+    {
+      "food_number": "11126",
+      "tag_name": "豚ロース",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11127",
+      "tag_name": "豚ロース",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11128",
+      "tag_name": "豚ロース",
+      "diff": "脂身",
+      "search_keywords": [
+        "豚肉",
+        "ロース",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11129",
+      "tag_name": "豚バラ肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "バラ",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11277",
+      "tag_name": "豚バラ肉",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "豚肉",
+        "バラ",
+        "大型種",
+        "脂身",
+        "焼き"
+      ]
+    },
+    {
+      "food_number": "11130",
+      "tag_name": "豚もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "もも",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11131",
+      "tag_name": "豚もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "もも",
+        "大型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11133",
+      "tag_name": "豚もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "豚肉",
+        "もも",
+        "大型種",
+        "脂肪なし",
+        "ゆで"
+      ]
+    },
+    {
+      "food_number": "11132",
+      "tag_name": "豚もも肉",
+      "diff": "皮下脂肪なし・焼き",
+      "search_keywords": [
+        "豚肉",
+        "もも",
+        "大型種",
+        "脂肪なし",
+        "焼き"
+      ]
+    },
+    {
+      "food_number": "11134",
+      "tag_name": "豚もも肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "もも",
+        "大型種",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11135",
+      "tag_name": "豚もも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "豚肉",
+        "もも",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11136",
+      "tag_name": "豚そともも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11137",
+      "tag_name": "豚そともも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "大型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11138",
+      "tag_name": "豚そともも肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "大型種",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11139",
+      "tag_name": "豚そともも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "豚肉",
+        "そともも",
+        "大型種",
+        "脂身"
+      ]
+    },
+    {
+      "food_number": "11140",
+      "tag_name": "豚ヒレ肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "ヒレ",
+        "大型種",
+        "赤肉",
+        "フィレ"
+      ]
+    }
+  ]
+}

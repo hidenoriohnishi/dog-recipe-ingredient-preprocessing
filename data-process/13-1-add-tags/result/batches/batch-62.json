@@ -1,0 +1,279 @@
+{
+  "batchNumber": 62,
+  "foods": [
+    {
+      "food_number": "10284",
+      "tag_name": "あさり缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "浅蜊缶",
+        "アサリ缶"
+      ]
+    },
+    {
+      "food_number": "10427",
+      "tag_name": "あわび",
+      "diff": "くろあわび",
+      "search_keywords": [
+        "黒鮑",
+        "クロアワビ"
+      ]
+    },
+    {
+      "food_number": "10428",
+      "tag_name": "あわび",
+      "diff": "まだかあわび",
+      "search_keywords": [
+        "真高鮑",
+        "マダカアワビ"
+      ]
+    },
+    {
+      "food_number": "10429",
+      "tag_name": "あわび",
+      "diff": "めがいあわび",
+      "search_keywords": [
+        "雌貝鮑",
+        "メガイアワビ"
+      ]
+    },
+    {
+      "food_number": "10286",
+      "tag_name": "あわび",
+      "diff": "干し",
+      "search_keywords": [
+        "干し鮑",
+        "干しアワビ"
+      ]
+    },
+    {
+      "food_number": "10287",
+      "tag_name": "あわび",
+      "diff": "塩辛",
+      "search_keywords": [
+        "鮑塩辛",
+        "アワビ塩辛",
+        "しおから"
+      ]
+    },
+    {
+      "food_number": "10288",
+      "tag_name": "あわび缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "鮑缶",
+        "アワビ缶"
+      ]
+    },
+    {
+      "food_number": "10289",
+      "tag_name": "いがい",
+      "diff": "",
+      "search_keywords": [
+        "ムール貝",
+        "イガイ"
+      ]
+    },
+    {
+      "food_number": "10290",
+      "tag_name": "ほたて",
+      "diff": "養殖",
+      "search_keywords": [
+        "帆立",
+        "ホタテ",
+        "いたやがい"
+      ]
+    },
+    {
+      "food_number": "10291",
+      "tag_name": "エスカルゴ缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "エスカルゴ"
+      ]
+    },
+    {
+      "food_number": "10292",
+      "tag_name": "かき",
+      "diff": "養殖",
+      "search_keywords": [
+        "牡蠣",
+        "カキ"
+      ]
+    },
+    {
+      "food_number": "10293",
+      "tag_name": "かき",
+      "diff": "養殖・水煮",
+      "search_keywords": [
+        "牡蠣",
+        "カキ"
+      ]
+    },
+    {
+      "food_number": "10430",
+      "tag_name": "かきフライ",
+      "diff": "養殖",
+      "search_keywords": [
+        "牡蠣フライ",
+        "カキフライ"
+      ]
+    },
+    {
+      "food_number": "10294",
+      "tag_name": "かき缶",
+      "diff": "くん製油漬",
+      "search_keywords": [
+        "牡蠣缶",
+        "カキ缶",
+        "スモークオイスター"
+      ]
+    },
+    {
+      "food_number": "10295",
+      "tag_name": "さざえ",
+      "diff": "",
+      "search_keywords": [
+        "栄螺",
+        "サザエ"
+      ]
+    },
+    {
+      "food_number": "10296",
+      "tag_name": "さざえ",
+      "diff": "焼き",
+      "search_keywords": [
+        "栄螺",
+        "サザエ"
+      ]
+    },
+    {
+      "food_number": "10318",
+      "tag_name": "さるぼう缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "猿頬貝缶",
+        "サルボウ缶"
+      ]
+    },
+    {
+      "food_number": "10297",
+      "tag_name": "しじみ",
+      "diff": "",
+      "search_keywords": [
+        "蜆",
+        "シジミ"
+      ]
+    },
+    {
+      "food_number": "10413",
+      "tag_name": "しじみ",
+      "diff": "水煮",
+      "search_keywords": [
+        "蜆",
+        "シジミ"
+      ]
+    },
+    {
+      "food_number": "10298",
+      "tag_name": "たいらがい貝柱",
+      "diff": "",
+      "search_keywords": [
+        "平貝",
+        "タイラガイ",
+        "貝柱"
+      ]
+    },
+    {
+      "food_number": "10299",
+      "tag_name": "たにし",
+      "diff": "",
+      "search_keywords": [
+        "田螺",
+        "タニシ"
+      ]
+    },
+    {
+      "food_number": "10300",
+      "tag_name": "つぶ",
+      "diff": "",
+      "search_keywords": [
+        "ツブ貝",
+        "つぶ貝"
+      ]
+    },
+    {
+      "food_number": "10301",
+      "tag_name": "とこぶし",
+      "diff": "",
+      "search_keywords": [
+        "常節",
+        "トコブシ"
+      ]
+    },
+    {
+      "food_number": "10303",
+      "tag_name": "とりがい",
+      "diff": "斧足",
+      "search_keywords": [
+        "鳥貝",
+        "トリガイ"
+      ]
+    },
+    {
+      "food_number": "10304",
+      "tag_name": "ばい",
+      "diff": "",
+      "search_keywords": [
+        "バイ貝",
+        "バイ"
+      ]
+    },
+    {
+      "food_number": "10305",
+      "tag_name": "ばかがい",
+      "diff": "",
+      "search_keywords": [
+        "馬鹿貝",
+        "バカガイ",
+        "青柳"
+      ]
+    },
+    {
+      "food_number": "10306",
+      "tag_name": "はまぐり",
+      "diff": "",
+      "search_keywords": [
+        "蛤",
+        "ハマグリ"
+      ]
+    },
+    {
+      "food_number": "10307",
+      "tag_name": "はまぐり",
+      "diff": "水煮",
+      "search_keywords": [
+        "蛤",
+        "ハマグリ"
+      ]
+    },
+    {
+      "food_number": "10308",
+      "tag_name": "はまぐり",
+      "diff": "焼き",
+      "search_keywords": [
+        "蛤",
+        "ハマグリ"
+      ]
+    },
+    {
+      "food_number": "10309",
+      "tag_name": "はまぐりつくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "蛤佃煮",
+        "ハマグリ佃煮"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "batchNumber": 2,
+  "foods": [
+    {
+      "food_number": "01147",
+      "tag_name": "から揚げ粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "から揚げ"
+      ]
+    },
+    {
+      "food_number": "01025",
+      "tag_name": "天ぷら粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "天ぷら"
+      ]
+    },
+    {
+      "food_number": "01171",
+      "tag_name": "天ぷらバッター粉",
+      "diff": "",
+      "search_keywords": [
+        "プレミックス粉",
+        "天ぷら",
+        "バッター"
+      ]
+    },
+    {
+      "food_number": "01172",
+      "tag_name": "天ぷらバッター",
+      "diff": "揚げ",
+      "search_keywords": [
+        "プレミックス粉",
+        "天ぷら",
+        "バッター"
+      ]
+    },
+    {
+      "food_number": "01026",
+      "tag_name": "食パン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "角食",
+        "白パン"
+      ]
+    },
+    {
+      "food_number": "01174",
+      "tag_name": "食パン",
+      "diff": "焼き",
+      "search_keywords": [
+        "パン",
+        "角食",
+        "白パン"
+      ]
+    },
+    {
+      "food_number": "01175",
+      "tag_name": "食パン",
+      "diff": "耳なし",
+      "search_keywords": [
+        "パン",
+        "角食",
+        "白パン",
+        "耳なし"
+      ]
+    },
+    {
+      "food_number": "01176",
+      "tag_name": "食パンの耳",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "角食",
+        "白パン",
+        "耳"
+      ]
+    },
+    {
+      "food_number": "01206",
+      "tag_name": "食パン",
+      "diff": "リーン",
+      "search_keywords": [
+        "パン",
+        "白パン",
+        "リーン"
+      ]
+    },
+    {
+      "food_number": "01207",
+      "tag_name": "食パン",
+      "diff": "リッチ",
+      "search_keywords": [
+        "パン",
+        "白パン",
+        "リッチ"
+      ]
+    },
+    {
+      "food_number": "01205",
+      "tag_name": "山型食パン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "山形",
+        "白パン"
+      ]
+    },
+    {
+      "food_number": "01028",
+      "tag_name": "コッペパン",
+      "diff": "",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01213",
+      "tag_name": "バンズ",
+      "diff": "",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01030",
+      "tag_name": "乾パン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "ハードビスケット"
+      ]
+    },
+    {
+      "food_number": "01031",
+      "tag_name": "フランスパン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "バゲット"
+      ]
+    },
+    {
+      "food_number": "01032",
+      "tag_name": "ライ麦パン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "ライ"
+      ]
+    },
+    {
+      "food_number": "01208",
+      "tag_name": "全粒粉パン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "全粒粉"
+      ]
+    },
+    {
+      "food_number": "01033",
+      "tag_name": "ぶどうパン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "レーズンパン"
+      ]
+    },
+    {
+      "food_number": "01034",
+      "tag_name": "ロールパン",
+      "diff": "",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01209",
+      "tag_name": "クロワッサン",
+      "diff": "レギュラー",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01035",
+      "tag_name": "クロワッサン",
+      "diff": "リッチ",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01210",
+      "tag_name": "くるみパン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "胡桃パン"
+      ]
+    },
+    {
+      "food_number": "01036",
+      "tag_name": "イングリッシュマフィン",
+      "diff": "",
+      "search_keywords": [
+        "パン",
+        "マフィン"
+      ]
+    },
+    {
+      "food_number": "01037",
+      "tag_name": "ナン",
+      "diff": "",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01148",
+      "tag_name": "ベーグル",
+      "diff": "",
+      "search_keywords": [
+        "パン"
+      ]
+    },
+    {
+      "food_number": "01038",
+      "tag_name": "うどん",
+      "diff": "生",
+      "search_keywords": [
+        "饂飩"
+      ]
+    },
+    {
+      "food_number": "01039",
+      "tag_name": "うどん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "饂飩"
+      ]
+    },
+    {
+      "food_number": "01186",
+      "tag_name": "うどん",
+      "diff": "半生",
+      "search_keywords": [
+        "饂飩"
+      ]
+    },
+    {
+      "food_number": "01041",
+      "tag_name": "干しうどん",
+      "diff": "乾",
+      "search_keywords": [
+        "饂飩",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01042",
+      "tag_name": "干しうどん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "饂飩",
+        "乾麺"
+      ]
+    }
+  ]
+}

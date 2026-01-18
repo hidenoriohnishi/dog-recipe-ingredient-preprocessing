@@ -1,0 +1,241 @@
+{
+  "batchNumber": 94,
+  "foods": [
+    {
+      "food_number": "16056",
+      "tag_name": "青汁",
+      "diff": "ケール",
+      "search_keywords": [
+        "ケール青汁"
+      ]
+    },
+    {
+      "food_number": "16050",
+      "tag_name": "甘酒",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16051",
+      "tag_name": "昆布茶",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16057",
+      "tag_name": "スポーツドリンク",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16052",
+      "tag_name": "果実炭酸飲料",
+      "diff": "",
+      "search_keywords": [
+        "果実色飲料",
+        "フルーツソーダ"
+      ]
+    },
+    {
+      "food_number": "16053",
+      "tag_name": "コーラ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16054",
+      "tag_name": "サイダー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16058",
+      "tag_name": "ノンアルコールビール",
+      "diff": "",
+      "search_keywords": [
+        "ビール風味炭酸飲料",
+        "ビールテイスト"
+      ]
+    },
+    {
+      "food_number": "16061",
+      "tag_name": "なぎなたこうじゅ茶",
+      "diff": "",
+      "search_keywords": [
+        "なぎなたこうじゅ",
+        "浸出液"
+      ]
+    },
+    {
+      "food_number": "16055",
+      "tag_name": "麦茶",
+      "diff": "浸出液",
+      "search_keywords": [
+        "ばくちゃ",
+        "むぎちゃ"
+      ]
+    },
+    {
+      "food_number": "17001",
+      "tag_name": "ウスターソース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17002",
+      "tag_name": "中濃ソース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17003",
+      "tag_name": "濃厚ソース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17085",
+      "tag_name": "お好み焼きソース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17004",
+      "tag_name": "トウバンジャン",
+      "diff": "",
+      "search_keywords": [
+        "豆板醤"
+      ]
+    },
+    {
+      "food_number": "17005",
+      "tag_name": "チリソース",
+      "diff": "",
+      "search_keywords": [
+        "チリペッパーソース"
+      ]
+    },
+    {
+      "food_number": "17006",
+      "tag_name": "ラー油",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17007",
+      "tag_name": "しょうゆ",
+      "diff": "こいくち",
+      "search_keywords": [
+        "醤油",
+        "濃口醤油"
+      ]
+    },
+    {
+      "food_number": "17086",
+      "tag_name": "しょうゆ",
+      "diff": "こいくち・減塩",
+      "search_keywords": [
+        "醤油",
+        "濃口醤油",
+        "減塩"
+      ]
+    },
+    {
+      "food_number": "17008",
+      "tag_name": "しょうゆ",
+      "diff": "うすくち",
+      "search_keywords": [
+        "醤油",
+        "薄口醤油"
+      ]
+    },
+    {
+      "food_number": "17139",
+      "tag_name": "しょうゆ",
+      "diff": "うすくち・低塩",
+      "search_keywords": [
+        "醤油",
+        "薄口醤油",
+        "減塩",
+        "低塩"
+      ]
+    },
+    {
+      "food_number": "17009",
+      "tag_name": "たまりしょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "たまり醤油",
+        "溜まり醤油"
+      ]
+    },
+    {
+      "food_number": "17010",
+      "tag_name": "さいしこみしょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "再仕込み醤油"
+      ]
+    },
+    {
+      "food_number": "17011",
+      "tag_name": "しろしょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "白醤油"
+      ]
+    },
+    {
+      "food_number": "17087",
+      "tag_name": "だししょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "だし醤油"
+      ]
+    },
+    {
+      "food_number": "17088",
+      "tag_name": "照りしょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "照り醤油",
+        "照り焼き醤油"
+      ]
+    },
+    {
+      "food_number": "17012",
+      "tag_name": "食塩",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17013",
+      "tag_name": "食塩",
+      "diff": "並塩",
+      "search_keywords": [
+        "並塩",
+        "ナミシオ"
+      ]
+    },
+    {
+      "food_number": "17146",
+      "tag_name": "減塩食塩",
+      "diff": "調味料入り",
+      "search_keywords": [
+        "減塩タイプ食塩",
+        "減塩塩",
+        "調味料含む"
+      ]
+    },
+    {
+      "food_number": "17147",
+      "tag_name": "減塩食塩",
+      "diff": "調味料なし",
+      "search_keywords": [
+        "減塩タイプ食塩",
+        "減塩塩",
+        "調味料不使用"
+      ]
+    }
+  ]
+}

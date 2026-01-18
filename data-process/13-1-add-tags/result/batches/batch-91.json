@@ -1,0 +1,232 @@
+{
+  "batchNumber": 91,
+  "foods": [
+    {
+      "food_number": "15107",
+      "tag_name": "ゼリーキャンデー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15108",
+      "tag_name": "ゼリービーンズ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15110",
+      "tag_name": "ドロップ",
+      "diff": "",
+      "search_keywords": [
+        "ハードキャンディ"
+      ]
+    },
+    {
+      "food_number": "15111",
+      "tag_name": "バタースコッチ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15112",
+      "tag_name": "ブリットル",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15113",
+      "tag_name": "マシュマロ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15106",
+      "tag_name": "ラムネ",
+      "diff": "",
+      "search_keywords": [
+        "ラムネ菓子"
+      ]
+    },
+    {
+      "food_number": "15137",
+      "tag_name": "アーモンドチョコレート",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15114",
+      "tag_name": "カバーリングチョコレート",
+      "diff": "",
+      "search_keywords": [
+        "コーティングチョコレート"
+      ]
+    },
+    {
+      "food_number": "15186",
+      "tag_name": "スイートチョコレート",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15187",
+      "tag_name": "スイートチョコレート",
+      "diff": "カカオ増量",
+      "search_keywords": [
+        "ハイカカオ"
+      ]
+    },
+    {
+      "food_number": "15115",
+      "tag_name": "ホワイトチョコレート",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15116",
+      "tag_name": "ミルクチョコレート",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15117",
+      "tag_name": "マロングラッセ",
+      "diff": "",
+      "search_keywords": [
+        "マロン・グラッセ",
+        "マロン"
+      ]
+    },
+    {
+      "food_number": "15118",
+      "tag_name": "板ガム",
+      "diff": "",
+      "search_keywords": [
+        "スティックガム"
+      ]
+    },
+    {
+      "food_number": "15119",
+      "tag_name": "糖衣ガム",
+      "diff": "",
+      "search_keywords": [
+        "コーティングガム"
+      ]
+    },
+    {
+      "food_number": "15120",
+      "tag_name": "風船ガム",
+      "diff": "",
+      "search_keywords": [
+        "バブルガム"
+      ]
+    },
+    {
+      "food_number": "15138",
+      "tag_name": "カスタードクリーム",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "15139",
+      "tag_name": "しるこ",
+      "diff": "こしあん",
+      "search_keywords": [
+        "汁粉",
+        "善哉",
+        "こし餡"
+      ]
+    },
+    {
+      "food_number": "15140",
+      "tag_name": "しるこ",
+      "diff": "つぶしあん",
+      "search_keywords": [
+        "汁粉",
+        "善哉",
+        "つぶ餡"
+      ]
+    },
+    {
+      "food_number": "15180",
+      "tag_name": "チョコレートクリーム",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "16001",
+      "tag_name": "日本酒",
+      "diff": "普通酒",
+      "search_keywords": [
+        "清酒",
+        "酒"
+      ]
+    },
+    {
+      "food_number": "16002",
+      "tag_name": "日本酒",
+      "diff": "純米酒",
+      "search_keywords": [
+        "清酒",
+        "酒"
+      ]
+    },
+    {
+      "food_number": "16003",
+      "tag_name": "日本酒",
+      "diff": "本醸造酒",
+      "search_keywords": [
+        "清酒",
+        "酒"
+      ]
+    },
+    {
+      "food_number": "16004",
+      "tag_name": "日本酒",
+      "diff": "吟醸酒",
+      "search_keywords": [
+        "清酒",
+        "酒"
+      ]
+    },
+    {
+      "food_number": "16005",
+      "tag_name": "日本酒",
+      "diff": "純米吟醸酒",
+      "search_keywords": [
+        "清酒",
+        "酒"
+      ]
+    },
+    {
+      "food_number": "16006",
+      "tag_name": "ビール",
+      "diff": "淡色",
+      "search_keywords": [
+        "ラガー"
+      ]
+    },
+    {
+      "food_number": "16007",
+      "tag_name": "ビール",
+      "diff": "黒",
+      "search_keywords": [
+        "黒ビール",
+        "スタウト"
+      ]
+    },
+    {
+      "food_number": "16008",
+      "tag_name": "ビール",
+      "diff": "スタウト",
+      "search_keywords": [
+        "黒ビール"
+      ]
+    },
+    {
+      "food_number": "16009",
+      "tag_name": "発泡酒",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

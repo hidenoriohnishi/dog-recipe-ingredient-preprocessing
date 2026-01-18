@@ -1,0 +1,280 @@
+{
+  "batchNumber": 11,
+  "foods": [
+    {
+      "food_number": "02055",
+      "tag_name": "ヤーコン",
+      "diff": "水煮",
+      "search_keywords": [
+        "yacon",
+        "ヤーコン芋"
+      ]
+    },
+    {
+      "food_number": "02022",
+      "tag_name": "いちょういも",
+      "diff": "生",
+      "search_keywords": [
+        "銀杏芋",
+        "イチョウイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02023",
+      "tag_name": "ながいも",
+      "diff": "生",
+      "search_keywords": [
+        "長芋",
+        "ナガイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02024",
+      "tag_name": "ながいも",
+      "diff": "水煮",
+      "search_keywords": [
+        "長芋",
+        "ナガイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02025",
+      "tag_name": "やまといも",
+      "diff": "生",
+      "search_keywords": [
+        "大和芋",
+        "ヤマトイモ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02026",
+      "tag_name": "じねんじょ",
+      "diff": "生",
+      "search_keywords": [
+        "自然薯",
+        "ジネンジョ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02027",
+      "tag_name": "だいじょ",
+      "diff": "生",
+      "search_keywords": [
+        "大薯",
+        "ダイジョ",
+        "山芋",
+        "ヤマノイモ"
+      ]
+    },
+    {
+      "food_number": "02070",
+      "tag_name": "おおうばゆりでん粉",
+      "diff": "",
+      "search_keywords": [
+        "大姥百合澱粉",
+        "オオウバユリ澱粉"
+      ]
+    },
+    {
+      "food_number": "02028",
+      "tag_name": "キャッサバでん粉",
+      "diff": "",
+      "search_keywords": [
+        "タピオカでん粉",
+        "キャッサバ澱粉"
+      ]
+    },
+    {
+      "food_number": "02029",
+      "tag_name": "くずでん粉",
+      "diff": "",
+      "search_keywords": [
+        "葛でん粉",
+        "クズ澱粉"
+      ]
+    },
+    {
+      "food_number": "02030",
+      "tag_name": "米でん粉",
+      "diff": "",
+      "search_keywords": [
+        "こめでん粉",
+        "コメ澱粉"
+      ]
+    },
+    {
+      "food_number": "02031",
+      "tag_name": "小麦でん粉",
+      "diff": "",
+      "search_keywords": [
+        "こむぎでん粉",
+        "コムギ澱粉"
+      ]
+    },
+    {
+      "food_number": "02032",
+      "tag_name": "サゴでん粉",
+      "diff": "",
+      "search_keywords": [
+        "サゴヤシ澱粉"
+      ]
+    },
+    {
+      "food_number": "02033",
+      "tag_name": "さつまいもでん粉",
+      "diff": "",
+      "search_keywords": [
+        "薩摩芋澱粉",
+        "サツマイモ澱粉"
+      ]
+    },
+    {
+      "food_number": "02034",
+      "tag_name": "じゃがいもでん粉",
+      "diff": "",
+      "search_keywords": [
+        "馬鈴薯澱粉",
+        "ジャガイモ澱粉"
+      ]
+    },
+    {
+      "food_number": "02035",
+      "tag_name": "とうもろこしでん粉",
+      "diff": "",
+      "search_keywords": [
+        "コーンスターチ",
+        "トウモロコシ澱粉"
+      ]
+    },
+    {
+      "food_number": "02036",
+      "tag_name": "くずきり",
+      "diff": "乾",
+      "search_keywords": [
+        "葛切り"
+      ]
+    },
+    {
+      "food_number": "02037",
+      "tag_name": "くずきり",
+      "diff": "ゆで",
+      "search_keywords": [
+        "葛切り"
+      ]
+    },
+    {
+      "food_number": "02056",
+      "tag_name": "ごま豆腐",
+      "diff": "",
+      "search_keywords": [
+        "胡麻豆腐"
+      ]
+    },
+    {
+      "food_number": "02038",
+      "tag_name": "タピオカパール",
+      "diff": "乾",
+      "search_keywords": [
+        "タピオカ"
+      ]
+    },
+    {
+      "food_number": "02057",
+      "tag_name": "タピオカパール",
+      "diff": "ゆで",
+      "search_keywords": [
+        "タピオカ"
+      ]
+    },
+    {
+      "food_number": "02058",
+      "tag_name": "でん粉めん",
+      "diff": "生",
+      "search_keywords": [
+        "春雨",
+        "ビーフン",
+        "澱粉麺"
+      ]
+    },
+    {
+      "food_number": "02059",
+      "tag_name": "でん粉めん",
+      "diff": "乾",
+      "search_keywords": [
+        "春雨",
+        "ビーフン",
+        "澱粉麺"
+      ]
+    },
+    {
+      "food_number": "02060",
+      "tag_name": "でん粉めん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "春雨",
+        "ビーフン",
+        "澱粉麺"
+      ]
+    },
+    {
+      "food_number": "02039",
+      "tag_name": "緑豆はるさめ",
+      "diff": "乾",
+      "search_keywords": [
+        "緑豆春雨"
+      ]
+    },
+    {
+      "food_number": "02061",
+      "tag_name": "緑豆はるさめ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "緑豆春雨"
+      ]
+    },
+    {
+      "food_number": "02040",
+      "tag_name": "はるさめ",
+      "diff": "乾",
+      "search_keywords": [
+        "春雨"
+      ]
+    },
+    {
+      "food_number": "02062",
+      "tag_name": "はるさめ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "春雨"
+      ]
+    },
+    {
+      "food_number": "03001",
+      "tag_name": "黒砂糖",
+      "diff": "",
+      "search_keywords": [
+        "黒糖"
+      ]
+    },
+    {
+      "food_number": "03030",
+      "tag_name": "てんさい糖",
+      "diff": "",
+      "search_keywords": [
+        "甜菜糖",
+        "ビート糖",
+        "てんさい含蜜糖"
+      ]
+    }
+  ]
+}

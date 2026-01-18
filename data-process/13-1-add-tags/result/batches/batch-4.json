@@ -1,0 +1,277 @@
+{
+  "batchNumber": 4,
+  "foods": [
+    {
+      "food_number": "01058",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・乾・調味料入り",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01199",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・調理後全体・調味料入り",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01190",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・ゆで・調味料なし",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01145",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・乾・調味料なし",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01193",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・塩味・乾・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01201",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・塩味・調理後全体・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01194",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・塩味・調理後のめん・スープ残し",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01191",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・しょうゆ味・乾・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01200",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・しょうゆ味・調理後全体・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01192",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・しょうゆ味・調理後のめん・スープ残し",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01060",
+      "tag_name": "カップ焼きそば",
+      "diff": "中華スタイル・油揚げ・乾・調味料入り",
+      "search_keywords": [
+        "カップ麺",
+        "インスタント焼きそば",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01202",
+      "tag_name": "カップ焼きそば",
+      "diff": "中華スタイル・油揚げ・調理後全体・調味料入り",
+      "search_keywords": [
+        "カップ麺",
+        "インスタント焼きそば",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01061",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・非油揚げ・乾・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01203",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・非油揚げ・調理後全体・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01195",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・非油揚げ・調理後のめん・スープ残し",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01062",
+      "tag_name": "カップ麺",
+      "diff": "和風スタイル・油揚げ・乾・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01204",
+      "tag_name": "カップ麺",
+      "diff": "和風スタイル・油揚げ・調理後全体・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01196",
+      "tag_name": "カップ麺",
+      "diff": "和風スタイル・油揚げ・調理後のめん・スープ残し",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01063",
+      "tag_name": "マカロニ・スパゲッティ",
+      "diff": "乾",
+      "search_keywords": [
+        "パスタ"
+      ]
+    },
+    {
+      "food_number": "01064",
+      "tag_name": "マカロニ・スパゲッティ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "パスタ"
+      ]
+    },
+    {
+      "food_number": "01173",
+      "tag_name": "マカロニ・スパゲッティ",
+      "diff": "ソテー",
+      "search_keywords": [
+        "パスタ"
+      ]
+    },
+    {
+      "food_number": "01149",
+      "tag_name": "生パスタ",
+      "diff": "生",
+      "search_keywords": [
+        "パスタ"
+      ]
+    },
+    {
+      "food_number": "01065",
+      "tag_name": "生ふ",
+      "diff": "",
+      "search_keywords": [
+        "なまふ"
+      ]
+    },
+    {
+      "food_number": "01066",
+      "tag_name": "焼きふ",
+      "diff": "釜焼きふ",
+      "search_keywords": [
+        "かまやきふ"
+      ]
+    },
+    {
+      "food_number": "01067",
+      "tag_name": "焼きふ",
+      "diff": "板ふ",
+      "search_keywords": [
+        "いたふ"
+      ]
+    },
+    {
+      "food_number": "01068",
+      "tag_name": "焼きふ",
+      "diff": "車ふ",
+      "search_keywords": [
+        "くるまふ"
+      ]
+    },
+    {
+      "food_number": "01177",
+      "tag_name": "油ふ",
+      "diff": "",
+      "search_keywords": [
+        "あぶらふ"
+      ]
+    },
+    {
+      "food_number": "01070",
+      "tag_name": "小麦はいが",
+      "diff": "",
+      "search_keywords": [
+        "ウィートジャーム"
+      ]
+    },
+    {
+      "food_number": "01071",
+      "tag_name": "小麦たんぱく",
+      "diff": "粉末状",
+      "search_keywords": [
+        "グルテン"
+      ]
+    },
+    {
+      "food_number": "01072",
+      "tag_name": "小麦たんぱく",
+      "diff": "粒状",
+      "search_keywords": [
+        "グルテン"
+      ]
+    }
+  ]
+}

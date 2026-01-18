@@ -1,0 +1,273 @@
+{
+  "batchNumber": 99,
+  "foods": [
+    {
+      "food_number": "17054",
+      "tag_name": "みりん風調味料",
+      "diff": "",
+      "search_keywords": [
+        "みりん風",
+        "みりん調味料"
+      ]
+    },
+    {
+      "food_number": "17138",
+      "tag_name": "料理酒",
+      "diff": "",
+      "search_keywords": [
+        "調理酒"
+      ]
+    },
+    {
+      "food_number": "17055",
+      "tag_name": "オールスパイス",
+      "diff": "粉",
+      "search_keywords": [
+        "オールスパイスパウダー"
+      ]
+    },
+    {
+      "food_number": "17056",
+      "tag_name": "オニオンパウダー",
+      "diff": "",
+      "search_keywords": [
+        "玉ねぎパウダー",
+        "タマネギパウダー"
+      ]
+    },
+    {
+      "food_number": "17057",
+      "tag_name": "からし",
+      "diff": "粉",
+      "search_keywords": [
+        "芥子",
+        "カラシパウダー",
+        "マスタードパウダー"
+      ]
+    },
+    {
+      "food_number": "17058",
+      "tag_name": "からし",
+      "diff": "練り",
+      "search_keywords": [
+        "芥子",
+        "練りからし",
+        "マスタード"
+      ]
+    },
+    {
+      "food_number": "17059",
+      "tag_name": "マスタード",
+      "diff": "練り",
+      "search_keywords": [
+        "練りマスタード",
+        "からしマスタード"
+      ]
+    },
+    {
+      "food_number": "17060",
+      "tag_name": "マスタード",
+      "diff": "粒入り",
+      "search_keywords": [
+        "粒マスタード",
+        "粒入りマスタード"
+      ]
+    },
+    {
+      "food_number": "17061",
+      "tag_name": "カレー粉",
+      "diff": "",
+      "search_keywords": [
+        "カレーパウダー"
+      ]
+    },
+    {
+      "food_number": "17062",
+      "tag_name": "クローブ",
+      "diff": "粉",
+      "search_keywords": [
+        "丁子",
+        "クローブパウダー"
+      ]
+    },
+    {
+      "food_number": "17063",
+      "tag_name": "黒こしょう",
+      "diff": "粉",
+      "search_keywords": [
+        "ブラックペッパー",
+        "黒胡椒",
+        "黒コショウ"
+      ]
+    },
+    {
+      "food_number": "17064",
+      "tag_name": "白こしょう",
+      "diff": "粉",
+      "search_keywords": [
+        "ホワイトペッパー",
+        "白胡椒",
+        "白コショウ"
+      ]
+    },
+    {
+      "food_number": "17065",
+      "tag_name": "ミックスペッパー",
+      "diff": "粉",
+      "search_keywords": [
+        "混合こしょう",
+        "ミックスこしょう",
+        "ミックス胡椒"
+      ]
+    },
+    {
+      "food_number": "17066",
+      "tag_name": "さんしょう",
+      "diff": "粉",
+      "search_keywords": [
+        "山椒",
+        "サンショウパウダー"
+      ]
+    },
+    {
+      "food_number": "17067",
+      "tag_name": "シナモン",
+      "diff": "粉",
+      "search_keywords": [
+        "肉桂",
+        "シナモンパウダー"
+      ]
+    },
+    {
+      "food_number": "17068",
+      "tag_name": "しょうが",
+      "diff": "粉",
+      "search_keywords": [
+        "生姜パウダー"
+      ]
+    },
+    {
+      "food_number": "17069",
+      "tag_name": "しょうが",
+      "diff": "おろし",
+      "search_keywords": [
+        "生姜おろし"
+      ]
+    },
+    {
+      "food_number": "17070",
+      "tag_name": "セージ",
+      "diff": "粉",
+      "search_keywords": [
+        "セージパウダー"
+      ]
+    },
+    {
+      "food_number": "17071",
+      "tag_name": "タイム",
+      "diff": "粉",
+      "search_keywords": [
+        "タイムパウダー"
+      ]
+    },
+    {
+      "food_number": "17072",
+      "tag_name": "チリパウダー",
+      "diff": "",
+      "search_keywords": [
+        "チリ",
+        "チリペッパー"
+      ]
+    },
+    {
+      "food_number": "17073",
+      "tag_name": "とうがらし",
+      "diff": "粉",
+      "search_keywords": [
+        "唐辛子",
+        "レッドペッパー",
+        "トウガラシパウダー"
+      ]
+    },
+    {
+      "food_number": "17074",
+      "tag_name": "ナツメグ",
+      "diff": "粉",
+      "search_keywords": [
+        "ナツメグパウダー"
+      ]
+    },
+    {
+      "food_number": "17075",
+      "tag_name": "ガーリックパウダー",
+      "diff": "食塩無添加",
+      "search_keywords": [
+        "にんにくパウダー",
+        "ニンニクパウダー"
+      ]
+    },
+    {
+      "food_number": "17128",
+      "tag_name": "ガーリックパウダー",
+      "diff": "食塩添加",
+      "search_keywords": [
+        "にんにくパウダー",
+        "ニンニクパウダー",
+        "ガーリックソルト"
+      ]
+    },
+    {
+      "food_number": "17076",
+      "tag_name": "にんにく",
+      "diff": "おろし",
+      "search_keywords": [
+        "おろしにんにく",
+        "おろしニンニク"
+      ]
+    },
+    {
+      "food_number": "17077",
+      "tag_name": "バジル",
+      "diff": "粉",
+      "search_keywords": [
+        "バジルパウダー"
+      ]
+    },
+    {
+      "food_number": "17078",
+      "tag_name": "パセリ",
+      "diff": "乾",
+      "search_keywords": [
+        "乾燥パセリ"
+      ]
+    },
+    {
+      "food_number": "17079",
+      "tag_name": "パプリカ",
+      "diff": "粉",
+      "search_keywords": [
+        "パプリカパウダー"
+      ]
+    },
+    {
+      "food_number": "17080",
+      "tag_name": "わさび",
+      "diff": "粉・からし粉入り",
+      "search_keywords": [
+        "山葵",
+        "ワサビパウダー",
+        "からし入りわさび"
+      ]
+    },
+    {
+      "food_number": "17081",
+      "tag_name": "わさび",
+      "diff": "練り",
+      "search_keywords": [
+        "山葵",
+        "練りわさび",
+        "チューブわさび"
+      ]
+    }
+  ]
+}

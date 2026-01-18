@@ -1,0 +1,240 @@
+{
+  "batchNumber": 47,
+  "foods": [
+    {
+      "food_number": "09028",
+      "tag_name": "寒天",
+      "diff": "",
+      "search_keywords": [
+        "天草",
+        "かんてん"
+      ]
+    },
+    {
+      "food_number": "09049",
+      "tag_name": "粉寒天",
+      "diff": "",
+      "search_keywords": [
+        "天草",
+        "かんてん"
+      ]
+    },
+    {
+      "food_number": "09029",
+      "tag_name": "とさかのり",
+      "diff": "赤とさか・塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09030",
+      "tag_name": "とさかのり",
+      "diff": "青とさか・塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09050",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・ステンレス釜・乾",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    },
+    {
+      "food_number": "09051",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・ステンレス釜・ゆで",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    },
+    {
+      "food_number": "09052",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・ステンレス釜・油いため",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    },
+    {
+      "food_number": "09053",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・鉄釜・乾",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    },
+    {
+      "food_number": "09054",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・鉄釜・ゆで",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    },
+    {
+      "food_number": "09055",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・鉄釜・油いため",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    },
+    {
+      "food_number": "09032",
+      "tag_name": "ひとえぐさ",
+      "diff": "素干し",
+      "search_keywords": [
+        "アオサ",
+        "青さ"
+      ]
+    },
+    {
+      "food_number": "09033",
+      "tag_name": "ひとえぐさ",
+      "diff": "つくだ煮",
+      "search_keywords": [
+        "アオサ",
+        "青さ",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "09034",
+      "tag_name": "ふのり",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09035",
+      "tag_name": "まつも",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09036",
+      "tag_name": "むかでのり",
+      "diff": "塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09037",
+      "tag_name": "おきなわもずく",
+      "diff": "塩蔵・塩抜き",
+      "search_keywords": [
+        "沖縄もずく"
+      ]
+    },
+    {
+      "food_number": "09038",
+      "tag_name": "もずく",
+      "diff": "塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09039",
+      "tag_name": "わかめ",
+      "diff": "原藻・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09040",
+      "tag_name": "わかめ",
+      "diff": "乾燥わかめ・素干し",
+      "search_keywords": [
+        "乾燥わかめ"
+      ]
+    },
+    {
+      "food_number": "09041",
+      "tag_name": "わかめ",
+      "diff": "乾燥わかめ・素干し・水戻し",
+      "search_keywords": [
+        "乾燥わかめ"
+      ]
+    },
+    {
+      "food_number": "09060",
+      "tag_name": "わかめ",
+      "diff": "乾燥わかめ・素干し・水戻し・水煮",
+      "search_keywords": [
+        "乾燥わかめ"
+      ]
+    },
+    {
+      "food_number": "09042",
+      "tag_name": "わかめ",
+      "diff": "乾燥わかめ・板わかめ",
+      "search_keywords": [
+        "乾燥わかめ",
+        "板わかめ"
+      ]
+    },
+    {
+      "food_number": "09043",
+      "tag_name": "わかめ",
+      "diff": "乾燥わかめ・灰干し・水戻し",
+      "search_keywords": [
+        "乾燥わかめ",
+        "灰干し"
+      ]
+    },
+    {
+      "food_number": "09044",
+      "tag_name": "わかめ",
+      "diff": "カットわかめ・乾",
+      "search_keywords": [
+        "乾燥わかめ",
+        "カットわかめ"
+      ]
+    },
+    {
+      "food_number": "09058",
+      "tag_name": "わかめ",
+      "diff": "カットわかめ・水煮",
+      "search_keywords": [
+        "カットわかめ"
+      ]
+    },
+    {
+      "food_number": "09059",
+      "tag_name": "わかめの汁",
+      "diff": "カットわかめ・水煮の汁",
+      "search_keywords": [
+        "カットわかめ"
+      ]
+    },
+    {
+      "food_number": "09045",
+      "tag_name": "わかめ",
+      "diff": "湯通し塩蔵わかめ・塩抜き・生",
+      "search_keywords": [
+        "塩蔵わかめ"
+      ]
+    },
+    {
+      "food_number": "09057",
+      "tag_name": "わかめ",
+      "diff": "湯通し塩蔵わかめ・塩抜き・ゆで",
+      "search_keywords": [
+        "塩蔵わかめ"
+      ]
+    },
+    {
+      "food_number": "09046",
+      "tag_name": "くきわかめ",
+      "diff": "湯通し塩蔵・塩抜き",
+      "search_keywords": [
+        "茎わかめ"
+      ]
+    },
+    {
+      "food_number": "09047",
+      "tag_name": "めかぶ",
+      "diff": "生",
+      "search_keywords": [
+        "めかぶわかめ",
+        "メカブ"
+      ]
+    }
+  ]
+}

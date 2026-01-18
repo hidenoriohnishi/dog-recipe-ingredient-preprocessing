@@ -1,0 +1,261 @@
+{
+  "batchNumber": 28,
+  "foods": [
+    {
+      "food_number": "06339",
+      "tag_name": "スイートコーン",
+      "diff": "電子レンジ調理",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06177",
+      "tag_name": "スイートコーン",
+      "diff": "穂軸つき・冷凍",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06178",
+      "tag_name": "スイートコーン",
+      "diff": "カーネル・冷凍",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06378",
+      "tag_name": "スイートコーン",
+      "diff": "カーネル・冷凍・ゆで",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06379",
+      "tag_name": "スイートコーン",
+      "diff": "カーネル・冷凍・油いため",
+      "search_keywords": [
+        "とうもろこし",
+        "玉蜀黍",
+        "コーン"
+      ]
+    },
+    {
+      "food_number": "06179",
+      "tag_name": "スイートコーン缶",
+      "diff": "クリームスタイル",
+      "search_keywords": [
+        "とうもろこし缶",
+        "コーン缶",
+        "玉蜀黍缶"
+      ]
+    },
+    {
+      "food_number": "06180",
+      "tag_name": "スイートコーン缶",
+      "diff": "ホールカーネル",
+      "search_keywords": [
+        "とうもろこし缶",
+        "コーン缶",
+        "玉蜀黍缶"
+      ]
+    },
+    {
+      "food_number": "06181",
+      "tag_name": "ヤングコーン",
+      "diff": "",
+      "search_keywords": [
+        "ベビーコーン",
+        "とうもろこし",
+        "玉蜀黍"
+      ]
+    },
+    {
+      "food_number": "06182",
+      "tag_name": "トマト",
+      "diff": "赤色",
+      "search_keywords": [
+        "赤トマト"
+      ]
+    },
+    {
+      "food_number": "06183",
+      "tag_name": "ミニトマト",
+      "diff": "赤色",
+      "search_keywords": [
+        "プチトマト",
+        "チェリートマト"
+      ]
+    },
+    {
+      "food_number": "06391",
+      "tag_name": "トマト",
+      "diff": "黄色",
+      "search_keywords": [
+        "黄トマト"
+      ]
+    },
+    {
+      "food_number": "06370",
+      "tag_name": "ドライトマト",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06184",
+      "tag_name": "トマト缶",
+      "diff": "ホール・食塩無添加",
+      "search_keywords": [
+        "ホールトマト缶"
+      ]
+    },
+    {
+      "food_number": "06185",
+      "tag_name": "トマトジュース",
+      "diff": "食塩添加",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06340",
+      "tag_name": "トマトジュース",
+      "diff": "食塩無添加",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06186",
+      "tag_name": "トマトミックスジュース",
+      "diff": "食塩添加",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06341",
+      "tag_name": "トマトミックスジュース",
+      "diff": "食塩無添加",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06187",
+      "tag_name": "トレビス",
+      "diff": "",
+      "search_keywords": [
+        "ラディッキオ"
+      ]
+    },
+    {
+      "food_number": "06188",
+      "tag_name": "とんぶり",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06189",
+      "tag_name": "ながさきはくさい",
+      "diff": "生",
+      "search_keywords": [
+        "長崎白菜",
+        "白菜"
+      ]
+    },
+    {
+      "food_number": "06190",
+      "tag_name": "ながさきはくさい",
+      "diff": "ゆで",
+      "search_keywords": [
+        "長崎白菜",
+        "白菜"
+      ]
+    },
+    {
+      "food_number": "06191",
+      "tag_name": "なす",
+      "diff": "生",
+      "search_keywords": [
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06192",
+      "tag_name": "なす",
+      "diff": "ゆで",
+      "search_keywords": [
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06342",
+      "tag_name": "なす",
+      "diff": "油いため",
+      "search_keywords": [
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06343",
+      "tag_name": "なす",
+      "diff": "天ぷら",
+      "search_keywords": [
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06193",
+      "tag_name": "べいなす",
+      "diff": "生",
+      "search_keywords": [
+        "米なす",
+        "アメリカなす",
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06194",
+      "tag_name": "べいなす",
+      "diff": "素揚げ",
+      "search_keywords": [
+        "米なす",
+        "アメリカなす",
+        "茄子"
+      ]
+    },
+    {
+      "food_number": "06195",
+      "tag_name": "なす漬物",
+      "diff": "塩漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物"
+      ]
+    },
+    {
+      "food_number": "06196",
+      "tag_name": "なす漬物",
+      "diff": "ぬかみそ漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06197",
+      "tag_name": "なす漬物",
+      "diff": "こうじ漬",
+      "search_keywords": [
+        "茄子漬物",
+        "なすの漬物",
+        "麹漬け"
+      ]
+    }
+  ]
+}

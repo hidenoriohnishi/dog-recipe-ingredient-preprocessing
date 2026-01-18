@@ -1,0 +1,316 @@
+{
+  "batchNumber": 70,
+  "foods": [
+    {
+      "food_number": "11259",
+      "tag_name": "交雑牛リブロース肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11260",
+      "tag_name": "交雑牛ばら肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "ばら肉",
+        "バラ肉"
+      ]
+    },
+    {
+      "food_number": "11261",
+      "tag_name": "交雑牛もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11262",
+      "tag_name": "交雑牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11264",
+      "tag_name": "交雑牛もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11263",
+      "tag_name": "交雑牛もも肉",
+      "diff": "皮下脂肪なし・焼き",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11265",
+      "tag_name": "交雑牛もも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11266",
+      "tag_name": "交雑牛もも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11267",
+      "tag_name": "交雑牛ヒレ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "交雑牛",
+        "ヒレ",
+        "フィレ",
+        "テンダーロイン"
+      ]
+    },
+    {
+      "food_number": "11060",
+      "tag_name": "輸入牛かた肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かた肉",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11061",
+      "tag_name": "輸入牛かた肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かた肉",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11062",
+      "tag_name": "輸入牛かた肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かた肉",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11063",
+      "tag_name": "輸入牛かた肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かた肉",
+        "肩肉"
+      ]
+    },
+    {
+      "food_number": "11064",
+      "tag_name": "輸入牛かたロース肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かたロース",
+        "肩ロース"
+      ]
+    },
+    {
+      "food_number": "11065",
+      "tag_name": "輸入牛かたロース肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かたロース",
+        "肩ロース"
+      ]
+    },
+    {
+      "food_number": "11066",
+      "tag_name": "輸入牛かたロース肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "かたロース",
+        "肩ロース"
+      ]
+    },
+    {
+      "food_number": "11067",
+      "tag_name": "輸入牛リブロース肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11269",
+      "tag_name": "輸入牛リブロース肉",
+      "diff": "脂身つき・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11268",
+      "tag_name": "輸入牛リブロース肉",
+      "diff": "脂身つき・焼き",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11068",
+      "tag_name": "輸入牛リブロース肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11069",
+      "tag_name": "輸入牛リブロース肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11070",
+      "tag_name": "輸入牛リブロース肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "リブロース"
+      ]
+    },
+    {
+      "food_number": "11071",
+      "tag_name": "輸入牛サーロイン肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11072",
+      "tag_name": "輸入牛サーロイン肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11073",
+      "tag_name": "輸入牛サーロイン肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "サーロイン"
+      ]
+    },
+    {
+      "food_number": "11074",
+      "tag_name": "輸入牛ばら肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "ばら肉",
+        "バラ肉"
+      ]
+    },
+    {
+      "food_number": "11075",
+      "tag_name": "輸入牛もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11076",
+      "tag_name": "輸入牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11271",
+      "tag_name": "輸入牛もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11270",
+      "tag_name": "輸入牛もも肉",
+      "diff": "皮下脂肪なし・焼き",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    }
+  ]
+}

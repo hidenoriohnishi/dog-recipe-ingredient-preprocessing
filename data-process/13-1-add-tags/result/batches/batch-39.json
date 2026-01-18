@@ -1,0 +1,241 @@
+{
+  "batchNumber": 39,
+  "foods": [
+    {
+      "food_number": "07076",
+      "tag_name": "シークヮーサードリンク",
+      "diff": "10%",
+      "search_keywords": [
+        "シークワーサー"
+      ]
+    },
+    {
+      "food_number": "07165",
+      "tag_name": "しらぬひ",
+      "diff": "果肉",
+      "search_keywords": [
+        "不知火",
+        "デコポン"
+      ]
+    },
+    {
+      "food_number": "07078",
+      "tag_name": "すだち皮",
+      "diff": "",
+      "search_keywords": [
+        "酢橘"
+      ]
+    },
+    {
+      "food_number": "07079",
+      "tag_name": "すだち果汁",
+      "diff": "",
+      "search_keywords": [
+        "酢橘"
+      ]
+    },
+    {
+      "food_number": "07166",
+      "tag_name": "せとか",
+      "diff": "果肉",
+      "search_keywords": [
+        "瀬戸香"
+      ]
+    },
+    {
+      "food_number": "07085",
+      "tag_name": "セミノール",
+      "diff": "果肉",
+      "search_keywords": [
+        "セミノールオレンジ"
+      ]
+    },
+    {
+      "food_number": "07083",
+      "tag_name": "だいだい果汁",
+      "diff": "",
+      "search_keywords": [
+        "橙"
+      ]
+    },
+    {
+      "food_number": "07093",
+      "tag_name": "なつみかん",
+      "diff": "果肉",
+      "search_keywords": [
+        "夏みかん"
+      ]
+    },
+    {
+      "food_number": "07094",
+      "tag_name": "なつみかん缶詰",
+      "diff": "",
+      "search_keywords": [
+        "夏みかん"
+      ]
+    },
+    {
+      "food_number": "07105",
+      "tag_name": "はっさく",
+      "diff": "果肉",
+      "search_keywords": [
+        "八朔"
+      ]
+    },
+    {
+      "food_number": "07167",
+      "tag_name": "はるみ",
+      "diff": "果肉",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07112",
+      "tag_name": "ひゅうがなつ",
+      "diff": "薄皮付き",
+      "search_keywords": [
+        "日向夏"
+      ]
+    },
+    {
+      "food_number": "07113",
+      "tag_name": "ひゅうがなつ",
+      "diff": "果肉",
+      "search_keywords": [
+        "日向夏"
+      ]
+    },
+    {
+      "food_number": "07126",
+      "tag_name": "ぶんたん",
+      "diff": "果肉",
+      "search_keywords": [
+        "文旦",
+        "ザボン",
+        "ポメロ"
+      ]
+    },
+    {
+      "food_number": "07127",
+      "tag_name": "ざぼん漬",
+      "diff": "",
+      "search_keywords": [
+        "文旦",
+        "ザボン",
+        "ポメロ"
+      ]
+    },
+    {
+      "food_number": "07129",
+      "tag_name": "ぽんかん",
+      "diff": "果肉",
+      "search_keywords": [
+        "ポンカン"
+      ]
+    },
+    {
+      "food_number": "07142",
+      "tag_name": "ゆず皮",
+      "diff": "",
+      "search_keywords": [
+        "柚子"
+      ]
+    },
+    {
+      "food_number": "07143",
+      "tag_name": "ゆず果汁",
+      "diff": "",
+      "search_keywords": [
+        "柚子"
+      ]
+    },
+    {
+      "food_number": "07145",
+      "tag_name": "ライム果汁",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07155",
+      "tag_name": "レモン",
+      "diff": "全果",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07156",
+      "tag_name": "レモン果汁",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07054",
+      "tag_name": "キウイフルーツ",
+      "diff": "グリーン",
+      "search_keywords": [
+        "キウイ",
+        "緑肉種"
+      ]
+    },
+    {
+      "food_number": "07168",
+      "tag_name": "キウイフルーツ",
+      "diff": "ゴールド",
+      "search_keywords": [
+        "キウイ",
+        "黄肉種",
+        "ゴールドキウイ"
+      ]
+    },
+    {
+      "food_number": "07183",
+      "tag_name": "くこ",
+      "diff": "乾燥",
+      "search_keywords": [
+        "枸杞",
+        "ゴジベリー"
+      ]
+    },
+    {
+      "food_number": "07055",
+      "tag_name": "キワノ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07057",
+      "tag_name": "グァバ",
+      "diff": "赤肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07169",
+      "tag_name": "グァバ",
+      "diff": "白肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07058",
+      "tag_name": "グァバネクター",
+      "diff": "20%",
+      "search_keywords": [
+        "グアバ"
+      ]
+    },
+    {
+      "food_number": "07059",
+      "tag_name": "グァバドリンク",
+      "diff": "10%",
+      "search_keywords": [
+        "グアバ"
+      ]
+    },
+    {
+      "food_number": "07185",
+      "tag_name": "くこ",
+      "diff": "乾燥",
+      "search_keywords": [
+        "枸杞",
+        "ゴジベリー"
+      ]
+    }
+  ]
+}

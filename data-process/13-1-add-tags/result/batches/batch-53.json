@@ -1,0 +1,294 @@
+{
+  "batchNumber": 53,
+  "foods": [
+    {
+      "food_number": "10106",
+      "tag_name": "干しかれい",
+      "diff": "",
+      "search_keywords": [
+        "干物",
+        "鰈"
+      ]
+    },
+    {
+      "food_number": "10107",
+      "tag_name": "かわはぎ",
+      "diff": "",
+      "search_keywords": [
+        "皮剥",
+        "カワハギ"
+      ]
+    },
+    {
+      "food_number": "10108",
+      "tag_name": "かんぱち",
+      "diff": "三枚おろし",
+      "search_keywords": [
+        "間八",
+        "カンパチ",
+        "フィレ"
+      ]
+    },
+    {
+      "food_number": "10424",
+      "tag_name": "かんぱち",
+      "diff": "背側",
+      "search_keywords": [
+        "間八",
+        "カンパチ",
+        "背身"
+      ]
+    },
+    {
+      "food_number": "10109",
+      "tag_name": "きす",
+      "diff": "",
+      "search_keywords": [
+        "鱚"
+      ]
+    },
+    {
+      "food_number": "10400",
+      "tag_name": "きす",
+      "diff": "天ぷら",
+      "search_keywords": [
+        "鱚",
+        "天婦羅"
+      ]
+    },
+    {
+      "food_number": "10110",
+      "tag_name": "きちじ",
+      "diff": "",
+      "search_keywords": [
+        "吉次",
+        "キンキ",
+        "喜知次"
+      ]
+    },
+    {
+      "food_number": "10111",
+      "tag_name": "きびなご",
+      "diff": "",
+      "search_keywords": [
+        "黍女子",
+        "キビナゴ"
+      ]
+    },
+    {
+      "food_number": "10112",
+      "tag_name": "きびなご",
+      "diff": "調味干し",
+      "search_keywords": [
+        "黍女子",
+        "キビナゴ",
+        "干物"
+      ]
+    },
+    {
+      "food_number": "10113",
+      "tag_name": "キャビア",
+      "diff": "塩蔵",
+      "search_keywords": [
+        "魚卵",
+        "塩漬け"
+      ]
+    },
+    {
+      "food_number": "10114",
+      "tag_name": "キングクリップ",
+      "diff": "",
+      "search_keywords": [
+        "キングクリップ"
+      ]
+    },
+    {
+      "food_number": "10115",
+      "tag_name": "ぎんだら",
+      "diff": "",
+      "search_keywords": [
+        "銀鱈",
+        "ギンダラ"
+      ]
+    },
+    {
+      "food_number": "10401",
+      "tag_name": "ぎんだら",
+      "diff": "水煮",
+      "search_keywords": [
+        "銀鱈",
+        "ギンダラ"
+      ]
+    },
+    {
+      "food_number": "10116",
+      "tag_name": "きんめだい",
+      "diff": "",
+      "search_keywords": [
+        "金目鯛",
+        "キンメダイ"
+      ]
+    },
+    {
+      "food_number": "10117",
+      "tag_name": "ぐち",
+      "diff": "",
+      "search_keywords": [
+        "愚痴",
+        "シログチ",
+        "白愚痴"
+      ]
+    },
+    {
+      "food_number": "10118",
+      "tag_name": "ぐち",
+      "diff": "焼き",
+      "search_keywords": [
+        "愚痴",
+        "シログチ",
+        "白愚痴"
+      ]
+    },
+    {
+      "food_number": "10119",
+      "tag_name": "こい",
+      "diff": "養殖",
+      "search_keywords": [
+        "鯉",
+        "コイ",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10120",
+      "tag_name": "こい",
+      "diff": "養殖・水煮",
+      "search_keywords": [
+        "鯉",
+        "コイ",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10121",
+      "tag_name": "こい内臓",
+      "diff": "養殖",
+      "search_keywords": [
+        "鯉",
+        "コイ",
+        "内臓",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10122",
+      "tag_name": "まごち",
+      "diff": "",
+      "search_keywords": [
+        "真鯒",
+        "コチ",
+        "マゴチ"
+      ]
+    },
+    {
+      "food_number": "10123",
+      "tag_name": "めごち",
+      "diff": "",
+      "search_keywords": [
+        "女鯒",
+        "コチ",
+        "メゴチ"
+      ]
+    },
+    {
+      "food_number": "10124",
+      "tag_name": "このしろ",
+      "diff": "",
+      "search_keywords": [
+        "鮗",
+        "コノシロ"
+      ]
+    },
+    {
+      "food_number": "10125",
+      "tag_name": "このしろ",
+      "diff": "甘酢漬",
+      "search_keywords": [
+        "鮗",
+        "コノシロ",
+        "酢漬け"
+      ]
+    },
+    {
+      "food_number": "10126",
+      "tag_name": "からふとます",
+      "diff": "",
+      "search_keywords": [
+        "樺太鱒",
+        "カラフトマス",
+        "ピンクサーモン"
+      ]
+    },
+    {
+      "food_number": "10127",
+      "tag_name": "からふとます",
+      "diff": "焼き",
+      "search_keywords": [
+        "樺太鱒",
+        "カラフトマス",
+        "ピンクサーモン"
+      ]
+    },
+    {
+      "food_number": "10128",
+      "tag_name": "からふとます",
+      "diff": "塩ます",
+      "search_keywords": [
+        "樺太鱒",
+        "カラフトマス",
+        "塩鱒",
+        "ピンクサーモン"
+      ]
+    },
+    {
+      "food_number": "10129",
+      "tag_name": "からふとます缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "樺太鱒",
+        "カラフトマス",
+        "ピンクサーモン",
+        "缶詰"
+      ]
+    },
+    {
+      "food_number": "10130",
+      "tag_name": "ぎんざけ",
+      "diff": "養殖",
+      "search_keywords": [
+        "銀鮭",
+        "ギンザケ",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10131",
+      "tag_name": "ぎんざけ",
+      "diff": "養殖・焼き",
+      "search_keywords": [
+        "銀鮭",
+        "ギンザケ",
+        "養殖"
+      ]
+    },
+    {
+      "food_number": "10132",
+      "tag_name": "さくらます",
+      "diff": "",
+      "search_keywords": [
+        "桜鱒",
+        "サクラマス"
+      ]
+    }
+  ]
+}

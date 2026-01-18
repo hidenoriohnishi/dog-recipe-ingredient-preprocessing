@@ -1,0 +1,206 @@
+{
+  "batchNumber": 32,
+  "foods": [
+    {
+      "food_number": "06394",
+      "tag_name": "パプリカ",
+      "diff": "オレンジ・油いため",
+      "search_keywords": [
+        "オレンジピーマン",
+        "オレンジパプリカ"
+      ]
+    },
+    {
+      "food_number": "06249",
+      "tag_name": "パプリカ",
+      "diff": "黄",
+      "search_keywords": [
+        "黄ピーマン",
+        "イエローパプリカ"
+      ]
+    },
+    {
+      "food_number": "06250",
+      "tag_name": "パプリカ",
+      "diff": "黄・油いため",
+      "search_keywords": [
+        "黄ピーマン",
+        "イエローパプリカ"
+      ]
+    },
+    {
+      "food_number": "06251",
+      "tag_name": "トマピー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06252",
+      "tag_name": "ひのな",
+      "diff": "",
+      "search_keywords": [
+        "日野菜",
+        "ひのなかぶ"
+      ]
+    },
+    {
+      "food_number": "06253",
+      "tag_name": "ひのな",
+      "diff": "甘酢漬",
+      "search_keywords": [
+        "日野菜",
+        "ひのなかぶ"
+      ]
+    },
+    {
+      "food_number": "06254",
+      "tag_name": "ひろしまな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06255",
+      "tag_name": "ひろしまな",
+      "diff": "塩漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06256",
+      "tag_name": "ふき",
+      "diff": "葉柄",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06257",
+      "tag_name": "ふき",
+      "diff": "葉柄・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06258",
+      "tag_name": "ふきのとう",
+      "diff": "花序",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06259",
+      "tag_name": "ふきのとう",
+      "diff": "花序・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06260",
+      "tag_name": "ふじまめ",
+      "diff": "若ざや",
+      "search_keywords": [
+        "藤豆",
+        "ヒアシンス豆"
+      ]
+    },
+    {
+      "food_number": "06261",
+      "tag_name": "ふだんそう",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06262",
+      "tag_name": "ふだんそう",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06263",
+      "tag_name": "ブロッコリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06264",
+      "tag_name": "ブロッコリー",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06395",
+      "tag_name": "ブロッコリー",
+      "diff": "電子レンジ調理",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06396",
+      "tag_name": "ブロッコリー",
+      "diff": "焼き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06397",
+      "tag_name": "ブロッコリー",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06354",
+      "tag_name": "ブロッコリースプラウト",
+      "diff": "",
+      "search_keywords": [
+        "ブロッコリー芽ばえ",
+        "ブロッコリースプラウト"
+      ]
+    },
+    {
+      "food_number": "06265",
+      "tag_name": "へちま",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06266",
+      "tag_name": "へちま",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06267",
+      "tag_name": "ほうれんそう",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06268",
+      "tag_name": "ほうれんそう",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06359",
+      "tag_name": "ほうれんそう",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06355",
+      "tag_name": "ほうれんそう",
+      "diff": "夏採り",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06357",
+      "tag_name": "ほうれんそう",
+      "diff": "夏採り・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06356",
+      "tag_name": "ほうれんそう",
+      "diff": "冬採り",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06358",
+      "tag_name": "ほうれんそう",
+      "diff": "冬採り・ゆで",
+      "search_keywords": []
+    }
+  ]
+}

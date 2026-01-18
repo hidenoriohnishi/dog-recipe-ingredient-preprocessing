@@ -1,0 +1,199 @@
+{
+  "batchNumber": 16,
+  "foods": [
+    {
+      "food_number": "04084",
+      "tag_name": "油揚げ",
+      "diff": "油抜き・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04086",
+      "tag_name": "油揚げ",
+      "diff": "油抜き・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04085",
+      "tag_name": "油揚げ",
+      "diff": "油抜き・焼き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04095",
+      "tag_name": "油揚げ",
+      "diff": "甘煮",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04041",
+      "tag_name": "がんもどき",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04042",
+      "tag_name": "高野豆腐",
+      "diff": "乾",
+      "search_keywords": [
+        "凍り豆腐"
+      ]
+    },
+    {
+      "food_number": "04087",
+      "tag_name": "高野豆腐",
+      "diff": "水煮",
+      "search_keywords": [
+        "凍り豆腐"
+      ]
+    },
+    {
+      "food_number": "04043",
+      "tag_name": "豆腐よう",
+      "diff": "",
+      "search_keywords": [
+        "とうふよう"
+      ]
+    },
+    {
+      "food_number": "04044",
+      "tag_name": "豆腐ちくわ",
+      "diff": "蒸し",
+      "search_keywords": [
+        "豆腐竹輪"
+      ]
+    },
+    {
+      "food_number": "04045",
+      "tag_name": "豆腐ちくわ",
+      "diff": "焼き",
+      "search_keywords": [
+        "豆腐竹輪"
+      ]
+    },
+    {
+      "food_number": "04088",
+      "tag_name": "ろくじょう豆腐",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04046",
+      "tag_name": "納豆",
+      "diff": "糸引き",
+      "search_keywords": [
+        "糸引き納豆"
+      ]
+    },
+    {
+      "food_number": "04047",
+      "tag_name": "納豆",
+      "diff": "ひきわり",
+      "search_keywords": [
+        "挽きわり納豆"
+      ]
+    },
+    {
+      "food_number": "04048",
+      "tag_name": "五斗納豆",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04114",
+      "tag_name": "塩納豆",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04049",
+      "tag_name": "寺納豆",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04115",
+      "tag_name": "干し納豆",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04051",
+      "tag_name": "おから",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04089",
+      "tag_name": "おから",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04052",
+      "tag_name": "豆乳",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04053",
+      "tag_name": "調製豆乳",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04054",
+      "tag_name": "豆乳飲料",
+      "diff": "麦芽コーヒー",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04055",
+      "tag_name": "大豆たんぱく",
+      "diff": "粒状",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04056",
+      "tag_name": "大豆たんぱく",
+      "diff": "濃縮",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04057",
+      "tag_name": "大豆たんぱく",
+      "diff": "分離・塩分無調整",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04090",
+      "tag_name": "大豆たんぱく",
+      "diff": "分離・塩分調整",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04058",
+      "tag_name": "大豆たんぱく",
+      "diff": "繊維状",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04059",
+      "tag_name": "湯葉",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04060",
+      "tag_name": "湯葉",
+      "diff": "干し・乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04091",
+      "tag_name": "湯葉",
+      "diff": "干し・湯戻し",
+      "search_keywords": []
+    }
+  ]
+}

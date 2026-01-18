@@ -1,0 +1,110 @@
+{
+  "batchNumber": 102,
+  "foods": [
+    {
+      "food_number": "18010",
+      "tag_name": "白身フライ",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18016",
+      "tag_name": "メンチカツ",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18003",
+      "tag_name": "えびグラタン",
+      "diff": "",
+      "search_keywords": [
+        "海老グラタン"
+      ]
+    },
+    {
+      "food_number": "18014",
+      "tag_name": "えびピラフ",
+      "diff": "",
+      "search_keywords": [
+        "海老ピラフ"
+      ]
+    },
+    {
+      "food_number": "18002",
+      "tag_name": "ぎょうざ",
+      "diff": "",
+      "search_keywords": [
+        "餃子"
+      ]
+    },
+    {
+      "food_number": "18012",
+      "tag_name": "しゅうまい",
+      "diff": "",
+      "search_keywords": [
+        "焼売"
+      ]
+    },
+    {
+      "food_number": "18046",
+      "tag_name": "中華ちまき",
+      "diff": "",
+      "search_keywords": [
+        "ちまき",
+        "粽"
+      ]
+    },
+    {
+      "food_number": "18056",
+      "tag_name": "春巻き",
+      "diff": "",
+      "search_keywords": [
+        "春巻"
+      ]
+    },
+    {
+      "food_number": "18047",
+      "tag_name": "酢豚",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18057",
+      "tag_name": "チャーハン",
+      "diff": "",
+      "search_keywords": [
+        "炒飯"
+      ]
+    },
+    {
+      "food_number": "18048",
+      "tag_name": "八宝菜",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18049",
+      "tag_name": "麻婆豆腐",
+      "diff": "",
+      "search_keywords": [
+        "マーボー豆腐"
+      ]
+    },
+    {
+      "food_number": "18039",
+      "tag_name": "もやしナムル",
+      "diff": "",
+      "search_keywords": [
+        "ナムル"
+      ]
+    },
+    {
+      "food_number": "12024",
+      "tag_name": "卵の殻",
+      "diff": "",
+      "search_keywords": [
+        "鶏卵殻"
+      ]
+    }
+  ]
+}

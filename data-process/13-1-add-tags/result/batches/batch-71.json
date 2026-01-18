@@ -1,0 +1,318 @@
+{
+  "batchNumber": 71,
+  "foods": [
+    {
+      "food_number": "11074",
+      "tag_name": "輸入牛ばら肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "ばら肉",
+        "バラ肉"
+      ]
+    },
+    {
+      "food_number": "11075",
+      "tag_name": "輸入牛もも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11076",
+      "tag_name": "輸入牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11271",
+      "tag_name": "輸入牛もも肉",
+      "diff": "皮下脂肪なし・ゆで",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11270",
+      "tag_name": "輸入牛もも肉",
+      "diff": "皮下脂肪なし・焼き",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11077",
+      "tag_name": "輸入牛もも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11078",
+      "tag_name": "輸入牛もも肉",
+      "diff": "脂身",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "もも肉"
+      ]
+    },
+    {
+      "food_number": "11079",
+      "tag_name": "輸入牛そともも肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "そともも",
+        "外もも"
+      ]
+    },
+    {
+      "food_number": "11080",
+      "tag_name": "輸入牛そともも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "そともも",
+        "外もも"
+      ]
+    },
+    {
+      "food_number": "11081",
+      "tag_name": "輸入牛そともも肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "そともも",
+        "外もも"
+      ]
+    },
+    {
+      "food_number": "11082",
+      "tag_name": "輸入牛ランプ肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "ランプ"
+      ]
+    },
+    {
+      "food_number": "11083",
+      "tag_name": "輸入牛ランプ肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "ランプ"
+      ]
+    },
+    {
+      "food_number": "11084",
+      "tag_name": "輸入牛ランプ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "ランプ"
+      ]
+    },
+    {
+      "food_number": "11085",
+      "tag_name": "輸入牛ヒレ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "牛肉",
+        "輸入牛",
+        "ヒレ",
+        "フィレ",
+        "テンダーロイン"
+      ]
+    },
+    {
+      "food_number": "11086",
+      "tag_name": "子牛リブロース",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "子牛肉",
+        "リブロース",
+        "仔牛"
+      ]
+    },
+    {
+      "food_number": "11087",
+      "tag_name": "子牛ばら肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "子牛肉",
+        "ばら肉",
+        "バラ肉",
+        "仔牛"
+      ]
+    },
+    {
+      "food_number": "11088",
+      "tag_name": "子牛もも肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "子牛肉",
+        "もも肉",
+        "仔牛"
+      ]
+    },
+    {
+      "food_number": "11089",
+      "tag_name": "牛ひき肉",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11272",
+      "tag_name": "牛ひき肉",
+      "diff": "焼き",
+      "search_keywords": [
+        "牛肉",
+        "挽肉",
+        "ミンチ"
+      ]
+    },
+    {
+      "food_number": "11090",
+      "tag_name": "牛タン",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "舌",
+        "タン"
+      ]
+    },
+    {
+      "food_number": "11273",
+      "tag_name": "牛タン",
+      "diff": "焼き",
+      "search_keywords": [
+        "牛肉",
+        "舌",
+        "タン"
+      ]
+    },
+    {
+      "food_number": "11091",
+      "tag_name": "牛ハツ",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "心臓",
+        "ハツ"
+      ]
+    },
+    {
+      "food_number": "11092",
+      "tag_name": "牛レバー",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "肝臓",
+        "レバー"
+      ]
+    },
+    {
+      "food_number": "11093",
+      "tag_name": "牛腎臓",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "じん臓",
+        "腎臓",
+        "キドニー"
+      ]
+    },
+    {
+      "food_number": "11094",
+      "tag_name": "牛ミノ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "第一胃",
+        "ミノ",
+        "トリッパ",
+        "ルーメン"
+      ]
+    },
+    {
+      "food_number": "11095",
+      "tag_name": "牛ハチノス",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "第二胃",
+        "ハチノス",
+        "レティキュラム"
+      ]
+    },
+    {
+      "food_number": "11096",
+      "tag_name": "牛センマイ",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "第三胃",
+        "センマイ",
+        "オマスム"
+      ]
+    },
+    {
+      "food_number": "11097",
+      "tag_name": "牛ギアラ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "第四胃",
+        "ギアラ",
+        "アバラサム"
+      ]
+    },
+    {
+      "food_number": "11098",
+      "tag_name": "牛小腸",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "小腸",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11099",
+      "tag_name": "牛大腸",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "大腸",
+        "ホルモン"
+      ]
+    }
+  ]
+}

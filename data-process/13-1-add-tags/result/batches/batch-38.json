@@ -1,0 +1,246 @@
+{
+  "batchNumber": 38,
+  "foods": [
+    {
+      "food_number": "07035",
+      "tag_name": "みかん",
+      "diff": "缶詰・果肉",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07036",
+      "tag_name": "みかんシロップ",
+      "diff": "缶詰・液汁",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07040",
+      "tag_name": "オレンジ",
+      "diff": "ネーブル・果肉",
+      "search_keywords": [
+        "ネーブル"
+      ]
+    },
+    {
+      "food_number": "07041",
+      "tag_name": "オレンジ",
+      "diff": "バレンシア・米国産・果肉",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07042",
+      "tag_name": "オレンジジュース",
+      "diff": "バレンシア・ストレート",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07043",
+      "tag_name": "オレンジジュース",
+      "diff": "バレンシア・濃縮還元",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07044",
+      "tag_name": "オレンジドリンク",
+      "diff": "バレンシア・50%",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07045",
+      "tag_name": "オレンジドリンク",
+      "diff": "バレンシア・30%",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07046",
+      "tag_name": "オレンジマーマレード",
+      "diff": "バレンシア・高糖度",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07047",
+      "tag_name": "オレンジマーマレード",
+      "diff": "バレンシア・低糖度",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07161",
+      "tag_name": "オレンジ",
+      "diff": "福原オレンジ・果肉",
+      "search_keywords": [
+        "福原オレンジ"
+      ]
+    },
+    {
+      "food_number": "07048",
+      "tag_name": "オロブランコ",
+      "diff": "果肉",
+      "search_keywords": [
+        "オロブランコ"
+      ]
+    },
+    {
+      "food_number": "07052",
+      "tag_name": "かぼす果汁",
+      "diff": "",
+      "search_keywords": [
+        "カボス"
+      ]
+    },
+    {
+      "food_number": "07162",
+      "tag_name": "かわちばんかん",
+      "diff": "果肉",
+      "search_keywords": [
+        "河内晩柑"
+      ]
+    },
+    {
+      "food_number": "07163",
+      "tag_name": "きよみ",
+      "diff": "果肉",
+      "search_keywords": [
+        "清見"
+      ]
+    },
+    {
+      "food_number": "07056",
+      "tag_name": "きんかん",
+      "diff": "全果",
+      "search_keywords": [
+        "金柑"
+      ]
+    },
+    {
+      "food_number": "07062",
+      "tag_name": "グレープフルーツ",
+      "diff": "白肉・果肉",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07164",
+      "tag_name": "グレープフルーツ",
+      "diff": "紅肉・果肉",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07063",
+      "tag_name": "グレープフルーツジュース",
+      "diff": "ストレート",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07064",
+      "tag_name": "グレープフルーツジュース",
+      "diff": "濃縮還元",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07065",
+      "tag_name": "グレープフルーツドリンク",
+      "diff": "50%",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07066",
+      "tag_name": "グレープフルーツドリンク",
+      "diff": "20%",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07067",
+      "tag_name": "グレープフルーツ",
+      "diff": "缶詰",
+      "search_keywords": [
+        "グレープフルーツ"
+      ]
+    },
+    {
+      "food_number": "07074",
+      "tag_name": "さんぼうかん",
+      "diff": "果肉",
+      "search_keywords": [
+        "三宝柑"
+      ]
+    },
+    {
+      "food_number": "07075",
+      "tag_name": "シークヮーサー果汁",
+      "diff": "",
+      "search_keywords": [
+        "シークワーサー"
+      ]
+    },
+    {
+      "food_number": "07076",
+      "tag_name": "シークヮーサードリンク",
+      "diff": "10%",
+      "search_keywords": [
+        "シークワーサー"
+      ]
+    },
+    {
+      "food_number": "07165",
+      "tag_name": "しらぬひ",
+      "diff": "果肉",
+      "search_keywords": [
+        "不知火",
+        "デコポン"
+      ]
+    },
+    {
+      "food_number": "07078",
+      "tag_name": "すだち皮",
+      "diff": "",
+      "search_keywords": [
+        "酢橘"
+      ]
+    },
+    {
+      "food_number": "07079",
+      "tag_name": "すだち果汁",
+      "diff": "",
+      "search_keywords": [
+        "酢橘"
+      ]
+    },
+    {
+      "food_number": "07166",
+      "tag_name": "せとか",
+      "diff": "果肉",
+      "search_keywords": [
+        "瀬戸香"
+      ]
+    }
+  ]
+}

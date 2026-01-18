@@ -1,0 +1,319 @@
+{
+  "batchNumber": 72,
+  "foods": [
+    {
+      "food_number": "11095",
+      "tag_name": "牛ハチノス",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "第二胃",
+        "ハチノス",
+        "レティキュラム"
+      ]
+    },
+    {
+      "food_number": "11096",
+      "tag_name": "牛センマイ",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "第三胃",
+        "センマイ",
+        "オマスム"
+      ]
+    },
+    {
+      "food_number": "11097",
+      "tag_name": "牛ギアラ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "第四胃",
+        "ギアラ",
+        "アバラサム"
+      ]
+    },
+    {
+      "food_number": "11098",
+      "tag_name": "牛小腸",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "小腸",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11099",
+      "tag_name": "牛大腸",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "大腸",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11100",
+      "tag_name": "牛直腸",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "直腸",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11101",
+      "tag_name": "牛すじ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "腱",
+        "すじ肉"
+      ]
+    },
+    {
+      "food_number": "11102",
+      "tag_name": "牛子宮",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "子宮",
+        "ホルモン"
+      ]
+    },
+    {
+      "food_number": "11103",
+      "tag_name": "牛テール",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "尾",
+        "テール"
+      ]
+    },
+    {
+      "food_number": "11274",
+      "tag_name": "牛ハラミ",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "横隔膜",
+        "ハラミ"
+      ]
+    },
+    {
+      "food_number": "11296",
+      "tag_name": "牛ハラミ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "牛肉",
+        "横隔膜",
+        "ハラミ"
+      ]
+    },
+    {
+      "food_number": "11297",
+      "tag_name": "牛ハラミ",
+      "diff": "焼き",
+      "search_keywords": [
+        "牛肉",
+        "横隔膜",
+        "ハラミ"
+      ]
+    },
+    {
+      "food_number": "11104",
+      "tag_name": "ローストビーフ",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "ロースト"
+      ]
+    },
+    {
+      "food_number": "11105",
+      "tag_name": "コンビーフ",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "コンビーフ缶詰"
+      ]
+    },
+    {
+      "food_number": "11106",
+      "tag_name": "牛肉缶詰",
+      "diff": "味付け",
+      "search_keywords": [
+        "牛肉",
+        "味付け缶詰"
+      ]
+    },
+    {
+      "food_number": "11107",
+      "tag_name": "ビーフジャーキー",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "ジャーキー"
+      ]
+    },
+    {
+      "food_number": "11108",
+      "tag_name": "スモークタン",
+      "diff": "",
+      "search_keywords": [
+        "牛肉",
+        "タン",
+        "スモーク"
+      ]
+    },
+    {
+      "food_number": "11109",
+      "tag_name": "馬肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "うま",
+        "馬",
+        "赤肉",
+        "馬刺し"
+      ]
+    },
+    {
+      "food_number": "11110",
+      "tag_name": "くじら肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "鯨",
+        "くじら",
+        "赤肉"
+      ]
+    },
+    {
+      "food_number": "11111",
+      "tag_name": "くじら肉",
+      "diff": "うねす",
+      "search_keywords": [
+        "鯨",
+        "くじら",
+        "うねす",
+        "腹身"
+      ]
+    },
+    {
+      "food_number": "11112",
+      "tag_name": "くじら本皮",
+      "diff": "",
+      "search_keywords": [
+        "鯨",
+        "くじら",
+        "本皮"
+      ]
+    },
+    {
+      "food_number": "11113",
+      "tag_name": "さらしくじら",
+      "diff": "",
+      "search_keywords": [
+        "鯨",
+        "くじら",
+        "さらし"
+      ]
+    },
+    {
+      "food_number": "11114",
+      "tag_name": "鹿肉",
+      "diff": "あかしか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "赤鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11275",
+      "tag_name": "鹿肉",
+      "diff": "にほんじか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "日本鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11294",
+      "tag_name": "鹿肉",
+      "diff": "えぞしか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "エゾシカ",
+        "蝦夷鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11295",
+      "tag_name": "鹿肉",
+      "diff": "きゅうしゅうじか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "九州鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11311",
+      "tag_name": "鹿肉",
+      "diff": "ほんしゅうじか・赤身",
+      "search_keywords": [
+        "鹿",
+        "しか",
+        "本州鹿",
+        "赤肉",
+        "ジビエ"
+      ]
+    },
+    {
+      "food_number": "11115",
+      "tag_name": "豚肩肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種"
+      ]
+    },
+    {
+      "food_number": "11116",
+      "tag_name": "豚肩肉",
+      "diff": "皮下脂肪なし",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種",
+        "脂肪なし"
+      ]
+    },
+    {
+      "food_number": "11117",
+      "tag_name": "豚肩肉",
+      "diff": "赤身",
+      "search_keywords": [
+        "豚肉",
+        "肩",
+        "大型種",
+        "赤肉"
+      ]
+    }
+  ]
+}

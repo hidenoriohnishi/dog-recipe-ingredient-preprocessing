@@ -1,0 +1,195 @@
+{
+  "batchNumber": 40,
+  "foods": [
+    {
+      "food_number": "07057",
+      "tag_name": "グァバ",
+      "diff": "赤肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07169",
+      "tag_name": "グァバ",
+      "diff": "白肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07058",
+      "tag_name": "グァバネクター",
+      "diff": "20%",
+      "search_keywords": [
+        "グアバ"
+      ]
+    },
+    {
+      "food_number": "07059",
+      "tag_name": "グァバドリンク",
+      "diff": "10%",
+      "search_keywords": [
+        "グアバ"
+      ]
+    },
+    {
+      "food_number": "07185",
+      "tag_name": "くこ",
+      "diff": "乾燥",
+      "search_keywords": [
+        "枸杞",
+        "ゴジベリー"
+      ]
+    },
+    {
+      "food_number": "07061",
+      "tag_name": "ぐみ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07157",
+      "tag_name": "ココナッツウォーター",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07158",
+      "tag_name": "ココナッツミルク",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07170",
+      "tag_name": "ナタデココ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07070",
+      "tag_name": "さくらんぼ",
+      "diff": "国産",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07071",
+      "tag_name": "さくらんぼ",
+      "diff": "米国産",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07072",
+      "tag_name": "さくらんぼ",
+      "diff": "米国産・缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07073",
+      "tag_name": "ざくろ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07077",
+      "tag_name": "すいか",
+      "diff": "赤肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07171",
+      "tag_name": "すいか",
+      "diff": "黄肉種",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07186",
+      "tag_name": "赤すぐり",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07182",
+      "tag_name": "カシス",
+      "diff": "冷凍",
+      "search_keywords": [
+        "黒すぐり",
+        "ブラックカラント"
+      ]
+    },
+    {
+      "food_number": "07060",
+      "tag_name": "グーズベリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07069",
+      "tag_name": "スターフルーツ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07080",
+      "tag_name": "すもも",
+      "diff": "日本すもも",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07081",
+      "tag_name": "プルーン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07082",
+      "tag_name": "プルーン",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07086",
+      "tag_name": "チェリモヤ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07111",
+      "tag_name": "ドラゴンフルーツ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07087",
+      "tag_name": "ドリアン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07088",
+      "tag_name": "日本なし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07089",
+      "tag_name": "日本なし",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07090",
+      "tag_name": "中国なし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07091",
+      "tag_name": "西洋なし",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07092",
+      "tag_name": "西洋なし",
+      "diff": "缶詰",
+      "search_keywords": []
+    }
+  ]
+}

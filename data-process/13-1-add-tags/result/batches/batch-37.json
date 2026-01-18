@@ -1,0 +1,227 @@
+{
+  "batchNumber": 37,
+  "foods": [
+    {
+      "food_number": "07017",
+      "tag_name": "いちじく",
+      "diff": "缶詰",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07019",
+      "tag_name": "うめ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07020",
+      "tag_name": "梅漬け",
+      "diff": "塩漬",
+      "search_keywords": [
+        "梅漬"
+      ]
+    },
+    {
+      "food_number": "07021",
+      "tag_name": "梅漬け",
+      "diff": "調味漬",
+      "search_keywords": [
+        "梅漬"
+      ]
+    },
+    {
+      "food_number": "07022",
+      "tag_name": "梅干し",
+      "diff": "塩漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07023",
+      "tag_name": "梅干し",
+      "diff": "調味漬",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07024",
+      "tag_name": "梅びしお",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07025",
+      "tag_name": "うめジュース",
+      "diff": "20%果汁",
+      "search_keywords": [
+        "梅ジュース"
+      ]
+    },
+    {
+      "food_number": "07037",
+      "tag_name": "グリーンオリーブ",
+      "diff": "塩漬",
+      "search_keywords": [
+        "オリーブ"
+      ]
+    },
+    {
+      "food_number": "07038",
+      "tag_name": "ブラックオリーブ",
+      "diff": "塩漬",
+      "search_keywords": [
+        "オリーブ"
+      ]
+    },
+    {
+      "food_number": "07039",
+      "tag_name": "スタッフドオリーブ",
+      "diff": "塩漬",
+      "search_keywords": [
+        "オリーブ"
+      ]
+    },
+    {
+      "food_number": "07049",
+      "tag_name": "かき",
+      "diff": "甘がき",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07050",
+      "tag_name": "かき",
+      "diff": "渋抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07051",
+      "tag_name": "干しがき",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07053",
+      "tag_name": "かりん",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07018",
+      "tag_name": "伊予柑",
+      "diff": "",
+      "search_keywords": [
+        "いよかん"
+      ]
+    },
+    {
+      "food_number": "07026",
+      "tag_name": "みかん",
+      "diff": "温州みかん・早生・薄皮付き",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07027",
+      "tag_name": "みかん",
+      "diff": "温州みかん・普通・薄皮付き",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07028",
+      "tag_name": "みかん",
+      "diff": "温州みかん・早生・果肉",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07029",
+      "tag_name": "みかん",
+      "diff": "温州みかん・普通・果肉",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07030",
+      "tag_name": "みかんジュース",
+      "diff": "ストレート",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07031",
+      "tag_name": "みかんジュース",
+      "diff": "濃縮還元",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07032",
+      "tag_name": "みかんジュース",
+      "diff": "果粒入り",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07033",
+      "tag_name": "みかんドリンク",
+      "diff": "50%果汁",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07034",
+      "tag_name": "みかんドリンク",
+      "diff": "20%果汁",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07035",
+      "tag_name": "みかん",
+      "diff": "缶詰・果肉",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07036",
+      "tag_name": "みかんシロップ",
+      "diff": "缶詰・液汁",
+      "search_keywords": [
+        "温州みかん"
+      ]
+    },
+    {
+      "food_number": "07040",
+      "tag_name": "オレンジ",
+      "diff": "ネーブル・果肉",
+      "search_keywords": [
+        "ネーブル"
+      ]
+    },
+    {
+      "food_number": "07041",
+      "tag_name": "オレンジ",
+      "diff": "バレンシア・米国産・果肉",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    },
+    {
+      "food_number": "07042",
+      "tag_name": "オレンジジュース",
+      "diff": "バレンシア・ストレート",
+      "search_keywords": [
+        "バレンシア"
+      ]
+    }
+  ]
+}

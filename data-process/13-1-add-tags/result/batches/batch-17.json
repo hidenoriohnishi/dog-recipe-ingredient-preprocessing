@@ -1,0 +1,247 @@
+{
+  "batchNumber": 17,
+  "foods": [
+    {
+      "food_number": "04090",
+      "tag_name": "大豆たんぱく",
+      "diff": "分離・塩分調整",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04058",
+      "tag_name": "大豆たんぱく",
+      "diff": "繊維状",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04059",
+      "tag_name": "湯葉",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04060",
+      "tag_name": "湯葉",
+      "diff": "干し・乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04091",
+      "tag_name": "湯葉",
+      "diff": "干し・湯戻し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04061",
+      "tag_name": "金山寺みそ",
+      "diff": "",
+      "search_keywords": [
+        "金山寺味噌"
+      ]
+    },
+    {
+      "food_number": "04062",
+      "tag_name": "ひしおみそ",
+      "diff": "",
+      "search_keywords": [
+        "醤味噌",
+        "醤"
+      ]
+    },
+    {
+      "food_number": "04063",
+      "tag_name": "テンペ",
+      "diff": "",
+      "search_keywords": [
+        "テンペー"
+      ]
+    },
+    {
+      "food_number": "04064",
+      "tag_name": "あずき",
+      "diff": "乾",
+      "search_keywords": [
+        "小豆",
+        "アズキ"
+      ]
+    },
+    {
+      "food_number": "04092",
+      "tag_name": "あずき",
+      "diff": "ゆで",
+      "search_keywords": [
+        "小豆",
+        "アズキ"
+      ]
+    },
+    {
+      "food_number": "04065",
+      "tag_name": "ひよこ豆",
+      "diff": "乾",
+      "search_keywords": [
+        "ガルバンゾ",
+        "ガルバンゾー",
+        "チックピー"
+      ]
+    },
+    {
+      "food_number": "04066",
+      "tag_name": "ひよこ豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "ガルバンゾ",
+        "ガルバンゾー",
+        "チックピー"
+      ]
+    },
+    {
+      "food_number": "04067",
+      "tag_name": "ひよこ豆",
+      "diff": "フライ・味付け",
+      "search_keywords": [
+        "ガルバンゾ",
+        "ガルバンゾー",
+        "チックピー"
+      ]
+    },
+    {
+      "food_number": "04068",
+      "tag_name": "金時豆",
+      "diff": "乾",
+      "search_keywords": [
+        "べにばないんげん",
+        "レッドキドニー",
+        "赤いんげん"
+      ]
+    },
+    {
+      "food_number": "04069",
+      "tag_name": "金時豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "べにばないんげん",
+        "レッドキドニー",
+        "赤いんげん"
+      ]
+    },
+    {
+      "food_number": "04108",
+      "tag_name": "やぶまめ",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "04070",
+      "tag_name": "ライマメ",
+      "diff": "乾",
+      "search_keywords": [
+        "らいまめ",
+        "リマ豆",
+        "バタービーンズ"
+      ]
+    },
+    {
+      "food_number": "04093",
+      "tag_name": "ライマメ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "らいまめ",
+        "リマ豆",
+        "バタービーンズ"
+      ]
+    },
+    {
+      "food_number": "04071",
+      "tag_name": "緑豆",
+      "diff": "乾",
+      "search_keywords": [
+        "りょくとう",
+        "ムング豆"
+      ]
+    },
+    {
+      "food_number": "04072",
+      "tag_name": "緑豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "りょくとう",
+        "ムング豆"
+      ]
+    },
+    {
+      "food_number": "04073",
+      "tag_name": "レンズ豆",
+      "diff": "乾",
+      "search_keywords": [
+        "レンティル"
+      ]
+    },
+    {
+      "food_number": "04094",
+      "tag_name": "レンズ豆",
+      "diff": "ゆで",
+      "search_keywords": [
+        "レンティル"
+      ]
+    },
+    {
+      "food_number": "05001",
+      "tag_name": "アーモンド",
+      "diff": "乾",
+      "search_keywords": []
+    },
+    {
+      "food_number": "05002",
+      "tag_name": "アーモンド",
+      "diff": "フライ・味付け",
+      "search_keywords": []
+    },
+    {
+      "food_number": "05040",
+      "tag_name": "アーモンド",
+      "diff": "いり・無塩",
+      "search_keywords": []
+    },
+    {
+      "food_number": "05003",
+      "tag_name": "麻の実",
+      "diff": "乾",
+      "search_keywords": [
+        "あさ",
+        "ヘンプシード"
+      ]
+    },
+    {
+      "food_number": "05041",
+      "tag_name": "亜麻仁",
+      "diff": "いり",
+      "search_keywords": [
+        "あまに",
+        "フラックスシード"
+      ]
+    },
+    {
+      "food_number": "05004",
+      "tag_name": "えごま",
+      "diff": "乾",
+      "search_keywords": [
+        "エゴマ",
+        "しそ油"
+      ]
+    },
+    {
+      "food_number": "05005",
+      "tag_name": "カシューナッツ",
+      "diff": "フライ・味付け",
+      "search_keywords": []
+    },
+    {
+      "food_number": "05006",
+      "tag_name": "かぼちゃの種",
+      "diff": "いり・味付け",
+      "search_keywords": [
+        "パンプキンシード"
+      ]
+    }
+  ]
+}

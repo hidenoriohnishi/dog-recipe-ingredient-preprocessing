@@ -1,0 +1,223 @@
+{
+  "batchNumber": 101,
+  "foods": [
+    {
+      "food_number": "18023",
+      "tag_name": "松前漬け",
+      "diff": "しょうゆ漬",
+      "search_keywords": [
+        "松前漬",
+        "醤油漬け"
+      ]
+    },
+    {
+      "food_number": "18040",
+      "tag_name": "チキンカレー",
+      "diff": "",
+      "search_keywords": [
+        "鶏肉カレー"
+      ]
+    },
+    {
+      "food_number": "18001",
+      "tag_name": "ビーフカレー",
+      "diff": "",
+      "search_keywords": [
+        "牛肉カレー"
+      ]
+    },
+    {
+      "food_number": "18041",
+      "tag_name": "ポークカレー",
+      "diff": "",
+      "search_keywords": [
+        "豚肉カレー"
+      ]
+    },
+    {
+      "food_number": "18043",
+      "tag_name": "カニクリームコロッケ",
+      "diff": "",
+      "search_keywords": [
+        "蟹クリームコロッケ"
+      ]
+    },
+    {
+      "food_number": "18044",
+      "tag_name": "コーンクリームコロッケ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18018",
+      "tag_name": "ポテトコロッケ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18045",
+      "tag_name": "チキンシチュー",
+      "diff": "",
+      "search_keywords": [
+        "鶏肉シチュー"
+      ]
+    },
+    {
+      "food_number": "18011",
+      "tag_name": "ビーフシチュー",
+      "diff": "",
+      "search_keywords": [
+        "牛肉シチュー"
+      ]
+    },
+    {
+      "food_number": "18015",
+      "tag_name": "ミートボール",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18042",
+      "tag_name": "かぼちゃのクリームスープ",
+      "diff": "",
+      "search_keywords": [
+        "パンプキンスープ"
+      ]
+    },
+    {
+      "food_number": "18005",
+      "tag_name": "コーンクリームスープ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18004",
+      "tag_name": "コーンクリームスープ",
+      "diff": "粉末タイプ",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18050",
+      "tag_name": "合いびきハンバーグ",
+      "diff": "",
+      "search_keywords": [
+        "合挽きハンバーグ",
+        "合い挽きハンバーグ"
+      ]
+    },
+    {
+      "food_number": "18051",
+      "tag_name": "チキンハンバーグ",
+      "diff": "",
+      "search_keywords": [
+        "鶏肉ハンバーグ"
+      ]
+    },
+    {
+      "food_number": "18052",
+      "tag_name": "豆腐ハンバーグ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18019",
+      "tag_name": "いかフライ",
+      "diff": "",
+      "search_keywords": [
+        "烏賊フライ"
+      ]
+    },
+    {
+      "food_number": "18020",
+      "tag_name": "えびフライ",
+      "diff": "",
+      "search_keywords": [
+        "海老フライ"
+      ]
+    },
+    {
+      "food_number": "18055",
+      "tag_name": "かきフライ",
+      "diff": "",
+      "search_keywords": [
+        "牡蠣フライ"
+      ]
+    },
+    {
+      "food_number": "18021",
+      "tag_name": "白身フライ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18022",
+      "tag_name": "メンチカツ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18008",
+      "tag_name": "いかフライ",
+      "diff": "冷凍",
+      "search_keywords": [
+        "烏賊フライ"
+      ]
+    },
+    {
+      "food_number": "18009",
+      "tag_name": "えびフライ",
+      "diff": "冷凍",
+      "search_keywords": [
+        "海老フライ"
+      ]
+    },
+    {
+      "food_number": "18006",
+      "tag_name": "クリームコロッケ",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18007",
+      "tag_name": "ポテトコロッケ",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18010",
+      "tag_name": "白身フライ",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18016",
+      "tag_name": "メンチカツ",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "18003",
+      "tag_name": "えびグラタン",
+      "diff": "",
+      "search_keywords": [
+        "海老グラタン"
+      ]
+    },
+    {
+      "food_number": "18014",
+      "tag_name": "えびピラフ",
+      "diff": "",
+      "search_keywords": [
+        "海老ピラフ"
+      ]
+    },
+    {
+      "food_number": "18002",
+      "tag_name": "ぎょうざ",
+      "diff": "",
+      "search_keywords": [
+        "餃子"
+      ]
+    }
+  ]
+}

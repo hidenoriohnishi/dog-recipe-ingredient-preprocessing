@@ -1,0 +1,215 @@
+{
+  "batchNumber": 43,
+  "foods": [
+    {
+      "food_number": "07175",
+      "tag_name": "もも缶詰",
+      "diff": "黄肉種・果肉",
+      "search_keywords": [
+        "桃缶"
+      ]
+    },
+    {
+      "food_number": "07139",
+      "tag_name": "もも缶詰",
+      "diff": "液汁",
+      "search_keywords": [
+        "桃缶"
+      ]
+    },
+    {
+      "food_number": "07140",
+      "tag_name": "ネクタリン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07141",
+      "tag_name": "やまもも",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07144",
+      "tag_name": "ライチ",
+      "diff": "",
+      "search_keywords": [
+        "ライチー"
+      ]
+    },
+    {
+      "food_number": "07146",
+      "tag_name": "ラズベリー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "07147",
+      "tag_name": "りゅうがん",
+      "diff": "乾燥",
+      "search_keywords": [
+        "竜眼"
+      ]
+    },
+    {
+      "food_number": "07148",
+      "tag_name": "りんご",
+      "diff": "皮なし",
+      "search_keywords": [
+        "林檎"
+      ]
+    },
+    {
+      "food_number": "07176",
+      "tag_name": "りんご",
+      "diff": "皮付き",
+      "search_keywords": [
+        "林檎"
+      ]
+    },
+    {
+      "food_number": "07180",
+      "tag_name": "りんご",
+      "diff": "皮付き・焼き",
+      "search_keywords": [
+        "林檎"
+      ]
+    },
+    {
+      "food_number": "07149",
+      "tag_name": "りんごジュース",
+      "diff": "ストレート",
+      "search_keywords": [
+        "林檎ジュース"
+      ]
+    },
+    {
+      "food_number": "07150",
+      "tag_name": "りんごジュース",
+      "diff": "濃縮還元",
+      "search_keywords": [
+        "林檎ジュース"
+      ]
+    },
+    {
+      "food_number": "07151",
+      "tag_name": "りんご飲料",
+      "diff": "50%果汁",
+      "search_keywords": [
+        "林檎飲料"
+      ]
+    },
+    {
+      "food_number": "07152",
+      "tag_name": "りんご飲料",
+      "diff": "30%果汁",
+      "search_keywords": [
+        "林檎飲料"
+      ]
+    },
+    {
+      "food_number": "07153",
+      "tag_name": "りんご缶詰",
+      "diff": "",
+      "search_keywords": [
+        "林檎缶"
+      ]
+    },
+    {
+      "food_number": "07154",
+      "tag_name": "りんごジャム",
+      "diff": "",
+      "search_keywords": [
+        "林檎ジャム"
+      ]
+    },
+    {
+      "food_number": "08001",
+      "tag_name": "えのきたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08002",
+      "tag_name": "えのきたけ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08037",
+      "tag_name": "えのきたけ",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08003",
+      "tag_name": "えのきたけ瓶詰",
+      "diff": "",
+      "search_keywords": [
+        "えのき瓶詰"
+      ]
+    },
+    {
+      "food_number": "08054",
+      "tag_name": "あらげきくらげ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08004",
+      "tag_name": "あらげきくらげ",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08005",
+      "tag_name": "あらげきくらげ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08038",
+      "tag_name": "あらげきくらげ",
+      "diff": "油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08006",
+      "tag_name": "きくらげ",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08007",
+      "tag_name": "きくらげ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08008",
+      "tag_name": "しろきくらげ",
+      "diff": "乾燥",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08009",
+      "tag_name": "しろきくらげ",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08010",
+      "tag_name": "くろあわびたけ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "08039",
+      "tag_name": "しいたけ",
+      "diff": "菌床栽培",
+      "search_keywords": [
+        "椎茸"
+      ]
+    }
+  ]
+}

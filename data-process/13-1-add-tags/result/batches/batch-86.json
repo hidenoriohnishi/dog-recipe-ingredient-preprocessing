@@ -1,0 +1,282 @@
+{
+  "batchNumber": 86,
+  "foods": [
+    {
+      "food_number": "15026",
+      "tag_name": "ちゃつう",
+      "diff": "",
+      "search_keywords": [
+        "茶通"
+      ]
+    },
+    {
+      "food_number": "15156",
+      "tag_name": "どら焼き",
+      "diff": "こしあん",
+      "search_keywords": [
+        "どらやき",
+        "ドラ焼き",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15027",
+      "tag_name": "どら焼き",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "どらやき",
+        "ドラ焼き",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15157",
+      "tag_name": "生八つ橋",
+      "diff": "こしあん",
+      "search_keywords": [
+        "なま八つ橋",
+        "八ッ橋",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15004",
+      "tag_name": "生八つ橋",
+      "diff": "こしあん・つぶあん混合",
+      "search_keywords": [
+        "なま八つ橋",
+        "八ッ橋",
+        "こしあん",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15158",
+      "tag_name": "生八つ橋",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "なま八つ橋",
+        "八ッ橋",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15028",
+      "tag_name": "ねりきり",
+      "diff": "",
+      "search_keywords": [
+        "練切",
+        "練り切り"
+      ]
+    },
+    {
+      "food_number": "15029",
+      "tag_name": "カステラまんじゅう",
+      "diff": "こしあん",
+      "search_keywords": [
+        "カステラ饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15159",
+      "tag_name": "カステラまんじゅう",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "カステラ饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15160",
+      "tag_name": "かるかんまんじゅう",
+      "diff": "こしあん",
+      "search_keywords": [
+        "軽羹饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15161",
+      "tag_name": "かるかんまんじゅう",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "軽羹饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15030",
+      "tag_name": "くずまんじゅう",
+      "diff": "こしあん",
+      "search_keywords": [
+        "葛饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15162",
+      "tag_name": "くずまんじゅう",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "葛饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15031",
+      "tag_name": "くりまんじゅう",
+      "diff": "こしあん",
+      "search_keywords": [
+        "栗饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15163",
+      "tag_name": "くりまんじゅう",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "栗饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15032",
+      "tag_name": "とうまんじゅう",
+      "diff": "こしあん",
+      "search_keywords": [
+        "豆饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15164",
+      "tag_name": "とうまんじゅう",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "豆饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15033",
+      "tag_name": "蒸しまんじゅう",
+      "diff": "こしあん",
+      "search_keywords": [
+        "蒸し饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15165",
+      "tag_name": "蒸しまんじゅう",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "蒸し饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15034",
+      "tag_name": "あんまん",
+      "diff": "こしあん",
+      "search_keywords": [
+        "中華まん",
+        "中華饅頭",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15166",
+      "tag_name": "あんまん",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "中華まん",
+        "中華饅頭",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15035",
+      "tag_name": "肉まん",
+      "diff": "",
+      "search_keywords": [
+        "中華まん",
+        "中華饅頭",
+        "豚まん"
+      ]
+    },
+    {
+      "food_number": "15036",
+      "tag_name": "もなか",
+      "diff": "こしあん",
+      "search_keywords": [
+        "最中",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15167",
+      "tag_name": "もなか",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "最中",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15037",
+      "tag_name": "ゆべし",
+      "diff": "",
+      "search_keywords": [
+        "柚餅子"
+      ]
+    },
+    {
+      "food_number": "15038",
+      "tag_name": "練りようかん",
+      "diff": "",
+      "search_keywords": [
+        "練羊羹",
+        "ようかん"
+      ]
+    },
+    {
+      "food_number": "15039",
+      "tag_name": "水ようかん",
+      "diff": "",
+      "search_keywords": [
+        "水羊羹",
+        "ようかん"
+      ]
+    },
+    {
+      "food_number": "15040",
+      "tag_name": "蒸しようかん",
+      "diff": "",
+      "search_keywords": [
+        "蒸し羊羹",
+        "ようかん"
+      ]
+    },
+    {
+      "food_number": "15041",
+      "tag_name": "あめ玉",
+      "diff": "",
+      "search_keywords": [
+        "飴玉",
+        "キャンディ"
+      ]
+    },
+    {
+      "food_number": "15042",
+      "tag_name": "芋かりんとう",
+      "diff": "",
+      "search_keywords": [
+        "いもかりんとう",
+        "かりんとう"
+      ]
+    }
+  ]
+}

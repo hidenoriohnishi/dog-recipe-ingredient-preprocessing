@@ -1,0 +1,279 @@
+{
+  "batchNumber": 88,
+  "foods": [
+    {
+      "food_number": "15064",
+      "tag_name": "みしま豆",
+      "diff": "",
+      "search_keywords": [
+        "三島豆",
+        "豆菓子"
+      ]
+    },
+    {
+      "food_number": "15065",
+      "tag_name": "八つ橋",
+      "diff": "",
+      "search_keywords": [
+        "やつはし",
+        "八橋"
+      ]
+    },
+    {
+      "food_number": "15066",
+      "tag_name": "らくがん",
+      "diff": "",
+      "search_keywords": [
+        "落雁"
+      ]
+    },
+    {
+      "food_number": "15067",
+      "tag_name": "麦らくがん",
+      "diff": "",
+      "search_keywords": [
+        "麦落雁",
+        "らくがん"
+      ]
+    },
+    {
+      "food_number": "15068",
+      "tag_name": "もろこしらくがん",
+      "diff": "",
+      "search_keywords": [
+        "もろこし落雁",
+        "らくがん"
+      ]
+    },
+    {
+      "food_number": "15125",
+      "tag_name": "揚げパン",
+      "diff": "",
+      "search_keywords": [
+        "あげパン"
+      ]
+    },
+    {
+      "food_number": "15069",
+      "tag_name": "あんパン",
+      "diff": "こしあん",
+      "search_keywords": [
+        "餡パン",
+        "アンパン",
+        "こし餡"
+      ]
+    },
+    {
+      "food_number": "15168",
+      "tag_name": "あんパン",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "餡パン",
+        "アンパン",
+        "つぶ餡"
+      ]
+    },
+    {
+      "food_number": "15126",
+      "tag_name": "あんパン",
+      "diff": "薄皮・こしあん",
+      "search_keywords": [
+        "餡パン",
+        "アンパン",
+        "こし餡",
+        "薄皮"
+      ]
+    },
+    {
+      "food_number": "15169",
+      "tag_name": "あんパン",
+      "diff": "薄皮・つぶあん",
+      "search_keywords": [
+        "餡パン",
+        "アンパン",
+        "つぶ餡",
+        "薄皮"
+      ]
+    },
+    {
+      "food_number": "15127",
+      "tag_name": "カレーパン",
+      "diff": "皮と具",
+      "search_keywords": [
+        "カレーぱん",
+        "カレー"
+      ]
+    },
+    {
+      "food_number": "15128",
+      "tag_name": "カレーパン",
+      "diff": "皮のみ",
+      "search_keywords": [
+        "カレーぱん",
+        "カレー"
+      ]
+    },
+    {
+      "food_number": "15129",
+      "tag_name": "カレーパン",
+      "diff": "具のみ",
+      "search_keywords": [
+        "カレーぱん",
+        "カレー"
+      ]
+    },
+    {
+      "food_number": "15070",
+      "tag_name": "クリームパン",
+      "diff": "",
+      "search_keywords": [
+        "くりーむぱん"
+      ]
+    },
+    {
+      "food_number": "15130",
+      "tag_name": "クリームパン",
+      "diff": "薄皮",
+      "search_keywords": [
+        "くりーむぱん",
+        "薄皮"
+      ]
+    },
+    {
+      "food_number": "15071",
+      "tag_name": "ジャムパン",
+      "diff": "",
+      "search_keywords": [
+        "じゃむぱん"
+      ]
+    },
+    {
+      "food_number": "15072",
+      "tag_name": "チョココロネ",
+      "diff": "",
+      "search_keywords": [
+        "チョコレートコロネ",
+        "チョコパン"
+      ]
+    },
+    {
+      "food_number": "15131",
+      "tag_name": "チョコパン",
+      "diff": "薄皮",
+      "search_keywords": [
+        "チョコレートパン",
+        "薄皮"
+      ]
+    },
+    {
+      "food_number": "15132",
+      "tag_name": "メロンパン",
+      "diff": "",
+      "search_keywords": [
+        "めろんぱん"
+      ]
+    },
+    {
+      "food_number": "15181",
+      "tag_name": "菓子パン",
+      "diff": "あんなし",
+      "search_keywords": [
+        "かしぱん",
+        "あん無し"
+      ]
+    },
+    {
+      "food_number": "15073",
+      "tag_name": "シュークリーム",
+      "diff": "",
+      "search_keywords": [
+        "しゅーくりーむ",
+        "シュー"
+      ]
+    },
+    {
+      "food_number": "15074",
+      "tag_name": "スポンジケーキ",
+      "diff": "",
+      "search_keywords": [
+        "すぽんじけーき",
+        "カステラ"
+      ]
+    },
+    {
+      "food_number": "15075",
+      "tag_name": "ショートケーキ",
+      "diff": "果実なし",
+      "search_keywords": [
+        "しょーとけーき"
+      ]
+    },
+    {
+      "food_number": "15170",
+      "tag_name": "ショートケーキ",
+      "diff": "いちご",
+      "search_keywords": [
+        "しょーとけーき",
+        "苺",
+        "イチゴ"
+      ]
+    },
+    {
+      "food_number": "15133",
+      "tag_name": "タルト",
+      "diff": "",
+      "search_keywords": [
+        "たると",
+        "洋菓子"
+      ]
+    },
+    {
+      "food_number": "15134",
+      "tag_name": "チーズケーキ",
+      "diff": "ベイクド",
+      "search_keywords": [
+        "ちーずけーき",
+        "焼きチーズケーキ"
+      ]
+    },
+    {
+      "food_number": "15135",
+      "tag_name": "チーズケーキ",
+      "diff": "レア",
+      "search_keywords": [
+        "ちーずけーき",
+        "レアチーズケーキ",
+        "生チーズケーキ"
+      ]
+    },
+    {
+      "food_number": "15182",
+      "tag_name": "デニッシュペストリー",
+      "diff": "アメリカン・プレーン",
+      "search_keywords": [
+        "デニッシュ",
+        "アメリカン"
+      ]
+    },
+    {
+      "food_number": "15076",
+      "tag_name": "デニッシュペストリー",
+      "diff": "デンマーク・プレーン",
+      "search_keywords": [
+        "デニッシュ",
+        "デンマーク"
+      ]
+    },
+    {
+      "food_number": "15183",
+      "tag_name": "デニッシュペストリー",
+      "diff": "アメリカン・あん・こしあん",
+      "search_keywords": [
+        "デニッシュ",
+        "アメリカン",
+        "こし餡",
+        "あんこ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "batchNumber": 7,
+  "foods": [
+    {
+      "food_number": "01102",
+      "tag_name": "陸稲玄米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "玄米"
+      ]
+    },
+    {
+      "food_number": "01103",
+      "tag_name": "陸稲半つき米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "半つき米"
+      ]
+    },
+    {
+      "food_number": "01104",
+      "tag_name": "陸稲七分つき米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "七分つき米"
+      ]
+    },
+    {
+      "food_number": "01105",
+      "tag_name": "陸稲白米",
+      "diff": "生",
+      "search_keywords": [
+        "陸稲",
+        "精白米"
+      ]
+    },
+    {
+      "food_number": "01106",
+      "tag_name": "陸稲玄米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "陸稲",
+        "玄米めし",
+        "ブラウンライス"
+      ]
+    },
+    {
+      "food_number": "01107",
+      "tag_name": "陸稲半つき米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "陸稲",
+        "半つき米めし"
+      ]
+    },
+    {
+      "food_number": "01108",
+      "tag_name": "陸稲七分つき米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "陸稲",
+        "七分つき米めし"
+      ]
+    },
+    {
+      "food_number": "01109",
+      "tag_name": "陸稲白米ごはん",
+      "diff": "",
+      "search_keywords": [
+        "陸稲",
+        "白米めし",
+        "ライス"
+      ]
+    },
+    {
+      "food_number": "01110",
+      "tag_name": "アルファ化米",
+      "diff": "一般用",
+      "search_keywords": [
+        "アルファ米",
+        "パックごはん"
+      ]
+    },
+    {
+      "food_number": "01156",
+      "tag_name": "アルファ化米",
+      "diff": "学校給食用強化品",
+      "search_keywords": [
+        "アルファ米",
+        "学校給食"
+      ]
+    },
+    {
+      "food_number": "01214",
+      "tag_name": "玄米がゆ",
+      "diff": "レトルト",
+      "search_keywords": [
+        "玄米粥",
+        "レトルト"
+      ]
+    },
+    {
+      "food_number": "01215",
+      "tag_name": "白米がゆ",
+      "diff": "レトルト",
+      "search_keywords": [
+        "白粥",
+        "レトルト"
+      ]
+    },
+    {
+      "food_number": "01111",
+      "tag_name": "おにぎり",
+      "diff": "",
+      "search_keywords": [
+        "おむすび"
+      ]
+    },
+    {
+      "food_number": "01112",
+      "tag_name": "焼きおにぎり",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01113",
+      "tag_name": "きりたんぽ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01114",
+      "tag_name": "上新粉",
+      "diff": "",
+      "search_keywords": [
+        "米粉",
+        "うるち米粉"
+      ]
+    },
+    {
+      "food_number": "01157",
+      "tag_name": "玄米粉",
+      "diff": "",
+      "search_keywords": [
+        "ブラウンライスフラワー"
+      ]
+    },
+    {
+      "food_number": "01158",
+      "tag_name": "米粉",
+      "diff": "",
+      "search_keywords": [
+        "ライスフラワー"
+      ]
+    },
+    {
+      "food_number": "01211",
+      "tag_name": "米粉パン",
+      "diff": "食パン",
+      "search_keywords": [
+        "ライスブレッド",
+        "食パン"
+      ]
+    },
+    {
+      "food_number": "01212",
+      "tag_name": "米粉パン",
+      "diff": "ロールパン",
+      "search_keywords": [
+        "ライスブレッド",
+        "ロールパン"
+      ]
+    },
+    {
+      "food_number": "01159",
+      "tag_name": "米粉パン",
+      "diff": "グルテンフリー",
+      "search_keywords": [
+        "グルテンフリー",
+        "小麦不使用"
+      ]
+    },
+    {
+      "food_number": "01160",
+      "tag_name": "米粉めん",
+      "diff": "",
+      "search_keywords": [
+        "ライスヌードル"
+      ]
+    },
+    {
+      "food_number": "01115",
+      "tag_name": "ビーフン",
+      "diff": "",
+      "search_keywords": [
+        "米粉麺",
+        "ライスヌードル"
+      ]
+    },
+    {
+      "food_number": "01169",
+      "tag_name": "ライスペーパー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01116",
+      "tag_name": "米こうじ",
+      "diff": "",
+      "search_keywords": [
+        "米麹",
+        "こめこうじ"
+      ]
+    },
+    {
+      "food_number": "01117",
+      "tag_name": "もち",
+      "diff": "",
+      "search_keywords": [
+        "餅",
+        "もち米"
+      ]
+    },
+    {
+      "food_number": "01118",
+      "tag_name": "赤飯",
+      "diff": "",
+      "search_keywords": [
+        "せきはん",
+        "もち米"
+      ]
+    },
+    {
+      "food_number": "01119",
+      "tag_name": "あくまき",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01120",
+      "tag_name": "白玉粉",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01121",
+      "tag_name": "道明寺粉",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

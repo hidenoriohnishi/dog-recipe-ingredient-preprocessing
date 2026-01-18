@@ -1,0 +1,257 @@
+{
+  "batchNumber": 8,
+  "foods": [
+    {
+      "food_number": "01117",
+      "tag_name": "もち",
+      "diff": "",
+      "search_keywords": [
+        "餅",
+        "もち米"
+      ]
+    },
+    {
+      "food_number": "01118",
+      "tag_name": "赤飯",
+      "diff": "",
+      "search_keywords": [
+        "せきはん",
+        "もち米"
+      ]
+    },
+    {
+      "food_number": "01119",
+      "tag_name": "あくまき",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01120",
+      "tag_name": "白玉粉",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01121",
+      "tag_name": "道明寺粉",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01161",
+      "tag_name": "米ぬか",
+      "diff": "",
+      "search_keywords": [
+        "ぬか",
+        "糠",
+        "ライスブラン"
+      ]
+    },
+    {
+      "food_number": "01122",
+      "tag_name": "そば粉",
+      "diff": "全層粉",
+      "search_keywords": [
+        "蕎麦粉",
+        "全粒粉"
+      ]
+    },
+    {
+      "food_number": "01123",
+      "tag_name": "そば粉",
+      "diff": "内層粉",
+      "search_keywords": [
+        "蕎麦粉"
+      ]
+    },
+    {
+      "food_number": "01124",
+      "tag_name": "そば粉",
+      "diff": "中層粉",
+      "search_keywords": [
+        "蕎麦粉"
+      ]
+    },
+    {
+      "food_number": "01125",
+      "tag_name": "そば粉",
+      "diff": "表層粉",
+      "search_keywords": [
+        "蕎麦粉"
+      ]
+    },
+    {
+      "food_number": "01126",
+      "tag_name": "そば米",
+      "diff": "",
+      "search_keywords": [
+        "蕎麦米"
+      ]
+    },
+    {
+      "food_number": "01127",
+      "tag_name": "そば",
+      "diff": "生",
+      "search_keywords": [
+        "蕎麦"
+      ]
+    },
+    {
+      "food_number": "01128",
+      "tag_name": "そば",
+      "diff": "ゆで",
+      "search_keywords": [
+        "蕎麦"
+      ]
+    },
+    {
+      "food_number": "01197",
+      "tag_name": "そば",
+      "diff": "半生",
+      "search_keywords": [
+        "半生そば",
+        "蕎麦"
+      ]
+    },
+    {
+      "food_number": "01129",
+      "tag_name": "干しそば",
+      "diff": "乾",
+      "search_keywords": [
+        "乾麺",
+        "蕎麦"
+      ]
+    },
+    {
+      "food_number": "01130",
+      "tag_name": "干しそば",
+      "diff": "ゆで",
+      "search_keywords": [
+        "乾麺",
+        "蕎麦"
+      ]
+    },
+    {
+      "food_number": "01131",
+      "tag_name": "とうもろこし",
+      "diff": "黄色",
+      "search_keywords": [
+        "コーン",
+        "黄とうもろこし",
+        "玉蜀黍"
+      ]
+    },
+    {
+      "food_number": "01162",
+      "tag_name": "とうもろこし",
+      "diff": "白色",
+      "search_keywords": [
+        "コーン",
+        "白とうもろこし",
+        "玉蜀黍"
+      ]
+    },
+    {
+      "food_number": "01132",
+      "tag_name": "コーンミール",
+      "diff": "黄色",
+      "search_keywords": [
+        "コーンミール",
+        "黄コーンミール"
+      ]
+    },
+    {
+      "food_number": "01163",
+      "tag_name": "コーンミール",
+      "diff": "白色",
+      "search_keywords": [
+        "コーンミール",
+        "白コーンミール"
+      ]
+    },
+    {
+      "food_number": "01133",
+      "tag_name": "コーングリッツ",
+      "diff": "黄色",
+      "search_keywords": [
+        "コーングリッツ",
+        "黄コーングリッツ"
+      ]
+    },
+    {
+      "food_number": "01164",
+      "tag_name": "コーングリッツ",
+      "diff": "白色",
+      "search_keywords": [
+        "コーングリッツ",
+        "白コーングリッツ"
+      ]
+    },
+    {
+      "food_number": "01134",
+      "tag_name": "コーンフラワー",
+      "diff": "黄色",
+      "search_keywords": [
+        "コーンフラワー",
+        "黄コーンフラワー"
+      ]
+    },
+    {
+      "food_number": "01165",
+      "tag_name": "コーンフラワー",
+      "diff": "白色",
+      "search_keywords": [
+        "コーンフラワー",
+        "白コーンフラワー"
+      ]
+    },
+    {
+      "food_number": "01135",
+      "tag_name": "ジャイアントコーン",
+      "diff": "フライ・味付け",
+      "search_keywords": [
+        "フライドコーン"
+      ]
+    },
+    {
+      "food_number": "01136",
+      "tag_name": "ポップコーン",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01137",
+      "tag_name": "コーンフレーク",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "01138",
+      "tag_name": "はとむぎ",
+      "diff": "精白粒",
+      "search_keywords": [
+        "鳩麦",
+        "精白はとむぎ"
+      ]
+    },
+    {
+      "food_number": "01139",
+      "tag_name": "ひえ",
+      "diff": "精白粒",
+      "search_keywords": [
+        "稗",
+        "精白ひえ"
+      ]
+    },
+    {
+      "food_number": "01140",
+      "tag_name": "もろこし",
+      "diff": "玄穀",
+      "search_keywords": [
+        "ソルガム",
+        "モロコシ",
+        "たかきび"
+      ]
+    }
+  ]
+}

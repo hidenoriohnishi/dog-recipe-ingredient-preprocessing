@@ -1,0 +1,275 @@
+{
+  "batchNumber": 3,
+  "foods": [
+    {
+      "food_number": "01038",
+      "tag_name": "うどん",
+      "diff": "生",
+      "search_keywords": [
+        "饂飩"
+      ]
+    },
+    {
+      "food_number": "01039",
+      "tag_name": "うどん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "饂飩"
+      ]
+    },
+    {
+      "food_number": "01186",
+      "tag_name": "うどん",
+      "diff": "半生",
+      "search_keywords": [
+        "饂飩"
+      ]
+    },
+    {
+      "food_number": "01041",
+      "tag_name": "干しうどん",
+      "diff": "乾",
+      "search_keywords": [
+        "饂飩",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01042",
+      "tag_name": "干しうどん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "饂飩",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01043",
+      "tag_name": "そうめん・ひやむぎ",
+      "diff": "乾",
+      "search_keywords": [
+        "素麺",
+        "冷麦",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01044",
+      "tag_name": "そうめん・ひやむぎ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "素麺",
+        "冷麦"
+      ]
+    },
+    {
+      "food_number": "01045",
+      "tag_name": "手延そうめん・手延ひやむぎ",
+      "diff": "乾",
+      "search_keywords": [
+        "手延べ素麺",
+        "手延べ冷麦",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01046",
+      "tag_name": "手延そうめん・手延ひやむぎ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "手延べ素麺",
+        "手延べ冷麦"
+      ]
+    },
+    {
+      "food_number": "01047",
+      "tag_name": "中華めん",
+      "diff": "生",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン"
+      ]
+    },
+    {
+      "food_number": "01048",
+      "tag_name": "中華めん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン"
+      ]
+    },
+    {
+      "food_number": "01187",
+      "tag_name": "中華めん",
+      "diff": "半生",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン"
+      ]
+    },
+    {
+      "food_number": "01049",
+      "tag_name": "蒸し中華めん",
+      "diff": "",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン"
+      ]
+    },
+    {
+      "food_number": "01188",
+      "tag_name": "蒸し中華めん",
+      "diff": "ソテー",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン"
+      ]
+    },
+    {
+      "food_number": "01050",
+      "tag_name": "干し中華めん",
+      "diff": "乾",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01051",
+      "tag_name": "干し中華めん",
+      "diff": "ゆで",
+      "search_keywords": [
+        "中華麺",
+        "ラーメン",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01052",
+      "tag_name": "沖縄そば",
+      "diff": "生",
+      "search_keywords": [
+        "沖縄そば"
+      ]
+    },
+    {
+      "food_number": "01053",
+      "tag_name": "沖縄そば",
+      "diff": "ゆで",
+      "search_keywords": [
+        "沖縄そば"
+      ]
+    },
+    {
+      "food_number": "01054",
+      "tag_name": "干し沖縄そば",
+      "diff": "乾",
+      "search_keywords": [
+        "沖縄そば",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01055",
+      "tag_name": "干し沖縄そば",
+      "diff": "ゆで",
+      "search_keywords": [
+        "沖縄そば",
+        "乾麺"
+      ]
+    },
+    {
+      "food_number": "01056",
+      "tag_name": "即席中華めん",
+      "diff": "油揚げ・味付け",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01057",
+      "tag_name": "即席中華めん",
+      "diff": "油揚げ・乾・調味料入り",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01198",
+      "tag_name": "即席中華めん",
+      "diff": "油揚げ・調理後全体・調味料入り",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01189",
+      "tag_name": "即席中華めん",
+      "diff": "油揚げ・ゆで・調味料なし",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01144",
+      "tag_name": "即席中華めん",
+      "diff": "油揚げ・乾・調味料なし",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01058",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・乾・調味料入り",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01199",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・調理後全体・調味料入り",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01190",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・ゆで・調味料なし",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01145",
+      "tag_name": "即席中華めん",
+      "diff": "非油揚げ・乾・調味料なし",
+      "search_keywords": [
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    },
+    {
+      "food_number": "01193",
+      "tag_name": "カップ麺",
+      "diff": "中華スタイル・油揚げ・塩味・乾・調味料入り",
+      "search_keywords": [
+        "カップラーメン",
+        "インスタントラーメン",
+        "即席麺"
+      ]
+    }
+  ]
+}

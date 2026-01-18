@@ -1,0 +1,272 @@
+{
+  "batchNumber": 30,
+  "foods": [
+    {
+      "food_number": "06346",
+      "tag_name": "にんじん",
+      "diff": "皮なし・素揚げ",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06407",
+      "tag_name": "にんじん",
+      "diff": "皮なし・カット・常法洗浄",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06408",
+      "tag_name": "にんじん",
+      "diff": "皮なし・カット・次亜塩素酸洗浄",
+      "search_keywords": [
+        "人参"
+      ]
+    },
+    {
+      "food_number": "06347",
+      "tag_name": "にんじんの皮",
+      "diff": "生",
+      "search_keywords": [
+        "人参皮"
+      ]
+    },
+    {
+      "food_number": "06216",
+      "tag_name": "にんじん",
+      "diff": "冷凍",
+      "search_keywords": [
+        "人参",
+        "冷凍にんじん"
+      ]
+    },
+    {
+      "food_number": "06380",
+      "tag_name": "にんじん",
+      "diff": "冷凍・ゆで",
+      "search_keywords": [
+        "人参",
+        "冷凍にんじん"
+      ]
+    },
+    {
+      "food_number": "06381",
+      "tag_name": "にんじん",
+      "diff": "冷凍・油いため",
+      "search_keywords": [
+        "人参",
+        "冷凍にんじん"
+      ]
+    },
+    {
+      "food_number": "06348",
+      "tag_name": "にんじんグラッセ",
+      "diff": "",
+      "search_keywords": [
+        "人参グラッセ",
+        "グラッセ"
+      ]
+    },
+    {
+      "food_number": "06217",
+      "tag_name": "にんじんジュース",
+      "diff": "缶詰",
+      "search_keywords": [
+        "人参ジュース",
+        "キャロットジュース"
+      ]
+    },
+    {
+      "food_number": "06218",
+      "tag_name": "きんときにんじん",
+      "diff": "皮つき・生",
+      "search_keywords": [
+        "金時人参",
+        "金時にんじん"
+      ]
+    },
+    {
+      "food_number": "06219",
+      "tag_name": "きんときにんじん",
+      "diff": "皮つき・ゆで",
+      "search_keywords": [
+        "金時人参",
+        "金時にんじん"
+      ]
+    },
+    {
+      "food_number": "06220",
+      "tag_name": "きんときにんじん",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "金時人参",
+        "金時にんじん"
+      ]
+    },
+    {
+      "food_number": "06221",
+      "tag_name": "きんときにんじん",
+      "diff": "皮なし・ゆで",
+      "search_keywords": [
+        "金時人参",
+        "金時にんじん"
+      ]
+    },
+    {
+      "food_number": "06409",
+      "tag_name": "島にんじん",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "しまにんじん",
+        "島人参"
+      ]
+    },
+    {
+      "food_number": "06222",
+      "tag_name": "ミニキャロット",
+      "diff": "生",
+      "search_keywords": [
+        "ベビーキャロット"
+      ]
+    },
+    {
+      "food_number": "06223",
+      "tag_name": "にんにく",
+      "diff": "生",
+      "search_keywords": [
+        "大蒜"
+      ]
+    },
+    {
+      "food_number": "06349",
+      "tag_name": "にんにく",
+      "diff": "油いため",
+      "search_keywords": [
+        "大蒜"
+      ]
+    },
+    {
+      "food_number": "06224",
+      "tag_name": "茎にんにく",
+      "diff": "生",
+      "search_keywords": [
+        "にんにくの芽",
+        "大蒜の芽"
+      ]
+    },
+    {
+      "food_number": "06225",
+      "tag_name": "茎にんにく",
+      "diff": "ゆで",
+      "search_keywords": [
+        "にんにくの芽",
+        "大蒜の芽"
+      ]
+    },
+    {
+      "food_number": "06226",
+      "tag_name": "長ねぎ",
+      "diff": "白い部分・生",
+      "search_keywords": [
+        "根深ねぎ",
+        "白ねぎ",
+        "長葱"
+      ]
+    },
+    {
+      "food_number": "06350",
+      "tag_name": "長ねぎ",
+      "diff": "白い部分・ゆで",
+      "search_keywords": [
+        "根深ねぎ",
+        "白ねぎ",
+        "長葱"
+      ]
+    },
+    {
+      "food_number": "06351",
+      "tag_name": "長ねぎ",
+      "diff": "白い部分・油いため",
+      "search_keywords": [
+        "根深ねぎ",
+        "白ねぎ",
+        "長葱"
+      ]
+    },
+    {
+      "food_number": "06227",
+      "tag_name": "青ねぎ",
+      "diff": "生",
+      "search_keywords": [
+        "葉ねぎ",
+        "万能ねぎ",
+        "青葱"
+      ]
+    },
+    {
+      "food_number": "06352",
+      "tag_name": "青ねぎ",
+      "diff": "油いため",
+      "search_keywords": [
+        "葉ねぎ",
+        "万能ねぎ",
+        "青葱"
+      ]
+    },
+    {
+      "food_number": "06410",
+      "tag_name": "九条ねぎ",
+      "diff": "生",
+      "search_keywords": [
+        "九条葱"
+      ]
+    },
+    {
+      "food_number": "06228",
+      "tag_name": "小ねぎ",
+      "diff": "生",
+      "search_keywords": [
+        "こねぎ",
+        "小葱"
+      ]
+    },
+    {
+      "food_number": "06411",
+      "tag_name": "芽ねぎ",
+      "diff": "生",
+      "search_keywords": [
+        "めねぎ",
+        "芽葱"
+      ]
+    },
+    {
+      "food_number": "06229",
+      "tag_name": "野沢菜",
+      "diff": "生",
+      "search_keywords": [
+        "のざわな",
+        "野沢菜漬け"
+      ]
+    },
+    {
+      "food_number": "06230",
+      "tag_name": "野沢菜漬け",
+      "diff": "塩漬",
+      "search_keywords": [
+        "のざわな",
+        "野沢菜"
+      ]
+    },
+    {
+      "food_number": "06231",
+      "tag_name": "野沢菜漬け",
+      "diff": "調味漬",
+      "search_keywords": [
+        "のざわな",
+        "野沢菜"
+      ]
+    }
+  ]
+}

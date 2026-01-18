@@ -1,0 +1,268 @@
+{
+  "batchNumber": 87,
+  "foods": [
+    {
+      "food_number": "15038",
+      "tag_name": "練りようかん",
+      "diff": "",
+      "search_keywords": [
+        "練羊羹",
+        "ようかん"
+      ]
+    },
+    {
+      "food_number": "15039",
+      "tag_name": "水ようかん",
+      "diff": "",
+      "search_keywords": [
+        "水羊羹",
+        "ようかん"
+      ]
+    },
+    {
+      "food_number": "15040",
+      "tag_name": "蒸しようかん",
+      "diff": "",
+      "search_keywords": [
+        "蒸し羊羹",
+        "ようかん"
+      ]
+    },
+    {
+      "food_number": "15041",
+      "tag_name": "あめ玉",
+      "diff": "",
+      "search_keywords": [
+        "飴玉",
+        "キャンディ"
+      ]
+    },
+    {
+      "food_number": "15042",
+      "tag_name": "芋かりんとう",
+      "diff": "",
+      "search_keywords": [
+        "いもかりんとう",
+        "かりんとう"
+      ]
+    },
+    {
+      "food_number": "15043",
+      "tag_name": "おこし",
+      "diff": "",
+      "search_keywords": [
+        "押し菓子",
+        "雷おこし"
+      ]
+    },
+    {
+      "food_number": "15044",
+      "tag_name": "おのろけ豆",
+      "diff": "",
+      "search_keywords": [
+        "おのろけまめ",
+        "豆菓子"
+      ]
+    },
+    {
+      "food_number": "15045",
+      "tag_name": "かりんとう",
+      "diff": "黒",
+      "search_keywords": [
+        "黒糖かりんとう"
+      ]
+    },
+    {
+      "food_number": "15046",
+      "tag_name": "かりんとう",
+      "diff": "白",
+      "search_keywords": [
+        "白かりんとう"
+      ]
+    },
+    {
+      "food_number": "15047",
+      "tag_name": "ごかぼう",
+      "diff": "",
+      "search_keywords": [
+        "五家宝"
+      ]
+    },
+    {
+      "food_number": "15048",
+      "tag_name": "磯部せんべい",
+      "diff": "",
+      "search_keywords": [
+        "せんべい",
+        "海苔せんべい"
+      ]
+    },
+    {
+      "food_number": "15049",
+      "tag_name": "かわらせんべい",
+      "diff": "",
+      "search_keywords": [
+        "瓦せんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15050",
+      "tag_name": "巻きせんべい",
+      "diff": "",
+      "search_keywords": [
+        "まきせんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15051",
+      "tag_name": "南部せんべい",
+      "diff": "ごま入り",
+      "search_keywords": [
+        "ごませんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15052",
+      "tag_name": "南部せんべい",
+      "diff": "落花生入り",
+      "search_keywords": [
+        "ピーナッツせんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15053",
+      "tag_name": "しおがま",
+      "diff": "",
+      "search_keywords": [
+        "塩竈",
+        "志ほがま"
+      ]
+    },
+    {
+      "food_number": "15056",
+      "tag_name": "ひなあられ",
+      "diff": "関西風",
+      "search_keywords": [
+        "雛あられ"
+      ]
+    },
+    {
+      "food_number": "15055",
+      "tag_name": "ひなあられ",
+      "diff": "関東風",
+      "search_keywords": [
+        "雛あられ"
+      ]
+    },
+    {
+      "food_number": "15057",
+      "tag_name": "揚げせんべい",
+      "diff": "",
+      "search_keywords": [
+        "あげせんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15058",
+      "tag_name": "甘辛せんべい",
+      "diff": "",
+      "search_keywords": [
+        "あまからせんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15059",
+      "tag_name": "あられ",
+      "diff": "",
+      "search_keywords": [
+        "米菓",
+        "あられ"
+      ]
+    },
+    {
+      "food_number": "15060",
+      "tag_name": "しょうゆせんべい",
+      "diff": "",
+      "search_keywords": [
+        "醤油せんべい",
+        "せんべい"
+      ]
+    },
+    {
+      "food_number": "15061",
+      "tag_name": "ボーロ",
+      "diff": "小粒",
+      "search_keywords": [
+        "ぼーろ",
+        "小粒ボーロ"
+      ]
+    },
+    {
+      "food_number": "15062",
+      "tag_name": "そばボーロ",
+      "diff": "",
+      "search_keywords": [
+        "蕎麦ボーロ",
+        "ぼーろ"
+      ]
+    },
+    {
+      "food_number": "15063",
+      "tag_name": "松風",
+      "diff": "",
+      "search_keywords": [
+        "まつかぜ"
+      ]
+    },
+    {
+      "food_number": "15064",
+      "tag_name": "みしま豆",
+      "diff": "",
+      "search_keywords": [
+        "三島豆",
+        "豆菓子"
+      ]
+    },
+    {
+      "food_number": "15065",
+      "tag_name": "八つ橋",
+      "diff": "",
+      "search_keywords": [
+        "やつはし",
+        "八橋"
+      ]
+    },
+    {
+      "food_number": "15066",
+      "tag_name": "らくがん",
+      "diff": "",
+      "search_keywords": [
+        "落雁"
+      ]
+    },
+    {
+      "food_number": "15067",
+      "tag_name": "麦らくがん",
+      "diff": "",
+      "search_keywords": [
+        "麦落雁",
+        "らくがん"
+      ]
+    },
+    {
+      "food_number": "15068",
+      "tag_name": "もろこしらくがん",
+      "diff": "",
+      "search_keywords": [
+        "もろこし落雁",
+        "らくがん"
+      ]
+    }
+  ]
+}

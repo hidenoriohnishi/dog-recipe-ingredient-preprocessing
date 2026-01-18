@@ -1,0 +1,259 @@
+{
+  "batchNumber": 24,
+  "foods": [
+    {
+      "food_number": "06406",
+      "tag_name": "万願寺とうがらし",
+      "diff": "生",
+      "search_keywords": [
+        "万願寺唐辛子"
+      ]
+    },
+    {
+      "food_number": "06095",
+      "tag_name": "しそ",
+      "diff": "葉・生",
+      "search_keywords": [
+        "紫蘇"
+      ]
+    },
+    {
+      "food_number": "06096",
+      "tag_name": "しそ",
+      "diff": "実・生",
+      "search_keywords": [
+        "紫蘇"
+      ]
+    },
+    {
+      "food_number": "06097",
+      "tag_name": "じゅうろくささげ",
+      "diff": "生",
+      "search_keywords": [
+        "十六ささげ",
+        "十六豆"
+      ]
+    },
+    {
+      "food_number": "06098",
+      "tag_name": "じゅうろくささげ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "十六ささげ",
+        "十六豆"
+      ]
+    },
+    {
+      "food_number": "06099",
+      "tag_name": "しゅんぎく",
+      "diff": "葉・生",
+      "search_keywords": [
+        "春菊"
+      ]
+    },
+    {
+      "food_number": "06100",
+      "tag_name": "しゅんぎく",
+      "diff": "葉・ゆで",
+      "search_keywords": [
+        "春菊"
+      ]
+    },
+    {
+      "food_number": "06101",
+      "tag_name": "じゅんさい",
+      "diff": "水煮びん詰",
+      "search_keywords": [
+        "蓴菜"
+      ]
+    },
+    {
+      "food_number": "06102",
+      "tag_name": "葉しょうが",
+      "diff": "生",
+      "search_keywords": [
+        "葉生姜"
+      ]
+    },
+    {
+      "food_number": "06103",
+      "tag_name": "しょうが",
+      "diff": "皮なし・生",
+      "search_keywords": [
+        "生姜"
+      ]
+    },
+    {
+      "food_number": "06365",
+      "tag_name": "しょうが",
+      "diff": "皮なし・おろし",
+      "search_keywords": [
+        "生姜",
+        "おろし生姜"
+      ]
+    },
+    {
+      "food_number": "06366",
+      "tag_name": "しょうが",
+      "diff": "皮なし・おろし汁",
+      "search_keywords": [
+        "生姜",
+        "おろし生姜",
+        "生姜汁"
+      ]
+    },
+    {
+      "food_number": "06104",
+      "tag_name": "しょうが漬け",
+      "diff": "酢漬",
+      "search_keywords": [
+        "生姜漬け",
+        "ガリ"
+      ]
+    },
+    {
+      "food_number": "06105",
+      "tag_name": "しょうが漬け",
+      "diff": "甘酢漬",
+      "search_keywords": [
+        "生姜漬け",
+        "ガリ"
+      ]
+    },
+    {
+      "food_number": "06386",
+      "tag_name": "新しょうが",
+      "diff": "生",
+      "search_keywords": [
+        "新生姜"
+      ]
+    },
+    {
+      "food_number": "06106",
+      "tag_name": "しろうり",
+      "diff": "生",
+      "search_keywords": [
+        "白瓜"
+      ]
+    },
+    {
+      "food_number": "06107",
+      "tag_name": "しろうり漬け",
+      "diff": "塩漬",
+      "search_keywords": [
+        "白瓜漬け"
+      ]
+    },
+    {
+      "food_number": "06108",
+      "tag_name": "しろうり漬け",
+      "diff": "奈良漬",
+      "search_keywords": [
+        "白瓜漬け",
+        "奈良漬け"
+      ]
+    },
+    {
+      "food_number": "06109",
+      "tag_name": "ずいき",
+      "diff": "生",
+      "search_keywords": [
+        "芋茎",
+        "いもがら"
+      ]
+    },
+    {
+      "food_number": "06110",
+      "tag_name": "ずいき",
+      "diff": "ゆで",
+      "search_keywords": [
+        "芋茎",
+        "いもがら"
+      ]
+    },
+    {
+      "food_number": "06111",
+      "tag_name": "干しずいき",
+      "diff": "乾",
+      "search_keywords": [
+        "干し芋茎",
+        "干しずいき",
+        "いもがら"
+      ]
+    },
+    {
+      "food_number": "06112",
+      "tag_name": "干しずいき",
+      "diff": "ゆで",
+      "search_keywords": [
+        "干し芋茎",
+        "干しずいき",
+        "いもがら"
+      ]
+    },
+    {
+      "food_number": "06387",
+      "tag_name": "すいぜんじな",
+      "diff": "葉・生",
+      "search_keywords": [
+        "水前寺菜",
+        "金時草"
+      ]
+    },
+    {
+      "food_number": "06113",
+      "tag_name": "すぐきな",
+      "diff": "葉・生",
+      "search_keywords": [
+        "酸茎菜"
+      ]
+    },
+    {
+      "food_number": "06114",
+      "tag_name": "すぐきな",
+      "diff": "根・生",
+      "search_keywords": [
+        "酸茎菜"
+      ]
+    },
+    {
+      "food_number": "06115",
+      "tag_name": "すぐき漬け",
+      "diff": "",
+      "search_keywords": [
+        "酸茎漬け",
+        "すぐき漬"
+      ]
+    },
+    {
+      "food_number": "06116",
+      "tag_name": "ズッキーニ",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06117",
+      "tag_name": "せり",
+      "diff": "茎葉・生",
+      "search_keywords": [
+        "芹"
+      ]
+    },
+    {
+      "food_number": "06118",
+      "tag_name": "せり",
+      "diff": "茎葉・ゆで",
+      "search_keywords": [
+        "芹"
+      ]
+    },
+    {
+      "food_number": "06119",
+      "tag_name": "セロリ",
+      "diff": "葉柄・生",
+      "search_keywords": [
+        "セルリー"
+      ]
+    }
+  ]
+}

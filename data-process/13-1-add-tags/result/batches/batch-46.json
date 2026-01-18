@@ -1,0 +1,231 @@
+{
+  "batchNumber": 46,
+  "foods": [
+    {
+      "food_number": "09004",
+      "tag_name": "のり",
+      "diff": "焼きのり",
+      "search_keywords": [
+        "あまのり",
+        "焼海苔"
+      ]
+    },
+    {
+      "food_number": "09005",
+      "tag_name": "のり",
+      "diff": "味付けのり",
+      "search_keywords": [
+        "あまのり",
+        "味付海苔"
+      ]
+    },
+    {
+      "food_number": "09006",
+      "tag_name": "あらめ",
+      "diff": "蒸し干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09007",
+      "tag_name": "いわのり",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09012",
+      "tag_name": "うみぶどう",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09008",
+      "tag_name": "えごのり",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09009",
+      "tag_name": "えごのり",
+      "diff": "おきうと",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09010",
+      "tag_name": "おごのり",
+      "diff": "塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09011",
+      "tag_name": "かわのり",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09013",
+      "tag_name": "えながおにこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "鬼昆布"
+      ]
+    },
+    {
+      "food_number": "09014",
+      "tag_name": "がごめこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "がごめ"
+      ]
+    },
+    {
+      "food_number": "09015",
+      "tag_name": "ながこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "長昆布"
+      ]
+    },
+    {
+      "food_number": "09016",
+      "tag_name": "ほそめこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "細目昆布"
+      ]
+    },
+    {
+      "food_number": "09017",
+      "tag_name": "まこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "真昆布"
+      ]
+    },
+    {
+      "food_number": "09056",
+      "tag_name": "まこんぶ",
+      "diff": "水煮",
+      "search_keywords": [
+        "昆布",
+        "真昆布"
+      ]
+    },
+    {
+      "food_number": "09018",
+      "tag_name": "みついしこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "三石昆布"
+      ]
+    },
+    {
+      "food_number": "09019",
+      "tag_name": "りしりこんぶ",
+      "diff": "素干し",
+      "search_keywords": [
+        "昆布",
+        "利尻昆布"
+      ]
+    },
+    {
+      "food_number": "09020",
+      "tag_name": "刻み昆布",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09021",
+      "tag_name": "削り昆布",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09022",
+      "tag_name": "塩昆布",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09023",
+      "tag_name": "昆布のつくだ煮",
+      "diff": "",
+      "search_keywords": [
+        "昆布",
+        "佃煮"
+      ]
+    },
+    {
+      "food_number": "09024",
+      "tag_name": "すいぜんじのり",
+      "diff": "素干し・水戻し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09025",
+      "tag_name": "てんぐさ",
+      "diff": "素干し",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09026",
+      "tag_name": "ところてん",
+      "diff": "",
+      "search_keywords": [
+        "天草"
+      ]
+    },
+    {
+      "food_number": "09027",
+      "tag_name": "角寒天",
+      "diff": "",
+      "search_keywords": [
+        "天草",
+        "寒天"
+      ]
+    },
+    {
+      "food_number": "09028",
+      "tag_name": "寒天",
+      "diff": "",
+      "search_keywords": [
+        "天草",
+        "寒天"
+      ]
+    },
+    {
+      "food_number": "09049",
+      "tag_name": "粉寒天",
+      "diff": "",
+      "search_keywords": [
+        "天草",
+        "寒天"
+      ]
+    },
+    {
+      "food_number": "09029",
+      "tag_name": "とさかのり",
+      "diff": "赤とさか・塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09030",
+      "tag_name": "とさかのり",
+      "diff": "青とさか・塩蔵・塩抜き",
+      "search_keywords": []
+    },
+    {
+      "food_number": "09050",
+      "tag_name": "ひじき",
+      "diff": "ほしひじき・乾",
+      "search_keywords": [
+        "乾燥ひじき"
+      ]
+    }
+  ]
+}

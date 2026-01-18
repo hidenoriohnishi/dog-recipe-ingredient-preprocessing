@@ -1,0 +1,268 @@
+{
+  "batchNumber": 31,
+  "foods": [
+    {
+      "food_number": "06228",
+      "tag_name": "小ねぎ",
+      "diff": "",
+      "search_keywords": [
+        "こねぎ",
+        "小葱"
+      ]
+    },
+    {
+      "food_number": "06411",
+      "tag_name": "芽ねぎ",
+      "diff": "",
+      "search_keywords": [
+        "めねぎ",
+        "芽葱"
+      ]
+    },
+    {
+      "food_number": "06229",
+      "tag_name": "野沢菜",
+      "diff": "",
+      "search_keywords": [
+        "のざわな",
+        "野沢菜漬け"
+      ]
+    },
+    {
+      "food_number": "06230",
+      "tag_name": "野沢菜漬け",
+      "diff": "塩漬",
+      "search_keywords": [
+        "のざわな",
+        "野沢菜"
+      ]
+    },
+    {
+      "food_number": "06231",
+      "tag_name": "野沢菜漬け",
+      "diff": "調味漬",
+      "search_keywords": [
+        "のざわな",
+        "野沢菜"
+      ]
+    },
+    {
+      "food_number": "06232",
+      "tag_name": "のびる",
+      "diff": "",
+      "search_keywords": [
+        "野蒜"
+      ]
+    },
+    {
+      "food_number": "06233",
+      "tag_name": "白菜",
+      "diff": "",
+      "search_keywords": [
+        "はくさい",
+        "ハクサイ",
+        "白菜"
+      ]
+    },
+    {
+      "food_number": "06234",
+      "tag_name": "白菜",
+      "diff": "ゆで",
+      "search_keywords": [
+        "はくさい",
+        "ハクサイ",
+        "白菜"
+      ]
+    },
+    {
+      "food_number": "06235",
+      "tag_name": "白菜漬け",
+      "diff": "塩漬",
+      "search_keywords": [
+        "はくさい",
+        "ハクサイ",
+        "白菜"
+      ]
+    },
+    {
+      "food_number": "06236",
+      "tag_name": "キムチ",
+      "diff": "",
+      "search_keywords": [
+        "白菜キムチ",
+        "はくさい",
+        "ハクサイ",
+        "白菜"
+      ]
+    },
+    {
+      "food_number": "06237",
+      "tag_name": "チンゲン菜",
+      "diff": "",
+      "search_keywords": [
+        "パクチョイ",
+        "青梗菜",
+        "チンゲンサイ"
+      ]
+    },
+    {
+      "food_number": "06238",
+      "tag_name": "バジル",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06239",
+      "tag_name": "パセリ",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06240",
+      "tag_name": "ラディッシュ",
+      "diff": "",
+      "search_keywords": [
+        "はつかだいこん",
+        "二十日大根"
+      ]
+    },
+    {
+      "food_number": "06392",
+      "tag_name": "はなっこりー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06241",
+      "tag_name": "はやとうり",
+      "diff": "白色種",
+      "search_keywords": [
+        "隼人瓜",
+        "チョヨーテ"
+      ]
+    },
+    {
+      "food_number": "06242",
+      "tag_name": "はやとうり漬け",
+      "diff": "白色種・塩漬",
+      "search_keywords": [
+        "隼人瓜",
+        "チョヨーテ"
+      ]
+    },
+    {
+      "food_number": "06353",
+      "tag_name": "はやとうり",
+      "diff": "緑色種",
+      "search_keywords": [
+        "隼人瓜",
+        "チョヨーテ"
+      ]
+    },
+    {
+      "food_number": "06243",
+      "tag_name": "ビーツ",
+      "diff": "",
+      "search_keywords": [
+        "甜菜",
+        "ビート"
+      ]
+    },
+    {
+      "food_number": "06244",
+      "tag_name": "ビーツ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "甜菜",
+        "ビート"
+      ]
+    },
+    {
+      "food_number": "06245",
+      "tag_name": "ピーマン",
+      "diff": "青",
+      "search_keywords": [
+        "青ピーマン",
+        "グリーンピーマン"
+      ]
+    },
+    {
+      "food_number": "06246",
+      "tag_name": "ピーマン",
+      "diff": "青・油いため",
+      "search_keywords": [
+        "青ピーマン",
+        "グリーンピーマン"
+      ]
+    },
+    {
+      "food_number": "06247",
+      "tag_name": "パプリカ",
+      "diff": "赤",
+      "search_keywords": [
+        "赤ピーマン",
+        "レッドパプリカ"
+      ]
+    },
+    {
+      "food_number": "06248",
+      "tag_name": "パプリカ",
+      "diff": "赤・油いため",
+      "search_keywords": [
+        "赤ピーマン",
+        "レッドパプリカ"
+      ]
+    },
+    {
+      "food_number": "06393",
+      "tag_name": "パプリカ",
+      "diff": "オレンジ",
+      "search_keywords": [
+        "オレンジピーマン",
+        "オレンジパプリカ"
+      ]
+    },
+    {
+      "food_number": "06394",
+      "tag_name": "パプリカ",
+      "diff": "オレンジ・油いため",
+      "search_keywords": [
+        "オレンジピーマン",
+        "オレンジパプリカ"
+      ]
+    },
+    {
+      "food_number": "06249",
+      "tag_name": "パプリカ",
+      "diff": "黄",
+      "search_keywords": [
+        "黄ピーマン",
+        "イエローパプリカ"
+      ]
+    },
+    {
+      "food_number": "06250",
+      "tag_name": "パプリカ",
+      "diff": "黄・油いため",
+      "search_keywords": [
+        "黄ピーマン",
+        "イエローパプリカ"
+      ]
+    },
+    {
+      "food_number": "06251",
+      "tag_name": "トマピー",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06252",
+      "tag_name": "ひのな",
+      "diff": "",
+      "search_keywords": [
+        "日野菜",
+        "ひのなかぶ"
+      ]
+    }
+  ]
+}

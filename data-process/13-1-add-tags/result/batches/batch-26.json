@@ -1,0 +1,274 @@
+{
+  "batchNumber": 26,
+  "foods": [
+    {
+      "food_number": "06334",
+      "tag_name": "切干大根",
+      "diff": "ゆで",
+      "search_keywords": [
+        "切り干し大根",
+        "きりぼしだいこん"
+      ]
+    },
+    {
+      "food_number": "06335",
+      "tag_name": "切干大根",
+      "diff": "油いため",
+      "search_keywords": [
+        "切り干し大根",
+        "きりぼしだいこん"
+      ]
+    },
+    {
+      "food_number": "06388",
+      "tag_name": "いぶりがっこ",
+      "diff": "",
+      "search_keywords": [
+        "燻りがっこ",
+        "いぶり漬け"
+      ]
+    },
+    {
+      "food_number": "06137",
+      "tag_name": "ぬか漬け大根",
+      "diff": "",
+      "search_keywords": [
+        "ぬかみそ漬",
+        "糠漬け",
+        "ぬか漬け"
+      ]
+    },
+    {
+      "food_number": "06138",
+      "tag_name": "たくあん",
+      "diff": "塩押し",
+      "search_keywords": [
+        "沢庵",
+        "たくあん漬",
+        "塩押し大根漬"
+      ]
+    },
+    {
+      "food_number": "06139",
+      "tag_name": "たくあん",
+      "diff": "干し",
+      "search_keywords": [
+        "沢庵",
+        "たくあん漬",
+        "干し大根漬"
+      ]
+    },
+    {
+      "food_number": "06140",
+      "tag_name": "守口漬",
+      "diff": "",
+      "search_keywords": [
+        "もりぐち漬け",
+        "守口大根"
+      ]
+    },
+    {
+      "food_number": "06141",
+      "tag_name": "べったら漬",
+      "diff": "",
+      "search_keywords": [
+        "べったら漬け",
+        "べったら"
+      ]
+    },
+    {
+      "food_number": "06142",
+      "tag_name": "みそ漬け大根",
+      "diff": "",
+      "search_keywords": [
+        "味噌漬け",
+        "みそ漬"
+      ]
+    },
+    {
+      "food_number": "06143",
+      "tag_name": "福神漬",
+      "diff": "",
+      "search_keywords": [
+        "ふくじん漬け",
+        "ふくじんづけ"
+      ]
+    },
+    {
+      "food_number": "06144",
+      "tag_name": "つまみな",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06145",
+      "tag_name": "菜心",
+      "diff": "",
+      "search_keywords": [
+        "たいさい",
+        "チンゲンサイ"
+      ]
+    },
+    {
+      "food_number": "06146",
+      "tag_name": "菜心",
+      "diff": "塩漬け",
+      "search_keywords": [
+        "たいさい",
+        "チンゲンサイ"
+      ]
+    },
+    {
+      "food_number": "06147",
+      "tag_name": "たかな",
+      "diff": "",
+      "search_keywords": [
+        "高菜",
+        "たか菜"
+      ]
+    },
+    {
+      "food_number": "06148",
+      "tag_name": "たかな漬け",
+      "diff": "",
+      "search_keywords": [
+        "高菜漬け",
+        "たか菜漬け"
+      ]
+    },
+    {
+      "food_number": "06149",
+      "tag_name": "たけのこ",
+      "diff": "生",
+      "search_keywords": [
+        "筍",
+        "竹の子"
+      ]
+    },
+    {
+      "food_number": "06150",
+      "tag_name": "たけのこ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "筍",
+        "竹の子"
+      ]
+    },
+    {
+      "food_number": "06151",
+      "tag_name": "たけのこ水煮",
+      "diff": "",
+      "search_keywords": [
+        "筍水煮",
+        "竹の子水煮",
+        "たけのこ缶詰"
+      ]
+    },
+    {
+      "food_number": "06152",
+      "tag_name": "メンマ",
+      "diff": "塩抜き",
+      "search_keywords": [
+        "麺麻",
+        "しおぬき"
+      ]
+    },
+    {
+      "food_number": "06153",
+      "tag_name": "たまねぎ",
+      "diff": "生",
+      "search_keywords": [
+        "玉葱",
+        "オニオン"
+      ]
+    },
+    {
+      "food_number": "06154",
+      "tag_name": "たまねぎ",
+      "diff": "水さらし",
+      "search_keywords": [
+        "玉葱",
+        "オニオン"
+      ]
+    },
+    {
+      "food_number": "06155",
+      "tag_name": "たまねぎ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "玉葱",
+        "オニオン"
+      ]
+    },
+    {
+      "food_number": "06336",
+      "tag_name": "たまねぎ",
+      "diff": "油いため",
+      "search_keywords": [
+        "玉葱",
+        "オニオン"
+      ]
+    },
+    {
+      "food_number": "06389",
+      "tag_name": "たまねぎ",
+      "diff": "あめ色",
+      "search_keywords": [
+        "玉葱",
+        "オニオン",
+        "キャラメライズ"
+      ]
+    },
+    {
+      "food_number": "06156",
+      "tag_name": "赤たまねぎ",
+      "diff": "生",
+      "search_keywords": [
+        "レッドオニオン",
+        "赤玉葱"
+      ]
+    },
+    {
+      "food_number": "06337",
+      "tag_name": "葉たまねぎ",
+      "diff": "",
+      "search_keywords": [
+        "葉玉葱",
+        "青ねぎ",
+        "葉ねぎ"
+      ]
+    },
+    {
+      "food_number": "06157",
+      "tag_name": "たらの芽",
+      "diff": "生",
+      "search_keywords": [
+        "タラの芽",
+        "たら芽"
+      ]
+    },
+    {
+      "food_number": "06158",
+      "tag_name": "たらの芽",
+      "diff": "ゆで",
+      "search_keywords": [
+        "タラの芽",
+        "たら芽"
+      ]
+    },
+    {
+      "food_number": "06159",
+      "tag_name": "チコリ",
+      "diff": "",
+      "search_keywords": [
+        "アンディーブ"
+      ]
+    },
+    {
+      "food_number": "06376",
+      "tag_name": "ちぢみゆきな",
+      "diff": "",
+      "search_keywords": []
+    }
+  ]
+}

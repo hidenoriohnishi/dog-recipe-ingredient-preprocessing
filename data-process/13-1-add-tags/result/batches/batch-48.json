@@ -1,0 +1,266 @@
+{
+  "batchNumber": 48,
+  "foods": [
+    {
+      "food_number": "09059",
+      "tag_name": "わかめの汁",
+      "diff": "カットわかめ・水煮の汁",
+      "search_keywords": [
+        "カットわかめ"
+      ]
+    },
+    {
+      "food_number": "09045",
+      "tag_name": "わかめ",
+      "diff": "湯通し塩蔵わかめ・塩抜き・生",
+      "search_keywords": [
+        "塩蔵わかめ"
+      ]
+    },
+    {
+      "food_number": "09057",
+      "tag_name": "わかめ",
+      "diff": "湯通し塩蔵わかめ・塩抜き・ゆで",
+      "search_keywords": [
+        "塩蔵わかめ"
+      ]
+    },
+    {
+      "food_number": "09046",
+      "tag_name": "くきわかめ",
+      "diff": "湯通し塩蔵・塩抜き",
+      "search_keywords": [
+        "茎わかめ"
+      ]
+    },
+    {
+      "food_number": "09047",
+      "tag_name": "めかぶ",
+      "diff": "生",
+      "search_keywords": [
+        "めかぶわかめ",
+        "メカブ"
+      ]
+    },
+    {
+      "food_number": "10001",
+      "tag_name": "あいなめ",
+      "diff": "",
+      "search_keywords": [
+        "鮎並"
+      ]
+    },
+    {
+      "food_number": "10002",
+      "tag_name": "あこうだい",
+      "diff": "",
+      "search_keywords": [
+        "赤魚鯛",
+        "アコウダイ"
+      ]
+    },
+    {
+      "food_number": "10003",
+      "tag_name": "あじ",
+      "diff": "まあじ・皮付き・生",
+      "search_keywords": [
+        "鯵",
+        "真鯵"
+      ]
+    },
+    {
+      "food_number": "10389",
+      "tag_name": "あじ",
+      "diff": "まあじ・皮なし・生",
+      "search_keywords": [
+        "鯵",
+        "真鯵"
+      ]
+    },
+    {
+      "food_number": "10004",
+      "tag_name": "あじ",
+      "diff": "まあじ・皮付き・水煮",
+      "search_keywords": [
+        "鯵",
+        "真鯵"
+      ]
+    },
+    {
+      "food_number": "10005",
+      "tag_name": "あじ",
+      "diff": "まあじ・皮付き・焼き",
+      "search_keywords": [
+        "鯵",
+        "真鯵"
+      ]
+    },
+    {
+      "food_number": "10390",
+      "tag_name": "あじ",
+      "diff": "まあじ・皮付き・フライ",
+      "search_keywords": [
+        "鯵",
+        "真鯵"
+      ]
+    },
+    {
+      "food_number": "10006",
+      "tag_name": "あじ",
+      "diff": "まあじ・開き干し・生",
+      "search_keywords": [
+        "鯵",
+        "真鯵",
+        "開き"
+      ]
+    },
+    {
+      "food_number": "10007",
+      "tag_name": "あじ",
+      "diff": "まあじ・開き干し・焼き",
+      "search_keywords": [
+        "鯵",
+        "真鯵",
+        "開き"
+      ]
+    },
+    {
+      "food_number": "10391",
+      "tag_name": "あじ",
+      "diff": "まあじ・小型・骨付き・生",
+      "search_keywords": [
+        "鯵",
+        "真鯵",
+        "小あじ"
+      ]
+    },
+    {
+      "food_number": "10392",
+      "tag_name": "あじ",
+      "diff": "まあじ・小型・骨付き・から揚げ",
+      "search_keywords": [
+        "鯵",
+        "真鯵",
+        "小あじ"
+      ]
+    },
+    {
+      "food_number": "10393",
+      "tag_name": "まるあじ",
+      "diff": "生",
+      "search_keywords": [
+        "丸鯵"
+      ]
+    },
+    {
+      "food_number": "10394",
+      "tag_name": "まるあじ",
+      "diff": "焼き",
+      "search_keywords": [
+        "丸鯵"
+      ]
+    },
+    {
+      "food_number": "10008",
+      "tag_name": "にしまあじ",
+      "diff": "生",
+      "search_keywords": [
+        "西真鯵"
+      ]
+    },
+    {
+      "food_number": "10009",
+      "tag_name": "にしまあじ",
+      "diff": "水煮",
+      "search_keywords": [
+        "西真鯵"
+      ]
+    },
+    {
+      "food_number": "10010",
+      "tag_name": "にしまあじ",
+      "diff": "焼き",
+      "search_keywords": [
+        "西真鯵"
+      ]
+    },
+    {
+      "food_number": "10457",
+      "tag_name": "にしまあじ",
+      "diff": "開き干し・生",
+      "search_keywords": [
+        "西真鯵",
+        "開き"
+      ]
+    },
+    {
+      "food_number": "10458",
+      "tag_name": "にしまあじ",
+      "diff": "開き干し・焼き",
+      "search_keywords": [
+        "西真鯵",
+        "開き"
+      ]
+    },
+    {
+      "food_number": "10011",
+      "tag_name": "むろあじ",
+      "diff": "生",
+      "search_keywords": [
+        "室鯵"
+      ]
+    },
+    {
+      "food_number": "10012",
+      "tag_name": "むろあじ",
+      "diff": "焼き",
+      "search_keywords": [
+        "室鯵"
+      ]
+    },
+    {
+      "food_number": "10013",
+      "tag_name": "むろあじ",
+      "diff": "開き干し",
+      "search_keywords": [
+        "室鯵",
+        "開き"
+      ]
+    },
+    {
+      "food_number": "10014",
+      "tag_name": "むろあじ",
+      "diff": "くさや",
+      "search_keywords": [
+        "室鯵",
+        "クサヤ"
+      ]
+    },
+    {
+      "food_number": "10015",
+      "tag_name": "あなご",
+      "diff": "生",
+      "search_keywords": [
+        "穴子"
+      ]
+    },
+    {
+      "food_number": "10016",
+      "tag_name": "あなご",
+      "diff": "蒸し",
+      "search_keywords": [
+        "穴子"
+      ]
+    },
+    {
+      "food_number": "10017",
+      "tag_name": "あまご",
+      "diff": "養殖・生",
+      "search_keywords": [
+        "天魚",
+        "アマゴ",
+        "養殖"
+      ]
+    }
+  ]
+}

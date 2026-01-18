@@ -1,0 +1,280 @@
+{
+  "batchNumber": 66,
+  "foods": [
+    {
+      "food_number": "10364",
+      "tag_name": "あみ塩辛",
+      "diff": "",
+      "search_keywords": [
+        "アミ",
+        "塩辛"
+      ]
+    },
+    {
+      "food_number": "10365",
+      "tag_name": "生うに",
+      "diff": "",
+      "search_keywords": [
+        "ウニ",
+        "雲丹",
+        "生"
+      ]
+    },
+    {
+      "food_number": "10366",
+      "tag_name": "粒うに",
+      "diff": "",
+      "search_keywords": [
+        "ウニ",
+        "雲丹",
+        "塩うに"
+      ]
+    },
+    {
+      "food_number": "10367",
+      "tag_name": "練りうに",
+      "diff": "",
+      "search_keywords": [
+        "ウニ",
+        "雲丹",
+        "ペースト"
+      ]
+    },
+    {
+      "food_number": "10368",
+      "tag_name": "おきあみ",
+      "diff": "",
+      "search_keywords": [
+        "オキアミ",
+        "桜えび",
+        "クリル"
+      ]
+    },
+    {
+      "food_number": "10369",
+      "tag_name": "おきあみ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "オキアミ",
+        "桜えび",
+        "クリル"
+      ]
+    },
+    {
+      "food_number": "10370",
+      "tag_name": "くらげ",
+      "diff": "塩蔵・塩抜き",
+      "search_keywords": [
+        "クラゲ",
+        "海月"
+      ]
+    },
+    {
+      "food_number": "10371",
+      "tag_name": "しゃこ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "シャコ",
+        "蝦蛄"
+      ]
+    },
+    {
+      "food_number": "10372",
+      "tag_name": "なまこ",
+      "diff": "",
+      "search_keywords": [
+        "ナマコ",
+        "海鼠"
+      ]
+    },
+    {
+      "food_number": "10373",
+      "tag_name": "このわた",
+      "diff": "",
+      "search_keywords": [
+        "ナマコ",
+        "海鼠",
+        "内臓"
+      ]
+    },
+    {
+      "food_number": "10374",
+      "tag_name": "ほや",
+      "diff": "",
+      "search_keywords": [
+        "ホヤ",
+        "海鞘"
+      ]
+    },
+    {
+      "food_number": "10375",
+      "tag_name": "ほや塩辛",
+      "diff": "",
+      "search_keywords": [
+        "ホヤ",
+        "海鞘",
+        "塩辛"
+      ]
+    },
+    {
+      "food_number": "10376",
+      "tag_name": "カニカマ",
+      "diff": "",
+      "search_keywords": [
+        "かに風味かまぼこ",
+        "カニ風味",
+        "カニカマボコ"
+      ]
+    },
+    {
+      "food_number": "10423",
+      "tag_name": "黒はんぺん",
+      "diff": "",
+      "search_keywords": [
+        "黒ハンペン"
+      ]
+    },
+    {
+      "food_number": "10377",
+      "tag_name": "昆布巻きかまぼこ",
+      "diff": "",
+      "search_keywords": [
+        "昆布巻き",
+        "かまぼこ"
+      ]
+    },
+    {
+      "food_number": "10378",
+      "tag_name": "す巻きかまぼこ",
+      "diff": "",
+      "search_keywords": [
+        "す巻き",
+        "かまぼこ"
+      ]
+    },
+    {
+      "food_number": "10379",
+      "tag_name": "蒸しかまぼこ",
+      "diff": "",
+      "search_keywords": [
+        "蒸し",
+        "かまぼこ"
+      ]
+    },
+    {
+      "food_number": "10380",
+      "tag_name": "焼き抜きかまぼこ",
+      "diff": "",
+      "search_keywords": [
+        "焼き抜き",
+        "かまぼこ"
+      ]
+    },
+    {
+      "food_number": "10381",
+      "tag_name": "焼き竹輪",
+      "diff": "",
+      "search_keywords": [
+        "ちくわ",
+        "竹輪"
+      ]
+    },
+    {
+      "food_number": "10382",
+      "tag_name": "だて巻",
+      "diff": "",
+      "search_keywords": [
+        "伊達巻",
+        "だてまき"
+      ]
+    },
+    {
+      "food_number": "10383",
+      "tag_name": "つみれ",
+      "diff": "",
+      "search_keywords": [
+        "つみれ団子",
+        "魚団子"
+      ]
+    },
+    {
+      "food_number": "10384",
+      "tag_name": "なると",
+      "diff": "",
+      "search_keywords": [
+        "なると巻き",
+        "鳴門"
+      ]
+    },
+    {
+      "food_number": "10385",
+      "tag_name": "はんぺん",
+      "diff": "",
+      "search_keywords": [
+        "ハンペン"
+      ]
+    },
+    {
+      "food_number": "10386",
+      "tag_name": "さつま揚げ",
+      "diff": "",
+      "search_keywords": [
+        "薩摩揚げ",
+        "てんぷら"
+      ]
+    },
+    {
+      "food_number": "10387",
+      "tag_name": "魚肉ハム",
+      "diff": "",
+      "search_keywords": [
+        "ぎょにくハム"
+      ]
+    },
+    {
+      "food_number": "10388",
+      "tag_name": "魚肉ソーセージ",
+      "diff": "",
+      "search_keywords": [
+        "ぎょにくソーセージ"
+      ]
+    },
+    {
+      "food_number": "11001",
+      "tag_name": "いのしし肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "猪",
+        "イノシシ"
+      ]
+    },
+    {
+      "food_number": "11002",
+      "tag_name": "いのぶた肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "イノブタ",
+        "猪豚"
+      ]
+    },
+    {
+      "food_number": "11003",
+      "tag_name": "うさぎ肉",
+      "diff": "赤肉",
+      "search_keywords": [
+        "兎",
+        "ラビット"
+      ]
+    },
+    {
+      "food_number": "11004",
+      "tag_name": "和牛かた肉",
+      "diff": "脂身つき",
+      "search_keywords": [
+        "牛肉",
+        "和牛",
+        "肩肉"
+      ]
+    }
+  ]
+}

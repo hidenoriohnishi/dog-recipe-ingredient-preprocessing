@@ -1,0 +1,231 @@
+{
+  "batchNumber": 20,
+  "foods": [
+    {
+      "food_number": "06007",
+      "tag_name": "アスパラガス",
+      "diff": "若茎・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06008",
+      "tag_name": "アスパラガス",
+      "diff": "若茎・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06327",
+      "tag_name": "アスパラガス",
+      "diff": "若茎・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06009",
+      "tag_name": "アスパラガス缶詰",
+      "diff": "水煮",
+      "search_keywords": [
+        "アスパラガス"
+      ]
+    },
+    {
+      "food_number": "06328",
+      "tag_name": "アロエ",
+      "diff": "葉・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06010",
+      "tag_name": "いんげん",
+      "diff": "さやいんげん・生",
+      "search_keywords": [
+        "インゲン",
+        "さやいんげん",
+        "隠元"
+      ]
+    },
+    {
+      "food_number": "06011",
+      "tag_name": "いんげん",
+      "diff": "さやいんげん・ゆで",
+      "search_keywords": [
+        "インゲン",
+        "さやいんげん",
+        "隠元"
+      ]
+    },
+    {
+      "food_number": "06012",
+      "tag_name": "うど",
+      "diff": "茎・生",
+      "search_keywords": [
+        "独活"
+      ]
+    },
+    {
+      "food_number": "06013",
+      "tag_name": "うど",
+      "diff": "茎・水さらし",
+      "search_keywords": [
+        "独活"
+      ]
+    },
+    {
+      "food_number": "06014",
+      "tag_name": "やまうど",
+      "diff": "茎・生",
+      "search_keywords": [
+        "山独活"
+      ]
+    },
+    {
+      "food_number": "06363",
+      "tag_name": "うるい",
+      "diff": "葉・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06015",
+      "tag_name": "えだまめ",
+      "diff": "生",
+      "search_keywords": [
+        "枝豆"
+      ]
+    },
+    {
+      "food_number": "06016",
+      "tag_name": "えだまめ",
+      "diff": "ゆで",
+      "search_keywords": [
+        "枝豆"
+      ]
+    },
+    {
+      "food_number": "06017",
+      "tag_name": "えだまめ",
+      "diff": "冷凍",
+      "search_keywords": [
+        "枝豆"
+      ]
+    },
+    {
+      "food_number": "06018",
+      "tag_name": "エンダイブ",
+      "diff": "葉・生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06019",
+      "tag_name": "トウミョウ",
+      "diff": "茎葉・生",
+      "search_keywords": [
+        "豆苗"
+      ]
+    },
+    {
+      "food_number": "06329",
+      "tag_name": "トウミョウ",
+      "diff": "芽ばえ・生",
+      "search_keywords": [
+        "豆苗"
+      ]
+    },
+    {
+      "food_number": "06330",
+      "tag_name": "トウミョウ",
+      "diff": "芽ばえ・ゆで",
+      "search_keywords": [
+        "豆苗"
+      ]
+    },
+    {
+      "food_number": "06331",
+      "tag_name": "トウミョウ",
+      "diff": "芽ばえ・油いため",
+      "search_keywords": [
+        "豆苗"
+      ]
+    },
+    {
+      "food_number": "06020",
+      "tag_name": "さやえんどう",
+      "diff": "若ざや・生",
+      "search_keywords": [
+        "絹さや",
+        "絹莢"
+      ]
+    },
+    {
+      "food_number": "06021",
+      "tag_name": "さやえんどう",
+      "diff": "若ざや・ゆで",
+      "search_keywords": [
+        "絹さや",
+        "絹莢"
+      ]
+    },
+    {
+      "food_number": "06022",
+      "tag_name": "スナップえんどう",
+      "diff": "若ざや・生",
+      "search_keywords": [
+        "スナップエンドウ"
+      ]
+    },
+    {
+      "food_number": "06023",
+      "tag_name": "グリンピース",
+      "diff": "生",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06024",
+      "tag_name": "グリンピース",
+      "diff": "ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06025",
+      "tag_name": "グリンピース",
+      "diff": "冷凍",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06374",
+      "tag_name": "グリンピース",
+      "diff": "冷凍・ゆで",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06375",
+      "tag_name": "グリンピース",
+      "diff": "冷凍・油いため",
+      "search_keywords": []
+    },
+    {
+      "food_number": "06026",
+      "tag_name": "グリンピース缶詰",
+      "diff": "水煮",
+      "search_keywords": [
+        "グリーンピース缶"
+      ]
+    },
+    {
+      "food_number": "06027",
+      "tag_name": "おおさかしろな",
+      "diff": "葉・生",
+      "search_keywords": [
+        "大阪白菜",
+        "大阪しろな"
+      ]
+    },
+    {
+      "food_number": "06028",
+      "tag_name": "おおさかしろな",
+      "diff": "葉・ゆで",
+      "search_keywords": [
+        "大阪白菜",
+        "大阪しろな"
+      ]
+    }
+  ]
+}

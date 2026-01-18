@@ -1,0 +1,294 @@
+{
+  "batchNumber": 85,
+  "foods": [
+    {
+      "food_number": "15013",
+      "tag_name": "ぎゅうひ",
+      "diff": "",
+      "search_keywords": [
+        "求肥"
+      ]
+    },
+    {
+      "food_number": "15014",
+      "tag_name": "きりざんしょ",
+      "diff": "",
+      "search_keywords": [
+        "切山椒"
+      ]
+    },
+    {
+      "food_number": "15015",
+      "tag_name": "きんぎょく糖",
+      "diff": "",
+      "search_keywords": [
+        "錦玉糖",
+        "きんぎょくとう"
+      ]
+    },
+    {
+      "food_number": "15016",
+      "tag_name": "きんつば",
+      "diff": "",
+      "search_keywords": [
+        "金鍔",
+        "きんつば"
+      ]
+    },
+    {
+      "food_number": "15017",
+      "tag_name": "草もち",
+      "diff": "こしあん",
+      "search_keywords": [
+        "よもぎ餅",
+        "草餅",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15150",
+      "tag_name": "草もち",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "よもぎ餅",
+        "草餅",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15018",
+      "tag_name": "くし団子",
+      "diff": "こしあん",
+      "search_keywords": [
+        "串団子",
+        "団子",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15151",
+      "tag_name": "くし団子",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "串団子",
+        "団子",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15019",
+      "tag_name": "くし団子",
+      "diff": "みたらし",
+      "search_keywords": [
+        "串団子",
+        "団子",
+        "みたらし"
+      ]
+    },
+    {
+      "food_number": "15121",
+      "tag_name": "くずもち",
+      "diff": "関西風",
+      "search_keywords": [
+        "葛餅",
+        "くず餅",
+        "関西"
+      ]
+    },
+    {
+      "food_number": "15122",
+      "tag_name": "くずもち",
+      "diff": "関東風",
+      "search_keywords": [
+        "葛餅",
+        "くず餅",
+        "関東"
+      ]
+    },
+    {
+      "food_number": "15020",
+      "tag_name": "げっぺい",
+      "diff": "",
+      "search_keywords": [
+        "月餅"
+      ]
+    },
+    {
+      "food_number": "15123",
+      "tag_name": "五平もち",
+      "diff": "",
+      "search_keywords": [
+        "ごへい餅",
+        "ごへいもち"
+      ]
+    },
+    {
+      "food_number": "15022",
+      "tag_name": "桜もち",
+      "diff": "関西風・こしあん",
+      "search_keywords": [
+        "さくら餅",
+        "桜餅",
+        "道明寺",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15153",
+      "tag_name": "桜もち",
+      "diff": "関西風・つぶあん",
+      "search_keywords": [
+        "さくら餅",
+        "桜餅",
+        "道明寺",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15021",
+      "tag_name": "桜もち",
+      "diff": "関東風・こしあん",
+      "search_keywords": [
+        "さくら餅",
+        "桜餅",
+        "長命寺",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15152",
+      "tag_name": "桜もち",
+      "diff": "関東風・つぶあん",
+      "search_keywords": [
+        "さくら餅",
+        "桜餅",
+        "長命寺",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15124",
+      "tag_name": "笹だんご",
+      "diff": "こしあん",
+      "search_keywords": [
+        "笹団子",
+        "ささ団子",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15154",
+      "tag_name": "笹だんご",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "笹団子",
+        "ささ団子",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15143",
+      "tag_name": "ずんだあん",
+      "diff": "",
+      "search_keywords": [
+        "ずんだ餡",
+        "枝豆あん"
+      ]
+    },
+    {
+      "food_number": "15144",
+      "tag_name": "ずんだもち",
+      "diff": "",
+      "search_keywords": [
+        "ずんだ餅",
+        "枝豆餅"
+      ]
+    },
+    {
+      "food_number": "15023",
+      "tag_name": "大福もち",
+      "diff": "こしあん",
+      "search_keywords": [
+        "大福",
+        "だいふく",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15155",
+      "tag_name": "大福もち",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "大福",
+        "だいふく",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15024",
+      "tag_name": "タルト",
+      "diff": "",
+      "search_keywords": [
+        "和菓子タルト",
+        "和タルト"
+      ]
+    },
+    {
+      "food_number": "15025",
+      "tag_name": "ちまき",
+      "diff": "",
+      "search_keywords": [
+        "粽"
+      ]
+    },
+    {
+      "food_number": "15026",
+      "tag_name": "ちゃつう",
+      "diff": "",
+      "search_keywords": [
+        "茶通"
+      ]
+    },
+    {
+      "food_number": "15156",
+      "tag_name": "どら焼き",
+      "diff": "こしあん",
+      "search_keywords": [
+        "どらやき",
+        "ドラ焼き",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15027",
+      "tag_name": "どら焼き",
+      "diff": "つぶあん",
+      "search_keywords": [
+        "どらやき",
+        "ドラ焼き",
+        "つぶあん"
+      ]
+    },
+    {
+      "food_number": "15157",
+      "tag_name": "生八つ橋",
+      "diff": "こしあん",
+      "search_keywords": [
+        "なま八つ橋",
+        "八ッ橋",
+        "こしあん"
+      ]
+    },
+    {
+      "food_number": "15004",
+      "tag_name": "生八つ橋",
+      "diff": "こしあん・つぶあん混合",
+      "search_keywords": [
+        "なま八つ橋",
+        "八ッ橋",
+        "こしあん",
+        "つぶあん"
+      ]
+    }
+  ]
+}

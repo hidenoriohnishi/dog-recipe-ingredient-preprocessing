@@ -1,0 +1,291 @@
+{
+  "batchNumber": 50,
+  "foods": [
+    {
+      "food_number": "10038",
+      "tag_name": "いしだい",
+      "diff": "",
+      "search_keywords": [
+        "石鯛"
+      ]
+    },
+    {
+      "food_number": "10039",
+      "tag_name": "いとよりだい",
+      "diff": "",
+      "search_keywords": [
+        "糸撚鯛"
+      ]
+    },
+    {
+      "food_number": "10040",
+      "tag_name": "いとよりだい",
+      "diff": "すり身",
+      "search_keywords": [
+        "糸撚鯛",
+        "すりみ",
+        "魚肉すり身"
+      ]
+    },
+    {
+      "food_number": "10041",
+      "tag_name": "いぼだい",
+      "diff": "",
+      "search_keywords": [
+        "疣鯛",
+        "ウオゼ"
+      ]
+    },
+    {
+      "food_number": "10042",
+      "tag_name": "うるめいわし",
+      "diff": "",
+      "search_keywords": [
+        "潤目鰯"
+      ]
+    },
+    {
+      "food_number": "10043",
+      "tag_name": "うるめいわし",
+      "diff": "丸干し",
+      "search_keywords": [
+        "潤目鰯",
+        "丸干し"
+      ]
+    },
+    {
+      "food_number": "10044",
+      "tag_name": "かたくちいわし",
+      "diff": "",
+      "search_keywords": [
+        "片口鰯",
+        "カタクチイワシ"
+      ]
+    },
+    {
+      "food_number": "10045",
+      "tag_name": "かたくちいわし",
+      "diff": "煮干し",
+      "search_keywords": [
+        "片口鰯",
+        "煮干し",
+        "にぼし",
+        "カタクチイワシ"
+      ]
+    },
+    {
+      "food_number": "10046",
+      "tag_name": "かたくちいわし",
+      "diff": "田作り",
+      "search_keywords": [
+        "片口鰯",
+        "田作り",
+        "ごまめ",
+        "カタクチイワシ"
+      ]
+    },
+    {
+      "food_number": "10047",
+      "tag_name": "まいわし",
+      "diff": "",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ"
+      ]
+    },
+    {
+      "food_number": "10048",
+      "tag_name": "まいわし",
+      "diff": "水煮",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ",
+        "煮魚"
+      ]
+    },
+    {
+      "food_number": "10049",
+      "tag_name": "まいわし",
+      "diff": "焼き",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ"
+      ]
+    },
+    {
+      "food_number": "10395",
+      "tag_name": "まいわし",
+      "diff": "フライ",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ",
+        "揚げ物"
+      ]
+    },
+    {
+      "food_number": "10050",
+      "tag_name": "まいわし",
+      "diff": "塩いわし",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ",
+        "塩焼き"
+      ]
+    },
+    {
+      "food_number": "10051",
+      "tag_name": "まいわし",
+      "diff": "生干し",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ",
+        "半乾燥"
+      ]
+    },
+    {
+      "food_number": "10052",
+      "tag_name": "まいわし",
+      "diff": "丸干し",
+      "search_keywords": [
+        "真鰯",
+        "マイワシ",
+        "丸干し"
+      ]
+    },
+    {
+      "food_number": "10053",
+      "tag_name": "めざし",
+      "diff": "",
+      "search_keywords": [
+        "目刺し",
+        "メザシ"
+      ]
+    },
+    {
+      "food_number": "10054",
+      "tag_name": "めざし",
+      "diff": "焼き",
+      "search_keywords": [
+        "目刺し",
+        "メザシ"
+      ]
+    },
+    {
+      "food_number": "10396",
+      "tag_name": "しらす",
+      "diff": "",
+      "search_keywords": [
+        "白子",
+        "シラス"
+      ]
+    },
+    {
+      "food_number": "10445",
+      "tag_name": "しらす",
+      "diff": "釜揚げ",
+      "search_keywords": [
+        "釜揚げしらす",
+        "シラス"
+      ]
+    },
+    {
+      "food_number": "10055",
+      "tag_name": "しらす干し",
+      "diff": "微乾燥",
+      "search_keywords": [
+        "シラス干し",
+        "白子",
+        "微乾燥"
+      ]
+    },
+    {
+      "food_number": "10056",
+      "tag_name": "しらす干し",
+      "diff": "半乾燥",
+      "search_keywords": [
+        "シラス干し",
+        "白子",
+        "半乾燥"
+      ]
+    },
+    {
+      "food_number": "10057",
+      "tag_name": "たたみいわし",
+      "diff": "",
+      "search_keywords": [
+        "畳鰯",
+        "タタミイワシ"
+      ]
+    },
+    {
+      "food_number": "10058",
+      "tag_name": "かたくちいわし",
+      "diff": "みりん干し",
+      "search_keywords": [
+        "片口鰯",
+        "みりん干し",
+        "カタクチイワシ"
+      ]
+    },
+    {
+      "food_number": "10059",
+      "tag_name": "まいわし",
+      "diff": "みりん干し",
+      "search_keywords": [
+        "真鰯",
+        "みりん干し",
+        "マイワシ"
+      ]
+    },
+    {
+      "food_number": "10060",
+      "tag_name": "いわし缶",
+      "diff": "水煮",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "水煮"
+      ]
+    },
+    {
+      "food_number": "10061",
+      "tag_name": "いわし缶",
+      "diff": "味付け",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "味付け"
+      ]
+    },
+    {
+      "food_number": "10062",
+      "tag_name": "いわし缶",
+      "diff": "トマト漬",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "トマトソース"
+      ]
+    },
+    {
+      "food_number": "10063",
+      "tag_name": "いわし缶",
+      "diff": "油漬",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "オイルサーディン"
+      ]
+    },
+    {
+      "food_number": "10064",
+      "tag_name": "いわし缶",
+      "diff": "かば焼",
+      "search_keywords": [
+        "鰯缶",
+        "サーディン缶",
+        "蒲焼"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "batchNumber": 97,
+  "foods": [
+    {
+      "food_number": "17104",
+      "tag_name": "中華風合わせ酢",
+      "diff": "",
+      "search_keywords": [
+        "中華合わせ酢"
+      ]
+    },
+    {
+      "food_number": "17105",
+      "tag_name": "デミグラスソース",
+      "diff": "",
+      "search_keywords": [
+        "デミソース"
+      ]
+    },
+    {
+      "food_number": "17106",
+      "tag_name": "テンメンジャン",
+      "diff": "",
+      "search_keywords": [
+        "甜麺醤"
+      ]
+    },
+    {
+      "food_number": "17108",
+      "tag_name": "冷やし中華のたれ",
+      "diff": "",
+      "search_keywords": [
+        "冷やし中華スープ",
+        "冷やし中華ダレ"
+      ]
+    },
+    {
+      "food_number": "17109",
+      "tag_name": "ホワイトソース",
+      "diff": "",
+      "search_keywords": [
+        "ベシャメルソース"
+      ]
+    },
+    {
+      "food_number": "17110",
+      "tag_name": "ぽん酢しょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "ポン酢",
+        "ポン酢醤油"
+      ]
+    },
+    {
+      "food_number": "17137",
+      "tag_name": "ぽん酢しょうゆ",
+      "diff": "市販品",
+      "search_keywords": [
+        "ポン酢",
+        "ポン酢醤油",
+        "市販"
+      ]
+    },
+    {
+      "food_number": "17032",
+      "tag_name": "マーボー豆腐の素",
+      "diff": "",
+      "search_keywords": [
+        "麻婆豆腐の素",
+        "麻婆豆腐調味料"
+      ]
+    },
+    {
+      "food_number": "17111",
+      "tag_name": "マリネ液",
+      "diff": "",
+      "search_keywords": [
+        "マリネード",
+        "マリネソース"
+      ]
+    },
+    {
+      "food_number": "17033",
+      "tag_name": "ミートソース",
+      "diff": "",
+      "search_keywords": [
+        "ボロネーゼ"
+      ]
+    },
+    {
+      "food_number": "17144",
+      "tag_name": "焼きそばソース",
+      "diff": "粉末",
+      "search_keywords": [
+        "焼そばソース",
+        "焼きそば粉末ソース"
+      ]
+    },
+    {
+      "food_number": "17112",
+      "tag_name": "焼き鳥のたれ",
+      "diff": "",
+      "search_keywords": [
+        "やきとりのたれ"
+      ]
+    },
+    {
+      "food_number": "17113",
+      "tag_name": "焼き肉のたれ",
+      "diff": "",
+      "search_keywords": [
+        "焼肉のたれ"
+      ]
+    },
+    {
+      "food_number": "17114",
+      "tag_name": "みたらしのたれ",
+      "diff": "",
+      "search_keywords": [
+        "みたらし団子のたれ"
+      ]
+    },
+    {
+      "food_number": "17115",
+      "tag_name": "ゆずこしょう",
+      "diff": "",
+      "search_keywords": [
+        "柚子胡椒"
+      ]
+    },
+    {
+      "food_number": "17034",
+      "tag_name": "トマトピューレ",
+      "diff": "",
+      "search_keywords": [
+        "トマトピューレー"
+      ]
+    },
+    {
+      "food_number": "17035",
+      "tag_name": "トマトペースト",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17036",
+      "tag_name": "トマトケチャップ",
+      "diff": "",
+      "search_keywords": [
+        "ケチャップ"
+      ]
+    },
+    {
+      "food_number": "17037",
+      "tag_name": "トマトソース",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17038",
+      "tag_name": "チリソース",
+      "diff": "",
+      "search_keywords": [
+        "スイートチリソース"
+      ]
+    },
+    {
+      "food_number": "17042",
+      "tag_name": "マヨネーズ",
+      "diff": "全卵型",
+      "search_keywords": [
+        "全卵マヨネーズ"
+      ]
+    },
+    {
+      "food_number": "17043",
+      "tag_name": "マヨネーズ",
+      "diff": "卵黄型",
+      "search_keywords": [
+        "卵黄マヨネーズ"
+      ]
+    },
+    {
+      "food_number": "17118",
+      "tag_name": "マヨネーズタイプ調味料",
+      "diff": "低カロリー",
+      "search_keywords": [
+        "低カロリーマヨネーズ"
+      ]
+    },
+    {
+      "food_number": "17040",
+      "tag_name": "フレンチドレッシング",
+      "diff": "分離液状",
+      "search_keywords": [
+        "フレンチドレッシング分離"
+      ]
+    },
+    {
+      "food_number": "17116",
+      "tag_name": "和風ドレッシング",
+      "diff": "分離液状",
+      "search_keywords": [
+        "和風ドレッシング分離"
+      ]
+    },
+    {
+      "food_number": "17039",
+      "tag_name": "和風ドレッシング",
+      "diff": "ノンオイル",
+      "search_keywords": [
+        "和風ドレッシングノンオイル",
+        "ノンオイルドレッシング"
+      ]
+    },
+    {
+      "food_number": "17117",
+      "tag_name": "ごまドレッシング",
+      "diff": "",
+      "search_keywords": [
+        "胡麻ドレッシング"
+      ]
+    },
+    {
+      "food_number": "17041",
+      "tag_name": "サウザンアイランドドレッシング",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17149",
+      "tag_name": "フレンチドレッシング",
+      "diff": "乳化液状",
+      "search_keywords": [
+        "フレンチドレッシング乳化"
+      ]
+    },
+    {
+      "food_number": "17044",
+      "tag_name": "米みそ",
+      "diff": "甘みそ",
+      "search_keywords": [
+        "甘味噌",
+        "甘みそ"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "batchNumber": 96,
+  "foods": [
+    {
+      "food_number": "17027",
+      "tag_name": "ブイヨン",
+      "diff": "固形",
+      "search_keywords": [
+        "固形ブイヨン",
+        "ブイヨンキューブ"
+      ]
+    },
+    {
+      "food_number": "17092",
+      "tag_name": "おでんだし",
+      "diff": "顆粒",
+      "search_keywords": [
+        "おでんスープ",
+        "おでん用だし",
+        "顆粒"
+      ]
+    },
+    {
+      "food_number": "17093",
+      "tag_name": "中華だし",
+      "diff": "顆粒",
+      "search_keywords": [
+        "中華スープ",
+        "中華スープの素",
+        "顆粒"
+      ]
+    },
+    {
+      "food_number": "17028",
+      "tag_name": "和風だし",
+      "diff": "顆粒",
+      "search_keywords": [
+        "和風スープ",
+        "だしの素",
+        "顆粒"
+      ]
+    },
+    {
+      "food_number": "17140",
+      "tag_name": "なべつゆ",
+      "diff": "しょうゆ味・ストレート",
+      "search_keywords": [
+        "鍋つゆ",
+        "鍋スープ",
+        "しょうゆ味",
+        "ストレート"
+      ]
+    },
+    {
+      "food_number": "17029",
+      "tag_name": "めんつゆ",
+      "diff": "ストレート",
+      "search_keywords": [
+        "麺つゆ",
+        "ストレート"
+      ]
+    },
+    {
+      "food_number": "17141",
+      "tag_name": "めんつゆ",
+      "diff": "二倍濃縮",
+      "search_keywords": [
+        "麺つゆ",
+        "2倍濃縮",
+        "二倍濃縮"
+      ]
+    },
+    {
+      "food_number": "17030",
+      "tag_name": "めんつゆ",
+      "diff": "三倍濃縮",
+      "search_keywords": [
+        "麺つゆ",
+        "3倍濃縮",
+        "三倍濃縮"
+      ]
+    },
+    {
+      "food_number": "17142",
+      "tag_name": "ラーメンスープ",
+      "diff": "しょうゆ味・濃縮",
+      "search_keywords": [
+        "ラーメンのスープ",
+        "しょうゆ味",
+        "濃縮"
+      ]
+    },
+    {
+      "food_number": "17143",
+      "tag_name": "ラーメンスープ",
+      "diff": "みそ味・濃縮",
+      "search_keywords": [
+        "ラーメンのスープ",
+        "みそ味",
+        "濃縮"
+      ]
+    },
+    {
+      "food_number": "17094",
+      "tag_name": "甘酢",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17095",
+      "tag_name": "エビチリの素",
+      "diff": "",
+      "search_keywords": [
+        "えびちりの素",
+        "エビチリソース"
+      ]
+    },
+    {
+      "food_number": "17031",
+      "tag_name": "オイスターソース",
+      "diff": "",
+      "search_keywords": [
+        "牡蠣ソース"
+      ]
+    },
+    {
+      "food_number": "17096",
+      "tag_name": "黄身酢",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17133",
+      "tag_name": "魚醤",
+      "diff": "いかなごしょうゆ",
+      "search_keywords": [
+        "魚醤油",
+        "いかなご醤油"
+      ]
+    },
+    {
+      "food_number": "17134",
+      "tag_name": "魚醤",
+      "diff": "いしる",
+      "search_keywords": [
+        "魚醤油",
+        "いしる",
+        "いしり"
+      ]
+    },
+    {
+      "food_number": "17135",
+      "tag_name": "魚醤",
+      "diff": "しょっつる",
+      "search_keywords": [
+        "魚醤油",
+        "しょっつる"
+      ]
+    },
+    {
+      "food_number": "17107",
+      "tag_name": "ナンプラー",
+      "diff": "",
+      "search_keywords": [
+        "魚醤油",
+        "ナンプラ"
+      ]
+    },
+    {
+      "food_number": "17097",
+      "tag_name": "ごま酢",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17098",
+      "tag_name": "ごまだれ",
+      "diff": "",
+      "search_keywords": [
+        "胡麻だれ"
+      ]
+    },
+    {
+      "food_number": "17099",
+      "tag_name": "三杯酢",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17100",
+      "tag_name": "二杯酢",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17101",
+      "tag_name": "すし酢",
+      "diff": "ちらし・稲荷用",
+      "search_keywords": [
+        "寿司酢",
+        "ちらし寿司",
+        "稲荷寿司"
+      ]
+    },
+    {
+      "food_number": "17102",
+      "tag_name": "すし酢",
+      "diff": "にぎり用",
+      "search_keywords": [
+        "寿司酢",
+        "にぎり寿司"
+      ]
+    },
+    {
+      "food_number": "17103",
+      "tag_name": "すし酢",
+      "diff": "巻き寿司・箱寿司用",
+      "search_keywords": [
+        "寿司酢",
+        "巻き寿司",
+        "箱寿司"
+      ]
+    },
+    {
+      "food_number": "17104",
+      "tag_name": "中華風合わせ酢",
+      "diff": "",
+      "search_keywords": [
+        "中華合わせ酢"
+      ]
+    },
+    {
+      "food_number": "17105",
+      "tag_name": "デミグラスソース",
+      "diff": "",
+      "search_keywords": [
+        "デミソース"
+      ]
+    },
+    {
+      "food_number": "17106",
+      "tag_name": "テンメンジャン",
+      "diff": "",
+      "search_keywords": [
+        "甜麺醤"
+      ]
+    },
+    {
+      "food_number": "17108",
+      "tag_name": "冷やし中華のたれ",
+      "diff": "",
+      "search_keywords": [
+        "冷やし中華スープ",
+        "冷やし中華ダレ"
+      ]
+    },
+    {
+      "food_number": "17109",
+      "tag_name": "ホワイトソース",
+      "diff": "",
+      "search_keywords": [
+        "ベシャメルソース"
+      ]
+    }
+  ]
+}

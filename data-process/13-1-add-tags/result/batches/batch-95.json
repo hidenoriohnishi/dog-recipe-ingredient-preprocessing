@@ -1,0 +1,283 @@
+{
+  "batchNumber": 95,
+  "foods": [
+    {
+      "food_number": "17088",
+      "tag_name": "照りしょうゆ",
+      "diff": "",
+      "search_keywords": [
+        "照り醤油",
+        "照り焼き醤油"
+      ]
+    },
+    {
+      "food_number": "17012",
+      "tag_name": "食塩",
+      "diff": "",
+      "search_keywords": []
+    },
+    {
+      "food_number": "17013",
+      "tag_name": "食塩",
+      "diff": "並塩",
+      "search_keywords": [
+        "並塩",
+        "ナミシオ"
+      ]
+    },
+    {
+      "food_number": "17146",
+      "tag_name": "減塩食塩",
+      "diff": "調味料入り",
+      "search_keywords": [
+        "減塩タイプ食塩",
+        "減塩塩",
+        "調味料含む"
+      ]
+    },
+    {
+      "food_number": "17147",
+      "tag_name": "減塩食塩",
+      "diff": "調味料なし",
+      "search_keywords": [
+        "減塩タイプ食塩",
+        "減塩塩",
+        "調味料不使用"
+      ]
+    },
+    {
+      "food_number": "17014",
+      "tag_name": "食塩",
+      "diff": "精製塩・家庭用",
+      "search_keywords": [
+        "精製塩",
+        "家庭用"
+      ]
+    },
+    {
+      "food_number": "17089",
+      "tag_name": "食塩",
+      "diff": "精製塩・業務用",
+      "search_keywords": [
+        "精製塩",
+        "業務用"
+      ]
+    },
+    {
+      "food_number": "17090",
+      "tag_name": "黒酢",
+      "diff": "",
+      "search_keywords": [
+        "くろず",
+        "黒酢"
+      ]
+    },
+    {
+      "food_number": "17015",
+      "tag_name": "穀物酢",
+      "diff": "",
+      "search_keywords": [
+        "こくもつす",
+        "穀物酢"
+      ]
+    },
+    {
+      "food_number": "17016",
+      "tag_name": "米酢",
+      "diff": "",
+      "search_keywords": [
+        "こめず",
+        "米酢"
+      ]
+    },
+    {
+      "food_number": "17091",
+      "tag_name": "バルサミコ酢",
+      "diff": "",
+      "search_keywords": [
+        "果実酢",
+        "バルサミコ",
+        "バルサミコビネガー"
+      ]
+    },
+    {
+      "food_number": "17017",
+      "tag_name": "ぶどう酢",
+      "diff": "",
+      "search_keywords": [
+        "果実酢",
+        "葡萄酢",
+        "グレープビネガー"
+      ]
+    },
+    {
+      "food_number": "17018",
+      "tag_name": "りんご酢",
+      "diff": "",
+      "search_keywords": [
+        "果実酢",
+        "林檎酢",
+        "アップルビネガー"
+      ]
+    },
+    {
+      "food_number": "17130",
+      "tag_name": "あごだし",
+      "diff": "",
+      "search_keywords": [
+        "飛魚だし",
+        "とびうおだし"
+      ]
+    },
+    {
+      "food_number": "17019",
+      "tag_name": "かつおだし",
+      "diff": "荒節",
+      "search_keywords": [
+        "鰹だし",
+        "荒節"
+      ]
+    },
+    {
+      "food_number": "17131",
+      "tag_name": "かつおだし",
+      "diff": "本枯れ節",
+      "search_keywords": [
+        "鰹だし",
+        "本枯節"
+      ]
+    },
+    {
+      "food_number": "17020",
+      "tag_name": "昆布だし",
+      "diff": "水出し",
+      "search_keywords": [
+        "こんぶだし",
+        "水出し"
+      ]
+    },
+    {
+      "food_number": "17132",
+      "tag_name": "昆布だし",
+      "diff": "煮出し",
+      "search_keywords": [
+        "こんぶだし",
+        "煮出し"
+      ]
+    },
+    {
+      "food_number": "17021",
+      "tag_name": "かつお昆布だし",
+      "diff": "荒節・昆布",
+      "search_keywords": [
+        "鰹昆布だし",
+        "荒節",
+        "こんぶだし"
+      ]
+    },
+    {
+      "food_number": "17148",
+      "tag_name": "かつお昆布だし",
+      "diff": "本枯れ節・昆布",
+      "search_keywords": [
+        "鰹昆布だし",
+        "本枯節",
+        "こんぶだし"
+      ]
+    },
+    {
+      "food_number": "17022",
+      "tag_name": "しいたけだし",
+      "diff": "",
+      "search_keywords": [
+        "椎茸だし"
+      ]
+    },
+    {
+      "food_number": "17023",
+      "tag_name": "煮干しだし",
+      "diff": "",
+      "search_keywords": [
+        "にぼしだし",
+        "煮干だし"
+      ]
+    },
+    {
+      "food_number": "17024",
+      "tag_name": "鶏がらだし",
+      "diff": "",
+      "search_keywords": [
+        "鶏ガラだし",
+        "とりがらだし"
+      ]
+    },
+    {
+      "food_number": "17025",
+      "tag_name": "中華だし",
+      "diff": "",
+      "search_keywords": [
+        "中華スープ",
+        "中華スープの素"
+      ]
+    },
+    {
+      "food_number": "17026",
+      "tag_name": "洋風だし",
+      "diff": "",
+      "search_keywords": [
+        "洋風スープ",
+        "コンソメ"
+      ]
+    },
+    {
+      "food_number": "17027",
+      "tag_name": "ブイヨン",
+      "diff": "固形",
+      "search_keywords": [
+        "固形ブイヨン",
+        "ブイヨンキューブ"
+      ]
+    },
+    {
+      "food_number": "17092",
+      "tag_name": "おでんだし",
+      "diff": "顆粒",
+      "search_keywords": [
+        "おでんスープ",
+        "おでん用だし",
+        "顆粒"
+      ]
+    },
+    {
+      "food_number": "17093",
+      "tag_name": "中華だし",
+      "diff": "顆粒",
+      "search_keywords": [
+        "中華スープ",
+        "中華スープの素",
+        "顆粒"
+      ]
+    },
+    {
+      "food_number": "17028",
+      "tag_name": "和風だし",
+      "diff": "顆粒",
+      "search_keywords": [
+        "和風スープ",
+        "だしの素",
+        "顆粒"
+      ]
+    },
+    {
+      "food_number": "17140",
+      "tag_name": "なべつゆ",
+      "diff": "しょうゆ味・ストレート",
+      "search_keywords": [
+        "鍋つゆ",
+        "鍋スープ",
+        "しょうゆ味",
+        "ストレート"
+      ]
+    }
+  ]
+}
