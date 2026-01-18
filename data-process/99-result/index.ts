@@ -1,4 +1,5 @@
-import { mkdir, readFile, writeFile, copyFile } from "fs/promises";
+import { mkdir, readFile, writeFile, copyFile, access } from "fs/promises";
+import { constants } from "fs";
 import { join, dirname } from "path";
 import { fileURLToPath } from "url";
 
@@ -11,7 +12,6 @@ const resultDir = join(__dirname, "result");
 const inputFiles = {
   csv: join(__dirname, "../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv"),
   columnMetadata: join(__dirname, "../07-normalize-headers/result/column-metadata.json"),
-  spec: join(__dirname, "../../doc/spec.md"),
   specAdditional: join(__dirname, "../../sample-result/spec-additional.md"),
   specComparison: join(__dirname, "../07-normalize-headers/SPEC_COMPARISON.md"),
   readme: join(__dirname, "readme.md"),
@@ -21,16 +21,16 @@ const inputFiles = {
 const outputFiles = {
   csv: join(resultDir, "foods.csv"),
   columnMetadata: join(resultDir, "column-metadata.json"),
-  spec: join(resultDir, "spec.md"),
   specAdditional: join(resultDir, "spec-additional.md"),
   specComparison: join(resultDir, "SPEC_COMPARISON.md"),
   readme: join(resultDir, "readme.md"),
 };
 
-// 10-1/12-1で使用される最終的なカラム順序
+// 10-1/12-1/13-1で使用される最終的なカラム順序
 const FINAL_COLUMN_ORDER = [
   // 1. 基本情報（識別子）
   'food_group',
+  'REFUSE',
   'food_number',
   'food_name',
   'food_name_en',
@@ -144,6 +144,15 @@ async function updateColumnMetadata(): Promise<void> {
       name: "食品名（英語）",
       description: "食品の英語名称"
     },
+    REFUSE: {
+      type: "nutrient",
+      basis: "購入重量に対する割合",
+      category: "基本情報",
+      name: "廃棄率",
+      unit: "%",
+      code: "REFUSE",
+      description: "食品の廃棄部分の割合。購入重量100gに対して廃棄部分が20%の場合、可食部は80gとなります。"
+    },
     usda_choline_mg: {
       type: "nutrient",
       basis: "可食部100g当たり",
@@ -203,8 +212,8 @@ async function updateColumnMetadata(): Promise<void> {
 
   // 新しいメタデータオブジェクトを作成
   const newMetadata: ColumnMetadata = {
-    version: "2.0",
-    description: "CSV列のメタデータ（12-1処理完了版）",
+    version: "2.1",
+    description: "CSV列のメタデータ（12-1処理完了版、廃棄率追加）",
     columns: newColumns
   };
 
@@ -227,23 +236,24 @@ async function main() {
   await updateColumnMetadata();
   console.log(`   出力: ${outputFiles.columnMetadata}`);
 
-  // 3. spec.mdをコピー
-  console.log("\n3. spec.mdをコピー...");
-  await copyFile(inputFiles.spec, outputFiles.spec);
-  console.log(`   出力: ${outputFiles.spec}`);
+  // 3. spec-additional.mdをコピー（存在する場合のみ）
+  console.log("\n3. spec-additional.mdをコピー...");
+  try {
+    await access(inputFiles.specAdditional, constants.F_OK);
+    await copyFile(inputFiles.specAdditional, outputFiles.specAdditional);
+    console.log(`   入力: ${inputFiles.specAdditional}`);
+    console.log(`   出力: ${outputFiles.specAdditional}`);
+  } catch {
+    console.log(`   スキップ: ${inputFiles.specAdditional} が見つかりません`);
+  }
 
-  // 4. spec-additional.mdをコピー
-  console.log("\n4. spec-additional.mdをコピー...");
-  await copyFile(inputFiles.specAdditional, outputFiles.specAdditional);
-  console.log(`   出力: ${outputFiles.specAdditional}`);
-
-  // 5. SPEC_COMPARISON.mdをコピー
-  console.log("\n5. SPEC_COMPARISON.mdをコピー...");
+  // 4. SPEC_COMPARISON.mdをコピー
+  console.log("\n4. SPEC_COMPARISON.mdをコピー...");
   await copyFile(inputFiles.specComparison, outputFiles.specComparison);
   console.log(`   出力: ${outputFiles.specComparison}`);
 
-  // 6. readme.mdをコピー
-  console.log("\n6. readme.mdをコピー...");
+  // 5. readme.mdをコピー
+  console.log("\n5. readme.mdをコピー...");
   await copyFile(inputFiles.readme, outputFiles.readme);
   console.log(`   出力: ${outputFiles.readme}`);
 
@@ -259,7 +269,7 @@ async function main() {
   // カラム構成を表示
   console.log("\n=== カラム構成 ===");
   const categories = [
-    { name: "基本情報", cols: ["food_group", "food_number", "food_name", "food_name_en"] },
+    { name: "基本情報", cols: ["food_group", "REFUSE", "food_number", "food_name", "food_name_en"] },
     { name: "基本栄養素・エネルギー", cols: ["WATER", "PROT-", "FAT-", "FIB-", "ASH", "ENERC_KCAL", "ME_KCAL_100G"] },
     { name: "ミネラル", cols: ["CA", "P", "NA", "K", "MG", "FE", "ZN", "CU", "MN", "ID", "SE"] },
     { name: "ビタミン", cols: ["RETOL", "VITD", "TOCPHA", "THIA", "RIBF", "NIA", "VITB6A", "VITB12", "FOL", "PANTAC", "usda_choline_mg"] },

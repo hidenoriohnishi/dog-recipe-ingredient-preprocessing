@@ -1,9 +1,9 @@
-# 10-1-clean-data: データクリーンアップ
+# 11-1-clean-data: データクリーンアップ
 
-09-3までのデータをクリーンアップします。
+10-1までのデータをクリーンアップします。
 
 ## 入力
-- `09-3-ai-select/result/final-nutrition.csv`
+- `10-1-add-refuse-rate/result/final-nutrition-with-refuse-rate.csv`
 
 ## 処理
 不要になった以下のカラムを削除します：

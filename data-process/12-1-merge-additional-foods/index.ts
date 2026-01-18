@@ -7,10 +7,10 @@ const __dirname = dirname(__filename);
 
 const resultDir = join(__dirname, "result");
 
-// 入力: 10-1のクリーンアップ済みデータ
+// 入力: 11-1のクリーンアップ済みデータ
 const inputFile = join(
   __dirname,
-  "../10-1-clean-data/result/cleaned-final-nutrition.csv"
+  "../11-1-clean-data/result/cleaned-final-nutrition.csv"
 );
 const outputFile = join(resultDir, "final-nutrition-with-egg-shell.csv");
 
@@ -110,11 +110,14 @@ function createEggShellRow(headers: string[]): string[] {
 
   // 基本情報
   const foodGroupIdx = getIndex("food_group");
+  const refuseIdx = getIndex("REFUSE");
   const foodNumberIdx = getIndex("food_number");
   const foodNameIdx = getIndex("food_name");
   const foodNameEnIdx = getIndex("food_name_en");
 
   if (foodGroupIdx !== -1) row[foodGroupIdx] = "12";
+  // 廃棄率: 殻自体が食材なので廃棄率は0%
+  if (refuseIdx !== -1) row[refuseIdx] = "0";
   if (foodNumberIdx !== -1) row[foodNumberIdx] = "12024";
   if (foodNameIdx !== -1) row[foodNameIdx] = "鶏卵　殻";
   if (foodNameEnIdx !== -1) row[foodNameEnIdx] = "Chicken egg shell";

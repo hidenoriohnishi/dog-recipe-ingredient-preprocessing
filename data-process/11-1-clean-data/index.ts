@@ -7,7 +7,7 @@ const __dirname = dirname(__filename);
 const resultDir = join(__dirname, 'result');
 
 // 入力ファイル
-const inputFile = join(__dirname, '../09-3-ai-select/result/final-nutrition.csv');
+const inputFile = join(__dirname, '../10-1-add-refuse-rate/result/final-nutrition-with-refuse-rate.csv');
 
 // 出力ファイル
 const outputFile = join(resultDir, 'cleaned-final-nutrition.csv');
@@ -24,6 +24,7 @@ const COLUMNS_TO_REMOVE = [
 const NEW_COLUMN_ORDER = [
   // 1. 基本情報（識別子）
   'food_group',
+  'REFUSE',
   'food_number',
   'food_name',
   'food_name_en',

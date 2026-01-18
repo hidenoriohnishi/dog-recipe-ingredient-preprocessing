@@ -8,10 +8,9 @@
 
 ## 入力
 
-- `../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv` - 最終CSV（鶏卵殻追加済み）
+- `../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv` - 最終CSV（廃棄率・鶏卵殻追加済み）
 - `../07-normalize-headers/result/column-metadata.json` - 列メタデータ（ベース）
-- `../../doc/spec.md` - 仕様書
-- `../../sample-result/spec-additional.md` - LPモデル詳細仕様
+- `../../sample-result/spec-additional.md` - LPモデル詳細仕様（存在する場合のみ）
 - `../07-normalize-headers/SPEC_COMPARISON.md` - 仕様比較
 
 ## 実行
@@ -29,10 +28,9 @@ pnpm run process:99
 
 ### ドキュメント
 
-3. **`result/spec.md`** - 犬の健康レシピ生成仕様書
-4. **`result/spec-additional.md`** - LPモデル詳細仕様
-5. **`result/SPEC_COMPARISON.md`** - spec.mdとの列名比較結果
-6. **`result/readme.md`** - データセットの説明
+3. **`result/spec-additional.md`** - LPモデル詳細仕様（存在する場合のみ）
+4. **`result/SPEC_COMPARISON.md`** - spec.mdとの列名比較結果
+5. **`result/readme.md`** - データセットの説明
 
 ---
 
@@ -43,13 +41,13 @@ pnpm run process:99
 **最終的な栄養成分データCSVファイル**
 
 - **エンコーディング**: UTF-8
-- **列数**: 58列
+- **列数**: 59列（廃棄率追加）
 
 #### 列構成
 
 | カテゴリ | 列数 | 主な列 |
 |---------|------|--------|
-| 基本情報 | 4 | `food_group`, `food_number`, `food_name`, `food_name_en` |
+| 基本情報 | 5 | `food_group`, `REFUSE`, `food_number`, `food_name`, `food_name_en` |
 | 基本栄養素・エネルギー | 7 | `WATER`, `PROT-`, `FAT-`, `FIB-`, `ASH`, `ENERC_KCAL`, `ME_KCAL_100G` |
 | ミネラル | 11 | `CA`, `P`, `NA`, `K`, `MG`, `FE`, `ZN`, `CU`, `MN`, `ID`, `SE` |
 | ビタミン | 11 | `RETOL`, `VITD`, `TOCPHA`, `THIA`, `RIBF`, `NIA`, `VITB6A`, `VITB12`, `FOL`, `PANTAC`, `usda_choline_mg` |
@@ -127,7 +125,9 @@ for col in metadata['columns']:
     ↓
 09-1/09-2/09-3     USDA FoodData Centralマッチング（コリン取得）
     ↓
-10-1               データクリーンアップ（不要列削除・並び替え）
+10-1               廃棄率の追加
+    ↓
+11-1               データクリーンアップ（不要列削除・並び替え）
     ↓
 12-1               追加食材マージ（鶏卵殻）
     ↓
@@ -147,3 +147,5 @@ for col in metadata['columns']:
 4. **コリンデータ**: USDAデータベースからマッチングして追加されました。マッチしなかった食品は空欄です
 
 5. **鶏卵殻**: 12-1で手動追加された食材です。カルシウム補給源として使用できます
+
+6. **廃棄率**: 13-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります。

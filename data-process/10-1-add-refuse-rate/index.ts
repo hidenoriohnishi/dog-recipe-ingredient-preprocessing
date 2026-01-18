@@ -10,7 +10,7 @@ const resultDir = join(__dirname, "result");
 // 入力ファイル
 const inputFile = join(
   __dirname,
-  "../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv"
+  "../09-3-ai-select/result/final-nutrition.csv"
 );
 const originalDataFile = join(
   __dirname,
@@ -117,10 +117,10 @@ function findColumnIndex(headers: string[], code: string): number {
 async function main() {
   await mkdir(resultDir, { recursive: true });
 
-  console.log("=== 13-1: 廃棄率の追加 ===\n");
+  console.log("=== 10-1: 廃棄率の追加 ===\n");
 
-  // 12-1の結果CSVを読み込み
-  console.log("12-1の結果CSVを読み込んでいます...");
+  // 09-3の結果CSVを読み込み
+  console.log("09-3の結果CSVを読み込んでいます...");
   console.log(`入力ファイル: ${inputFile}`);
   const inputContent = await readFile(inputFile, "utf-8");
   const inputRecords = parseCSVRecords(inputContent);
