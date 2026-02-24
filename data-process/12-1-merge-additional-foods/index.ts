@@ -211,7 +211,7 @@ function createEggShellRow(headers: string[]): string[] {
   if (moIdx !== -1) row[moIdx] = "";
 
   // USDA補完（ミネラル）: 卵殻はマッチしない想定で空
-  const usdaMineralColumns = ["usda_iodine_ug", "usda_selenium_ug", "usda_chromium_ug", "usda_molybdenum_ug"];
+  const usdaMineralColumns = ["usda_selenium_ug"];
   for (const col of usdaMineralColumns) {
     const idx = getIndex(col);
     if (idx !== -1) row[idx] = "";
@@ -223,7 +223,7 @@ function createEggShellRow(headers: string[]): string[] {
   const vitaminColumns = [
     "RETOL", "VITD", "TOCPHA", "THIA", "RIBF", "NIA",
     "VITB6A", "VITB12", "FOL", "PANTAC", "VITK", "BIOT", "usda_choline_mg",
-    "usda_biotin_ug", "usda_vitamin_k_ug", "usda_vitamin_c_mg"
+    "usda_vitamin_k_ug", "usda_vitamin_c_mg"
   ];
   for (const col of vitaminColumns) {
     const idx = getIndex(col);

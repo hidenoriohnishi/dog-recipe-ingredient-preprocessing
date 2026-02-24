@@ -53,13 +53,11 @@ const FINAL_COLUMN_ORDER = [
   'CU',
   'MN',
   'ID',
+  'ID_estimated',
   'SE',
   'CR',
   'MO',
-  'usda_iodine_ug',
   'usda_selenium_ug',
-  'usda_chromium_ug',
-  'usda_molybdenum_ug',
   
   // 4. ビタミン（12種 + コリン + USDA補完）
   'RETOL',
@@ -75,7 +73,6 @@ const FINAL_COLUMN_ORDER = [
   'VITK',
   'BIOT',
   'usda_choline_mg',
-  'usda_biotin_ug',
   'usda_vitamin_k_ug',
   'usda_vitamin_c_mg',
   
@@ -176,15 +173,6 @@ async function updateColumnMetadata(): Promise<void> {
       code: "CHOLN_USDA",
       description: "USDA FoodData Centralからマッチングしたコリン含有量"
     },
-    usda_iodine_ug: {
-      type: "nutrient",
-      basis: "可食部100g当たり",
-      category: "ミネラル",
-      name: "ヨウ素（USDA）",
-      unit: "μg",
-      code: "ID_USDA",
-      description: "USDA FoodData Centralからマッチングしたヨウ素含有量（MEXT欠損補完用）"
-    },
     usda_selenium_ug: {
       type: "nutrient",
       basis: "可食部100g当たり",
@@ -193,33 +181,6 @@ async function updateColumnMetadata(): Promise<void> {
       unit: "μg",
       code: "SE_USDA",
       description: "USDA FoodData Centralからマッチングしたセレン含有量（MEXT欠損補完用）"
-    },
-    usda_chromium_ug: {
-      type: "nutrient",
-      basis: "可食部100g当たり",
-      category: "ミネラル",
-      name: "クロム（USDA）",
-      unit: "μg",
-      code: "CR_USDA",
-      description: "USDA FoodData Centralからマッチングしたクロム含有量（MEXT欠損補完用）"
-    },
-    usda_molybdenum_ug: {
-      type: "nutrient",
-      basis: "可食部100g当たり",
-      category: "ミネラル",
-      name: "モリブデン（USDA）",
-      unit: "μg",
-      code: "MO_USDA",
-      description: "USDA FoodData Centralからマッチングしたモリブデン含有量（MEXT欠損補完用）"
-    },
-    usda_biotin_ug: {
-      type: "nutrient",
-      basis: "可食部100g当たり",
-      category: "ビタミン",
-      name: "ビオチン（USDA）",
-      unit: "μg",
-      code: "BIOT_USDA",
-      description: "USDA FoodData Centralからマッチングしたビオチン含有量（MEXT欠損補完用）"
     },
     usda_vitamin_k_ug: {
       type: "nutrient",
@@ -238,6 +199,12 @@ async function updateColumnMetadata(): Promise<void> {
       unit: "mg",
       code: "VITC_USDA",
       description: "USDA FoodData CentralからマッチングしたビタミンC含有量（MEXT欠損補完用）"
+    },
+    ID_estimated: {
+      type: "flag",
+      category: "ミネラル",
+      name: "ヨウ素推定フラグ",
+      description: "trueの場合、IDの値は12-2プロセスで推定された値"
     },
     usda_fdc_id: {
       type: "identifier",
@@ -361,8 +328,8 @@ async function main() {
   const categories = [
     { name: "基本情報", cols: ["food_group", "REFUSE", "food_number", "food_name", "food_name_en"] },
     { name: "基本栄養素・エネルギー", cols: ["WATER", "PROT-", "FAT-", "FIB-", "ASH", "ENERC_KCAL", "ME_KCAL_100G"] },
-    { name: "ミネラル", cols: ["CA", "P", "NA", "K", "MG", "FE", "ZN", "CU", "MN", "ID", "SE", "CR", "MO", "usda_iodine_ug", "usda_selenium_ug", "usda_chromium_ug", "usda_molybdenum_ug"] },
-    { name: "ビタミン", cols: ["RETOL", "VITD", "TOCPHA", "THIA", "RIBF", "NIA", "VITB6A", "VITB12", "FOL", "PANTAC", "VITK", "BIOT", "usda_choline_mg", "usda_biotin_ug", "usda_vitamin_k_ug", "usda_vitamin_c_mg"] },
+    { name: "ミネラル", cols: ["CA", "P", "NA", "K", "MG", "FE", "ZN", "CU", "MN", "ID", "ID_estimated", "SE", "CR", "MO", "usda_selenium_ug"] },
+    { name: "ビタミン", cols: ["RETOL", "VITD", "TOCPHA", "THIA", "RIBF", "NIA", "VITB6A", "VITB12", "FOL", "PANTAC", "VITK", "BIOT", "usda_choline_mg", "usda_vitamin_k_ug", "usda_vitamin_c_mg"] },
     { name: "アミノ酸", cols: ["ILE", "LEU", "LYS", "MET", "CYS", "AAS", "PHE", "TYR", "AAA", "THR", "TRP", "VAL", "HIS", "ARG"] },
     { name: "脂肪酸", cols: ["FACID", "FAPU", "FAPUN3", "FAPUN6", "F18D2N6", "F18D3N3", "F20D5N3", "F22D6N3", "F20D4N6"] },
     { name: "メタデータ", cols: ["score", "usda_fdc_id"] },

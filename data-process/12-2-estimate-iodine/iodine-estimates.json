@@ -1,0 +1,569 @@
+{
+  "_doc": "海藻カテゴリ（food_group=09）のヨウ素欠損食品に対する推定値【最終版 2026-02-24】",
+  "_unit": "μg/100g（可食部あたり、そのまま ID カラムに入る値）",
+  "_review": {
+    "reviewed_at": "2026-02-24",
+    "changes": [
+      {
+        "food_number": "09022",
+        "field": "confidence",
+        "from": "medium",
+        "to": "low",
+        "reason": "調味加工品で、原料配合比（こんぶ割合）と加工工程による溶出が不明。推定値自体は維持しつつ確度を下げた。"
+      },
+      {
+        "food_number": "09046",
+        "field": "estimated_id_ug",
+        "from": 500,
+        "to": 900,
+        "reason": "葉（09045）の乾物換算値から単純換算すると約1,826 μg/100g。茎は葉より低い可能性を考慮し、乾物当たり約50%と仮定して約913 μg/100gに設定（四捨五入）。"
+      },
+      {
+        "food_number": "09046",
+        "field": "notes",
+        "from": "くきわかめ（茎部分）は葉部分よりヨウ素が少ない可能性がある。葉の乾物換算12,090×(100-84.9)/100≒1,826だが、茎の蓄積量は不明なため控えめに500。要検証。",
+        "to": "くきわかめ（茎・中肋部分）。葉（09045）の乾物換算12,090×(1-0.849)=1,826 μg/100gが葉相当の理論値。茎は葉の乾物当たり約50%と仮定→1,826×0.5≒913→900を採用（要検証）。"
+      },
+      {
+        "food_number": "09027",
+        "field": "estimated_id_ug",
+        "from": 60,
+        "to": 77,
+        "reason": "粉寒天（09049）の乾物換算97 μg/100g乾物をベースに、角寒天（水分20.5%）へ換算すると約77 μg/100g。"
+      },
+      {
+        "food_number": "09027",
+        "field": "notes",
+        "from": "角寒天は粉寒天と同様の精製品。粉寒天(81 μg, 水分16.7%)より水分がやや多い(20.5%)ため若干低い60を推定。",
+        "to": "角寒天は粉寒天と同等の精製品。粉寒天（09049）乾物換算97 μg/100g乾物×(1-0.205)=77.1→77を採用。60（原版）は粉寒天の可食部値81から根拠なく下げたものであり棄却。"
+      }
+    ],
+    "non_changes_but_flags": [
+      {
+        "food_number": "09025",
+        "flag": "不確実性が大きい",
+        "reason": "てんぐさ素干しの実測ヨウ素が欠損で、ところてん由来の乾物換算が極端に大きくなるため、加工・溶出の影響を分離できない。"
+      }
+    ]
+  },
+  "_reference_data": {
+    "_doc": "推定の根拠となるMEXT既知値（乾物換算付き）",
+    "こんぶ類（素干し）": {
+      "まこんぶ素干し乾_09017": {
+        "ID": 200000,
+        "water": 9.5,
+        "dry_basis": 220994
+      },
+      "ながこんぶ素干し_09015": {
+        "ID": 210000,
+        "water": 10.0,
+        "dry_basis": 233333
+      },
+      "刻み昆布_09020": {
+        "ID": 230000,
+        "water": 15.5,
+        "dry_basis": 272189
+      },
+      "まこんぶ水煮_09056": {
+        "ID": 19000,
+        "water": 83.9,
+        "dry_basis": 118012
+      },
+      "つくだ煮_09023": {
+        "ID": 11000,
+        "water": 49.6,
+        "dry_basis": 21825
+      }
+    },
+    "わかめ類": {
+      "素干し_09040": {
+        "ID": 10000,
+        "water": 11.3,
+        "dry_basis": 11274
+      },
+      "カットわかめ乾_09044": {
+        "ID": 10000,
+        "water": 9.2,
+        "dry_basis": 11013
+      },
+      "素干し水戻し_09041": {
+        "ID": 1300,
+        "water": 91.7,
+        "dry_basis": 15663
+      },
+      "原藻生_09039": {
+        "ID": 1600,
+        "water": 89.0,
+        "dry_basis": 14545
+      },
+      "湯通し塩蔵塩抜き生_09045": {
+        "ID": 810,
+        "water": 93.3,
+        "dry_basis": 12090
+      }
+    },
+    "のり類": {
+      "あおのり素干し_09002": {
+        "ID": 2700,
+        "water": 6.5,
+        "dry_basis": 2888
+      },
+      "あおさ素干し_09001": {
+        "ID": 2200,
+        "water": 16.9,
+        "dry_basis": 2647
+      },
+      "焼きのり_09004": {
+        "ID": 2100,
+        "water": 2.3,
+        "dry_basis": 2149
+      },
+      "ほしのり_09003": {
+        "ID": 1400,
+        "water": 8.4,
+        "dry_basis": 1528
+      }
+    },
+    "ひじき類": {
+      "ほしひじき乾_09050": {
+        "ID": 45000,
+        "water": 6.5,
+        "dry_basis": 48128
+      }
+    },
+    "てんぐさ類": {
+      "ところてん_09026": {
+        "ID": 240,
+        "water": 99.1,
+        "dry_basis": 26667
+      },
+      "粉寒天_09049": {
+        "ID": 81,
+        "water": 16.7,
+        "dry_basis": 97
+      },
+      "寒天_09028": {
+        "ID": 21,
+        "water": 98.5,
+        "dry_basis": 1400
+      }
+    },
+    "その他": {
+      "おきなわもずく塩蔵塩抜き_09037": {
+        "ID": 140,
+        "water": 96.7,
+        "dry_basis": 4242
+      },
+      "とさかのり赤とさか_09029": {
+        "ID": 630,
+        "water": 92.1,
+        "dry_basis": 7975
+      },
+      "うみぶどう生_09012": {
+        "ID": 80,
+        "water": 97.0,
+        "dry_basis": 2667
+      }
+    },
+    "文献": {
+      "Aakre_2021_arame": {
+        "value_ug_per_g": 400,
+        "note": "Arame(Eisenia bicyclis), Food & Nutrition Research 2021, Table 4"
+      },
+      "GC_ECD_kombu_avg": {
+        "value_mg_per_kg": 2523,
+        "note": "kombu mean, GC-ECD paper (PMCID: PMC9359334), Table 1"
+      },
+      "GC_ECD_wakame_avg": {
+        "value_mg_per_kg": 140,
+        "note": "wakame mean, GC-ECD paper (PMCID: PMC9359334), Table 1"
+      },
+      "GC_ECD_nori_avg": {
+        "value_mg_per_kg": 37,
+        "note": "nori mean, GC-ECD paper (PMCID: PMC9359334), Table 1"
+      },
+      "tokoro_back_calculation": {
+        "method": "ところてん逆算",
+        "calculation": "ところてん(09026)=240 μg/100g ÷ tengusa使用率2-3%（製品の2-3gがtengusa素干し）= 8,000-12,000 μg/100g（ヨウ素完全移行下限）",
+        "note": "seaweed-2提案手法。ヨウ素の加熱水への溶出を無視しているため実際の素干し値はこれ以上の可能性。"
+      }
+    }
+  },
+  "estimates": [
+    {
+      "food_number": "09013",
+      "food_name": "（こんぶ類）　えながおにこんぶ　素干し",
+      "water": 10.4,
+      "estimated_id_ug": 200000,
+      "method": "same_species",
+      "reference_foods": [
+        "09017 まこんぶ素干し乾=200,000",
+        "09015 ながこんぶ素干し=210,000"
+      ],
+      "confidence": "high",
+      "notes": "こんぶ素干しの乾物換算値は約220,000-233,000 μg/100g乾物で安定。水分10.4%で約200,000。"
+    },
+    {
+      "food_number": "09014",
+      "food_name": "（こんぶ類）　がごめこんぶ　素干し",
+      "water": 8.3,
+      "estimated_id_ug": 200000,
+      "method": "same_species",
+      "reference_foods": [
+        "09017 まこんぶ素干し乾=200,000",
+        "09015 ながこんぶ素干し=210,000"
+      ],
+      "confidence": "high",
+      "notes": "こんぶ素干し群。水分8.3%でまこんぶと同等。"
+    },
+    {
+      "food_number": "09016",
+      "food_name": "（こんぶ類）　ほそめこんぶ　素干し",
+      "water": 11.3,
+      "estimated_id_ug": 200000,
+      "method": "same_species",
+      "reference_foods": [
+        "09017 まこんぶ素干し乾=200,000",
+        "09015 ながこんぶ素干し=210,000"
+      ],
+      "confidence": "high",
+      "notes": "こんぶ素干し群。水分11.3%でまこんぶと同等。"
+    },
+    {
+      "food_number": "09018",
+      "food_name": "（こんぶ類）　みついしこんぶ　素干し",
+      "water": 9.2,
+      "estimated_id_ug": 200000,
+      "method": "same_species",
+      "reference_foods": [
+        "09017 まこんぶ素干し乾=200,000",
+        "09015 ながこんぶ素干し=210,000"
+      ],
+      "confidence": "high",
+      "notes": "こんぶ素干し群。水分9.2%でまこんぶと同等。"
+    },
+    {
+      "food_number": "09019",
+      "food_name": "（こんぶ類）　りしりこんぶ　素干し",
+      "water": 13.2,
+      "estimated_id_ug": 200000,
+      "method": "same_species",
+      "reference_foods": [
+        "09017 まこんぶ素干し乾=200,000",
+        "09015 ながこんぶ素干し=210,000"
+      ],
+      "confidence": "high",
+      "notes": "こんぶ素干し群。水分13.2%でまこんぶと同等。"
+    },
+    {
+      "food_number": "09021",
+      "food_name": "（こんぶ類）　削り昆布",
+      "water": 24.4,
+      "estimated_id_ug": 200000,
+      "method": "same_species",
+      "reference_foods": [
+        "09020 刻み昆布=230,000(水分15.5%)",
+        "09017 まこんぶ素干し乾=200,000(水分9.5%)"
+      ],
+      "confidence": "high",
+      "notes": "削り昆布は乾燥こんぶを薄く削ったもの。刻み昆布の乾物換算272,189×(1-0.244)≒205,775 μg/100g。他のこんぶ類推定値との丸め水準を合わせ、保守的に200,000を採用。"
+    },
+    {
+      "food_number": "09022",
+      "food_name": "（こんぶ類）　塩昆布",
+      "water": 24.1,
+      "estimated_id_ug": 100000,
+      "method": "same_species",
+      "reference_foods": [
+        "09023 つくだ煮=11,000(水分49.6%)",
+        "09020 刻み昆布=230,000(水分15.5%)"
+      ],
+      "confidence": "low",
+      "notes": "塩昆布は塩・醤油等で味付けした加工品。原料配合比（こんぶ割合）と加工工程による溶出が不明で不確実性が高い。Na=7,100mg/100gから調味料寄与は大きいが、こんぶ自体のヨウ素が極めて高いため100,000を維持。ただし実際の範囲は50,000-180,000と広い。要実測。"
+    },
+    {
+      "food_number": "09005",
+      "food_name": "あまのり　味付けのり",
+      "water": 3.4,
+      "estimated_id_ug": 2000,
+      "method": "same_species",
+      "reference_foods": [
+        "09004 焼きのり=2,100(水分2.3%)",
+        "09003 ほしのり=1,400(水分8.4%)"
+      ],
+      "confidence": "high",
+      "notes": "味付けのりは焼きのりに調味液を塗布したもの。のり含有率は高く、焼きのり(2,100)に近いと推定。"
+    },
+    {
+      "food_number": "09042",
+      "food_name": "わかめ　乾燥わかめ　板わかめ",
+      "water": 7.2,
+      "estimated_id_ug": 10000,
+      "method": "same_species",
+      "reference_foods": [
+        "09040 素干し=10,000(水分11.3%)",
+        "09044 カットわかめ乾=10,000(水分9.2%)"
+      ],
+      "confidence": "high",
+      "notes": "板わかめは乾燥わかめの一形態。同カテゴリの素干し・カットわかめ乾と水分量が近く、同じ10,000。"
+    },
+    {
+      "food_number": "09043",
+      "food_name": "わかめ　乾燥わかめ　灰干し　水戻し",
+      "water": 96.0,
+      "estimated_id_ug": 600,
+      "method": "same_species",
+      "reference_foods": [
+        "09041 素干し水戻し=1,300(水分91.7%)",
+        "09045 湯通し塩蔵塩抜き生=810(水分93.3%)"
+      ],
+      "confidence": "medium",
+      "notes": "わかめ乾物換算値は約11,000-15,000 μg/100g乾物。水分96.0%では11,000×0.04≒440〜15,000×0.04≒600。灰干しの影響は限定的と仮定し600を採用。"
+    },
+    {
+      "food_number": "09046",
+      "food_name": "わかめ　くきわかめ　湯通し塩蔵　塩抜き",
+      "water": 84.9,
+      "estimated_id_ug": 900,
+      "method": "same_species",
+      "reference_foods": [
+        "09045 湯通し塩蔵塩抜き生=810(水分93.3%, 乾物換算12,090)"
+      ],
+      "confidence": "low",
+      "notes": "くきわかめ（茎・中肋部分）。葉（09045）の乾物換算12,090×(1-0.849)=1,826 μg/100gが葉相当の理論値。茎は葉の乾物当たり約50%と仮定→1,826×0.5≒913→900を採用。（要検証：茎の50%仮定は文献根拠が薄く、比率データが得られ次第要更新）"
+    },
+    {
+      "food_number": "09030",
+      "food_name": "とさかのり　青とさか　塩蔵　塩抜き",
+      "water": 92.2,
+      "estimated_id_ug": 630,
+      "method": "same_species",
+      "reference_foods": [
+        "09029 赤とさか塩蔵塩抜き=630(水分92.1%)"
+      ],
+      "confidence": "high",
+      "notes": "同種の色彩変異（赤・青）。水分量もほぼ同一（92.1% vs 92.2%）。同じ630を適用。"
+    },
+    {
+      "food_number": "09025",
+      "food_name": "てんぐさ　素干し",
+      "water": 15.2,
+      "estimated_id_ug": 10000,
+      "method": "taxonomic",
+      "reference_foods": [
+        "09026 ところてん=240(水分99.1%)",
+        "09049 粉寒天=81(水分16.7%)",
+        "09028 寒天=21(水分98.5%)"
+      ],
+      "confidence": "low",
+      "notes": "素干し実測データなし（要実測）。精製品（粉寒天乾物換算97・寒天乾物換算1,400）は加工工程でのヨウ素大量消失を反映しており素干しの根拠には不適。ところてん逆算（seaweed-2提案手法: 240μg ÷ 天草使用率2〜3% = 8,000〜12,000 μg/100g）は手法に前提の課題があるが、下限の方向性を示す。文献調査：紅藻の乾物実測値は30〜300 μg/g DW（= 3,000〜30,000 μg/100g乾物）の範囲が多く報告される（ICP-AES, ScienceDirect 2020）。Oxford Companion to Foodは天草（Gelidium amansii）を「iodine content is high」と定性評価。Gelidium corneum（ポルトガル産）の季節研究（Cavaco et al. 2021）でもヨウ素は「always high」と記述。これらから350（原版）は過小推定として棄却。10,000（乾物換算118 μg/g DW）は紅藻の典型的範囲中間付近として暫定採用。Gelidium amansii日本産の直接実測値が得られ次第要更新。",
+      "_literature_search": {
+        "searched_2026-02-24": true,
+        "Cavaco_2021_Foods": "Gelidium corneum（ポルトガル産）でヨウ素を測定・'values were always high'・季節変動（春秋間p=0.022）あり。Table 3の具体値は本文テキスト未取得。",
+        "ScienceDirect_ICP-AES_2020": "紅藻(Chondrus crispus: 200 μg/g DW, Osmundea pinnatifida: 302 μg/g DW)を含む10種の実測範囲33〜391 μg/g DW。",
+        "Oxford_Companion_to_Food": "Gelidium amansii（てんぐさ）: 'The iodine content is high'（定性のみ）",
+        "conclusion": "Gelidium amansii日本産の直接実測値は未取得。10,000 μg/100g（118 μg/g DW）は紅藻実測範囲に整合。confidence=lowを維持。"
+      }
+    },
+    {
+      "food_number": "09027",
+      "food_name": "てんぐさ　角寒天",
+      "water": 20.5,
+      "estimated_id_ug": 77,
+      "method": "same_species",
+      "reference_foods": [
+        "09049 粉寒天=81(水分16.7%)",
+        "09028 寒天=21(水分98.5%)"
+      ],
+      "confidence": "medium",
+      "notes": "角寒天は粉寒天と同等の精製品。粉寒天（09049）乾物換算97 μg/100g乾物×(1-0.205)=77.1→77を採用。60（原版）は粉寒天の可食部値81から根拠なく下げたものであり棄却。"
+    },
+    {
+      "food_number": "09038",
+      "food_name": "（もずく類）　もずく　塩蔵　塩抜き",
+      "water": 97.7,
+      "estimated_id_ug": 140,
+      "method": "same_species",
+      "reference_foods": [
+        "09037 おきなわもずく塩蔵塩抜き=140(水分96.7%)"
+      ],
+      "confidence": "medium",
+      "notes": "もずく（Nemacystus decipiens）とおきなわもずく（Cladosiphon okamuranus）は近縁で用途も類似。水分差は小さく、同等の140と推定。"
+    },
+    {
+      "food_number": "09006",
+      "food_name": "あらめ　蒸し干し",
+      "water": 16.7,
+      "estimated_id_ug": 40000,
+      "method": "literature",
+      "reference_foods": [],
+      "confidence": "medium",
+      "notes": "文献値: Aakre et al. (2021) Food & Nutrition Research, Table 4 → Arame (Eisenia bicyclis) = 400 μg/g = 40,000 μg/100g。"
+    },
+    {
+      "food_number": "09035",
+      "food_name": "まつも　素干し",
+      "water": 12.6,
+      "estimated_id_ug": 15000,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "low",
+      "notes": "褐藻類（Analipus japonicus）。こんぶ(200,000)とひじき(45,000)の間に位置する可能性を想定し、保守的に15,000。直接データなし。"
+    },
+    {
+      "food_number": "09007",
+      "food_name": "いわのり　素干し",
+      "water": 8.4,
+      "estimated_id_ug": 2000,
+      "method": "taxonomic",
+      "reference_foods": [
+        "09003 ほしのり=1,400(水分8.4%)",
+        "09004 焼きのり=2,100(水分2.3%)"
+      ],
+      "confidence": "medium",
+      "notes": "紅藻のり類。ほしのり(1,400)と焼きのり(2,100)の中間域として2,000。"
+    },
+    {
+      "food_number": "09032",
+      "food_name": "ひとえぐさ　素干し",
+      "water": 16.0,
+      "estimated_id_ug": 2200,
+      "method": "taxonomic",
+      "reference_foods": [
+        "09001 あおさ素干し=2,200(水分16.9%)"
+      ],
+      "confidence": "medium",
+      "notes": "緑藻。ひとえぐさ(Monostroma)はあおさと近縁で混同されやすい。水分も近く、あおさの2,200を適用。"
+    },
+    {
+      "food_number": "09033",
+      "food_name": "ひとえぐさ　つくだ煮",
+      "water": 56.5,
+      "estimated_id_ug": 600,
+      "method": "taxonomic",
+      "reference_foods": [
+        "09001 あおさ素干し=2,200(水分16.9%, 乾物換算2,647)"
+      ],
+      "confidence": "low",
+      "notes": "ひとえぐさの佃煮。海藻割合を推定50-60%とすると、2,647×0.55×(100-56.5)/100≒633。約600。"
+    },
+    {
+      "food_number": "09011",
+      "food_name": "かわのり　素干し",
+      "water": 13.7,
+      "estimated_id_ug": 50,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "low",
+      "notes": "淡水産（Prasiola japonica）で海水由来のヨウ素蓄積が限定的と仮定。50 μg/100gを暫定。"
+    },
+    {
+      "food_number": "09024",
+      "food_name": "すいぜんじのり　素干し　水戻し",
+      "water": 96.1,
+      "estimated_id_ug": 5,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "medium",
+      "notes": "淡水産藍藻（Aphanothece sacrum）。環境中のヨウ素が低い前提で極低値。水分96.1%も考慮し5 μg/100g。"
+    },
+    {
+      "food_number": "09008",
+      "food_name": "えごのり　素干し",
+      "water": 15.2,
+      "estimated_id_ug": 800,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "low",
+      "notes": "紅藻。直接データがなく、海産紅藻の一般的範囲（乾物換算で数百〜数千μg/100g）から暫定800。"
+    },
+    {
+      "food_number": "09009",
+      "food_name": "えごのり　おきうと",
+      "water": 96.9,
+      "estimated_id_ug": 30,
+      "method": "taxonomic",
+      "reference_foods": [
+        "えごのり素干し推定=800(水分15.2%)"
+      ],
+      "confidence": "low",
+      "notes": "えごのりを煮溶かして固めたゼリー状食品。えごのり素干しの乾物換算943×(100-96.9)/100≒29。約30。"
+    },
+    {
+      "food_number": "09010",
+      "food_name": "おごのり　塩蔵　塩抜き",
+      "water": 89.0,
+      "estimated_id_ug": 150,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "low",
+      "notes": "紅藻（Gracilaria）。寒天原料になる紅藻。乾物換算で約1,400 μg/100g乾物を仮定→89.0%水分で約150。"
+    },
+    {
+      "food_number": "09034",
+      "food_name": "ふのり　素干し",
+      "water": 14.7,
+      "estimated_id_ug": 800,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "low",
+      "notes": "紅藻（Gloiopeltis）。直接データなし。海産紅藻素干しの一般的範囲（数百〜数千）の下限付近で800。"
+    },
+    {
+      "food_number": "09036",
+      "food_name": "むかでのり　塩蔵　塩抜き",
+      "water": 93.7,
+      "estimated_id_ug": 150,
+      "method": "taxonomic",
+      "reference_foods": [],
+      "confidence": "low",
+      "notes": "紅藻（Grateloupia）。乾物換算で約2,000 μg/100g乾物を仮定→93.7%水分で2,000×0.063≒126。150を採用。"
+    }
+  ],
+  "_synthesis_notes": {
+    "_description": "複数レビュー提案（rev-0, rev-1, rev-nosuffix, seaweed-2, 自分の修正）を批判的に統合した最終版",
+    "changes_from_original": [
+      {
+        "食品番号": "09022",
+        "項目": "confidence",
+        "原版": "medium",
+        "最終": "low",
+        "理由": "調味加工品で原料配合比・加工工程による溶出が未知。rev-0・rev-nosuffixが正当に指摘。"
+      },
+      {
+        "食品番号": "09046",
+        "項目": "estimated_id_ug",
+        "原版": 500,
+        "最終": 900,
+        "理由": "葉乾物換算12,090×(1-0.849)=1,826が上限。茎は葉の乾物当たり約50%と仮定→1,826×0.5≒913→900を採用。rev-0・rev-nosuffixと一致。"
+      },
+      {
+        "食品番号": "09025",
+        "項目": "estimated_id_ug",
+        "原版": 350,
+        "最終": 10000,
+        "理由": "350はてんぐさ精製品（粉寒天乾物換算97）に引きずられた過小推定。seaweed-2の逆算：ところてん製造時tengusa使用量2-3%として240/(0.025)=9,600 μg/100g（ヨウ素完全移行の下限）。精製工程での損失を考慮すると実際のtengusa素干しはこれ以上の可能性が高く、10,000は保守的下限。 文献調査（2026-02-24）：紅藻の乾物実測値30〜300 μg/g DW（ICP-AES）、Gelidium属「iodine content is high」（Oxford Companion to Food / Cavaco 2021）と整合。直接実測値は未取得のためlow維持。"
+      },
+      {
+        "食品番号": "09027",
+        "項目": "estimated_id_ug",
+        "原版": 60,
+        "最終": 77,
+        "理由": "粉寒天乾物換算97×(1-0.205)=77 μg/100g。rev-0・rev-nosuffixの直接計算が正確。60は恣意的。"
+      },
+      {
+        "食品番号": "09043",
+        "項目": "estimated_id_ug",
+        "原版": 600,
+        "最終": 600,
+        "理由": "自分の修正(630)よりコンセンサスの600が妥当。乾物換算の幅(11,000-15,663)×0.04=440-627の中で600は十分な精度。"
+      }
+    ],
+    "unchanged_from_original": [
+      {
+        "食品番号": "09021",
+        "理由": "200,000で維持。rev-1の206,000(精密計算205,775)も正確だが、他のこんぶ推定値との丸め水準を合わせる。"
+      }
+    ]
+  }
+}

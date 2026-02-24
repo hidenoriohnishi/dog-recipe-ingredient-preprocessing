@@ -39,7 +39,7 @@ pnpm run process:99
 **最終的な栄養成分データCSVファイル**
 
 - **エンコーディング**: UTF-8
-- **列数**: 73列
+- **列数**: 69列
 
 #### 列構成
 
@@ -48,9 +48,9 @@ pnpm run process:99
 | 基本情報 | 5 | `food_group`, `REFUSE`, `food_number`, `food_name`, `food_name_en` |
 | 基本栄養素・エネルギー | 7 | `WATER`, `PROT-`, `FAT-`, `FIB-`, `ASH`, `ENERC_KCAL`, `ME_KCAL_100G` |
 | ミネラル（MEXT） | 13 | `CA`, `P`, `NA`, `K`, `MG`, `FE`, `ZN`, `CU`, `MN`, `ID`, `SE`, `CR`, `MO` |
-| ミネラル（USDA補完） | 4 | `usda_iodine_ug`, `usda_selenium_ug`, `usda_chromium_ug`, `usda_molybdenum_ug` |
+| ミネラル（USDA補完） | 1 | `usda_selenium_ug` |
 | ビタミン（MEXT） | 12 | `RETOL`, `VITD`, `TOCPHA`, `THIA`, `RIBF`, `NIA`, `VITB6A`, `VITB12`, `FOL`, `PANTAC`, `VITK`, `BIOT` |
-| ビタミン（USDA補完） | 4 | `usda_choline_mg`, `usda_biotin_ug`, `usda_vitamin_k_ug`, `usda_vitamin_c_mg` |
+| ビタミン（USDA補完） | 3 | `usda_choline_mg`, `usda_vitamin_k_ug`, `usda_vitamin_c_mg` |
 | アミノ酸 | 14 | `ILE`, `LEU`, `LYS`, `MET`, `CYS`, `AAS`, `PHE`, `TYR`, `AAA`, `THR`, `TRP`, `VAL`, `HIS`, `ARG` |
 | 脂肪酸 | 9 | `FACID`, `FAPU`, `FAPUN3`, `FAPUN6`, `F18D2N6`, `F18D3N3`, `F20D5N3`, `F22D6N3`, `F20D4N6` |
 | メタデータ | 2 | `score`, `usda_fdc_id` |
@@ -58,16 +58,12 @@ pnpm run process:99
 
 #### USDA補完カラムについて
 
-MEXTで欠損率が高い栄養素について、USDAマッチング結果から補完用の値を別カラムで提供しています。
+MEXTで欠損率が高い栄養素のうち、USDA SR Legacyにデータが存在するものについて、マッチング結果から補完用の値を別カラムで提供しています。ヨウ素・クロム・モリブデン・ビオチンはSR Legacyに収録がないため、USDA補完カラムは設けていません。
 
 | USDA補完カラム | 対応するMEXTカラム | MEXT欠損率 |
 |---|---|---|
-| `usda_iodine_ug` | `ID`（ヨウ素） | 約51% |
-| `usda_selenium_ug` | `SE`（セレン） | 約49% |
-| `usda_chromium_ug` | `CR`（クロム） | 約51% |
-| `usda_molybdenum_ug` | `MO`（モリブデン） | 約49% |
-| `usda_biotin_ug` | `BIOT`（ビオチン） | 約46% |
-| `usda_vitamin_k_ug` | `VITK`（ビタミンK） | 約12% |
+| `usda_selenium_ug` | `SE`（セレン） | 約46% |
+| `usda_vitamin_k_ug` | `VITK`（ビタミンK） | 約8% |
 | `usda_vitamin_c_mg` | （MEXTに含まれない） | - |
 | `usda_choline_mg` | （MEXTに含まれない） | - |
 
@@ -170,7 +166,7 @@ for col in metadata['columns']:
 
 3. **代謝エネルギー**: `ME_KCAL_100G`はmodified Atwater法で計算されています
 
-4. **USDA補完データ**: MEXTで欠損率が高い栄養素について、USDA FoodData Central（SR Legacy）からマッチングした値を `usda_*` プレフィックスの別カラムで提供しています。コリンとビタミンCはMEXTに該当カラムがないため、USDAからのみ取得しています。マッチしなかった食品は空欄です
+4. **USDA補完データ**: MEXTで欠損率が高い栄養素のうち、USDA SR Legacyにデータがあるもの（セレン、ビタミンK）およびMEXTに該当カラムのないコリン・ビタミンCについて、`usda_*` プレフィックスの別カラムで提供しています。ヨウ素・クロム・モリブデン・ビオチンはSR Legacyに収録がないため補完カラムはありません。マッチしなかった食品は空欄です
 
 5. **鶏卵殻**: 12-1で手動追加された食材です。カルシウム補給源として使用できます
 

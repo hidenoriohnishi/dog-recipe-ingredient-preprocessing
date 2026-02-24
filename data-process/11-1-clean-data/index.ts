@@ -52,10 +52,7 @@ const NEW_COLUMN_ORDER = [
   'SE',
   'CR',
   'MO',
-  'usda_iodine_ug',
   'usda_selenium_ug',
-  'usda_chromium_ug',
-  'usda_molybdenum_ug',
   
   // 4. ビタミン（12種 + コリン + USDA補完）
   'RETOL',
@@ -71,7 +68,6 @@ const NEW_COLUMN_ORDER = [
   'VITK',
   'BIOT',
   'usda_choline_mg',
-  'usda_biotin_ug',
   'usda_vitamin_k_ug',
   'usda_vitamin_c_mg',
   
