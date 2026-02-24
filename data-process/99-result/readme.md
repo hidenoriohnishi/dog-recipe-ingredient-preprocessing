@@ -39,7 +39,7 @@ pnpm run process:99
 **最終的な栄養成分データCSVファイル**
 
 - **エンコーディング**: UTF-8
-- **列数**: 62列（タグ情報追加）
+- **列数**: 73列
 
 #### 列構成
 
@@ -47,12 +47,29 @@ pnpm run process:99
 |---------|------|--------|
 | 基本情報 | 5 | `food_group`, `REFUSE`, `food_number`, `food_name`, `food_name_en` |
 | 基本栄養素・エネルギー | 7 | `WATER`, `PROT-`, `FAT-`, `FIB-`, `ASH`, `ENERC_KCAL`, `ME_KCAL_100G` |
-| ミネラル | 11 | `CA`, `P`, `NA`, `K`, `MG`, `FE`, `ZN`, `CU`, `MN`, `ID`, `SE` |
-| ビタミン | 11 | `RETOL`, `VITD`, `TOCPHA`, `THIA`, `RIBF`, `NIA`, `VITB6A`, `VITB12`, `FOL`, `PANTAC`, `usda_choline_mg` |
+| ミネラル（MEXT） | 13 | `CA`, `P`, `NA`, `K`, `MG`, `FE`, `ZN`, `CU`, `MN`, `ID`, `SE`, `CR`, `MO` |
+| ミネラル（USDA補完） | 4 | `usda_iodine_ug`, `usda_selenium_ug`, `usda_chromium_ug`, `usda_molybdenum_ug` |
+| ビタミン（MEXT） | 12 | `RETOL`, `VITD`, `TOCPHA`, `THIA`, `RIBF`, `NIA`, `VITB6A`, `VITB12`, `FOL`, `PANTAC`, `VITK`, `BIOT` |
+| ビタミン（USDA補完） | 4 | `usda_choline_mg`, `usda_biotin_ug`, `usda_vitamin_k_ug`, `usda_vitamin_c_mg` |
 | アミノ酸 | 14 | `ILE`, `LEU`, `LYS`, `MET`, `CYS`, `AAS`, `PHE`, `TYR`, `AAA`, `THR`, `TRP`, `VAL`, `HIS`, `ARG` |
 | 脂肪酸 | 9 | `FACID`, `FAPU`, `FAPUN3`, `FAPUN6`, `F18D2N6`, `F18D3N3`, `F20D5N3`, `F22D6N3`, `F20D4N6` |
 | メタデータ | 2 | `score`, `usda_fdc_id` |
 | タグ情報 | 3 | `tag_name`, `diff`, `search_keywords` |
+
+#### USDA補完カラムについて
+
+MEXTで欠損率が高い栄養素について、USDAマッチング結果から補完用の値を別カラムで提供しています。
+
+| USDA補完カラム | 対応するMEXTカラム | MEXT欠損率 |
+|---|---|---|
+| `usda_iodine_ug` | `ID`（ヨウ素） | 約51% |
+| `usda_selenium_ug` | `SE`（セレン） | 約49% |
+| `usda_chromium_ug` | `CR`（クロム） | 約51% |
+| `usda_molybdenum_ug` | `MO`（モリブデン） | 約49% |
+| `usda_biotin_ug` | `BIOT`（ビオチン） | 約46% |
+| `usda_vitamin_k_ug` | `VITK`（ビタミンK） | 約12% |
+| `usda_vitamin_c_mg` | （MEXTに含まれない） | - |
+| `usda_choline_mg` | （MEXTに含まれない） | - |
 
 ### column-metadata.json
 
@@ -130,7 +147,7 @@ for col in metadata['columns']:
     ↓
 07-normalize       ヘッダー正規化
     ↓
-09-1/09-2/09-3     USDA FoodData Centralマッチング（コリン取得）
+09-1/09-2/09-3     USDA FoodData Centralマッチング（コリン・欠損栄養素補完）
     ↓
 10-1               廃棄率の追加
     ↓
@@ -147,19 +164,19 @@ for col in metadata['columns']:
 
 ## 注意事項
 
-1. **データの欠損**: 一部の食品でアミノ酸・脂肪酸データが欠損しています
+1. **データの欠損**: 一部の食品でアミノ酸・脂肪酸データが欠損しています。ミネラル（ID, SE, CR, MO）やビタミン（BIOT, VITK）もMEXT側で約12〜51%の欠損率があります
 
 2. **単位の統一**: すべての値は「可食部100g当たり」です
 
 3. **代謝エネルギー**: `ME_KCAL_100G`はmodified Atwater法で計算されています
 
-4. **コリンデータ**: USDAデータベースからマッチングして追加されました。マッチしなかった食品は空欄です
+4. **USDA補完データ**: MEXTで欠損率が高い栄養素について、USDA FoodData Central（SR Legacy）からマッチングした値を `usda_*` プレフィックスの別カラムで提供しています。コリンとビタミンCはMEXTに該当カラムがないため、USDAからのみ取得しています。マッチしなかった食品は空欄です
 
 5. **鶏卵殻**: 12-1で手動追加された食材です。カルシウム補給源として使用できます
 
-6. **廃棄率**: 10-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります。
+6. **廃棄率**: 10-1で追加されました。購入重量から可食部重量を計算する際に使用します。廃棄率20%の場合、購入重量100gに対して可食部は80gとなります
 
-7. **タグ情報**: 13-1で追加されました。ユーザー向けの検索・表示用フィールドです。
+7. **タグ情報**: 13-1で追加されました。ユーザー向けの検索・表示用フィールドです
    - `tag_name`: ユーザーが最も自然に呼ぶ食材の名前
    - `diff`: 同じタグネームを持つ食材を区別する情報（省略可能）
    - `search_keywords`: 検索時に使用するキーワード（スペース区切り、省略可能）
