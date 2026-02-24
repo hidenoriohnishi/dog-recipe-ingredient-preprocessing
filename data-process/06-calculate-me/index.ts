@@ -107,14 +107,21 @@ function findColumnIndexByCode(headers: string[], code: string): number {
 }
 
 /**
- * 文字列を数値に変換（空文字、"-"、括弧付きは0として扱う）
+ * 文字列を数値に変換
+ * - 空文字、"-"、Tr、(Tr) → 0
+ * - (数値) → MEXT推計値として括弧内の数値を使用
+ * - その他 → parseFloat（"14.0†" 等は先頭から数値部分のみ解釈）
  */
 function parseNumericValue(value: string): number {
-  if (!value || value.trim() === '' || value === '-' || value.startsWith('(')) {
-    return 0;
-  }
-  const num = parseFloat(value);
-  return isNaN(num) ? 0 : num;
+  const trimmed = value?.trim() ?? '';
+  if (trimmed === '' || trimmed === '-') return 0;
+  if (trimmed === 'Tr' || trimmed === '(Tr)') return 0;
+
+  // MEXT推計値 (数値) の形式: 括弧内の数値を抽出
+  const parenMatch = trimmed.match(/^\((.+)\)$/);
+  const numStr = parenMatch ? parenMatch[1].trim() : trimmed;
+  const num = parseFloat(numStr);
+  return Number.isNaN(num) ? 0 : num;
 }
 
 /**
