@@ -52,21 +52,16 @@ function parseCSVLine(line: string): string[] {
 }
 
 function parseValue(value: string): number | string | null {
-  // 空文字、'-'、'Tr'（微量）はnull
-  if (value === '' || value === '-' || value === 'Tr') {
+  if (value === '' || value === '-' || value === 'Tr' || value === '(Tr)') {
     return null;
   }
   
-  // 括弧で囲まれた推計値は括弧を除去して数値化
-  const trimmed = value.replace(/^\((.+)\)$/, '$1');
-  
-  // 数値として解析を試みる
-  const num = parseFloat(trimmed);
+  const inner = value.replace(/^\((.+)\)$/, '$1');
+  const num = parseFloat(inner);
   if (!isNaN(num)) {
     return num;
   }
   
-  // 数値でなければ文字列として返す
   return value;
 }
 
@@ -96,9 +91,10 @@ async function main() {
       const header = headers[j];
       const value = values[j] || '';
       
-      // 識別子カラムとタグ情報カラムは文字列のまま
       if (['food_group', 'food_number', 'food_name', 'food_name_en', 'usda_fdc_id', 'tag_name', 'diff', 'search_keywords'].includes(header)) {
         food[header] = value || null;
+      } else if (header === 'ID_estimated') {
+        food[header] = value === 'true';
       } else {
         food[header] = parseValue(value);
       }

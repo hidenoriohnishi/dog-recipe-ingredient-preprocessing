@@ -66,6 +66,9 @@ interface MatchResult {
   mext_food_number: string;
   usda_fdc_id: string | null;
   usda_choline_mg: string;
+  usda_selenium_ug: string;
+  usda_vitamin_k_ug: string;
+  usda_vitamin_c_mg: string;
   food_name_en: string;
 }
 
@@ -167,8 +170,19 @@ async function loadTranslatedNames(): Promise<void> {
   console.log(`翻訳名データ読み込み完了: ${Object.keys(translatedNames).length}件`);
 }
 
-// USDA栄養素ID
+// USDA栄養素ID（SR Legacyにデータがあるもののみ）
 const USDA_CHOLINE_ID = "1180"; // Choline, total
+const USDA_SELENIUM_ID = "1103"; // Selenium, Se
+const USDA_VITAMIN_K_ID = "1185"; // Vitamin K (phylloquinone)
+const USDA_VITAMIN_C_ID = "1162"; // Vitamin C, total ascorbic acid
+
+function getUsdaNutrientValue(usdaFood: USDAFood | undefined, nutrientId: string): string {
+  if (usdaFood?.nutrients) {
+    const nutrient = usdaFood.nutrients[nutrientId];
+    if (nutrient?.amount != null) return nutrient.amount.toString();
+  }
+  return "";
+}
 
 /**
  * 最適な候補を機械的に選択
@@ -207,22 +221,14 @@ function generateMatchResults(): MatchResult[] {
     const foodNameEn = translated?.food_name_en || "";
 
     if (bestCandidate) {
-      // USDAの栄養素データを取得
       const usdaFood = usdaFoods[bestCandidate.fdc_id];
-      let cholineValue = "";
-
-      if (usdaFood && usdaFood.nutrients) {
-        const cholineNutrient = usdaFood.nutrients[USDA_CHOLINE_ID];
-
-        if (cholineNutrient && cholineNutrient.amount != null) {
-          cholineValue = cholineNutrient.amount.toString();
-        }
-      }
-
       results.push({
         mext_food_number: foodNumber,
         usda_fdc_id: bestCandidate.fdc_id,
-        usda_choline_mg: cholineValue,
+        usda_choline_mg: getUsdaNutrientValue(usdaFood, USDA_CHOLINE_ID),
+        usda_selenium_ug: getUsdaNutrientValue(usdaFood, USDA_SELENIUM_ID),
+        usda_vitamin_k_ug: getUsdaNutrientValue(usdaFood, USDA_VITAMIN_K_ID),
+        usda_vitamin_c_mg: getUsdaNutrientValue(usdaFood, USDA_VITAMIN_C_ID),
         food_name_en: foodNameEn,
       });
     } else {
@@ -230,6 +236,9 @@ function generateMatchResults(): MatchResult[] {
         mext_food_number: foodNumber,
         usda_fdc_id: null,
         usda_choline_mg: "",
+        usda_selenium_ug: "",
+        usda_vitamin_k_ug: "",
+        usda_vitamin_c_mg: "",
         food_name_en: foodNameEn,
       });
     }
@@ -261,8 +270,13 @@ async function generateFinalCSV(matchResults: MatchResult[]): Promise<void> {
     ...mextHeaders,
     "usda_fdc_id",
     "usda_choline_mg",
+    "usda_selenium_ug",
+    "usda_vitamin_k_ug",
+    "usda_vitamin_c_mg",
     "food_name_en",
   ];
+
+  const emptyUsdaValues = ["", "", "", ""]; // 4 USDA補完カラム（choline, selenium, vitK, vitC）
 
   // データ行を拡張
   const extendedRows = mextRows.map((row) => {
@@ -274,10 +288,13 @@ async function generateFinalCSV(matchResults: MatchResult[]): Promise<void> {
         ...row,
         match.usda_fdc_id || "",
         match.usda_choline_mg,
+        match.usda_selenium_ug,
+        match.usda_vitamin_k_ug,
+        match.usda_vitamin_c_mg,
         match.food_name_en,
       ];
     } else {
-      return [...row, "", "", ""];
+      return [...row, "", "", ...emptyUsdaValues, ""];
     }
   });
 
@@ -318,12 +335,18 @@ async function main() {
   // 統計
   const matchedCount = matchResults.filter((m) => m.usda_fdc_id).length;
   const withCholine = matchResults.filter((m) => m.usda_choline_mg !== "").length;
+  const withSelenium = matchResults.filter((m) => m.usda_selenium_ug !== "").length;
+  const withVitaminK = matchResults.filter((m) => m.usda_vitamin_k_ug !== "").length;
+  const withVitaminC = matchResults.filter((m) => m.usda_vitamin_c_mg !== "").length;
   const withTranslation = matchResults.filter((m) => m.food_name_en !== "").length;
 
   console.log(`\n選択結果:`);
   console.log(`  総食品数: ${matchResults.length}件`);
   console.log(`  マッチ: ${matchedCount}件`);
   console.log(`  Cholineデータあり: ${withCholine}件`);
+  console.log(`  Selenium(USDA)あり: ${withSelenium}件`);
+  console.log(`  Vitamin K(USDA)あり: ${withVitaminK}件`);
+  console.log(`  Vitamin C(USDA)あり: ${withVitaminC}件`);
   console.log(`  英語翻訳名あり: ${withTranslation}件`);
 
   // 最終CSVを生成

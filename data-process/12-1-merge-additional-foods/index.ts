@@ -96,8 +96,8 @@ function escapeCSVField(field: string): string {
  * 10-1で出力されるカラム:
  * - 基本情報: food_group, food_number, food_name, food_name_en
  * - 基本栄養素: WATER, PROT-, FAT-, FIB-, ASH, ENERC_KCAL, ME_KCAL_100G
- * - ミネラル: CA, P, NA, K, MG, FE, ZN, CU, MN, ID, SE
- * - ビタミン: RETOL, VITD, TOCPHA, THIA, RIBF, NIA, VITB6A, VITB12, FOL, PANTAC, usda_choline_mg
+ * - ミネラル: CA, P, NA, K, MG, FE, ZN, CU, MN, ID, SE, CR, MO
+ * - ビタミン: RETOL, VITD, TOCPHA, THIA, RIBF, NIA, VITB6A, VITB12, FOL, PANTAC, VITK, BIOT, usda_choline_mg
  * - アミノ酸: ILE, LEU, LYS, MET, CYS, AAS, PHE, TYR, AAA, THR, TRP, VAL, HIS, ARG
  * - 脂肪酸: FACID, FAPU, FAPUN3, FAPUN6, F18D2N6, F18D3N3, F20D5N3, F22D6N3, F20D4N6
  * - メタデータ: score, usda_fdc_id
@@ -202,12 +202,28 @@ function createEggShellRow(headers: string[]): string[] {
   const seIdx = getIndex("SE");
   if (seIdx !== -1) row[seIdx] = "";
 
+  // クロム: データなし
+  const crIdx = getIndex("CR");
+  if (crIdx !== -1) row[crIdx] = "";
+
+  // モリブデン: データなし
+  const moIdx = getIndex("MO");
+  if (moIdx !== -1) row[moIdx] = "";
+
+  // USDA補完（ミネラル）: 卵殻はマッチしない想定で空
+  const usdaMineralColumns = ["usda_selenium_ug"];
+  for (const col of usdaMineralColumns) {
+    const idx = getIndex(col);
+    if (idx !== -1) row[idx] = "";
+  }
+
   // --- ビタミン ---
   // 卵殻にはビタミンがほぼ含まれないため、すべて空またはTr
 
   const vitaminColumns = [
     "RETOL", "VITD", "TOCPHA", "THIA", "RIBF", "NIA",
-    "VITB6A", "VITB12", "FOL", "PANTAC", "usda_choline_mg"
+    "VITB6A", "VITB12", "FOL", "PANTAC", "VITK", "BIOT", "usda_choline_mg",
+    "usda_vitamin_k_ug", "usda_vitamin_c_mg"
   ];
   for (const col of vitaminColumns) {
     const idx = getIndex(col);

@@ -30,6 +30,8 @@
         "MN",
         "ID",
         "SE",
+        "CR",
+        "MO",
         "RETOL",
         "VITD",
         "TOCPHA",
@@ -39,7 +41,9 @@
         "VITB6A",
         "VITB12",
         "FOL",
-        "PANTAC"
+        "PANTAC",
+        "VITK",
+        "BIOT"
       ],
       "keep_names": [
         "食品群",

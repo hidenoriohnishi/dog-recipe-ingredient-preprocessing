@@ -22,6 +22,7 @@
     "process:10-1": "tsx 10-1-add-refuse-rate/index.ts",
     "process:11-1": "tsx 11-1-clean-data/index.ts",
     "process:12-1": "tsx 12-1-merge-additional-foods/index.ts",
+    "process:12-2": "tsx 12-2-estimate-iodine/index.ts",
     "process:13-1": "tsx 13-1-add-tags/index.ts",
     "process:13-1-old": "tsx 13-1-vector-db-extract/index.ts",
     "process:13-2": "tsx 13-2-embedding/index.ts",

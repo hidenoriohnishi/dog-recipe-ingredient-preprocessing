@@ -16,7 +16,7 @@ const batchesDir = join(resultDir, "batches");
 // 入力・出力ファイル
 const inputFile = join(
   __dirname,
-  "../12-1-merge-additional-foods/result/final-nutrition-with-egg-shell.csv"
+  "../12-2-estimate-iodine/result/final-nutrition-with-iodine-estimate.csv"
 );
 const outputFile = join(resultDir, "final-nutrition-with-tags.csv");
 const progressFile = join(resultDir, "progress.json");

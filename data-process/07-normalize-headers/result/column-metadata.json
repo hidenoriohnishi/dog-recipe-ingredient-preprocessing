@@ -218,6 +218,28 @@
     },
     {
       "columnIndex": 20,
+      "columnName": "CR",
+      "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"クロム\", \"unit\": \"μg\", \"code\": \"CR\"}",
+      "type": "nutrient",
+      "basis": "可食部100g当たり",
+      "category": "無機質",
+      "name": "クロム",
+      "unit": "μg",
+      "code": "CR"
+    },
+    {
+      "columnIndex": 21,
+      "columnName": "MO",
+      "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"無機質\", \"name\": \"モリブデン\", \"unit\": \"μg\", \"code\": \"MO\"}",
+      "type": "nutrient",
+      "basis": "可食部100g当たり",
+      "category": "無機質",
+      "name": "モリブデン",
+      "unit": "μg",
+      "code": "MO"
+    },
+    {
+      "columnIndex": 22,
       "columnName": "RETOL",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンA\", \"name\": \"レチノール\", \"unit\": \"μg\", \"code\": \"RETOL\"}",
       "type": "nutrient",
@@ -229,7 +251,7 @@
       "code": "RETOL"
     },
     {
-      "columnIndex": 21,
+      "columnIndex": 23,
       "columnName": "VITD",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンD\", \"name\": \"ビタミンD\", \"unit\": \"μg\", \"code\": \"VITD\"}",
       "type": "nutrient",
@@ -241,7 +263,7 @@
       "code": "VITD"
     },
     {
-      "columnIndex": 22,
+      "columnIndex": 24,
       "columnName": "TOCPHA",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンE\", \"name\": \"αトコフェロール\", \"unit\": \"mg\", \"code\": \"TOCPHA\"}",
       "type": "nutrient",
@@ -253,7 +275,7 @@
       "code": "TOCPHA"
     },
     {
-      "columnIndex": 23,
+      "columnIndex": 25,
       "columnName": "THIA",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンＢ１\", \"name\": \"ビタミンＢ１\", \"unit\": \"mg\", \"code\": \"THIA\"}",
       "type": "nutrient",
@@ -265,7 +287,7 @@
       "code": "THIA"
     },
     {
-      "columnIndex": 24,
+      "columnIndex": 26,
       "columnName": "RIBF",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンB２\", \"name\": \"ビタミンB２\", \"unit\": \"mg\", \"code\": \"RIBF\"}",
       "type": "nutrient",
@@ -277,7 +299,7 @@
       "code": "RIBF"
     },
     {
-      "columnIndex": 25,
+      "columnIndex": 27,
       "columnName": "NIA",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"name\": \"ナイアシン\", \"unit\": \"mg\", \"code\": \"NIA\"}",
       "type": "nutrient",
@@ -288,7 +310,7 @@
       "code": "NIA"
     },
     {
-      "columnIndex": 26,
+      "columnIndex": 28,
       "columnName": "VITB6A",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンＢ６\", \"name\": \"ビタミンＢ６\", \"unit\": \"mg\", \"code\": \"VITB6A\"}",
       "type": "nutrient",
@@ -300,7 +322,7 @@
       "code": "VITB6A"
     },
     {
-      "columnIndex": 27,
+      "columnIndex": 29,
       "columnName": "VITB12",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンＢ１２\", \"name\": \"ビタミンＢ１２\", \"unit\": \"μg\", \"code\": \"VITB12\"}",
       "type": "nutrient",
@@ -312,7 +334,7 @@
       "code": "VITB12"
     },
     {
-      "columnIndex": 28,
+      "columnIndex": 30,
       "columnName": "FOL",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"name\": \"葉酸\", \"unit\": \"μg\", \"code\": \"FOL\"}",
       "type": "nutrient",
@@ -323,7 +345,7 @@
       "code": "FOL"
     },
     {
-      "columnIndex": 29,
+      "columnIndex": 31,
       "columnName": "PANTAC",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"name\": \"パントテン酸\", \"unit\": \"mg\", \"code\": \"PANTAC\"}",
       "type": "nutrient",
@@ -334,14 +356,37 @@
       "code": "PANTAC"
     },
     {
-      "columnIndex": 30,
+      "columnIndex": 32,
+      "columnName": "VITK",
+      "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"subcategory\": \"ビタミンK\", \"name\": \"ビタミンK\", \"unit\": \"μg\", \"code\": \"VITK\"}",
+      "type": "nutrient",
+      "basis": "可食部100g当たり",
+      "category": "ビタミン",
+      "subcategory": "ビタミンK",
+      "name": "ビタミンK",
+      "unit": "μg",
+      "code": "VITK"
+    },
+    {
+      "columnIndex": 33,
+      "columnName": "BIOT",
+      "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"ビタミン\", \"name\": \"ビオチン\", \"unit\": \"μg\", \"code\": \"BIOT\"}",
+      "type": "nutrient",
+      "basis": "可食部100g当たり",
+      "category": "ビタミン",
+      "name": "ビオチン",
+      "unit": "μg",
+      "code": "BIOT"
+    },
+    {
+      "columnIndex": 34,
       "columnName": "structured_food_name",
       "originalHeader": "構造化食品名",
       "name": "構造化食品名",
       "type": "raw"
     },
     {
-      "columnIndex": 31,
+      "columnIndex": 35,
       "columnName": "reason",
       "originalHeader": "{\"type\": \"metadata\", \"name\": \"理由\", \"description\": \"犬のレシピ素材適性評価の理由\"}",
       "type": "metadata",
@@ -349,7 +394,7 @@
       "description": "犬のレシピ素材適性評価の理由"
     },
     {
-      "columnIndex": 32,
+      "columnIndex": 36,
       "columnName": "score",
       "originalHeader": "{\"type\": \"metadata\", \"name\": \"スコア\", \"description\": \"犬のレシピ素材適性スコア（1-10）\"}",
       "type": "metadata",
@@ -357,7 +402,7 @@
       "description": "犬のレシピ素材適性スコア（1-10）"
     },
     {
-      "columnIndex": 33,
+      "columnIndex": 37,
       "columnName": "has_amino_acid_data",
       "originalHeader": "{\"type\": \"flag\", \"name\": \"has_amino_acid_data\", \"description\": \"アミノ酸成分表にデータが存在するか\", \"values\": {\"1\": \"あり\", \"0\": \"なし\"}}",
       "type": "flag",
@@ -369,7 +414,7 @@
       }
     },
     {
-      "columnIndex": 34,
+      "columnIndex": 38,
       "columnName": "has_fatty_acid_data",
       "originalHeader": "{\"type\": \"flag\", \"name\": \"has_fatty_acid_data\", \"description\": \"脂肪酸成分表にデータが存在するか\", \"values\": {\"1\": \"あり\", \"0\": \"なし\"}}",
       "type": "flag",
@@ -381,7 +426,7 @@
       }
     },
     {
-      "columnIndex": 35,
+      "columnIndex": 39,
       "columnName": "ILE",
       "originalHeader": "{\"column_index\": 7, \"original_name\": \"イソロイシン\", \"display_name\": \"イソロイシン\", \"component_id\": \"ILE\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"english_name\": \"Isoleucine\", \"is_essential\": true}",
       "column_index": 7,
@@ -394,7 +439,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 36,
+      "columnIndex": 40,
       "columnName": "LEU",
       "originalHeader": "{\"column_index\": 8, \"original_name\": \"ロイシン\", \"display_name\": \"ロイシン\", \"component_id\": \"LEU\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"english_name\": \"Leucine\", \"is_essential\": true}",
       "column_index": 8,
@@ -407,7 +452,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 37,
+      "columnIndex": 41,
       "columnName": "LYS",
       "originalHeader": "{\"column_index\": 9, \"original_name\": \"リシン\\n（リジン）\", \"display_name\": \"リシン\", \"component_id\": \"LYS\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"alias\": \"リジン\", \"english_name\": \"Lysine\", \"is_essential\": true}",
       "column_index": 9,
@@ -421,7 +466,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 38,
+      "columnIndex": 42,
       "columnName": "MET",
       "originalHeader": "{\"column_index\": 10, \"original_name\": \"含硫アミノ酸；\\nメチオニン\", \"display_name\": \"メチオニン\", \"component_id\": \"MET\", \"unit\": \"mg/100 g\", \"category\": \"含硫アミノ酸\", \"group_name\": \"含硫アミノ酸\", \"english_name\": \"Methionine\", \"is_essential\": true}",
       "column_index": 10,
@@ -435,7 +480,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 39,
+      "columnIndex": 43,
       "columnName": "CYS",
       "originalHeader": "{\"column_index\": 11, \"original_name\": \"含硫アミノ酸；\\nシスチン\", \"display_name\": \"シスチン\", \"component_id\": \"CYS\", \"unit\": \"mg/100 g\", \"category\": \"含硫アミノ酸\", \"group_name\": \"含硫アミノ酸\", \"english_name\": \"Cystine\"}",
       "column_index": 11,
@@ -448,7 +493,7 @@
       "english_name": "Cystine"
     },
     {
-      "columnIndex": 40,
+      "columnIndex": 44,
       "columnName": "AAS",
       "originalHeader": "{\"column_index\": 12, \"original_name\": \"含硫アミノ酸；\\n合計\", \"display_name\": \"合計\", \"component_id\": \"AAS\", \"unit\": \"mg/100 g\", \"category\": \"含硫アミノ酸\", \"group_name\": \"含硫アミノ酸\"}",
       "column_index": 12,
@@ -460,7 +505,7 @@
       "group_name": "含硫アミノ酸"
     },
     {
-      "columnIndex": 41,
+      "columnIndex": 45,
       "columnName": "PHE",
       "originalHeader": "{\"column_index\": 13, \"original_name\": \"芳香族アミノ酸；\\nフェニルアラニン\", \"display_name\": \"フェニルアラニン\", \"component_id\": \"PHE\", \"unit\": \"mg/100 g\", \"category\": \"芳香族アミノ酸\", \"group_name\": \"芳香族アミノ酸\", \"english_name\": \"Phenylalanine\", \"is_essential\": true}",
       "column_index": 13,
@@ -474,7 +519,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 42,
+      "columnIndex": 46,
       "columnName": "TYR",
       "originalHeader": "{\"column_index\": 14, \"original_name\": \"芳香族アミノ酸；\\nチロシン\", \"display_name\": \"チロシン\", \"component_id\": \"TYR\", \"unit\": \"mg/100 g\", \"category\": \"芳香族アミノ酸\", \"group_name\": \"芳香族アミノ酸\", \"english_name\": \"Tyrosine\"}",
       "column_index": 14,
@@ -487,7 +532,7 @@
       "english_name": "Tyrosine"
     },
     {
-      "columnIndex": 43,
+      "columnIndex": 47,
       "columnName": "AAA",
       "originalHeader": "{\"column_index\": 15, \"original_name\": \"芳香族アミノ酸；\\n合計\", \"display_name\": \"合計\", \"component_id\": \"AAA\", \"unit\": \"mg/100 g\", \"category\": \"芳香族アミノ酸\", \"group_name\": \"芳香族アミノ酸\"}",
       "column_index": 15,
@@ -499,7 +544,7 @@
       "group_name": "芳香族アミノ酸"
     },
     {
-      "columnIndex": 44,
+      "columnIndex": 48,
       "columnName": "THR",
       "originalHeader": "{\"column_index\": 16, \"original_name\": \"トレオニン\\n（スレオニン）\", \"display_name\": \"トレオニン\", \"component_id\": \"THR\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"alias\": \"スレオニン\", \"english_name\": \"Threonine\", \"is_essential\": true}",
       "column_index": 16,
@@ -513,7 +558,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 45,
+      "columnIndex": 49,
       "columnName": "TRP",
       "originalHeader": "{\"column_index\": 17, \"original_name\": \"トリプトファン\", \"display_name\": \"トリプトファン\", \"component_id\": \"TRP\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"english_name\": \"Tryptophan\", \"is_essential\": true}",
       "column_index": 17,
@@ -526,7 +571,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 46,
+      "columnIndex": 50,
       "columnName": "VAL",
       "originalHeader": "{\"column_index\": 18, \"original_name\": \"バリン\", \"display_name\": \"バリン\", \"component_id\": \"VAL\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"english_name\": \"Valine\", \"is_essential\": true}",
       "column_index": 18,
@@ -539,7 +584,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 47,
+      "columnIndex": 51,
       "columnName": "HIS",
       "originalHeader": "{\"column_index\": 19, \"original_name\": \"ヒスチジン\", \"display_name\": \"ヒスチジン\", \"component_id\": \"HIS\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"english_name\": \"Histidine\", \"is_essential\": true}",
       "column_index": 19,
@@ -552,7 +597,7 @@
       "is_essential": true
     },
     {
-      "columnIndex": 48,
+      "columnIndex": 52,
       "columnName": "ARG",
       "originalHeader": "{\"column_index\": 20, \"original_name\": \"アルギニン\", \"display_name\": \"アルギニン\", \"component_id\": \"ARG\", \"unit\": \"mg/100 g\", \"category\": \"アミノ酸\", \"english_name\": \"Arginine\"}",
       "column_index": 20,
@@ -564,7 +609,7 @@
       "english_name": "Arginine"
     },
     {
-      "columnIndex": 49,
+      "columnIndex": 53,
       "columnName": "FACID",
       "originalHeader": "{\"column_index\": 7, \"original_name\": \"脂肪酸総量\", \"display_name\": \"脂肪酸総量\", \"component_id\": \"FACID\", \"unit\": \"g/100 g\", \"category\": \"脂質\"}",
       "column_index": 7,
@@ -575,7 +620,7 @@
       "category": "脂質"
     },
     {
-      "columnIndex": 50,
+      "columnIndex": 54,
       "columnName": "FAPU",
       "originalHeader": "{\"column_index\": 10, \"original_name\": \"多価不飽和脂肪酸\", \"display_name\": \"多価不飽和脂肪酸\", \"component_id\": \"FAPU\", \"unit\": \"g/100 g\", \"category\": \"多価不飽和脂肪酸\"}",
       "column_index": 10,
@@ -586,7 +631,7 @@
       "category": "多価不飽和脂肪酸"
     },
     {
-      "columnIndex": 51,
+      "columnIndex": 55,
       "columnName": "FAPUN3",
       "originalHeader": "{\"column_index\": 11, \"original_name\": \"n-3系多価不飽和\\n脂肪酸\", \"display_name\": \"n-3系多価不飽和脂肪酸\", \"component_id\": \"FAPUN3\", \"unit\": \"g/100 g\", \"category\": \"n-3系多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
       "column_index": 11,
@@ -598,7 +643,7 @@
       "omega_type": "n-3"
     },
     {
-      "columnIndex": 52,
+      "columnIndex": 56,
       "columnName": "FAPUN6",
       "originalHeader": "{\"column_index\": 12, \"original_name\": \"n-6系多価不飽和\\n脂肪酸\", \"display_name\": \"n-6系多価不飽和脂肪酸\", \"component_id\": \"FAPUN6\", \"unit\": \"g/100 g\", \"category\": \"n-6系多価不飽和脂肪酸\", \"omega_type\": \"n-6\"}",
       "column_index": 12,
@@ -610,7 +655,7 @@
       "omega_type": "n-6"
     },
     {
-      "columnIndex": 53,
+      "columnIndex": 57,
       "columnName": "F18D2N6",
       "originalHeader": "{\"column_index\": 45, \"original_name\": \"18:2 n-6\\nリノール酸\", \"display_name\": \"リノール酸\", \"fatty_acid_code\": \"18:2 n-6\", \"component_id\": \"F18D2N6\", \"unit\": \"mg/100 g\", \"category\": \"n-6系多価不飽和脂肪酸\", \"omega_type\": \"n-6\"}",
       "column_index": 45,
@@ -623,7 +668,7 @@
       "omega_type": "n-6"
     },
     {
-      "columnIndex": 54,
+      "columnIndex": 58,
       "columnName": "F18D3N3",
       "originalHeader": "{\"column_index\": 46, \"original_name\": \"18:3 n-3\\nα‐リノレン酸\", \"display_name\": \"α‐リノレン酸\", \"fatty_acid_code\": \"18:3 n-3\", \"component_id\": \"F18D3N3\", \"unit\": \"mg/100 g\", \"category\": \"n-3系多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
       "column_index": 46,
@@ -636,7 +681,7 @@
       "omega_type": "n-3"
     },
     {
-      "columnIndex": 55,
+      "columnIndex": 59,
       "columnName": "F20D5N3",
       "originalHeader": "{\"column_index\": 54, \"original_name\": \"20:5 n-3\\nイコサペンタエン酸\", \"display_name\": \"イコサペンタエン酸\", \"fatty_acid_code\": \"20:5 n-3\", \"component_id\": \"F20D5N3\", \"unit\": \"mg/100 g\", \"category\": \"n-3系多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
       "column_index": 54,
@@ -649,7 +694,7 @@
       "omega_type": "n-3"
     },
     {
-      "columnIndex": 56,
+      "columnIndex": 60,
       "columnName": "F22D6N3",
       "originalHeader": "{\"column_index\": 60, \"original_name\": \"22:6 n-3\\nドコサヘキサエン酸\", \"display_name\": \"ドコサヘキサエン酸\", \"fatty_acid_code\": \"22:6 n-3\", \"component_id\": \"F22D6N3\", \"unit\": \"mg/100 g\", \"category\": \"n-3系多価不飽和脂肪酸\", \"omega_type\": \"n-3\"}",
       "column_index": 60,
@@ -662,7 +707,7 @@
       "omega_type": "n-3"
     },
     {
-      "columnIndex": 57,
+      "columnIndex": 61,
       "columnName": "F20D4N6",
       "originalHeader": "{\"column_index\": 53, \"original_name\": \"20:4 n-6\\nアラキドン酸\", \"display_name\": \"アラキドン酸\", \"fatty_acid_code\": \"20:4 n-6\", \"component_id\": \"F20D4N6\", \"unit\": \"mg/100 g\", \"category\": \"n-6系多価不飽和脂肪酸\", \"omega_type\": \"n-6\"}",
       "column_index": 53,
@@ -675,7 +720,7 @@
       "omega_type": "n-6"
     },
     {
-      "columnIndex": 58,
+      "columnIndex": 62,
       "columnName": "ME_KCAL_100G",
       "originalHeader": "{\"type\": \"nutrient\", \"basis\": \"可食部100g当たり\", \"category\": \"エネルギー\", \"name\": \"代謝エネルギー\", \"unit\": \"kcal\", \"code\": \"ME_KCAL_100G\"}",
       "type": "nutrient",

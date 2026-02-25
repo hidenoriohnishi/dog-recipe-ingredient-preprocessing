@@ -312,10 +312,26 @@ components:
           type: number
           nullable: true
           description: ヨウ素（μg/100g）
+        ID_estimated:
+          type: boolean
+          description: ヨウ素が推定値であるかどうか（trueの場合、IDは文献値に基づく推定）
+          example: false
         SE:
           type: number
           nullable: true
           description: セレン（μg/100g）
+        CR:
+          type: number
+          nullable: true
+          description: クロム（μg/100g）
+        MO:
+          type: number
+          nullable: true
+          description: モリブデン（μg/100g）
+        usda_selenium_ug:
+          type: number
+          nullable: true
+          description: セレン（USDA）（μg/100g）
         RETOL:
           type: number
           nullable: true
@@ -356,10 +372,26 @@ components:
           type: number
           nullable: true
           description: パントテン酸（mg/100g）
+        VITK:
+          type: number
+          nullable: true
+          description: ビタミンK（μg/100g）
+        BIOT:
+          type: number
+          nullable: true
+          description: ビオチン（μg/100g）
         usda_choline_mg:
           type: number
           nullable: true
           description: コリン（USDA）（mg/100g）
+        usda_vitamin_k_ug:
+          type: number
+          nullable: true
+          description: ビタミンK（USDA）（μg/100g）
+        usda_vitamin_c_mg:
+          type: number
+          nullable: true
+          description: ビタミンC（USDA）（mg/100g）
         ILE:
           type: number
           nullable: true

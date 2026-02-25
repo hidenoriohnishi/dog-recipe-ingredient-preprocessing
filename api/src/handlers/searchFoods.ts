@@ -19,16 +19,23 @@ function applyFilter(food: Food, filter: FilterCondition): boolean {
     return false;
   }
   
+  // ブールフィールドの処理
+  if (filter.column === 'ID_estimated') {
+    if (filter.operator === 'eq') {
+      const boolTarget = String(filter.value) === 'true';
+      return !!(value) === boolTarget;
+    }
+    return false;
+  }
+
   // 文字列フィールドの処理
   const stringFields = ['food_group', 'food_number', 'food_name', 'food_name_en', 'usda_fdc_id', 'tag_name', 'diff', 'search_keywords'];
   const isStringField = stringFields.includes(filter.column);
   
   if (isStringField) {
-    // 文字列フィールドはeqのみサポート
     if (filter.operator === 'eq') {
       return String(value) === String(filter.value);
     }
-    // 文字列フィールドでは数値比較オペレーターは使用不可
     return false;
   }
   

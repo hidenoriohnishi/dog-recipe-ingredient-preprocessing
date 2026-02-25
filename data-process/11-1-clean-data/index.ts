@@ -38,7 +38,7 @@ const NEW_COLUMN_ORDER = [
   'ENERC_KCAL',
   'ME_KCAL_100G',
   
-  // 3. ミネラル（11種）
+  // 3. ミネラル（13種）
   'CA',
   'P',
   'NA',
@@ -50,8 +50,11 @@ const NEW_COLUMN_ORDER = [
   'MN',
   'ID',
   'SE',
+  'CR',
+  'MO',
+  'usda_selenium_ug',
   
-  // 4. ビタミン（10種 + コリン）
+  // 4. ビタミン（12種 + コリン + USDA補完）
   'RETOL',
   'VITD',
   'TOCPHA',
@@ -62,7 +65,11 @@ const NEW_COLUMN_ORDER = [
   'VITB12',
   'FOL',
   'PANTAC',
+  'VITK',
+  'BIOT',
   'usda_choline_mg',
+  'usda_vitamin_k_ug',
+  'usda_vitamin_c_mg',
   
   // 5. アミノ酸（14種）
   'ILE',

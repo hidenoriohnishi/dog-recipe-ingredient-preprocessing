@@ -25,7 +25,11 @@ export interface Food {
   CU: number | null;
   MN: number | null;
   ID: number | null;
+  ID_estimated: boolean;
   SE: number | null;
+  CR: number | null;
+  MO: number | null;
+  usda_selenium_ug: number | null;
   RETOL: number | null;
   VITD: number | null;
   TOCPHA: number | null;
@@ -36,7 +40,11 @@ export interface Food {
   VITB12: number | null;
   FOL: number | null;
   PANTAC: number | null;
+  VITK: number | null;
+  BIOT: number | null;
   usda_choline_mg: number | null;
+  usda_vitamin_k_ug: number | null;
+  usda_vitamin_c_mg: number | null;
   ILE: number | null;
   LEU: number | null;
   LYS: number | null;
