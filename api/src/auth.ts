@@ -157,7 +157,7 @@ export async function authenticateRequest(
 export async function authMiddleware(
   c: Context<{ Bindings: Env }>,
   next: Next
-): Promise<Response> {
+) {
   const authResult = await authenticateRequest(c.req.raw, c.env);
   
   if (!authResult.success) {
@@ -170,5 +170,5 @@ export async function authMiddleware(
     );
   }
   
-  return next();
+  await next();
 }
